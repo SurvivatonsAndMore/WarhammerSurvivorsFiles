@@ -1,0 +1,17 @@
+/.idea
+**/__pycache__
+
+*/Generated*
+Config*.json
+!Translations/Generated
+
+test*
+
+*.meta
+*.env
+*.log
+*.prof
+
+/Audio
+/Config
+/Images

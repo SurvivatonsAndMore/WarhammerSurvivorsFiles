@@ -1,0 +1,3001 @@
+{
+  "WS_40K_Defeat_GreatUncleanOne": {
+    "unlockName": {
+      "_value": [
+        "Defeat the Great Unclean One."
+      ]
+    }
+  },
+  "WS_40K_Defeat_GasghkullMagUrukThraka": {
+    "unlockName": {
+      "_value": [
+        "Defeat Ghazghkull Mag Uruk Thraka."
+      ]
+    }
+  },
+  "WS_40K_Defeat_NornEmissary": {
+    "unlockName": {
+      "_value": [
+        "Defeat the Norn Emissary."
+      ]
+    }
+  },
+  "WS_40K_Defeat_ExtremisBoss_WithPurityMode": {
+    "unlockName": {
+      "_value": [
+        "Defeat any Warhammer 40,000 Extremis Boss with Purity Mode enabled."
+      ]
+    }
+  },
+  "WS_40K_CollectAll_EmperorsTarot": {
+    "unlockName": {
+      "_value": [
+        "Obtain all of the Emperor's Tarot Cards."
+      ]
+    }
+  },
+  "WS_40K_Defeat_Typhus": {
+    "unlockName": {
+      "_value": [
+        "Defeat Typhus."
+      ]
+    }
+  },
+  "WS_40K_Defeat_Carnifex": {
+    "unlockName": {
+      "_value": [
+        "Defeat a Carnifex."
+      ]
+    }
+  },
+  "WS_40K_Defeat_GrukkFaceRippa": {
+    "unlockName": {
+      "_value": [
+        "Defeat Grukk Face-Rippa."
+      ]
+    }
+  },
+  "WS_40K_Defeat_Enemies": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 10,000 enemies across all runs"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Defeat a total of 10,000 enemies across all runs"
+      ]
+    }
+  },
+  "WS_40K_Defeat_Nurglings_InRun": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 1,000 Nurglings in a single run."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Defeat a total of 1,000 Nurglings in a single run."
+      ]
+    }
+  },
+  "WS_40K_ApplyBurning_DeathGuard": {
+    "description": {
+      "_value": [
+        "Apply the Burning status effect to 100 Death Guard Enemies."
+      ]
+    },
+    "unlockName": {
+      "_value": [
+        "Apply the Burning status effect to 100 Death Guard Enemies."
+      ]
+    }
+  },
+  "WS_40K_Rescue_CommissarYarrick": {
+    "unlockName": {
+      "_value": [
+        "Find and rescue the character on Ork Stronghold."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Find and rescue the character on Ork Stronghold."
+      ]
+    }
+  },
+  "WS_40K_Rescue_K9": {
+    "unlockName": {
+      "_value": [
+        "Find and rescue the character on Gallowdark."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Find and rescue the character on Gallowdark."
+      ]
+    }
+  },
+  "WS_40K_Rescue_MarneusCalgar": {
+    "unlockName": {
+      "_value": [
+        "Find and rescue the character on Death World Invasion."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Find and rescue the character on Death World Invasion."
+      ]
+    }
+  },
+  "WS_40K_Rescue_SaintCelestine": {
+    "unlockName": {
+      "_value": [
+        "Find and rescue the character on Imperial Shipyard."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Find and rescue the character on Imperial Shipyard."
+      ]
+    }
+  },
+  "WS_40K_Rescue_LegendOfCatachan": {
+    "unlockName": {
+      "_value": [
+        "Find and rescue the character on Imperial Bastion."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Find and rescue the character on Imperial Bastion."
+      ]
+    }
+  },
+  "WS_40K_RecoverWounds": {
+    "unlockName": {
+      "_value": [
+        "Recover a lifetime total of 1,000 {[WOUNDS]}."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Recover a lifetime total of 1,000 {[WOUNDS]}."
+      ]
+    }
+  },
+  "WS_40K_ReachWeaponLevel_Bandolier": {
+    "unlockName": {
+      "_value": [
+        "Get the Bandolier to Level 5."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Get the Bandolier to Level 5."
+      ]
+    }
+  },
+  "WS_40K_Defeat_Plaguebearers": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 5,000 Plaguebearers."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Defeat a total of 5,000 Plaguebearers."
+      ]
+    }
+  },
+  "WS_40K_Defeat_With_StormEagleRockets": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 5,000 enemies with the Storm Eagle Rocket."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Defeat a total of 5,000 enemies with the Storm Eagle Rocket."
+      ]
+    }
+  },
+  "WS_40K_Collect_Paint_TheCastellan": {
+    "unlockName": {
+      "_value": [
+        "Acquire the Warhammer Paint Pot - Abaddon Black."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Acquire the Warhammer Paint Pot - Abaddon Black."
+      ]
+    }
+  },
+  "WS_40K_Collect_Paint_LieutenantTitus": {
+    "unlockName": {
+      "_value": [
+        "Acquire the Warhammer Paint Pots - Abaddon Black, Agrax Earthshade, Celestra Grey, Reikland Fleshade, Retributor Armour, MacCragge Blue."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Acquire the Warhammer Paint Pots - Abaddon Black, Agrax Earthshade, Celestra Grey, Reikland Fleshade, Retributor Armour, MacCragge Blue."
+      ]
+    }
+  },
+  "WS_40K_Collect_Paint_Mephiston": {
+    "unlockName": {
+      "_value": [
+        "Acquire the Warhammer Paint Pots - Abaddon Black, Leadbelcher, Mephiston Red, Rakarth Flesh."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Acquire the Warhammer Paint Pots - Abaddon Black, Leadbelcher, Mephiston Red, Rakarth Flesh."
+      ]
+    }
+  },
+  "WS_40K_Buy_BalphamusVaulk": {
+    "unlockName": {
+      "_value": [
+        "Purchase Balphamus Vaulk as a playable character from Balphamus Vaulk."
+      ]
+    }
+  },
+  "WS_40K_UnlockAll_StandardCharacters": {
+    "unlockName": {
+      "_value": [
+        "Unlock all standard characters in the Warhammer 40,000 Universe."
+      ]
+    }
+  },
+  "WS_40K_CompleteStageWithRetinue_ArbitesVigilant_K9": {
+    "unlockName": {
+      "_value": [
+        "Complete a stage with Max Mahon and K9 in your retinue."
+      ]
+    }
+  },
+  "WS_40K_Survive_OrkStronghold_Short": {
+    "unlockName": {
+      "_value": [
+        "Survive 1 minute on Ork Stronghold."
+      ]
+    }
+  },
+  "WS_40K_Collect_Paint_Tiny": {
+    "unlockName": {
+      "_value": [
+        "Collect 1 Paint Pot in the Warhammer 40,0000 Universe."
+      ]
+    }
+  },
+  "WS_40K_Encounter_Merchant": {
+    "unlockName": {
+      "_value": [
+        "Encounter the Merchant."
+      ]
+    }
+  },
+  "WS_40K_ReachWeaponLevel_TacticalRock": {
+    "unlockName": {
+      "_value": [
+        "Get the Tactical Rock to Max Level."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_Luca": {
+    "unlockName": {
+      "_value": [
+        "Reach level 80 with Brother Luca Amasius."
+      ]
+    }
+  },
+  "WS_40K_Buy_Reroll": {
+    "unlockName": {
+      "_value": [
+        "Survive 15 minutes on Desert Wasteland."
+      ]
+    }
+  },
+  "WS_40K_Buy_Banish": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 100,000 Tyranids."
+      ]
+    }
+  },
+  "WS_40K_Buy_FerrosanticOrrery_Merchant": {
+    "unlockName": {
+      "_value": [
+        "Purchase Ferrosanctic Orrery."
+      ]
+    }
+  },
+  "WS_40K_Collect_Mutagen": {
+    "unlockName": {
+      "_value": [
+        "Collect 10 Mutagens."
+      ]
+    },
+    "forcedUnlockTips": {
+      "_value": [
+        "Purchasable Mutagen"
+      ]
+    }
+  },
+  "WS_40K_Chance from Majoris Boss.": {
+    "unlockName": {
+      "_value": [
+        "Not an explicit unlock. Need the Celestial Orrery"
+      ]
+    }
+  },
+  "WS_40K_ReachWeaponLevel_TapeMeasure": {
+    "unlockName": {
+      "_value": [
+        "Get the Tape Measure to Level 5."
+      ]
+    }
+  },
+  "WS_40K_Survive_Gallowdark": {
+    "unlockName": {
+      "_value": [
+        "Survive 1 minute on Gallowdark."
+      ]
+    }
+  },
+  "WS_40K_Collect_FragGrenade": {
+    "unlockName": {
+      "_value": [
+        "Pick up 5 Frag Grenades."
+      ]
+    }
+  },
+  "WS_40K_Collect_KrakGrenades": {
+    "unlockName": {
+      "_value": [
+        "Pick up 5 Krak Grenades."
+      ]
+    }
+  },
+  "WS_40K_ReachWeaponLevel_BugmansTankard_GreenStuff": {
+    "unlockName": {
+      "_value": [
+        "Get Bugman's Tankard and Liquid Green Stuff to level 5 in a single run."
+      ]
+    }
+  },
+  "WS_40K_Collect_HellfireAmmo": {
+    "unlockName": {
+      "_value": [
+        "Find Hellfire Ammo on Imperial Shipyard."
+      ]
+    }
+  },
+  "WS_40K_Rescue_Any_LaudHailer": {
+    "unlockName": {
+      "_value": [
+        "Rescue any character."
+      ]
+    }
+  },
+  "WS_40K_Collect_MedicaeKit": {
+    "unlockName": {
+      "_value": [
+        "Pick up 100 Medicae Kits."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_Astartes": {
+    "unlockName": {
+      "_value": [
+        "Reach Level 100 with an Astartes."
+      ]
+    }
+  },
+  "WS_40K_Collect_Auspex": {
+    "unlockName": {
+      "_value": [
+        "Find the Auspex on Desert Wasteland."
+      ]
+    }
+  },
+  "WS_40K_Buy_Teleportarium": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Teleportarium from Technoarchaeologist Daedalosus."
+      ]
+    }
+  },
+  "WS_40K_Buy_FerrosanticOrrery_Relic": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Ferrosanctic Orrery from Technoarchaeologist Daedalosus."
+      ]
+    }
+  },
+  "WS_40K_Collect_MunitorumDataslate": {
+    "unlockName": {
+      "_value": [
+        "Find the Munitorum Dataslate on Gallowdark."
+      ]
+    }
+  },
+  "WS_40K_Collect_TomeOfEctolades": {
+    "unlockName": {
+      "_value": [
+        "Find the Tome of Ectoclades on Gallowdark."
+      ]
+    }
+  },
+  "WS_40K_Collect_GyrotemporalVault": {
+    "unlockName": {
+      "_value": [
+        "Find the Gyrotemporal Vault on Deathworld Invasion."
+      ]
+    }
+  },
+  "WS_40K_Collect_BookOfWoe": {
+    "unlockName": {
+      "_value": [
+        "Find the Book of Woe on Perils of The Warp."
+      ]
+    }
+  },
+  "WS_40K_Collect_MaelstromKey": {
+    "unlockName": {
+      "_value": [
+        "Find the Maelstrom Key on Imperial Shipyard."
+      ]
+    }
+  },
+  "WS_40K_Collect_SignumArray": {
+    "unlockName": {
+      "_value": [
+        "Find the Signum Array on Ork Stronghold."
+      ]
+    }
+  },
+  "WS_40K_Activate_AstropathicRelay_ImperialBastion": {
+    "unlockName": {
+      "_value": [
+        "Activate the Astropathic Relay on Imperial Bastion."
+      ]
+    }
+  },
+  "WS_40K_Activate_AstropathicRelay_Gallowdark": {
+    "unlockName": {
+      "_value": [
+        "Activate the Astropathic Relay on Gallowdark."
+      ]
+    }
+  },
+  "WS_40K_Activate_AstropathicRelay_OrkStronghold": {
+    "unlockName": {
+      "_value": [
+        "Activate the Astropathic Relay on Ork Stronghold."
+      ]
+    }
+  },
+  "WS_40K_Activate_AstropathicRelay_ImperialShipyard": {
+    "unlockName": {
+      "_value": [
+        "Activate the Astropathic Relay on Imperial Shipyard."
+      ]
+    }
+  },
+  "WS_40K_Activate_AstropathicRelay_DeathWorldInvasion": {
+    "unlockName": {
+      "_value": [
+        "Activate the Astropathic Relay on Death World Invasion."
+      ]
+    }
+  },
+  "WS_40K_Activate_AstropathicRelay_HobbyTable": {
+    "unlockName": {
+      "_value": [
+        "Activate the Astropathic Relay on Hobby Table."
+      ]
+    }
+  },
+  "WS_40K_Collect_BookOfTzeentch": {
+    "unlockName": {
+      "_value": [
+        "Find the Book of Tzeentch on Death World."
+      ]
+    }
+  },
+  "WS_40K_Buy_BrokenSword": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Broken Sword from Balphamus Vaulk."
+      ]
+    }
+  },
+  "WS_40K_Buy_HuntingTrap": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Hunting Trap from Balphamus Vaulk."
+      ]
+    }
+  },
+  "WS_40K_Defeat_Carnifex_ImperialBastion": {
+    "unlockName": {
+      "_value": [
+        "Defeat a Carnifex on Imperial Bastion."
+      ]
+    }
+  },
+  "WS_40K_Defeat_Typhus_Gallowdark": {
+    "unlockName": {
+      "_value": [
+        "Defeat Typhus on Gallowdark."
+      ]
+    }
+  },
+  "WS_40K_Defeat_GrukkFaceRippa_OrkStronghold": {
+    "unlockName": {
+      "_value": [
+        "Defeat Grukk Face-Rippa on Ork Stronghold."
+      ]
+    }
+  },
+  "WS_40K_TakeNoDamage_ImperialShipyard": {
+    "unlockName": {
+      "_value": [
+        "Take no damage during minute 7 on Imperial Shipyard."
+      ]
+    }
+  },
+  "WS_40K_Defeat_HiveTyrant_DeathWorldInvasion": {
+    "unlockName": {
+      "_value": [
+        "Defeat the Hive Tyrant on Death World Invasion."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_ImperialBastion": {
+    "unlockName": {
+      "_value": [
+        "Reach level 20 on Imperial Bastion."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_Gallowdark": {
+    "unlockName": {
+      "_value": [
+        "Reach level 40 on Gallowdark."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_OrkStronghold": {
+    "unlockName": {
+      "_value": [
+        "Reach level 50 on Ork Stronghold."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_ObitalShipyard": {
+    "unlockName": {
+      "_value": [
+        "Reach level 60 on Imperial Shipyard."
+      ]
+    }
+  },
+  "WS_40K_Unlock_EavyMetal": {
+    "unlockName": {
+      "_value": [
+        "Unlock 'Eavy Metal mode for any stage."
+      ]
+    }
+  },
+  "WS_40K_Encounter_ExtremisBosses": {
+    "unlockName": {
+      "_value": [
+        "Encounter the 3 Extremis Bosses."
+      ]
+    }
+  },
+  "WS_40K_Defeat_ExtremisBosses": {
+    "unlockName": {
+      "_value": [
+        "Defeat the 3 Extremis Bosses."
+      ]
+    }
+  },
+  "WS_40K_Survive_CanonessAuroraVeritas": {
+    "unlockName": {
+      "_value": [
+        "Survive 5 minutes with Canoness Aurora Veritas."
+      ]
+    }
+  },
+  "WS_40K_ReachWeaponLevel_Lasgun": {
+    "unlockName": {
+      "_value": [
+        "Get the Lasgun to Level 6."
+      ]
+    }
+  },
+  "WS_40K_Survive_LegendOfCatachan": {
+    "unlockName": {
+      "_value": [
+        "Survive 15 minutes with The Legend of Catachan."
+      ]
+    }
+  },
+  "WS_40K_Survive_TorGaradon": {
+    "unlockName": {
+      "_value": [
+        "Survive 10 minutes with Captain Tor Garadon."
+      ]
+    }
+  },
+  "WS_40K_Survive_SisterSuperiorNovena": {
+    "unlockName": {
+      "_value": [
+        "Survive 5 minutes with Sister Superior Amalia Novena."
+      ]
+    }
+  },
+  "WS_40K_ReachWeaponLevel_PowerFist": {
+    "unlockName": {
+      "_value": [
+        "Get the Power Fist to level 8."
+      ]
+    }
+  },
+  "WS_40K_Survive_Large": {
+    "unlockName": {
+      "_value": [
+        "Survive 20 minutes in a Mission with any character."
+      ]
+    }
+  },
+  "WS_40K_Survive_CommissarYarrick_OrkStronghold": {
+    "unlockName": {
+      "_value": [
+        "Survive 15 minutes with Commissar Yarrick on Ork Stronghold."
+      ]
+    }
+  },
+  "WS_40K_Survive_ArbitesVigilant_Gallowdark": {
+    "unlockName": {
+      "_value": [
+        "Survive 15 minutes with Max Mahon on Gallowdark."
+      ]
+    }
+  },
+  "WS_40K_Survive_K9": {
+    "unlockName": {
+      "_value": [
+        "Survive 15 minutes with K9 Mastiff."
+      ]
+    }
+  },
+  "WS_40K_Evolve_Boltgun": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Boltgun."
+      ]
+    }
+  },
+  "WS_40K_Evolve_Chainsword": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Chainsword."
+      ]
+    }
+  },
+  "WS_40K_Evolve_Flamer": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Flamer."
+      ]
+    }
+  },
+  "WS_40K_Evolve_Lasgun": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Lasgun."
+      ]
+    }
+  },
+  "WS_40K_Evolve_FragGrenade": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Frag Grenade."
+      ]
+    }
+  },
+  "WS_40K_Evolve_WhirlwindBattery": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Whirlwind Battery."
+      ]
+    }
+  },
+  "WS_40K_Evolve_ShieldOfFaith": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Shield of Faith."
+      ]
+    }
+  },
+  "WS_40K_Evolve_PowerFist": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Power Fist."
+      ]
+    }
+  },
+  "WS_40K_Evolve_PowerClaw": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Power Klaw."
+      ]
+    }
+  },
+  "WS_40K_Evolve_CombatShotgun": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Combat Shotgun."
+      ]
+    }
+  },
+  "WS_40K_Evolve_MechanicalBite": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Mechanical Bite."
+      ]
+    }
+  },
+  "WS_40K_Evolve_StormEagleRocket": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Storm Eagle Rocket."
+      ]
+    }
+  },
+  "WS_40K_Evolve_NulnOil": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Nuln Oil."
+      ]
+    }
+  },
+  "WS_40K_Evolve_D6Dice": {
+    "unlockName": {
+      "_value": [
+        "Evolve the D6 Dice."
+      ]
+    }
+  },
+  "WS_40K_TakeDamage": {
+    "unlockName": {
+      "_value": [
+        "Take 250 damage."
+      ]
+    }
+  },
+  "WS_40K_HaveFollowers_Small": {
+    "unlockName": {
+      "_value": [
+        "Have 2 Followers."
+      ]
+    }
+  },
+  "WS_40K_DealDamage_TorGaradon": {
+    "unlockName": {
+      "_value": [
+        "Deal a total of 10,000 damage with Captain Tor Garadon."
+      ]
+    }
+  },
+  "WS_40K_HaveFollowers_Med": {
+    "unlockName": {
+      "_value": [
+        "Have 5 Followers."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel": {
+    "unlockName": {
+      "_value": [
+        "Reach level 10 with any character."
+      ]
+    }
+  },
+  "WS_40K_Collect_Onslaught": {
+    "unlockName": {
+      "_value": [
+        "Collect 5 Onslaught."
+      ]
+    }
+  },
+  "WS_40K_ReachWeaponLevel_Boltgun": {
+    "unlockName": {
+      "_value": [
+        "Get the Boltgun to level 4."
+      ]
+    }
+  },
+  "WS_40K_Collect_Magnet": {
+    "unlockName": {
+      "_value": [
+        "Collect 3 Magnet pickups."
+      ]
+    }
+  },
+  "WS_40K_Collect_BlastTemplate": {
+    "unlockName": {
+      "_value": [
+        "Collect 5 Blast Templates."
+      ]
+    }
+  },
+  "WS_40K_Collect_Paint_Small": {
+    "unlockName": {
+      "_value": [
+        "Collect 3 Paint Pots."
+      ]
+    }
+  },
+  "WS_40K_Survive_Small": {
+    "unlockName": {
+      "_value": [
+        "Survive 1 minute with any character."
+      ]
+    }
+  },
+  "WS_40K_Survive_Med": {
+    "unlockName": {
+      "_value": [
+        "Survive 10 minutes with any character (single run)."
+      ]
+    }
+  },
+  "WS_40K_ReachWeaponLevel_D6Dice": {
+    "unlockName": {
+      "_value": [
+        "Get the D6 Dice to level 6."
+      ]
+    }
+  },
+  "WS_40K_DealDamage": {
+    "unlockName": {
+      "_value": [
+        "Deal a total of 10,000 damage."
+      ]
+    }
+  },
+  "WS_40K_Collect_DaLuckyStikk": {
+    "unlockName": {
+      "_value": [
+        "Use the Auspex to find Makari on Ork Stronghold."
+      ]
+    }
+  },
+  "WS_40K_Collect_CodexAstartes": {
+    "unlockName": {
+      "_value": [
+        "Use the Auspex to find the Codex Astartes in Death World Invasion."
+      ]
+    }
+  },
+  "WS_40K_HaveFollowers_Large": {
+    "unlockName": {
+      "_value": [
+        "Have 8 Followers."
+      ]
+    }
+  },
+  "WS_40K_Collect_ArdCoat": {
+    "unlockName": {
+      "_value": [
+        "Use the Auspex to find Ardcoat on the Hobby Table."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_CanonessAuroraVeritas": {
+    "unlockName": {
+      "_value": [
+        "Reach level 50 with Canoness Aurora Veritas."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_TrooperBartoskKozlowski": {
+    "unlockName": {
+      "_value": [
+        "Reach level 50 with Trooper Bartosz Kozlowski."
+      ]
+    }
+  },
+  "WS_40K_Defeat_Enemies_InRun": {
+    "unlockName": {
+      "_value": [
+        "Defeat 9,876 enemies in a single run."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_CelestianSacresantAveline": {
+    "unlockName": {
+      "_value": [
+        "Reach level 50 with Celestian Sacresant Aveline."
+      ]
+    }
+  },
+  "WS_40K_Collect_Currency_InRun_Small": {
+    "unlockName": {
+      "_value": [
+        "Collect 1,000 coins in a single run."
+      ]
+    }
+  },
+  "WS_40K_Defeat_MajorisBoss_LowLevel": {
+    "unlockName": {
+      "_value": [
+        "Defeat any Majoris Boss at Level 20 or lower."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_CommanderPask": {
+    "unlockName": {
+      "_value": [
+        "Reach level 50 with Knight-Commander Pask."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_MalumCaedo": {
+    "unlockName": {
+      "_value": [
+        "Reach level 50 with Malum Caedo."
+      ]
+    }
+  },
+  "WS_40K_Defeat_FinalEnemy_PerilsOfTheWarp": {
+    "unlockName": {
+      "_value": [
+        "Defeat the final enemy in Perils of the Warp."
+      ]
+    }
+  },
+  "WS_40K_Survive_Gallowdark_Short": {
+    "unlockName": {
+      "_value": [
+        "Survive 1 minute on Gallowdark."
+      ]
+    }
+  },
+  "WS_40K_Rescue_Any": {
+    "unlockName": {
+      "_value": [
+        "Rescue any character."
+      ]
+    }
+  },
+  "WS_40K_Defeat_ExtremisBoss": {
+    "unlockName": {
+      "_value": [
+        "Defeat any Extremis Boss."
+      ]
+    },
+    "forcedUnlockTips": {
+      "_value": [
+        "Limitless Mode"
+      ]
+    }
+  },
+  "WS_40K_UnlockAll_StandardEvolution": {
+    "unlockName": {
+      "_value": [
+        "Unlock all standard Weapon Evolutions."
+      ]
+    }
+  },
+  "WS_40K_Survive_Mephiston": {
+    "unlockName": {
+      "_value": [
+        "Survive 15 minutes with Chief Librarian Mephiston."
+      ]
+    }
+  },
+  "WS_40K_Survive_ChaplainFoBaran": {
+    "unlockName": {
+      "_value": [
+        "Survive 10 minutes with Chaplain Fo'Baran."
+      ]
+    }
+  },
+  "WS_40K_Defeat_Enemies_InRun_MorvennVahl": {
+    "unlockName": {
+      "_value": [
+        "Defeat 100,000 enemies as High Abbess Morvenn Vahl in a single run."
+      ]
+    }
+  },
+  "WS_40K_Perform_SecondaryStrikes_Aveline": {
+    "unlockName": {
+      "_value": [
+        "Perform 20 secondary strikes with Celestian Sacresant Aveline Aboyé in a single run."
+      ]
+    }
+  },
+  "WS_40K_Defeat_VulnerableEnemies_SaintCelestine": {
+    "unlockName": {
+      "_value": [
+        "Kill 1,000 Vulnerable Enemies with Saint Celestine."
+      ]
+    }
+  },
+  "WS_40K_Perform_TankShock_Boss_CommanderPask": {
+    "unlockName": {
+      "_value": [
+        "Crush a boss with Knight-Commander Pask."
+      ]
+    }
+  },
+  "WS_40K_Evolve_CroziusArcanum": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Crozius Arcanum."
+      ]
+    }
+  },
+  "WS_40K_Evolve_Fidelis": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Fidelis."
+      ]
+    }
+  },
+  "WS_40K_Evolve_SpearOfTheFaithful": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Spear of the Faithful."
+      ]
+    }
+  },
+  "WS_40K_Evolve_ArdentBlade": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Ardent Blade."
+      ]
+    }
+  },
+  "WS_40K_Evolve_BattleCannon": {
+    "unlockName": {
+      "_value": [
+        "Evolve Battle Cannon."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_Skarbrand": {
+    "unlockName": {
+      "_value": [
+        "Defeat Skarbrand."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_VizzikSkour": {
+    "unlockName": {
+      "_value": [
+        "Defeat Vizzik Skour, Prophet of the Horned Rat."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_Trugg": {
+    "unlockName": {
+      "_value": [
+        "Defeat Trugg the Troggoth King."
+      ]
+    }
+  },
+  "WS_AOS_CollectAll_CelestialArcanas": {
+    "unlockName": {
+      "_value": [
+        "Obtain all of the Celestial Arcanas."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_ExtremisBoss_WithPurityMode": {
+    "unlockName": {
+      "_value": [
+        "Defeat any Warhammer Age of Sigmar Extremis Boss with Purity Mode enabled."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_PlagueFurnace": {
+    "unlockName": {
+      "_value": [
+        "Defeat a Plague Furnace."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_ManglerSquigs": {
+    "unlockName": {
+      "_value": [
+        "Defeat a pair of Mangler Squigs."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Defeat a pair of Mangler Squigs."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_SkullCannons": {
+    "unlockName": {
+      "_value": [
+        "Defeat a pair of Skull Cannons."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_Ulgromthier": {
+    "unlockName": {
+      "_value": [
+        "Reach level 50 with Ulgromthier."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_Valius": {
+    "unlockName": {
+      "_value": [
+        "Reach level 50 with Valius, the Keeper Aqshian."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_Yndrasta": {
+    "unlockName": {
+      "_value": [
+        "Reach level 50 with Yndastra, the Celestial Spear."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_Lyssa": {
+    "unlockName": {
+      "_value": [
+        "Reach level 50 with Lyssa Revenya."
+      ]
+    }
+  },
+  "WS_AOS_Collect_CelestialOrrery_1": {
+    "unlockName": {
+      "_value": [
+        "Use the Arcanoscope to find the Celestial Orrery on Under-Empire."
+      ]
+    }
+  },
+  "WS_AOS_Survive_GreatParch": {
+    "unlockName": {
+      "_value": [
+        "Survive 26 minutes on The Great Parch."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_Gotrek": {
+    "unlockName": {
+      "_value": [
+        "Reach level 50 with Gotrek Gurnisson."
+      ]
+    }
+  },
+  "WS_AOS_Survive_BloodwindSpoil_2": {
+    "unlockName": {
+      "_value": [
+        "Survive 26 minutes on Bloodwind Spoil."
+      ]
+    }
+  },
+  "WS_AOS_Survive_TwinTailedCity": {
+    "unlockName": {
+      "_value": [
+        "Survive 26 minutes on The Twin-Tailed City."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_Brokk": {
+    "unlockName": {
+      "_value": [
+        "Reach level 100 with Lord-Magnate Brokk Grungsson."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_Troggoths": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 10 Troggoths."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Defeat a total of 10 Troggoths."
+      ]
+    }
+  },
+  "WS_AOS_Collect_Paint_Valius": {
+    "unlockName": {
+      "_value": [
+        "Acquire the Warhammer Paint Pots - Leadbelcher, Celestra Grey, Reikland Fleshshade, Retributor Armour, Drakenhof Nightshade, Runelord Brass."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Acquire the Warhammer Paint Pots - Leadbelcher, Celestra Grey, Reikland Fleshshade, Retributor Armour, Drakenhof Nightshade, Runelord Brass."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_GloomspiteGitz_Neave": {
+    "unlockName": {
+      "_value": [
+        "Defeat 10,000 Gloomspite Gitz in a single run with Neave Blacktalon."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Defeat 10,000 Gloomspite Gitz in a single run with Neave Blacktalon."
+      ]
+    }
+  },
+  "WS_AOS_ApplySlowed": {
+    "unlockName": {
+      "_value": [
+        "Apply the Slowed status effect to 100 enemies."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Apply the Slowed status effect to 100 enemies."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_ManglerSquig_Gnarlwood": {
+    "unlockName": {
+      "_value": [
+        "Defeat a Mangler Squig on Gnarlwood."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Defeat a Mangler Squig on Gnarlwood."
+      ]
+    }
+  },
+  "WS_AOS_Buy_TradeAgreement_Brokk_AllStages": {
+    "unlockName": {
+      "_value": [
+        "Purchase a Trade Agreement with Brokk Grungsson on every stage."
+      ]
+    }
+  },
+  "WS_AOS_Buy_TradeAgreement_Drekki_AllStages": {
+    "unlockName": {
+      "_value": [
+        "Purchase a Trade Agreement with Drekki Flynt on every stage."
+      ]
+    }
+  },
+  "WS_AOS_Rescue_Gotrek": {
+    "unlockName": {
+      "_value": [
+        "Rescue the character on Skrappa Spill."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Rescue the character on Skrappa Spill."
+      ]
+    }
+  },
+  "WS_AOS_Collect_Paint_Lyssa": {
+    "unlockName": {
+      "_value": [
+        "Acquire the Warhammer Paint Pots - Leadbelcher, Abaddon Black, Agrax Earthshade, Mechanicus Standard Grey."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Acquire the Warhammer Paint Pots - Leadbelcher, Abaddon Black, Agrax Earthshade, Mechanicus Standard Grey."
+      ]
+    }
+  },
+  "WS_AOS_CharacterMorph_FreeguildFusilier": {
+    "unlockName": {
+      "_value": [
+        "Morph the Freeguild Fusilier into Captain Docheval."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Morph the Freeguild Fusilier into Captain Docheval."
+      ]
+    }
+  },
+  "WS_AOS_Collect_Paint_Maleneth": {
+    "unlockName": {
+      "_value": [
+        "Acquire the Warhammer Paint Pot - Leadbelcher"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Acquire the Warhammer Paint Pot - Leadbelcher"
+      ]
+    }
+  },
+  "WS_AOS_Rescue_Verentia": {
+    "unlockName": {
+      "_value": [
+        "Rescue the character on The Twin-Tailed City."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Rescue the character on The Twin-Tailed City."
+      ]
+    }
+  },
+  "WS_AOS_Rescue_Oxenhammer": {
+    "unlockName": {
+      "_value": [
+        "Rescue the character on Bloodwind Spoil."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Rescue the character on Bloodwind Spoil."
+      ]
+    }
+  },
+  "WS_AOS_Rescue_Toll": {
+    "unlockName": {
+      "_value": [
+        "Rescue the character on The Great Parch."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Rescue the character on The Great Parch."
+      ]
+    }
+  },
+  "WS_AOS_Rescue_Ulgromthier": {
+    "unlockName": {
+      "_value": [
+        "Rescue the character on Under-Empire."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Rescue the character on Under-Empire."
+      ]
+    }
+  },
+  "WS_AOS_CompleteStageWithRetinue_Gotrek_Maleneth": {
+    "unlockName": {
+      "_value": [
+        "Complete a stage with both Maleneth Witchblade and Gotrek Gurnisson in your Retinue."
+      ]
+    }
+  },
+  "WS_AOS_CompleteStageWithRetinue_Toll_Callis": {
+    "unlockName": {
+      "_value": [
+        "Complete a stage with both Armand Callis and Hanniver Toll in your Retinue."
+      ]
+    }
+  },
+  "WS_AOS_Survive_SkrappaSpill": {
+    "unlockName": {
+      "_value": [
+        "Survive 1 minute in Skrappa Spill"
+      ]
+    }
+  },
+  "WS_AOS_Rescue_Any": {
+    "unlockName": {
+      "_value": [
+        "Rescue any character."
+      ]
+    }
+  },
+  "WS_AOS_Survive_BloodwindSpoil_1": {
+    "unlockName": {
+      "_value": [
+        "Survive 1 minute in Bloodwind Spoil."
+      ]
+    }
+  },
+  "WS_AOS_Collect_Paint_1": {
+    "unlockName": {
+      "_value": [
+        "Collect 1 Paint Pot in the Warhammer Age of Sigmar Universe."
+      ]
+    }
+  },
+  "WS_AOS_ReachWeaponLevel_TacticalRock": {
+    "unlockName": {
+      "_value": [
+        "Get the Tactical Rock to Max Level."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_Neave": {
+    "unlockName": {
+      "_value": [
+        "Reach level 80 with Neave Blacktalon."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_Callis": {
+    "unlockName": {
+      "_value": [
+        "Reach level 80 with Armand Callis."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_Lorai": {
+    "unlockName": {
+      "_value": [
+        "Reach level 80 with Lorai, Child of the Abyss."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_Shakana": {
+    "unlockName": {
+      "_value": [
+        "Reach level 80 with Shakana Goldenblade."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_Verentia": {
+    "unlockName": {
+      "_value": [
+        "Reach level 80 with Mistress Verentia."
+      ]
+    }
+  },
+  "WS_AOS_Survive_Gnarlwood": {
+    "unlockName": {
+      "_value": [
+        "Survive 15 minutes on Gnarlwood."
+      ]
+    }
+  },
+  "WS_AOS_Survive_HobbyTable": {
+    "unlockName": {
+      "_value": [
+        "Survive 15 minutes on Hobby Table."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_Skaven": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 100,000 Skaven."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_GloomspiteGitz": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 100,000 Gloomspite Gitz."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_BladesOfKhorne": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 100,000 Blades of Khorne."
+      ]
+    }
+  },
+  "WS_AOS_Survive_SingleWeapon_1": {
+    "unlockName": {
+      "_value": [
+        "Survive 5 minutes with a single Weapon."
+      ]
+    }
+  },
+  "WS_AOS_Survive_SingleWeapon_2": {
+    "unlockName": {
+      "_value": [
+        "Survive 10 minutes with a single Weapon."
+      ]
+    }
+  },
+  "WS_AOS_Survive_SingleWeapon_3": {
+    "unlockName": {
+      "_value": [
+        "Survive 15 minutes with a single Weapon."
+      ]
+    }
+  },
+  "WS_AOS_Survive_SingleWeapon_4": {
+    "unlockName": {
+      "_value": [
+        "Survive 20 minutes with a single Weapon."
+      ]
+    }
+  },
+  "WS_AOS_Survive_SingleWeapon_5": {
+    "unlockName": {
+      "_value": [
+        "Survive 25 minutes with a single Weapon."
+      ]
+    }
+  },
+  "WS_AOS_Collect_AquaGhyranis": {
+    "unlockName": {
+      "_value": [
+        "Pick up 100 Aqua Ghyranis Phials."
+      ]
+    }
+  },
+  "WS_AOS_Collect_ChronomanticCog": {
+    "unlockName": {
+      "_value": [
+        "Find the Chronomantic Cog on Skrappa Spill."
+      ]
+    }
+  },
+  "WS_AOS_Overheal": {
+    "unlockName": {
+      "_value": [
+        "Overheal 1,000 {[WOUNDS]}."
+      ]
+    }
+  },
+  "WS_AOS_NegateDamage_Save": {
+    "unlockName": {
+      "_value": [
+        "Negate 1,000 damage with your {[SAVE]}."
+      ]
+    }
+  },
+  "WS_AOS_Destroy_LightSources": {
+    "unlockName": {
+      "_value": [
+        "Destroy 20 Light Sources."
+      ]
+    }
+  },
+  "WS_AOS_ReachWeaponLevel_LightningBolt": {
+    "unlockName": {
+      "_value": [
+        "Get the Lightning Bolt to level 5."
+      ]
+    }
+  },
+  "WS_AOS_Death_Count": {
+    "unlockName": {
+      "_value": [
+        "Die 30 times."
+      ]
+    }
+  },
+  "WS_AOS_ReachWeaponLevel_BarMagnet": {
+    "unlockName": {
+      "_value": [
+        "Get the Magnet to level 5."
+      ]
+    }
+  },
+  "WS_AOS_ApplyBurning": {
+    "unlockName": {
+      "_value": [
+        "Apply the Burning Status Effect to 100 Enemies."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Apply the Burning Status Effect to 100 Enemies."
+      ]
+    }
+  },
+  "WS_AOS_Collect_Arcanoscope": {
+    "unlockName": {
+      "_value": [
+        "Find the Arcanoscope on Gnarlwood."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakNar_Gnarlwood": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Barak-Nar from Lord-Magnate Brokk Grungsson on Gnarlwood."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakNar_GreatParch": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Barak-Nar from Lord-Magnate Brokk Grungsson on The Great Parch."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakNar_SkrappaSpill": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Barak-Nar from Lord-Magnate Brokk Grungsson on Skrappa Spill."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakNar_BloodwindSpoil": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Barak-Nar from Lord-Magnate Brokk Grungsson on Bloodwind Spoil."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakNar_UnderEmpire": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Barak-Nar from Lord-Magnate Brokk Grungsson on Under-Empire."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakNar_TwinTailedCity": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Barak-Nar from Lord-Magnate Brokk Grungsson on The Twin-Tailed City."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakNar_HobbyTable": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Barak-Nar from Lord-Magnate Brokk Grungsson on Hobby Table."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakMhornar_BloodwindSpoil": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Barak-Mhornar from Drekki Flynt on Bloodwind Spoil."
+      ]
+    }
+  },
+  "WS_AOS_Collect_Warscroll": {
+    "unlockName": {
+      "_value": [
+        "Find the Warscroll on Skrappa Spill."
+      ]
+    }
+  },
+  "WS_AOS_Collect_AtmosphericAnatomiser": {
+    "unlockName": {
+      "_value": [
+        "Use the Arcanoscope to find the Atmospheric Anatomiser on Bloodwind Spoil."
+      ]
+    }
+  },
+  "WS_AOS_Collect_CreaturaMythologica": {
+    "unlockName": {
+      "_value": [
+        "Find the Creatura Mythologica on Skrappa Spill."
+      ]
+    }
+  },
+  "WS_AOS_Collect_QuicksilverDraught": {
+    "unlockName": {
+      "_value": [
+        "Use the Arcanoscope to find Quicksilver Draught on The Twin-Tailed City."
+      ]
+    }
+  },
+  "WS_AOS_Collect_WarpstoneCharm": {
+    "unlockName": {
+      "_value": [
+        "Use the Arcanoscope to find Warpstone Charm on Necropolis."
+      ]
+    }
+  },
+  "WS_AOS_Collect_Glimmering": {
+    "unlockName": {
+      "_value": [
+        "Use the Arcanoscope to find Glimmering on Gnarlwood."
+      ]
+    }
+  },
+  "WS_AOS_Collect_CartoArcanobulum": {
+    "unlockName": {
+      "_value": [
+        "Find the Carto-Arcanobulum on Bloodwind Spoil."
+      ]
+    }
+  },
+  "WS_AOS_Collect_Amberbone": {
+    "unlockName": {
+      "_value": [
+        "Find the Amberbone Relic on Gnarlwood."
+      ]
+    }
+  },
+  "WS_AOS_Collect_EyeOfTzeentch": {
+    "unlockName": {
+      "_value": [
+        "Find the Eye of Tzeentch on Gnarlwood."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BrokenSword": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Broken Sword from Drekki Flynt."
+      ]
+    }
+  },
+  "WS_AOS_Buy_HuntingTrap": {
+    "unlockName": {
+      "_value": [
+        "Purchase the Hunting Trap from Drekki Flynt."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_GreatParch": {
+    "unlockName": {
+      "_value": [
+        "Reach level 20 on The Great Parch."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_SkrappaSpill": {
+    "unlockName": {
+      "_value": [
+        "Reach level 40 on Skrappa Spill."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_BloodwindSpoil": {
+    "unlockName": {
+      "_value": [
+        "Reach level 50 on Bloodwind Spoil."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_UnderEmpire": {
+    "unlockName": {
+      "_value": [
+        "Reach level 60 on Under-Empire."
+      ]
+    }
+  },
+  "WS_AOS_Unlock_EavyMetal": {
+    "unlockName": {
+      "_value": [
+        "Unlock 'Eavy Metal mode for any stage."
+      ]
+    }
+  },
+  "WS_AOS_Encounter_ExtremisBosses": {
+    "unlockName": {
+      "_value": [
+        "Encounter the 3 Extremis Bosses."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_ExtremisBosses": {
+    "unlockName": {
+      "_value": [
+        "Defeat the 3 Extremis Bosses."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_Any": {
+    "unlockName": {
+      "_value": [
+        "Evolve a Weapon."
+      ]
+    }
+  },
+  "WS_AOS_Survive_Sharynn": {
+    "unlockName": {
+      "_value": [
+        "Survive 10 minutes playing as Sharynn Azurwrath."
+      ]
+    }
+  },
+  "WS_AOS_Survive_Toll": {
+    "unlockName": {
+      "_value": [
+        "Survive 10 minutes playing as Hanniver Toll."
+      ]
+    }
+  },
+  "WS_AOS_Survive_Callis": {
+    "unlockName": {
+      "_value": [
+        "Survive 5 minutes playing as Armand Callis."
+      ]
+    }
+  },
+  "WS_AOS_Survive_Ulgromthier": {
+    "unlockName": {
+      "_value": [
+        "Survive 10 minutes playing as Ulgromthier."
+      ]
+    }
+  },
+  "WS_AOS_Survive_Gotrek": {
+    "unlockName": {
+      "_value": [
+        "Survive 10 minutes playing as Gotrek Gurnisson."
+      ]
+    }
+  },
+  "WS_AOS_Survive_Lorai": {
+    "unlockName": {
+      "_value": [
+        "Survive 5 minutes playing as Lorai, Child of the Abyss."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel_FreeguildFusilier": {
+    "unlockName": {
+      "_value": [
+        "Reach level 10 with Juntar Bernskyn."
+      ]
+    }
+  },
+  "WS_AOS_Survive_Rostus": {
+    "unlockName": {
+      "_value": [
+        "Survive 10 minutes playing as Rostus Oxenhammer."
+      ]
+    }
+  },
+  "WS_AOS_Survive_LadyVerentia": {
+    "unlockName": {
+      "_value": [
+        "Survive 10 minutes playing as Mistress Verentia."
+      ]
+    }
+  },
+  "WS_AOS_ApplyPoison_Maleneth": {
+    "unlockName": {
+      "_value": [
+        "Poison 100 enemies with Maleneth Witchblade."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_Enemies_Yndrasta": {
+    "unlockName": {
+      "_value": [
+        "Defeat 100,000 enemies as Yndrasta, the Celestial Spear in a single run."
+      ]
+    }
+  },
+  "WS_AOS_DragEnemies_Lyssa": {
+    "unlockName": {
+      "_value": [
+        "Drag 100 enemies off screen with Lyssa Revenya."
+      ]
+    }
+  },
+  "WS_AOS_UnlockAll_StandardEvolution": {
+    "unlockName": {
+      "_value": [
+        "Unlock every standard Weapon Evolution and Union."
+      ]
+    }
+  },
+  "WS_AOS_Survive_Hendrick": {
+    "unlockName": {
+      "_value": [
+        "Survive 15 minutes with Hendrick, The Silver Wolf."
+      ]
+    }
+  },
+  "WS_AOS_TakeNoDamage_Valius": {
+    "unlockName": {
+      "_value": [
+        "Take no damage during the first 5 minutes of a stage playing as Valius, the Keeper Aqshian."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_FyrestormGreataxe": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Fyrestorm Greataxe."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_Grandblade": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Grandblade."
+      ]
+    }
+  },
+  "WS_AOS_DealDamage_Retaliatory_MajorDocheval": {
+    "unlockName": {
+      "_value": [
+        "Deal 10,000 Retaliatory Damage with Major Docheval."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_BoltstormPistol": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Boltstorm Pistol."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_FlintlockPistol": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Flintlock Pistol."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_BraceOfPistols": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Brace of Pistols."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_NebulousSeaFog": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Nebulous Sea Fog."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_RopeAndGrapnel": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Rope & Grapnel."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_CycloneSword": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Cyclone Sword."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_MysticalWard": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Mystical Ward."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_TwinTailedCat": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Twin-Tailed Cat."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_StormchargedWarhammer": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Stormcharged Warhammer."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_UskavarTheSunderer": {
+    "unlockName": {
+      "_value": [
+        "Evolve Uskavar the Sunderer."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_NulnOil": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Nuln Oil."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_D6Dice": {
+    "unlockName": {
+      "_value": [
+        "Evolve the D6 Dice."
+      ]
+    }
+  },
+  "WS_AOS_Secret_Evolve_UskavarTheSunderer": {
+    "unlockName": {
+      "_value": [
+        "Evolve Uskavar the Sunderer."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_UskavarTheSunderer_2": {
+    "unlockName": {
+      "_value": [
+        "Evolve Uskavar the Sunderer."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Evolve Uskavar the Sunderer."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_TempestAxes": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Tempest Axes."
+      ]
+    }
+  },
+  "WS_AOS_TakeDamage": {
+    "unlockName": {
+      "_value": [
+        "Take a total of 250 damage."
+      ]
+    }
+  },
+  "WS_AOS_HaveFollowers_Small": {
+    "unlockName": {
+      "_value": [
+        "Have 2 followers."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_KhorneDemons": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 10,000 Khorne Demons."
+      ]
+    }
+  },
+  "WS_AOS_HaveFollowers_Med": {
+    "unlockName": {
+      "_value": [
+        "Have 5 Followers."
+      ]
+    }
+  },
+  "WS_AOS_ReachLevel": {
+    "unlockName": {
+      "_value": [
+        "Reach level 10 with any character."
+      ]
+    }
+  },
+  "WS_AOS_Survive_1": {
+    "unlockName": {
+      "_value": [
+        "Survive 1 minute with any character."
+      ]
+    }
+  },
+  "WS_AOS_ReachWeaponLevel_BoltstormPistol": {
+    "unlockName": {
+      "_value": [
+        "Get the Boltstorm Pistol to Level 4."
+      ]
+    }
+  },
+  "WS_AOS_ReachWeaponLevel_FusilCannon": {
+    "unlockName": {
+      "_value": [
+        "Get the Fusil Cannon to Level 4."
+      ]
+    }
+  },
+  "WS_AOS_Collect_Magnet": {
+    "unlockName": {
+      "_value": [
+        "Collect 3 Magnet pickups."
+      ]
+    }
+  },
+  "WS_AOS_Collect_EndlessSpells": {
+    "unlockName": {
+      "_value": [
+        "Collect 10 Endless Spells."
+      ]
+    }
+  },
+  "WS_AOS_Collect_Paint_2": {
+    "unlockName": {
+      "_value": [
+        "Collect 3 Paint Pots."
+      ]
+    }
+  },
+  "WS_AOS_Survive_2": {
+    "unlockName": {
+      "_value": [
+        "Survive 1 minute with any character."
+      ]
+    }
+  },
+  "WS_AOS_Survive_3": {
+    "unlockName": {
+      "_value": [
+        "Survive 10 minutes with any character (single run)."
+      ]
+    }
+  },
+  "WS_AOS_Carry_Weapons_Max": {
+    "unlockName": {
+      "_value": [
+        "Hold 4 Weapons at once."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_Nagash": {
+    "unlockName": {
+      "_value": [
+        "Defeat Nagash, Supreme Lord of the Undead."
+      ]
+    }
+  },
+  "WS_AOS_DealDamage": {
+    "unlockName": {
+      "_value": [
+        "Deal a total of 10,000 damage"
+      ]
+    }
+  },
+  "WS_AOS_Collect_Ardcoat": {
+    "unlockName": {
+      "_value": [
+        "Use the Arcanoscope to find Ardcoat on the Great Parch."
+      ]
+    }
+  },
+  "WS_AOS_Collect_MasterRune": {
+    "unlockName": {
+      "_value": [
+        "Use the Arcanoscope to find Kragg Blackhammer's Master Rune in Skrappa Spill."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_PoisonedThrowingKnives": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Poisoned Throwing Knives."
+      ]
+    }
+  },
+  "WS_Shared_Collect_Paint_Large": {
+    "unlockName": {
+      "_value": [
+        "Collect 12 Warhammer Paint Pots."
+      ]
+    }
+  },
+  "WS_Shared_Carry_EvolvedWeapons_Max": {
+    "unlockName": {
+      "_value": [
+        "Have any 6 Evolved Weapons at the same time in either Universe."
+      ]
+    }
+  },
+  "WS_Shared_Evolve_AnyWeapon": {
+    "unlockName": {
+      "_value": [
+        "Evolve any Weapon in either Universe."
+      ]
+    }
+  },
+  "WS_Shared_Collect_Trophies_All": {
+    "unlockName": {
+      "_value": [
+        "Obtain all other trophies in Warhammer Survivors."
+      ]
+    }
+  },
+  "WS_Shared_Collect_Achievements_All": {
+    "unlockName": {
+      "_value": [
+        "Obtain all other Achievements in Warhammer Survivors base game."
+      ]
+    }
+  },
+  "WS_Shared_Collect_Currency_InRun": {
+    "unlockName": {
+      "_value": [
+        "Gather 9,999 Coins in a single run in either Universe."
+      ]
+    }
+  },
+  "WS_Shared_Collect_Paint_AbaddonBlack": {
+    "unlockName": {
+      "_value": [
+        "Find Abaddon Black Warhammer Paint Pot on Imperial Bastion."
+      ]
+    }
+  },
+  "WS_Shared_Collect_Paint_Leadbelcher": {
+    "unlockName": {
+      "_value": [
+        "Find Leadbelcher Warhammer Paint Pot on The Great Parch."
+      ]
+    }
+  },
+  "WS_Shared_Defeat_Tyranids_Ultramarine": {
+    "unlockName": {
+      "_value": [
+        "Defeat 10,000 Tyranids with an Ultramarines character."
+      ]
+    }
+  },
+  "WS_Shared_Defeat_Enemies_Gnarlwood": {
+    "unlockName": {
+      "_value": [
+        "Defeat 10,000 enemies on Gnarlwood."
+      ]
+    }
+  },
+  "WS_Shared_Defeat_Enemies_OrkStronghold": {
+    "unlockName": {
+      "_value": [
+        "Defeat 10,000 enemies on Ork Stronghold."
+      ]
+    }
+  },
+  "WS_Shared_Defeat_BladesOfKhorne_DaughtersOfKhaine": {
+    "unlockName": {
+      "_value": [
+        "Defeat 10,000 Blades of Khorne enemies with a Daughters of Khaine character."
+      ]
+    }
+  },
+  "WS_Shared_Defeat_Enemies_D6Dice": {
+    "unlockName": {
+      "_value": [
+        "Defeat 100,000 enemies with the D6 Dice."
+      ]
+    }
+  },
+  "WS_Shared_Defeat_Carnifex_Daedalosus": {
+    "unlockName": {
+      "_value": [
+        "Defeat a Carnifex while playing as Technoarcheologist Daedalosus."
+      ]
+    }
+  },
+  "WS_Shared_Defeat_Enemies_NulnOil": {
+    "unlockName": {
+      "_value": [
+        "Defeat 100,000 enemies with Nuln Oil."
+      ]
+    }
+  },
+  "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
+    "unlockName": {
+      "_value": [
+        "Defeat a Plague Furnace while playing as Gotrek Gurnisson."
+      ]
+    }
+  },
+  "WS_40K_Defeat_Enemies_Tyranids": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 10,000 Tyranids."
+      ]
+    }
+  },
+  "WS_40K_Survive_DesertWasteland": {
+    "unlockName": {
+      "_value": [
+        "Survive 15 minutes on Desert Wasteland."
+      ]
+    }
+  },
+  "WS_40K_Collect_TacticalRock": {
+    "unlockName": {
+      "_value": [
+        "Use the Auspex to find the Tactical Rock in the Imperial Shipyard."
+      ]
+    }
+  },
+  "WS_AOS_Survive_Small": {
+    "unlockName": {
+      "_value": [
+        "Survive 1 minute with any character."
+      ]
+    }
+  },
+  "WS_AOS_Collect_Chests": {
+    "unlockName": {
+      "_value": [
+        "Open 2 chests in a single run."
+      ]
+    }
+  },
+  "WS_AOS_Survive_Medium": {
+    "unlockName": {
+      "_value": [
+        "Survive 10 minutes with any character (single run)."
+      ]
+    }
+  },
+  "WS_40K_Collect_EmperorsTarot_1": {
+    "unlockName": {
+      "_value": [
+        "Find the Emperor's Tarot on Imperial Shipyard."
+      ]
+    }
+  },
+  "WS_40K_Collect_EmperorsTarot_2": {
+    "unlockName": {
+      "_value": [
+        "Find the Emperor's Tarot on Imperial Shipyard."
+      ]
+    }
+  },
+  "WS_40K_Defeat_Enemies_DeathGuard": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 100,000 Death Guard."
+      ]
+    }
+  },
+  "WS_40K_Defeat_Enemies_Orks": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 100,000 Orks."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_OrbitalShipyard": {
+    "unlockName": {
+      "_value": [
+        "Reach level 60 in Imperial Shipyard."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_Novena": {
+    "unlockName": {
+      "_value": [
+        "Reach level 80 with Sister Superior Amalia Novena."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_ArbitesVigilant": {
+    "unlockName": {
+      "_value": [
+        "Reach level 80 with Max Mahon."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_TorGaradon": {
+    "unlockName": {
+      "_value": [
+        "Reach level 80 with Captain Tor Garadon."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_Pask": {
+    "unlockName": {
+      "_value": [
+        "Reach level 80 with Knight-Commander Pask."
+      ]
+    }
+  },
+  "WS_40K_Survive_Gallowdark_Onslaught": {
+    "unlockName": {
+      "_value": [
+        "Survive 1 minute on Gallowdark."
+      ]
+    }
+  },
+  "WS_40K_Survive_SingleWeapon_1": {
+    "unlockName": {
+      "_value": [
+        "Survive 5 minutes with a single weapon."
+      ]
+    }
+  },
+  "WS_40K_Survive_SingleWeapon_2": {
+    "unlockName": {
+      "_value": [
+        "Survive 10 minutes with a single weapon."
+      ]
+    }
+  },
+  "WS_40K_Survive_SingleWeapon_3": {
+    "unlockName": {
+      "_value": [
+        "Survive 15 minutes with a single weapon."
+      ]
+    }
+  },
+  "WS_40K_Survive_SingleWeapon_4": {
+    "unlockName": {
+      "_value": [
+        "Survive 20 minutes with a single weapon."
+      ]
+    }
+  },
+  "WS_40K_Survive_SingleWeapon_5": {
+    "unlockName": {
+      "_value": [
+        "Survive 25 minutes with a single weapon."
+      ]
+    }
+  },
+  "WS_40K_Survive_HobbyTable": {
+    "unlockName": {
+      "_value": [
+        "Survive 15 minutes on Hobby Table."
+      ]
+    }
+  },
+  "WS_Shared_Collect_SuffocatingGravetide": {
+    "unlockName": {
+      "_value": [
+        "Use Suffocating Gravetide 10 times."
+      ]
+    }
+  },
+  "WS_Shared_Collect_Onslaught": {
+    "unlockName": {
+      "_value": [
+        "Use Onslaught 10 times."
+      ]
+    }
+  },
+  "WS_Shared_Defeat_Skaven_StormcastEternals": {
+    "unlockName": {
+      "_value": [
+        "Defeat 10,000 Skaven with a character from the Stormcast Eternals."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakMhornar_Bloodwind": {
+    "unlockName": {
+      "_value": [
+        "Sign the Barak-Mhornar Contract with Drekki Flynt on Bloodwind Spoil."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakMhornar_Gnarlwood": {
+    "unlockName": {
+      "_value": [
+        "Sign the Barak-Mhornar Contract with Drekki Flynt on Gnarlwood."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakMhornar_GreatParch": {
+    "unlockName": {
+      "_value": [
+        "Sign the Barak-Mhornar Contract with Drekki Flynt on The Great Parch."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakMhornar_HobbyTable": {
+    "unlockName": {
+      "_value": [
+        "Sign the Barak-Mhornar Contract with Drekki Flynt on Hobby Table."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakMhornar_SkrappaSpill": {
+    "unlockName": {
+      "_value": [
+        "Sign the Barak-Mhornar Contract with Drekki Flynt on Skrappa Spill."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakMhornar_TwinTailedCity": {
+    "unlockName": {
+      "_value": [
+        "Sign the Barak-Mhornar Contract with Drekki Flynt on The Twin-Tailed City."
+      ]
+    }
+  },
+  "WS_AOS_Buy_BarakMhornar_UnderEmpire": {
+    "unlockName": {
+      "_value": [
+        "Sign the Barak-Mhornar Contract with Drekki Flynt on Under-Empire."
+      ]
+    }
+  },
+  "WS_AOS_Collect_CelestialOrrery_2": {
+    "unlockName": {
+      "_value": [
+        "Find the Celestial Orrery on Under-Empire."
+      ]
+    }
+  },
+  "WS_AOS_Collect_Varanite": {
+    "unlockName": {
+      "_value": [
+        "Collect 10 Varanite."
+      ]
+    },
+    "forcedUnlockTips": {
+      "_value": [
+        "Purchasable Varanite"
+      ]
+    }
+  },
+  "WS_AOS_Collect_TacticalRock": {
+    "unlockName": {
+      "_value": [
+        "Use the Arcanoscope to find the Tactical Rock in Bloodwind Spoil."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_PlagueFurnace_GreatParch": {
+    "unlockName": {
+      "_value": [
+        "Defeat the Plague Furnace on The Great Parch."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_DankholdTroggoth_SkrappaSpill": {
+    "unlockName": {
+      "_value": [
+        "Defeat a Dankhold Troggoth on Skrappa Spill."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_Khorgorath_BloodwindSpoil": {
+    "unlockName": {
+      "_value": [
+        "Defeat a Khorgorath on Bloodwind Spoil."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_PlagueFurnace_Khorgorath_TwinTailedCity": {
+    "unlockName": {
+      "_value": [
+        "Defeat a Plague Furnace and a Khorgorath on The Twin-Tailed City."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_ExtremisBoss_Any": {
+    "unlockName": {
+      "_value": [
+        "Defeat an Extremis Boss."
+      ]
+    },
+    "forcedUnlockTips": {
+      "_value": [
+        "Limitless Mode"
+      ]
+    }
+  },
+  "WS_40K_Defeat_ExtremisBoss_Any": {
+    "unlockName": {
+      "_value": [
+        "Defeat an Extremis Boss."
+      ]
+    },
+    "forcedUnlockTips": {
+      "_value": [
+        "Limitless Mode"
+      ]
+    }
+  },
+  "WS_AOS_TakeNoDamage_UnderEmpire": {
+    "unlockName": {
+      "_value": [
+        "Take no damage during minute 13 on Under-Empire."
+      ]
+    }
+  },
+  "WS_40K_CompleteStage_HobbyTable_Daedalosus": {
+    "unlockName": {
+      "_value": [
+        "Complete the Hobby Table stage with Technoarchaeologist Daedalosus."
+      ]
+    }
+  },
+  "WS_40K_Collect_FerrosanticOrrery": {
+    "unlockName": {
+      "_value": [
+        "Collect the Ferrosanctic Orrery."
+      ]
+    }
+  },
+  "WS_40K_Evolve_Smite": {
+    "unlockName": {
+      "_value": [
+        "Evolve Smite."
+      ]
+    }
+  },
+  "WS_40K_Evolve_StormBolter": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Storm Bolter."
+      ]
+    }
+  },
+  "WS_40K_ReachLevel_SergeantFuran": {
+    "unlockName": {
+      "_value": [
+        "Reach level 20 with Sergeant Furan."
+      ]
+    }
+  },
+  "WS_40K_Rescue_Kozlowski": {
+    "unlockName": {
+      "_value": [
+        "Find and rescue the character on Imperial Bastion."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Find and rescue the character on Imperial Bastion."
+      ]
+    }
+  },
+  "WS_40K_CompleteStage_ImperialBastion": {
+    "unlockName": {
+      "_value": [
+        "Complete Imperial Bastion."
+      ]
+    }
+  },
+  "WS_40K_CompleteStage_Gallowdark": {
+    "unlockName": {
+      "_value": [
+        "Complete Gallowdark."
+      ]
+    }
+  },
+  "WS_40K_CompleteStage_OrkStronghold": {
+    "unlockName": {
+      "_value": [
+        "Complete Ork Stronghold."
+      ]
+    }
+  },
+  "WS_40K_CompleteStage_ImperialShipyard": {
+    "unlockName": {
+      "_value": [
+        "Complete Imperial Shipyard."
+      ]
+    }
+  },
+  "WS_40K_CompleteStage_DeathWorldInvasion": {
+    "unlockName": {
+      "_value": [
+        "Complete Death World Invasion."
+      ]
+    }
+  },
+  "WS_40K_CompleteStage_DesertWasteland": {
+    "unlockName": {
+      "_value": [
+        "Complete Desert Wasteland."
+      ]
+    }
+  },
+  "WS_40K_Collect_Currency_InRun": {
+    "unlockName": {
+      "_value": [
+        "Collect 1,000 coins in a single run."
+      ]
+    }
+  },
+  "WS_AOS_ApplyBattleShock_Yndrasta": {
+    "unlockName": {
+      "_value": [
+        "Apply the Battle Shock status 1,000 times with Yndrasta."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_BrazierStaff": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Brazier Staff."
+      ]
+    }
+  },
+  "WS_AOS_CompleteStage_GreatParch": {
+    "unlockName": {
+      "_value": [
+        "Complete The Great Parch."
+      ]
+    }
+  },
+  "WS_AOS_CompleteStage_SkrappaSpill": {
+    "unlockName": {
+      "_value": [
+        "Complete Skrappa Spill."
+      ]
+    }
+  },
+  "WS_AOS_CompleteStage_BloodwindSpoil": {
+    "unlockName": {
+      "_value": [
+        "Complete Bloodwind Spoil."
+      ]
+    }
+  },
+  "WS_AOS_CompleteStage_UnderEmpire": {
+    "unlockName": {
+      "_value": [
+        "Complete Under-Empire."
+      ]
+    }
+  },
+  "WS_AOS_CompleteStage_Hammerhal": {
+    "unlockName": {
+      "_value": [
+        "Complete Hammerhal."
+      ]
+    }
+  },
+  "WS_AOS_CompleteStage_Gnarlwood": {
+    "unlockName": {
+      "_value": [
+        "Complete Gnarlwood."
+      ]
+    }
+  },
+  "WS_AOS_CompleteStage_Necropolis": {
+    "unlockName": {
+      "_value": [
+        "Complete Necropolis."
+      ]
+    }
+  },
+  "WS_AOS_Rescue_Goldenblade": {
+    "unlockName": {
+      "_value": [
+        "Rescue Shakana Goldenblade on The Great Parch."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Rescue Shakana Goldenblade on The Great Parch."
+      ]
+    }
+  },
+  "WS_AOS_Rescue_Callis": {
+    "unlockName": {
+      "_value": [
+        "Rescue the character on The Great Parch."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Rescue the character on The Great Parch."
+      ]
+    }
+  },
+  "WS_AOS_Defeat_ExtremisBoss": {
+    "forcedUnlockTips": {
+      "_value": [
+        "Limitless Mode"
+      ]
+    }
+  },
+  "WS_Shared_Collect_Gilded": {
+    "unlockName": {
+      "_value": [
+        "Collect 5 Gilded Amulets."
+      ]
+    }
+  },
+  "WS_AOS_Evolve_StormchargedWarhammer_2": {
+    "unlockName": {
+      "_value": [
+        "Evolve the Stormcharged Warhammer."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Evolve the Stormcharged Warhammer."
+      ]
+    }
+  },
+  "WS_40K_Activate_AstropathicRelay_All": {
+    "unlockName": {
+      "_value": [
+        "Activate the Astropathic Relay on every stage."
+      ]
+    }
+  },
+  "WS_40K_Defeat_Enemy_Mortarion": {
+    "unlockName": {
+      "_value": [
+        "Defeat Mortarion, Daemon Primarch of Nurgle."
+      ]
+    }
+  },
+  "WS_AOS_CompleteStageWithRetinue_Callis_Toll": {
+    "unlockName": {
+      "_value": [
+        "Complete a stage with both Armand Callis and Hanniver Toll in your Retinue."
+      ]
+    }
+  },
+  "WS_40K_ReachWeaponLevel_Gauntlet_LightningBolt": {
+    "unlockName": {
+      "_value": [
+        "Get Gauntlet and Lightning Bolt to level 5 on Ork Stronghold."
+      ]
+    }
+  },
+  "WS_40K_Defeat_Ork_Vehicles": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 100 Ork Vehicles."
+      ]
+    }
+  },
+  "WS_40K_Collect_Relics": {
+    "unlockName": {
+      "_value": [
+        "Collect 10 Relics."
+      ]
+    }
+  },
+  "WS_40K_RecoverWounds_EavyMetal": {
+    "unlockName": {
+      "_value": [
+        "Recover a total of 1000 Wounds in 'Eavy Metal mode."
+      ]
+    }
+  },
+  "demo_WS_AOS_Rescue_Ulgromthier": {
+    "unlockName": {
+      "_value": [
+        "Rescue the character on The Great Parch."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Rescue the character on The Great Parch."
+      ]
+    }
+  },
+  "demo_WS_AOS_Rescue_Lyssa": {
+    "unlockName": {
+      "_value": [
+        "Rescue the character on The Great Parch."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Rescue the character on The Great Parch."
+      ]
+    }
+  },
+  "demo_WS_40K_Weapon_WhirlwindLauncher": {
+    "unlockName": {
+      "_value": [
+        "Defeat 1,000 Enemies (multiple runs)."
+      ]
+    }
+  },
+  "demo_WS_40K_Weapon_PowerFist": {
+    "unlockName": {
+      "_value": [
+        "Get the Gauntlet to Level 5."
+      ]
+    }
+  },
+  "demo_WS_AOS_Weapon_Grandblade": {
+    "unlockName": {
+      "_value": [
+        "Defeat 500 Vermintide (multiple runs)."
+      ]
+    }
+  },
+  "demo_WS_AOS_Weapon_NebulousSeafog": {
+    "unlockName": {
+      "_value": [
+        "Get the Sabaton to Level 3."
+      ]
+    }
+  },
+  "demo_WS_40K_Passive_Move": {
+    "unlockName": {
+      "_value": [
+        "Reach level 5 with any character."
+      ]
+    }
+  },
+  "demo_WS_40K_Passive_Tithe": {
+    "unlockName": {
+      "_value": [
+        "Collect 1,987 coins (single run)."
+      ]
+    }
+  },
+  "demo_WS_40K_Passive_Corruption": {
+    "unlockName": {
+      "_value": [
+        "Survive for 30 minutes (multiple runs)."
+      ]
+    }
+  },
+  "demo_WS_40K_Passive_Redeployment": {
+    "unlockName": {
+      "_value": [
+        "Hold 6 Weapons at once."
+      ]
+    }
+  },
+  "demo_WS_AOS_Passive_Tithe": {
+    "unlockName": {
+      "_value": [
+        "Collect 1,987 coins (single run)."
+      ]
+    }
+  },
+  "demo_WS_AOS_Passive_Corruption": {
+    "unlockName": {
+      "_value": [
+        "Survive for 30 minutes (multiple runs)."
+      ]
+    }
+  },
+  "demo_WS_AOS_Passive_Redeployment": {
+    "unlockName": {
+      "_value": [
+        "Hold 6 Weapons at once."
+      ]
+    }
+  },
+  "demo_WS_40K_Collect_MunitorumDataslate": {
+    "unlockName": {
+      "_value": [
+        "Find the Munitorum Dataslate on Imperial Bastion."
+      ]
+    }
+  },
+  "demo_WS_AOS_Collect_Warscroll": {
+    "unlockName": {
+      "_value": [
+        "Find the Warscroll on The Great Parch."
+      ]
+    }
+  },
+  "demo_WS_40K_Defeat_Enemies": {
+    "unlockName": {
+      "_value": [
+        "Defeat a total of 10,000 enemies (multiple runs)."
+      ]
+    }
+  },
+  "demo_WS_40K_Feature_Bestiary": {
+    "unlockName": {
+      "_value": [
+        "Complete 3 runs"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Complete 3 runs"
+      ]
+    }
+  },
+  "WS_40K_Feature_Bestiary": {
+    "forcedUnlockTips": {
+      "_value": [
+        "Grants access to the Warhammer 40K Bestiarium menu.​"
+      ]
+    }
+  },
+  "demo_WS_AOS_Feature_Bestiary": {
+    "unlockName": {
+      "_value": [
+        "Complete 3 runs"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Complete 3 runs"
+      ]
+    }
+  },
+  "WS_AOS_Feature_Bestiary": {
+    "forcedUnlockTips": {
+      "_value": [
+        "Grants access to the Warhammer Age of Sigmar Bestiarium menu.​"
+      ]
+    }
+  }
+}

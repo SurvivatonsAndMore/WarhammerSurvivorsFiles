@@ -1,0 +1,16 @@
+{
+  "ws_Complete40K": {
+    "description": {
+      "_value": [
+        "Complete Warhammer 40,000 Universe."
+      ]
+    }
+  },
+  "ws_CompleteAOS": {
+    "description": {
+      "_value": [
+        "Complete Warhammer Age of Sigmar Universe."
+      ]
+    }
+  }
+}

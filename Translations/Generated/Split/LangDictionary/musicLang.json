@@ -1,0 +1,121 @@
+{
+  "WS_40K_Main": {
+    "title": {
+      "_value": {
+        "en": "Main Menu - Warhammer 40,000"
+      }
+    }
+  },
+  "WS_AOS_Main": {
+    "title": {
+      "_value": {
+        "en": "Main Menu - Warhammer Age of Sigmar"
+      }
+    }
+  },
+  "WS_40K_ImperialBastion": {
+    "title": {
+      "_value": {
+        "en": "Imperial Bastion"
+      }
+    }
+  },
+  "WS_40K_Gallowdark": {
+    "title": {
+      "_value": {
+        "en": "Gallowdark"
+      }
+    }
+  },
+  "WS_40K_OrkStronghold": {
+    "title": {
+      "_value": {
+        "en": "Ork Stronghold"
+      }
+    }
+  },
+  "WS_40K_DeathWorldInvasion": {
+    "title": {
+      "_value": {
+        "en": "Death World Invasion"
+      }
+    }
+  },
+  "WS_40K_DesertWasteland": {
+    "title": {
+      "_value": {
+        "en": "Desert Wasteland"
+      }
+    }
+  },
+  "WS_40K_HobbyTable": {
+    "title": {
+      "_value": {
+        "en": "Hobby Table - Warhammer 40,000"
+      }
+    }
+  },
+  "WS_40K_PerilsWarp": {
+    "title": {
+      "_value": {
+        "en": "Perils of the Warp"
+      }
+    }
+  },
+  "WS_AOS_GreatParch": {
+    "title": {
+      "_value": {
+        "en": "The Great Parch"
+      }
+    }
+  },
+  "WS_AOS_SkrappaSpill": {
+    "title": {
+      "_value": {
+        "en": "Skrappa Spill"
+      }
+    }
+  },
+  "WS_AOS_BloodwindSpoil": {
+    "title": {
+      "_value": {
+        "en": "Bloodwind Spoil"
+      }
+    }
+  },
+  "WS_AOS_TwinTailed": {
+    "title": {
+      "_value": {
+        "en": "The Twin-Tailed City"
+      }
+    }
+  },
+  "WS_AOS_UnderEmpire": {
+    "title": {
+      "_value": {
+        "en": "Under-Empire"
+      }
+    }
+  },
+  "WS_AOS_Gnarlwood": {
+    "title": {
+      "_value": {
+        "en": "Gnarlwood"
+      }
+    }
+  },
+  "WS_AOS_HobbyTable": {
+    "title": {
+      "_value": {
+        "en": "Hobby Table - Warhammer Age of Sigmar"
+      }
+    }
+  },
+  "WS_AOS_Necropolis": {
+    "title": {
+      "_value": {
+        "en": "Necropolis"
+      }
+    }
+  }
+}

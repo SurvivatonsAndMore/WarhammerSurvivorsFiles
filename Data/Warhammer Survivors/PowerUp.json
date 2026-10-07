@@ -1,0 +1,891 @@
+{
+  "STRENGTH": [
+    {
+      "level": 0,
+      "bulletType": "STRENGTH",
+      "name": "Strength",
+      "description": "Raises inflicted Damage by 4% per rank (max +40%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Strength.png",
+      "isPowerUp": true,
+      "price": 100,
+      "power": 0.04,
+      "unlockedRank": 9,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "4",
+        "MAXVALUE": "40"
+      }
+    },
+    {
+      "power": 0.04
+    },
+    {
+      "power": 0.04
+    },
+    {
+      "power": 0.04
+    },
+    {
+      "power": 0.04
+    },
+    {
+      "power": 0.04
+    },
+    {
+      "power": 0.04
+    },
+    {
+      "power": 0.04
+    },
+    {
+      "power": 0.04
+    }
+  ],
+  "SAVES": [
+    {
+      "level": 0,
+      "bulletType": "SAVES",
+      "name": "Saves",
+      "description": "Reduces incoming Damage by 0.5 per rank (max -2.5).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Save.png",
+      "isPowerUp": true,
+      "price": 100,
+      "armor": 0.5,
+      "unlockedRank": 4,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "0.5",
+        "MAXVALUE": "2.5",
+        "COMMA_VALUE": "0,5",
+        "COMMA_MAXVALUE": "2,5"
+      }
+    },
+    {
+      "armor": 0.5
+    },
+    {
+      "armor": 0.5
+    },
+    {
+      "armor": 0.5
+    }
+  ],
+  "RELOAD": [
+    {
+      "level": 0,
+      "bulletType": "RELOAD",
+      "name": "Reload",
+      "description": "Uses weapons 1% faster per rank (max 5%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Reload.png",
+      "isPowerUp": true,
+      "price": 100,
+      "cooldown": -0.01,
+      "unlockedRank": 4,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "1",
+        "MAXVALUE": "5"
+      }
+    },
+    {
+      "cooldown": -0.01
+    },
+    {
+      "cooldown": -0.01
+    },
+    {
+      "cooldown": -0.01
+    }
+  ],
+  "WOUNDS": [
+    {
+      "level": 0,
+      "bulletType": "WOUNDS",
+      "name": "Wounds",
+      "description": "Augments Max Health by 4% per rank (max +40%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Wounds.png",
+      "isPowerUp": true,
+      "price": 100,
+      "maxHp": 0.04,
+      "unlockedRank": 9,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "4",
+        "MAXVALUE": "40"
+      }
+    },
+    {
+      "maxHp": 0.04
+    },
+    {
+      "maxHp": 0.04
+    },
+    {
+      "maxHp": 0.04
+    },
+    {
+      "maxHp": 0.04
+    },
+    {
+      "maxHp": 0.04
+    },
+    {
+      "maxHp": 0.04
+    },
+    {
+      "maxHp": 0.04
+    },
+    {
+      "maxHp": 0.04
+    }
+  ],
+  "TOUGHNESS": [
+    {
+      "level": 0,
+      "hidden": false,
+      "bulletType": "TOUGHNESS",
+      "name": "Toughness",
+      "description": "Recovers 0.1 HP per rank (max 0.5) per second.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Toughness.png",
+      "isPowerUp": true,
+      "price": 300,
+      "regen": 0.1,
+      "unlockedRank": 4,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "0.1",
+        "MAXVALUE": "0.5",
+        "COMMA_VALUE": "0,1",
+        "COMMA_MAXVALUE": "0,5"
+      }
+    },
+    {
+      "regen": 0.1
+    },
+    {
+      "regen": 0.1
+    },
+    {
+      "regen": 0.1
+    }
+  ],
+  "SUSTAIN": [
+    {
+      "level": 0,
+      "bulletType": "SUSTAIN",
+      "name": "Sustain",
+      "description": "Effects from weapons last 5% longer per rank (max +25%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Sustain.png",
+      "isPowerUp": true,
+      "price": 300,
+      "duration": 0.05,
+      "unlockedRank": 4,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "5",
+        "MAXVALUE": "25"
+      }
+    },
+    {
+      "duration": 0.05
+    },
+    {
+      "duration": 0.05
+    },
+    {
+      "duration": 0.05
+    }
+  ],
+  "RANGE": [
+    {
+      "level": 0,
+      "bulletType": "RANGE",
+      "name": "Range",
+      "description": "Augments area of attacks by 2% per rank (max +10%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Range.png",
+      "isPowerUp": true,
+      "price": 300,
+      "area": 0.02,
+      "unlockedRank": 4,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "2",
+        "MAXVALUE": "10"
+      }
+    },
+    {
+      "area": 0.02
+    },
+    {
+      "area": 0.02
+    },
+    {
+      "area": 0.02
+    }
+  ],
+  "ATTACKS": [
+    {
+      "level": 0,
+      "bulletType": "ATTACKS",
+      "name": "Attacks",
+      "description": "Fires 1 more projectile (all weapons).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Attacks.png",
+      "isPowerUp": true,
+      "price": 5000,
+      "amount": 1,
+      "unlockedRank": 1,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "1",
+        "MAXVALUE": "2"
+      }
+    },
+    {
+      "amount": 1
+    }
+  ],
+  "SKILL": [
+    {
+      "level": 0,
+      "bulletType": "SKILL",
+      "name": "Skill",
+      "description": "Projectiles move 4% faster per rank (max 20%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Skill.png",
+      "isPowerUp": true,
+      "price": 300,
+      "speed": 0.04,
+      "unlockedRank": 4,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "4",
+        "MAXVALUE": "20"
+      }
+    },
+    {
+      "speed": 0.04
+    },
+    {
+      "speed": 0.04
+    },
+    {
+      "speed": 0.04
+    }
+  ],
+  "MOVE": [
+    {
+      "level": 0,
+      "bulletType": "MOVE",
+      "name": "Move",
+      "description": "Character moves 3% faster per rank (max 15%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Move.png",
+      "isPowerUp": true,
+      "price": 300,
+      "moveSpeed": 0.03,
+      "unlockedRank": 4,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "3",
+        "MAXVALUE": "15"
+      }
+    },
+    {
+      "moveSpeed": 0.03
+    },
+    {
+      "moveSpeed": 0.03
+    },
+    {
+      "moveSpeed": 0.03
+    }
+  ],
+  "AURA": [
+    {
+      "placeholder": true,
+      "level": 0,
+      "bulletType": "AURA",
+      "name": "Aura",
+      "description": "Items Pickup range +10% per rank (max +50%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Aura.png",
+      "isPowerUp": true,
+      "price": 300,
+      "magnet": 0.10,
+      "unlockedRank": 4,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "10",
+        "MAXVALUE": "50"
+      }
+    },
+    {
+      "magnet": 0.10
+    },
+    {
+      "magnet": 0.10
+    },
+    {
+      "magnet": 0.10
+    }
+  ],
+  "CHANCE": [
+    {
+      "placeholder": true,
+      "level": 0,
+      "bulletType": "CHANCE",
+      "name": "Chance",
+      "description": "Chance to get lucky goes up by 5% per rank (max +25%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Chance.png",
+      "isPowerUp": true,
+      "price": 300,
+      "luck": 0.05,
+      "unlockedRank": 4,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "5",
+        "MAXVALUE": "25"
+      }
+    },
+    {
+      "luck": 0.05
+    },
+    {
+      "luck": 0.05
+    },
+    {
+      "luck": 0.05
+    }
+  ],
+  "VETERANCY": [
+    {
+      "level": 0,
+      "bulletType": "VETERANCY",
+      "name": "Veterancy",
+      "description": "Gains 2% more experience per rank (max 20%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Veterancy.png",
+      "isPowerUp": true,
+      "price": 400,
+      "growth": 0.02,
+      "unlockedRank": 9,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "2",
+        "MAXVALUE": "20"
+      }
+    },
+    {
+      "growth": 0.02
+    },
+    {
+      "growth": 0.02
+    },
+    {
+      "growth": 0.02
+    },
+    {
+      "growth": 0.02
+    },
+    {
+      "growth": 0.02
+    },
+    {
+      "growth": 0.02
+    },
+    {
+      "growth": 0.02
+    },
+    {
+      "growth": 0.02
+    }
+  ],
+  "TITHE": [
+    {
+      "level": 0,
+      "hidden": false,
+      "bulletType": "TITHE",
+      "name": "Tithe",
+      "description": "Gains 5% more Currency per rank (max +50%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Tithe.png",
+      "isPowerUp": true,
+      "price": 400,
+      "greed": 0.05,
+      "unlockedRank": 9,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "5",
+        "MAXVALUE": "50"
+      }
+    },
+    {
+      "greed": 0.05
+    },
+    {
+      "greed": 0.05
+    },
+    {
+      "greed": 0.05
+    },
+    {
+      "greed": 0.05
+    },
+    {
+      "greed": 0.05
+    },
+    {
+      "greed": 0.05
+    },
+    {
+      "greed": 0.05
+    },
+    {
+      "greed": 0.05
+    }
+  ],
+  "CORRUPTION": [
+    {
+      "placeholder": true,
+      "level": 0,
+      "hidden": false,
+      "bulletType": "CORRUPTION",
+      "name": "Corruption",
+      "description": "Increases enemy speed, health, quantity, and frequency by 10% per rank (max +50%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Corruption.png",
+      "isPowerUp": true,
+      "price": 888,
+      "curse": 0.05,
+      "unlockedRank": 9,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "5",
+        "MAXVALUE": "50"
+      }
+    },
+    {
+      "curse": 0.05
+    },
+    {
+      "curse": 0.05
+    },
+    {
+      "curse": 0.05
+    },
+    {
+      "curse": 0.05
+    },
+    {
+      "curse": 0.05
+    },
+    {
+      "curse": 0.05
+    },
+    {
+      "curse": 0.05
+    },
+    {
+      "curse": 0.05
+    }
+  ],
+  "REDEPLOYMENT": [
+    {
+      "level": 0,
+      "hidden": false,
+      "bulletType": "REDEPLOYMENT",
+      "name": "Redeployment",
+      "description": "Revives once with 50% health.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Redeployment.png",
+      "isPowerUp": true,
+      "price": 10000,
+      "revivals": 1,
+      "unlockedRank": 1,
+      "hasCrossSiloRank": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "MAXVALUE": "2"
+      }
+    },
+    {
+      "revivals": 1
+    }
+  ],
+  "ABILITY": [
+    {
+      "level": 0,
+      "hidden": true,
+      "bulletType": "ABILITY",
+      "name": "Ability",
+      "description": "Increases Strength, Skill, Sustain, and Aura by 2% per rank (max +10%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Ability.png",
+      "isPowerUp": true,
+      "price": 1000,
+      "power": 0.02,
+      "speed": 0.02,
+      "duration": 0.02,
+      "area": 0.02,
+      "unlockedRank": 4,
+      "hasCrossSiloRank": true,
+      "specialBG": false,
+      "active": true,
+	  "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "2",
+        "MAXVALUE": "10"
+      }
+    },
+    {
+      "power": 0.02,
+      "speed": 0.02,
+      "duration": 0.02,
+      "area": 0.02
+    },
+    {
+      "power": 0.02,
+      "speed": 0.02,
+      "duration": 0.02,
+      "area": 0.02
+    },
+    {
+      "power": 0.02,
+      "speed": 0.02,
+      "duration": 0.02,
+      "area": 0.02
+    }
+  ],
+  "BAIT": [
+    {
+      "level": 0,
+      "hidden": true,
+      "bulletType": "BAIT",
+      "name": "Bait",
+      "description": "Increases enemies spawn quantity by 20 per rank (max +100).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Bait.png",
+      "isPowerUp": true,
+      "isAnUnlockable": true,
+      "price": 10000,
+      "charm": 20,
+      "unlockedRank": 4,
+      "hasCrossSiloRank": true,
+      "specialBG": false,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "20",
+        "MAXVALUE": "100"
+      }
+    },
+    {
+      "charm": 20
+    },
+    {
+      "charm": 20
+    },
+    {
+      "charm": 20
+    }
+  ],
+  "RETRIBUTION": [
+    {
+      "level": 0,
+      "hidden": true,
+      "bulletType": "RETRIBUTION",
+      "name": "Retribution",
+      "description": "Enemies spawn unable to deal damage 1% of the times per rank (max 10%).",
+      "texture": "WS_Items",
+      "frameName": "Passive_Retribution.png",
+      "isPowerUp": true,
+      "isAnUnlockable": true,
+      "price": 10,
+      "defang": 0.01,
+      "unlockedRank": 9,
+      "hasCrossSiloRank": true,
+      "specialBG": false,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "1",
+        "MAXVALUE": "10"
+      }
+    },
+    {
+      "defang": 0.01
+    },
+    {
+      "defang": 0.01
+    },
+    {
+      "defang": 0.01
+    },
+    {
+      "defang": 0.01
+    },
+    {
+      "defang": 0.01
+    },
+    {
+      "defang": 0.01
+    },
+    {
+      "defang": 0.01
+    },
+    {
+      "defang": 0.01
+    }
+  ],
+  "FERVOUR": [
+    {
+      "level": 0,
+      "hidden": true,
+      "bulletType": "FERVOUR",
+      "name": "Fervour",
+      "description": "Increases duration of Collectathons by 10% (max +50%)",
+      "texture": "WS_Items",
+      "frameName": "Passive_Fervour.png",
+      "isPowerUp": true,
+      "isAnUnlockable": true,
+      "price": 10000,
+      "fever": 0.1,
+      "unlockedRank": 4,
+      "hasCrossSiloRank": true,
+      "specialBG": false,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "smartValues": {
+        "VALUE": "10",
+        "MAXVALUE": "50"
+      }
+    },
+    {
+      "fever": 0.1
+    },
+    {
+      "fever": 0.1
+    },
+    {
+      "fever": 0.1
+    }
+  ],
+  "WS_REROLL": [
+    {
+      "level": 0,
+      "hidden": true,
+      "bulletType": "WS_REROLL",
+      "name": "Reroll",
+      "description": "Twice per rank, allows you to get different choices when leveling up.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Reroll.png",
+      "isPowerUp": true,
+      "isAnUnlockable": true,
+      "price": 1000,
+      "rerolls": 2,
+      "unlockedRank": 5,
+      "specialBG": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "rerolls": 2
+    },
+    {
+      "rerolls": 2
+    },
+    {
+      "rerolls": 2
+    },
+    {
+      "rerolls": 2
+    }
+  ],
+  "WS_SKIP": [
+    {
+      "level": 0,
+      "hidden": true,
+      "bulletType": "WS_SKIP",
+      "name": "Skip",
+      "description": "Twice per rank, allows you to skip level up choices and get Experience instead.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Skip.png",
+      "isPowerUp": true,
+      "isAnUnlockable": true,
+      "price": 200,
+      "skips": 2,
+      "unlockedRank": 2,
+      "specialBG": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "skips": 2
+    }
+  ],
+  "WS_BANISH": [
+    {
+      "level": 0,
+      "hidden": true,
+      "bulletType": "WS_BANISH",
+      "name": "Banish",
+      "description": "Twice per rank, allows you to remove an item from level up choices, for the rest of the run.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Banish.png",
+      "isPowerUp": true,
+      "isAnUnlockable": true,
+      "price": 200,
+      "banish": 2,
+      "unlockedRank": 3,
+      "specialBG": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "banish": 2
+    },
+    {
+      "banish": 2
+    }
+  ],
+  "WS_SEAL": [
+    {
+      "level": 0,
+      "hidden": false,
+      "bulletType": "WS_SEAL",
+      "name": "Seal",
+      "description": "Allows to Banish an item from level up choices, or a pickup from light sources. Use in COLLECTION menu.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Seal.png",
+      "isPowerUp": true,
+      "isAnUnlockable": true,
+      "price": 10000,
+      "seal": 5, // Technically ignored, needs to be sorted in code (notify of updates)!
+      "unlockedRank": 4,
+      "specialBG": true,
+      "active": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "seal": 5
+    },
+    {
+      "seal": 5
+    },
+    {
+      "seal": 25
+    }
+  ]
+}

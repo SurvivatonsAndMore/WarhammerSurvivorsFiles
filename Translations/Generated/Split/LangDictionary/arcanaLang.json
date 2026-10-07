@@ -1,0 +1,242 @@
+{
+  "5001": {
+    "description": {
+      "_value": {
+        "en": "Gain +1 {[REDEPLOYMENT]} at level 2, 20 and 40. Every time a {[REDEPLOYMENT]} is consumed, you become Frenzied for 10 seconds and the following stats are increased: {[WOUNDS]}, {[STRENGTH]}, {[SKILL]}, {[RELOAD]}, {[AURA]}."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "VIII - The God-Emperor"
+      }
+    }
+  },
+  "5002": {
+    "description": {
+      "_value": {
+        "en": "Attracts Stage Items, Pickups, and Light Sources toward you when specific amounts of enemies are killed."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "XV - The Tides of the Warp"
+      }
+    }
+  },
+  "5003": {
+    "description": {
+      "_value": {
+        "en": "Increases the chance of finding a Collectathon pickup. Triggers a Collectathon on Critical HP once per {[REDEPLOYMENT]}. Any currency collected has a chance to heal or increase {[CORRUPTION]}."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "0 - The Fool"
+      }
+    }
+  },
+  "5004": {
+    "description": {
+      "_value": {
+        "en": "Gives +5 {[REROLL]}s. Gives +10% {[VETERANCY]} and -5% {[RELOAD]} for each follower. Laud Hailers are easier to find."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "XIV - The Young Warrior"
+      }
+    }
+  },
+  "5005": {
+    "description": {
+      "_value": {
+        "en": "Healing is doubled. You are immune to Bleeding, Burning, Cursed, Poisoned, Slowed, Stunned, and Vulnerable status effects. Whenever you Overheal, you are Blessed for Overheal seconds."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "XVI - The Tree of Life"
+      }
+    }
+  },
+  "5006": {
+    "description": {
+      "_value": {
+        "en": "Gives +2 {[SKIP]}, {[BANISH]} and {[REROLL]}. Gain {[CORRUPTION]} every level. {[CORRUPTION]} slightly reduces {[RELOAD]} stat and increases {[SKILL]} and {[MOVE]} stats."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "IX - Daemon"
+      }
+    }
+  },
+  "5007": {
+    "description": {
+      "_value": {
+        "en": "Attacks against Tyranid enemies have a chance to deal double damage. {[RANGE]} and {[SKILL]} increase by 2% every level. {[MOVE]} decreases by 2% every level."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "III - The Hulk"
+      }
+    }
+  },
+  "5008": {
+    "description": {
+      "_value": {
+        "en": "Attacks against Ork enemies have a chance to deal double damage. Melee weapons gain +15% {[RANGE]}, +20% Knockback, {[STRENGTH]} and +25% base damage."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "X - Astartes"
+      }
+    }
+  },
+  "5009": {
+    "description": {
+      "_value": {
+        "en": "Emit Warp Rifts within {[AURA]} range. The character starts gaining +1% {[RANGE]} every level."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "I - Galaxy"
+      }
+    }
+  },
+  "5010": {
+    "description": {
+      "_value": {
+        "en": "Increases the chance of inflicting status effects on enemies, their duration and their damage by 20%. Cycles through the following status effects every 10 seconds: Blessed, Cursed, Frenzied, Warded."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "IV - The Silver Key"
+      }
+    }
+  },
+  "6001": {
+    "description": {
+      "_value": {
+        "en": "Increases the chance of finding a Collectathon pickup. +25% {[TITHE]}. Currency heals you. Healing pickups award currency instead of healing. Gain the Bleeding status effect if you do not pick up any currency for 1 minute."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "VI - Glimmerlust"
+      }
+    }
+  },
+  "6002": {
+    "description": {
+      "_value": {
+        "en": "Attacks against Chaos enemies have a chance to deal double damage. Gain +1 {[REDEPLOYMENT]} at level 2, 20 and 40. Every time a {[REDEPLOYMENT]} is consumed, you become Blessed and the following stats are increased: {[SAVE]}, {[STRENGTH]}, {[SUSTAIN]} and {[SKILL]}."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "X - The Anvil of Apotheosis"
+      }
+    }
+  },
+  "6003": {
+    "description": {
+      "_value": {
+        "en": "-120% {[SKILL]}. If you have any Status Effects, you are also Frenzied. {[STRENGTH]}, {[WOUNDS]}, and {[CORRUPTION]} increase every level."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "VIII - The Eightpoints"
+      }
+    }
+  },
+  "6004": {
+    "description": {
+      "_value": {
+        "en": "Attacks against Skaven enemies have a chance to deal double damage. Spawns an Endless Spell and increases {[SUSTAIN]} every minute. Endless Spells are easier to find. Endless Spells may trigger a second time after expiring."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "XIV - The Necroquake"
+      }
+    }
+  },
+  "6005": {
+    "description": {
+      "_value": {
+        "en": "Gain +2 {[REROLL]}, {[SKIP]} and {[BANISH]}. {[SUSTAIN]} and {[STRENGTH]} are increased. These increases are reduced for every follower you have. At critical wounds, all enemies become Battle Shocked and you become Hastened for 10 seconds."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "0 - The Realm of Ulgu"
+      }
+    }
+  },
+  "6006": {
+    "description": {
+      "_value": {
+        "en": "Attracts Stage Items, Pickups, and Light Sources toward you after standing still for a total of 1 minute. If you have the Blessed status effect, you also have the Warded status effect, and vice versa."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "XV - The Realm of Azyr"
+      }
+    }
+  },
+  "6007": {
+    "description": {
+      "_value": {
+        "en": "Healing is doubled. You are immune to Bleeding, Burning, Cursed, Poisoned, Slowed, Stunned, and Vulnerable status effects. Gain additional {[WOUNDS]}, {[TOUGHNESS]} and {[CORRUPTION]} every level. All enemy bosses have the Healing status effect"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "XVI - The Realm of Ghyran"
+      }
+    }
+  },
+  "6008": {
+    "description": {
+      "_value": {
+        "en": "Attacks against Gloomspite Gitz enemies have a chance to deal double damage. Double {[TITHE]} and inflicts the Cursed Status Effect while above 50% {[WOUNDS]}. Doubles {[VETERANCY]} and inflicts the Blessed Status Effect while below 50% {[WOUNDS]}."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "II - The Twin-Tailed Comet"
+      }
+    }
+  },
+  "6009": {
+    "description": {
+      "_value": {
+        "en": "Increases the chance of inflicting status effects on enemies, their duration and their damage by 20%. Level 1 Weapons gain +3 {[ATTACKS]}."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "I - Dracothian"
+      }
+    }
+  },
+  "6010": {
+    "description": {
+      "_value": {
+        "en": "You ignore terrain and gain +10% {[MOVE]}. All enemies have a chance to spawn Poisoned. Gain +1% {[CORRUPTION]} every level."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "XIII - Cursed Skies"
+      }
+    }
+  }
+}

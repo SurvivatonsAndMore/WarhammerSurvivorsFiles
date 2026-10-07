@@ -1,0 +1,134 @@
+{
+  "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+    "description": {
+      "_value": [
+        "--- Weakness identified---\n--- Initiate Combat Doctrines ---"
+      ]
+    },
+    "button": {
+      "_value": [
+        "For Ultramar!"
+      ]
+    },
+    "descriptionInvulnerable": {
+      "_value": [
+        "--- Bio Signature Detected: Xenos ---\n--- Threat level: Extremis ---\n--- Consult Codex Astartes ---"
+      ]
+    },
+    "buttonInvulnerable": {
+      "_value": [
+        "Attack!"
+      ]
+    }
+  },
+  "WS_40K_ORK_BOSS_GHAZGHKULL": {
+    "description": {
+      "_value": [
+        "Ah… my best enemy returns. Let's 'av a proper skrap! WAAAGH!"
+      ]
+    },
+    "button": {
+      "_value": [
+        "Ready yourself."
+      ]
+    },
+    "descriptionInvulnerable": {
+      "_value": [
+        "You must be feelin' lucky coz you're not ready for da Warboss. Good enemies is hard to find. WAAAGH!"
+      ]
+    },
+    "buttonInvulnerable": {
+      "_value": [
+        "Attack!"
+      ]
+    }
+  },
+  "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+    "description": {
+      "_value": [
+        "Heh heh heh… Pathetic tool of the Anathema. You will ROT and be returned to the Plaguefather."
+      ]
+    },
+    "button": {
+      "_value": [
+        "Despair, foul beast!"
+      ]
+    },
+    "descriptionInvulnerable": {
+      "_value": [
+        "The Grandfather laughs at your feebleness. You cannot cauterise this wound. Give in to the rot…"
+      ]
+    },
+    "buttonInvulnerable": {
+      "_value": [
+        "Attack!"
+      ]
+    }
+  },
+  "WS_AOS_SKA_BOSS_VIZZIK": {
+    "description": {
+      "_value": [
+        "Behold Vizzik's gaze... Vizzik's screech... we Kill Kill Yes Yes!"
+      ]
+    },
+    "button": {
+      "_value": [
+        "Return to the darkness, Witch!"
+      ]
+    },
+    "descriptionInvulnerable": {
+      "_value": [
+        "You are vulnerable mortals… no match for Vizzik… you will Die Die!"
+      ]
+    },
+    "buttonInvulnerable": {
+      "_value": [
+        "Attack!"
+      ]
+    }
+  },
+  "WS_AOS_BOK_BOSS_SKARBRAND": {
+    "description": {
+      "_value": [
+        "BLOOD FOR THE BLOOD GOD! SKULLS FOR THE SKULL THRONE!"
+      ]
+    },
+    "button": {
+      "_value": [
+        "For Sigmar!"
+      ]
+    },
+    "descriptionInvulnerable": {
+      "_value": [
+        "SLAUGHTER! CARNAGE! WRATH!!!"
+      ]
+    },
+    "buttonInvulnerable": {
+      "_value": [
+        "Attack!"
+      ]
+    }
+  },
+  "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+    "description": {
+      "_value": [
+        "The light! It hurts… I. Will. Make. It. STOP!!!"
+      ]
+    },
+    "button": {
+      "_value": [
+        "For Sigmar!"
+      ]
+    },
+    "descriptionInvulnerable": {
+      "_value": [
+        "Haha your club don't hurt Trugg… Trugg will crush you!"
+      ]
+    },
+    "buttonInvulnerable": {
+      "_value": [
+        "Attack!"
+      ]
+    }
+  }
+}

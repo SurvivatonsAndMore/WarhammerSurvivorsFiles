@@ -1,0 +1,49 @@
+{  
+  "WS_40K_ImperialBastion": {
+    "title": "Imperial Bastion",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_40K_IMPERIAL_BASTION",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "40K_UI_New",
+    "listSprite": "Button_StageSelect_ImperialBastion.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_40K"
+    ]
+  },
+
+  "WS_AOS_GreatParch": {
+    "title": "The Great Parch",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_AOS_GREAT_PARCH",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "AOS_UI_New",
+    "listSprite": "Button_StageSelect_GreatParch.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_AOS"
+    ]
+  }
+}

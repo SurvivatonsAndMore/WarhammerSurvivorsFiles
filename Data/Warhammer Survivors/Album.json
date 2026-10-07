@@ -1,0 +1,28 @@
+{
+  "WH_40K": {
+    "isUnlocked": true,
+    "title": "Warhammer Survivors 40K",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "contentGroupType" : "BASE",
+    "silos": [
+      "WH_40K"
+    ],
+    "trackList" : [
+      "WS_40K_ImperialBastion"
+    ]
+  },
+  "WH_AOS": {
+    "isUnlocked": true,
+    "title": "Warhammer Survivors AOS",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "contentGroupType" : "BASE",
+    "silos": [
+      "WH_AOS"
+    ],
+    "trackList" : [
+      "WS_AOS_GreatParch"
+    ]
+  }
+}

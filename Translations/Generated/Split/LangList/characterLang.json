@@ -1,0 +1,1537 @@
+{
+  "WS_40K_SISTER_SUPERIOR": {
+    "charName": {
+      "_value": [
+        "Amalia"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Amalia"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with a permanent +40 {[AURA]}"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Sister Superior"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Novena"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +10% {[RANGE]} every 10 levels (max +30%). Gains +10% {[CHANCE]} when below 50% health, increasing the likelihood of the Burning Status Effect being applied."
+      ]
+    }
+  },
+  "WS_40K_ARTEMIS": {
+    "charName": {
+      "_value": [
+        "Artemis"
+      ]
+    },
+    "description": {
+      "_value": [
+        "TBC - Desc (not designed)"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Watch Captain"
+      ]
+    }
+  },
+  "WS_40K_CELESTIAN_SACRESANT_AVELINE": {
+    "charName": {
+      "_value": [
+        "Aveline"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Aveline"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Gains +1% {[SUSTAIN]} every level. Increased damage against Daemons."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Celestian Sacresant"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Aboyé"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +5% {[RANGE]} and {[MOVE]} on defeating a boss. Increased damage against Daemons."
+      ]
+    }
+  },
+  "WS_40K_BROKK": {
+    "charName": {
+      "_value": [
+        "Brokk"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +30% {[MOVE]}. Gains +1 {[TITHE]} every level."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Lord-Magnate"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Grungsson"
+      ]
+    }
+  },
+  "WS_40K_CAIN": {
+    "charName": {
+      "_value": [
+        "Ciaphas"
+      ]
+    },
+    "description": {
+      "_value": [
+        "TBC - Desc (not designed)"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Commissar"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Cain"
+      ]
+    }
+  },
+  "WS_40K_CALGAR": {
+    "charName": {
+      "_value": [
+        "Marneus"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Gains +1% {[RANGE]} every level."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Chapter Master"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Calgar"
+      ]
+    },
+    "description": {
+      "_value": [
+        "{[RANGE]} and {[STRENGTH]} benefit from the difference between {[CHANCE]} and {[CORRUPTION]}."
+      ]
+    }
+  },
+  "WS_40K_CASTELLAN": {
+    "charName": {
+      "_value": [
+        "Black Templars Castellan"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "For each Follower, {[FOLLOWER_BONUS]} {[STRENGTH]} and {[SKILL]}."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +10% {[SKILL]} for each follower."
+      ]
+    }
+  },
+  "WS_40K_CELESTINE": {
+    "charName": {
+      "_value": [
+        "Celestine"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Grows in {[CHANCE]} and {[STRENGTH]} every level. Resurrects stronger."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Saint"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +1% {[SKILL]} and {[AURA]} every level. Redeploys stronger."
+      ]
+    }
+  },
+  "WS_40K_DAEDALOSUS": {
+    "charName": {
+      "_value": [
+        "Daedalosus"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Seeker of divine mechanical arcana who gains +1% {[TITHE]} every level. Collectathon lasts longer."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Technoarcheologist"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Always gets 4 level up choices. Enemies may drop coins instead of gems."
+      ]
+    }
+  },
+  "WS_40K_DANTE": {
+    "charName": {
+      "_value": [
+        "Luis"
+      ]
+    },
+    "description": {
+      "_value": [
+        "TBC - Desc (not designed)"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Commander"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Dante"
+      ]
+    }
+  },
+  "WS_40K_DREKKI": {
+    "charName": {
+      "_value": [
+        "Drekki"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "+250% {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}s, +10 {[REROLL]}s, +10 {[BANISH]}. Gains extra {[TITHE]} as he levels."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Flynt"
+      ]
+    }
+  },
+  "WS_40K_ELEANOR": {
+    "charName": {
+      "_value": [
+        "Eleanor"
+      ]
+    },
+    "description": {
+      "_value": [
+        "TBC - Desc (not designed)"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Geminae Superia"
+      ]
+    }
+  },
+  "WS_40K_EVERSOR_ASSASSIN": {
+    "charName": {
+      "_value": [
+        "Krux"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Overkill by stacking Frenzon to gain multiple cumulative bonuses to random stats."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Kazyda"
+      ]
+    }
+  },
+  "WS_40K_FOBARAN": {
+    "charName": {
+      "_value": [
+        "Fo'Baran"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +50 {[WOUNDS]}, +0.5 {[TOUGHNESS]} and +10% {[VETERANCY]}."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Chaplain"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +5% {[RANGE]} and +0.1 {[TOUGHNESS]} for each Follower. Finds more Hellfire Ammo."
+      ]
+    }
+  },
+  "WS_40K_FURAN": {
+    "charName": {
+      "_value": [
+        "Furan"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Gains +1% {[SKILL]} every level or +1% {[STRENGTH]} if heavily damaged."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Sergeant"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +1% {[SKILL]} per level if above 50% Wounds. \nGains +1% {[STRENGTH]} per level if below 50% Wounds."
+      ]
+    }
+  },
+  "WS_40K_GABRIEL": {
+    "charName": {
+      "_value": [
+        "Gabriel"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Gabriel"
+      ]
+    },
+    "description": {
+      "_value": [
+        "TBC - Desc (not designed)"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Chapter Master"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Seth"
+      ]
+    }
+  },
+  "WS_40K_GARADON": {
+    "charName": {
+      "_value": [
+        "Tor"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Permanent +20% {[RANGE]} and +10% {[SAVE]}. Starts with temporary {[RELOAD]} bonus."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Captain"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Garadon"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Temporary {[ATTACKS]} bonus on levels including the number 3."
+      ]
+    }
+  },
+  "WS_40K_GENEVIEVE": {
+    "charName": {
+      "_value": [
+        "Genevieve"
+      ]
+    },
+    "description": {
+      "_value": [
+        "TBC - Desc (not designed)"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Geminae Superia"
+      ]
+    }
+  },
+  "WS_40K_INQUISITOR_GREYFAX": {
+    "charName": {
+      "_value": [
+        "Katarinya"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Deals more damage to Psykers. Gains 10% more {[VETERANCY]} every 5 levels (max +30%)."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Inquisitor"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Greyfax"
+      ]
+    }
+  },
+  "WS_40K_JUNITH": {
+    "charName": {
+      "_value": [
+        "Junith"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Junith"
+      ]
+    },
+    "description": {
+      "_value": [
+        "TBC - Desc (not designed)"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Canoness Superior"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Eruita"
+      ]
+    }
+  },
+  "WS_40K_JURGEN": {
+    "charName": {
+      "_value": [
+        "Ferik"
+      ]
+    },
+    "description": {
+      "_value": [
+        "TBC - Desc (not designed)"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Gunner"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Jurgen"
+      ]
+    }
+  },
+  "WS_40K_K9_MASTIFF": {
+    "charName": {
+      "_value": [
+        "K9"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "K9"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Gains +1% {[RANGE]} every level. Has a nasty bite."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Mastiff"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Retaliates when taking damage. Temporarily gains the Frenzied status effect at critically low Wounds."
+      ]
+    }
+  },
+  "WS_40K_KOZLOWSKI": {
+    "charName": {
+      "_value": [
+        "Bartosz"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +1 {[REDEPLOYMENT]} and gains more from levelling"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Trooper"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Kozlowski"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +1 {[REDEPLOYMENT]} every 15 levels (max 2). Gains +5% {[VETERANCY]} for each Follower."
+      ]
+    }
+  },
+  "WS_40K_LUCA": {
+    "charName": {
+      "_value": [
+        "Luca"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Luca"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "+1 {[ATTACKS]} with all weapons."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Brother"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Amasius"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Weapon cooldowns reduced by 20%."
+      ]
+    }
+  },
+  "WS_40K_MALUM": {
+    "charName": {
+      "_value": [
+        "Malum"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Malum"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Gains 10% more {[STRENGTH]} every 10 levels (max +50%)."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Caedo"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +5% {[STRENGTH]} for every weapon and passive equipped. +1 Save reduces incoming damage."
+      ]
+    }
+  },
+  "WS_40K_CATACHAN_LEGEND": {
+    "charName": {
+      "_value": [
+        "Catachan"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "The Legend of"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Receives a bonus to {[SUSTAIN]} (max 50%) and to {[STRENGTH]} when defeating many enemies."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Applies the Battleshocked status effect to nearby enemies at critically low Wounds. Finds more explosives."
+      ]
+    }
+  },
+  "WS_40K_MEPHISTON": {
+    "charName": {
+      "_value": [
+        "Mephiston"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Grows stronger every level, but so does the Red Thirst."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Chief Librarian"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Grows stronger every level. Triggers the Red Thirst at significant numbers of defeated enemies."
+      ]
+    }
+  },
+  "WS_40K_VAHL": {
+    "charName": {
+      "_value": [
+        "Morvenn"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Morvenn"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Her mighty warsuit grants elevated stats."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "High Abbess"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Vahl"
+      ]
+    },
+    "description": {
+      "_value": [
+        "All stats improve for every Adepta Sororitas follower."
+      ]
+    }
+  },
+  "WS_40K_PASK": {
+    "charName": {
+      "_value": [
+        "Pask"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Legendary tank commander. Gains +20 {[WOUNDS]} every 10 levels."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Knight-Commander"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +0.1 {[TOUGHNESS]} every level. Crushes enemies while moving."
+      ]
+    }
+  },
+  "WS_40K_SAINT_CELESTINE": {
+    "charName": {
+      "_value": [
+        "Celestine"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Grows in {[CHANCE]} and {[STRENGTH]} every level. Redeploys stronger."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Saint"
+      ]
+    }
+  },
+  "WS_40K_TITUS": {
+    "customCharName": {
+      "_value": [
+        "Lt. Titus"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +1 extra level."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Lieutenant"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Titus"
+      ]
+    },
+    "description": {
+      "_value": [
+        "{[CORRUPTION]} scales with the number of weapons. Receives an Archaeotech at level 13."
+      ]
+    }
+  },
+  "WS_40K_VERITAS": {
+    "charName": {
+      "_value": [
+        "Aurora"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Weapon {[RELOAD]} is reduced by 5% every 10 levels (max -15%)."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Canoness"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Veritas"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +10% {[SUSTAIN]} every 10 levels (max +30%) increasing the duration of weapons and status effects."
+      ]
+    }
+  },
+  "WS_40K_YARRICK": {
+    "charName": {
+      "_value": [
+        "Sebastian"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +10 {[WOUNDS]} and +10% {[STRENGTH]}, {[MOVE]} and {[CORRUPTION]}. Improves stats every 10 levels"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Commissar"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Yarrick"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Consuming Redeployment increases {[STRENGTH]}, {[TOUGHNESS]} and {[CORRUPTION]}."
+      ]
+    }
+  },
+  "WS_40K_BIOLOGIS": {
+    "charName": {
+      "_value": [
+        "Vesparin"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Gallan"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Starts with 1 extra level. Gains +20 {[WOUNDS]} every 10 levels (Max +100)"
+      ]
+    }
+  },
+  "WS_40K_VIGILANT": {
+    "customCharName": {
+      "_value": [
+        "Max"
+      ]
+    },
+    "charName": {
+      "_value": [
+        "Max"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Gains +10ms {[INVULNERABILITY]} every 10 levels (max +150ms). Has a dog."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Mahon"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +1% {[STRENGTH]} every level. Gains a temporary Warded Status Effect on level up."
+      ]
+    }
+  },
+  "WS_40K_TECHPRIEST_MANIPULUS": {
+    "charName": {
+      "_value": [
+        "Vaulk"
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Balphamus"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Gains {[WEAPON_BONUS]} {[TITHE]} for each weapon and passive equipped."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +10% {[TITHE]} for each weapon and passive equipped. Harnesses the Motive Force."
+      ]
+    }
+  },
+  "WS_40K_INQUISITOR": {
+    "charName": {
+      "_value": [
+        "Borian"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Thale"
+      ]
+    },
+    "description": {
+      "_value": [
+        "TBC - Desc (not designed)"
+      ]
+    }
+  },
+  "WS_AOS_CARTHALOScharName": {
+    "_value": [
+      "Bastian"
+    ]
+  },
+  "WS_AOS_CARTHALOS": {
+    "customCharName": {
+      "_value": [
+        "Bastian"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +120 {[WOUNDS]}, +33% {[STRENGTH]}, +40% {[TITHE]}, +20 {[REROLL]}, +10 {[SKIP]}, and +10 {[BANISH]}."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Lord-Commander"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Carthalos"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +0.1 {[TOUGHNESS]} for every 1000 enemies defeated."
+      ]
+    }
+  },
+  "WS_AOS_BROKK": {
+    "charName": {
+      "_value": [
+        "Brokk"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Brokk"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +30% {[MOVE]}. Gains +1 {[TITHE]} every level."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Lord-Magnate"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Grungsson"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Ignores terrain. Gains +2% {[TITHE]} every time a {[REROLL]}, {[SKIP]} or {[BANISH]} is used."
+      ]
+    }
+  },
+  "WS_AOS_CALLIS": {
+    "charName": {
+      "_value": [
+        "Armand"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Callis"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Gains +10% {[SUSTAIN]} every 5 levels (max +40%)."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Callis"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +5% {[RELOAD]} every 10 levels (max +15%).\nHas +2 {[ATTACKS]} with exactly one follower."
+      ]
+    }
+  },
+  "WS_AOS_CELESTANT_PRIME": {
+    "customCharName": {
+      "_value": [
+        "Celestant-Prime"
+      ]
+    },
+    "charName": {
+      "_value": [
+        "Celestant-Prime,"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with large stat boosts. Gains +0.5% {[STRENGTH]} every 10 levels and +1 {[TOUGHNESS]} every 20 levels."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Hammer of Sigmar"
+      ]
+    },
+    "description": {
+      "_value": [
+        "All stats increase for every 1000 enemies defeated."
+      ]
+    }
+  },
+  "WS_AOS_MAJOR_DOCHEVAL": {
+    "charName": {
+      "_value": [
+        "Docheval"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Mjr. Docheval"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +100 {[WOUNDS]}, -20% {[MOVE]} speed, +10% {[STRENGTH]} , +10% {[SKILL]}, +1 {[SAVE]}. Gains extra {[STRENGTH]} per {[SAVE]} increase."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Major"
+      ]
+    },
+    "description": {
+      "_value": [
+        "{[STRENGTH]} scales with {[SAVE]}."
+      ]
+    }
+  },
+  "WS_AOS_DREKKI": {
+    "charName": {
+      "_value": [
+        "Drekki"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Drekki"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "+250% {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}s, +10 {[REROLL]}s, +10 {[BANISH]}. Gains extra {[TITHE]} as he levels."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Flynt"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Chance of collectathon increases with enemies killed."
+      ]
+    }
+  },
+  "WS_AOS_GOTREK": {
+    "charName": {
+      "_value": [
+        "Gotrek"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Gotrek"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +1 {[REDEPLOYMENT]}. Gains 1 more {[REDEPLOYMENT]} at level 35 and another at level 71."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Gurnisson"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +1 {[REDEPLOYMENT]} at certain kill thresholds. Redeploys with the Berserk Status effect."
+      ]
+    }
+  },
+  "WS_AOS_HENDRICK": {
+    "charName": {
+      "_value": [
+        "Hendrick,"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Hendrick"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with -10% {[RELOAD]}. Gains {[SUSTAIN]} every 10 levels (max +24%)."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "The Silver Wolf"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +5% {[AURA]} every 5 levels (max +30%). Gains a temporary Warded status effect whenever a new follower joins."
+      ]
+    }
+  },
+  "WS_AOS_KRETHUSA_THE_CRONESEER": {
+    "charName": {
+      "_value": [
+        "Krethusa"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Krethusa"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Starts with -50 {[WOUNDS]}, +30% {[MOVE]} and +1 extra level. {[RELOAD]} time increases with missing {[WOUNDS]}."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "The Croneseer"
+      ]
+    }
+  },
+  "WS_AOS_KYRAE": {
+    "charName": {
+      "_value": [
+        "Kyrae"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Starts with -10% {[RELOAD]}, +10% {[SKILL]}, +10% {[CHANCE]}."
+      ]
+    }
+  },
+  "WS_AOS_LORAI": {
+    "charName": {
+      "_value": [
+        "Lorai,"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Lorai"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +5% {[CHANCE]} and +30% {[AURA]}."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Child of the Abyss"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +5% {[CHANCE]} every 5 levels (max +30%). Finds more endless spells."
+      ]
+    }
+  },
+  "WS_AOS_LUGASH": {
+    "charName": {
+      "_value": [
+        "Lugash"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Starts with +10% {[STRENGTH]}, +10% {[RANGE]}, +10% {[TITHE]}, +10% Curse. Collect Ur-Gold for stat boosts and reaching critical health causing Berserk."
+      ]
+    }
+  },
+  "WS_AOS_LYSSA_REVENYA": {
+    "charName": {
+      "_value": [
+        "Lyssa"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Lyssa"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +1 {[ATTACKS]} and +25% {[SUSTAIN]}. Gains a bonus to {[CHANCE]} and {[MOVE]} when lots of enemies are in sight."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Revenya"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains a bonus to {[CHANCE]} and {[MOVE]} when lots of enemies are in sight."
+      ]
+    }
+  },
+  "WS_AOS_MALENETH_WITCHBLADE": {
+    "charName": {
+      "_value": [
+        "Maleneth"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Maleneth"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Deadly assassin. Starts with +20% {[SUSTAIN]}, +30% {[MOVE]} and +5 {[REROLL]}s. {[MOVE]} increases {[STRENGTH]}."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Witchblade"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +5% {[MOVE]}, {[STRENGTH]} and {[SUSTAIN]} for every boss defeated."
+      ]
+    }
+  },
+  "WS_AOS_MORGWAETH": {
+    "charName": {
+      "_value": [
+        "Morgwaeth"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Morgwaeth"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Starts with +20% {[SKILL]} and +1 {[ATTACKS]}. {[CHANCE]} increases by 10% every 5 levels (max +30%)."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "the Bloodied"
+      ]
+    }
+  },
+  "WS_AOS_NEAVE": {
+    "charName": {
+      "_value": [
+        "Neave"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Neave"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +20% {[MOVE]}. Gains +10% {[RANGE]} every 5 levels (max 30%)."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Blacktalon"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Moves 20% faster. Gains +10% {[RANGE]} every 5 levels (max 30%)."
+      ]
+    }
+  },
+  "WS_AOS_ROSTUS": {
+    "charName": {
+      "_value": [
+        "Rostus"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Rostus"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +2 {[ATTACKS]}, +25% {[STRENGTH]} and +10% {[CHANCE]}."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Oxenhammer"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +10 {[WOUNDS]} for every 1000enemies defeated."
+      ]
+    }
+  },
+  "WS_AOS_GOLDENBLADE": {
+    "charName": {
+      "_value": [
+        "Shakana"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Shakana"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +10% {[SKILL]}. Gains 10% more {[SKILL]} every 5 levels (max +40%)."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Goldenblade"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +5% {[SKILL]} every 10 levels (max 30%). Gains +5% {[VETERANCY]} for every Weapon equipped."
+      ]
+    }
+  },
+  "WS_AOS_SHARYNN": {
+    "charName": {
+      "_value": [
+        "Sharynn"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Sharynn"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +25 {[WOUNDS]}, +1 {[SAVE]} and +1 {[TOUGHNESS]}."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Azurwrath"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains a bonus to {[STRENGTH]} and {[RELOAD]} at critically low Wounds."
+      ]
+    }
+  },
+  "WS_AOS_STEEL_ROOK": {
+    "charName": {
+      "_value": [
+        "Steel Rook"
+      ]
+    },
+    "description": {
+      "_value": [
+        "TBC - Desc (not designed)"
+      ]
+    }
+  },
+  "WS_AOS_TOLL": {
+    "charName": {
+      "_value": [
+        "Hanniver"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Gains +10% {[SKILL]} every 5 levels (max +30%)."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Toll"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +5% {[SUSTAIN]} every 5 levels (max +30%). +10% Damage against bosses."
+      ]
+    }
+  },
+  "WS_AOS_ULGROMTHIER": {
+    "charName": {
+      "_value": [
+        "Ulgromthier"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +10 {[WOUNDS]}. Gains {[STRENGTH]} (max 30%), {[ATTACKS]} (max +3) and {[SKILL]} (max 15%) with level up."
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains a random stat buff for every 100 coins collected. Finds more Ur-Gold runes."
+      ]
+    }
+  },
+  "WS_AOS_VALIUS": {
+    "charName": {
+      "_value": [
+        "Valius,"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Valius"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Gains +1 {[SAVE]} every 5 levels (Max +5)."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "the Keeper Aqshian"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +5% {[STRENGTH]}, {[RELOAD]}, {[RANGE]} and {[MOVE]} every 10 Levels. Corruption scales with all stats."
+      ]
+    }
+  },
+  "WS_AOS_MISTRESS_VERENTIA": {
+    "charName": {
+      "_value": [
+        "Verentia"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with -20% {[MOVE]}, +20% {[SKILL]}, and +20% {[SUSTAIN]}. {[SKILL]} increases every level."
+      ]
+    },
+    "prefix": {
+      "_value": [
+        "Mistress"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +5% {[MOVE]}, {[WOUNDS]} and {[SKILL]} every time she levels up her starting weapon."
+      ]
+    }
+  },
+  "WS_AOS_YNDRASTA": {
+    "charName": {
+      "_value": [
+        "Yndrasta,"
+      ]
+    },
+    "customCharName": {
+      "_value": [
+        "Yndrasta"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +30 {[WOUNDS]}, +1 {[SAVE]}, +10% {[RANGE]}, +10% {[STRENGTH]}, +10% {[MOVE]} and -10% {[RELOAD]}."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "the Celestial Spear"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +0.5% {[SUSTAIN]} and {[CHANCE]} every level. Deals 50% extra damage to bosses."
+      ]
+    }
+  },
+  "WS_AOS_SCALEBREAKER": {
+    "charName": {
+      "_value": [
+        "Scalebreaker"
+      ]
+    },
+    "description": {
+      "_value": [
+        "TBC - Desc (not designed)"
+      ]
+    }
+  },
+  "WS_AOS_FREEGUILD_FUSILIER": {
+    "customCharName": {
+      "_value": [
+        "Juntar"
+      ]
+    },
+    "charName": {
+      "_value": [
+        "Juntar"
+      ]
+    },
+    "descriptionOld": {
+      "_value": [
+        "Starts with +1 {[SAVE]}, -10% {[MOVE]} and +10% {[CORRUPTION]}. Gains +5% {[STRENGTH]} and {[CORRUPTION]} every 10 levels (max +30%)."
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Bernskyn"
+      ]
+    },
+    "description": {
+      "_value": [
+        "Gains +1 {[SAVE]} and +10% {[RELOAD]} when stationary."
+      ]
+    }
+  },
+  "WS_AOS_FLAMESEEKER": {
+    "customCharName": {
+      "_value": [
+        "Thula"
+      ]
+    },
+    "charName": {
+      "_value": [
+        "Thula"
+      ]
+    },
+    "surname": {
+      "_value": [
+        "Scalehide"
+      ]
+    },
+    "description": {
+      "_value": [
+        "TBC - Desc (not designed)"
+      ]
+    }
+  }
+}

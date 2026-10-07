@@ -1,0 +1,662 @@
+{
+  "en": {
+    "WS_40K_DEA_BEAST_OF_NURGLE": {
+      "bDesc": {
+        "_value": "Simple minded-entities their victims are simply toys to be enjoyed. You are, naturally, a willing playmate; to be chewed, clawed, and shaken with great merriment. However, the exuberant play of the Beast of Nurgle, combined with it's sheer size and natural malignance mean you are certainly not surviving this game."
+      },
+      "bName": {
+        "_value": "Beast of Nurgle"
+      }
+    },
+    "WS_40K_DEA_BLIGHTLORD_TERMINATOR": {
+      "bDesc": {
+        "_value": "These elite Death Guard warriors embody the very heart of the corruption of Nurgle. Fused forever to their malignant Cataphractii armour, their vile touch infests everything. Ancient and awesome power radiates from them, and they fight with brute strength and veteran skill, using all forms of malady to slaughter their foes."
+      },
+      "bName": {
+        "_value": "Blightlord Terminator"
+      }
+    },
+    "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+      "bDesc": {
+        "_value": "Greater Daemons of Nurgle, they are said to be moulded in the image of the Plague God. Malfeasant antlers crown their round heads, and their lasciviously grinning mouths drip with putrid slime. Serving as generals in Mortarion's army, they wield great corroded blades that cleave enemies. Their true strength lies in their putrid, rotund bodies. Unfortunate souls find themselves crushed beneath their immense weight, or swallowed whole to rot in their massive stomachs."
+      },
+      "bName": {
+        "_value": "Great Unclean One"
+      }
+    },
+    "WS_40K_DEA_BOSS_MORTARION": {
+      "bDesc": {
+        "_value": "Daemon Prince of Nurgle and betrayer of the Emperor, Mortarion leads the Death Guard. To merely stand in his presence is to endure a barrage of plagues, to challenge him is to risk everything. Flying into battle on decayed wings, to personally command his gene-sons. He swings his colossal scythe, dubbed Silence, for that is all that is left in his wake."
+      },
+      "bName": {
+        "_value": "Mortarion, Daemon Primarch of Nurgle"
+      }
+    },
+    "WS_40K_DEA_HELBRUTE": {
+      "bDesc": {
+        "_value": "Ancient champions of the Death Guard are interred within Helbrutes so that they may continue spreading the Blessings of Nurgle throughout their cursed half-life. These walking tanks wreak indiscriminate destruction, fitted with a wide array of armaments. Even one such behemoth can turn the tide of a battle."
+      },
+      "bName": {
+        "_value": "Helbrute"
+      }
+    },
+    "WS_40K_DEA_MIASMIC_MALIGNIFIER": {
+      "bDesc": {
+        "_value": "Wreathed in pestilence these furnaces belch thick smog from their corroded chimneys. Parasitic in nature, they siphon filth from the ground and spread pollution like a thick blanket across a planet's surface."
+      },
+      "bName": {
+        "_value": "Miasmic Malignifier"
+      }
+    },
+    "WS_40K_DEA_MYPHITIC_BLIGHT_HAULER": {
+      "bDesc": {
+        "_value": "Nurgle does not only corrupt flesh, but engines of war. The Myphitic Blight-Hauler is a relatively swift bringer of targeted destruction on the battlefield. In packs of three, they speed into battle, devouring the filth of the battlefield and enshrouding themselves in a noxious smog."
+      },
+      "bName": {
+        "_value": "Myphitic Blight-Hauler"
+      }
+    },
+    "WS_40K_DEA_NURGLING": {
+      "bDesc": {
+        "_value": "Spawned from the putrid folds of Great Unclean Ones, these gleeful imps spill across the battlefield to the peal of laughter. Individually they are not overly dangerous, but their needle-sharp fangs and talons are fatally infectious. Even the mightiest warrior can be brought low by these sassy, scrabbling daemons."
+      },
+      "bName": {
+        "_value": "Nurgling"
+      }
+    },
+    "WS_40K_DEA_PLAGUEBEARER": {
+      "bDesc": {
+        "_value": "Daemonic foot soldiers, Plaguebearers shamble forth in a mess of gangrenous limbs, surrounded by the thrum of flies and brandishing their blighted plagueswords. Intent of carrying out the endless task of tallying the sicknesses inflicted by Grandfather Nurgle, a mass of Plaguebearers will always be announced by the melancholic cacophony of counting."
+      },
+      "bName": {
+        "_value": "Plaguebearer"
+      }
+    },
+    "WS_40K_DEA_PLAGUE_DRONE": {
+      "bDesc": {
+        "_value": "Borne from the most morose Beasts of Nurgle, these fly-like daemons are excellent mounts for the Daemon Prince's hordes. Mounted Plaguebearers' hurl death's heads, repulsive plague bombs that were once the heads of their enemies. Once the barrage is done, the drones slam into their foes with reckless abandon. Limbs slashing, and needle-like proboscis jabbing, many flee in terror and disgust. They do not get far."
+      },
+      "bName": {
+        "_value": "Plague Drone"
+      }
+    },
+    "WS_40K_DEA_PLAGUEMARINE": {
+      "bDesc": {
+        "_value": "Transforming the best of transhuman traits into their most virulent forms, these soldiers embody Nurgle's putrescent gifts. These infernal blessings give them nightmarish abilities to spread disease and decay through sanctified enviro-seals. Though they specialise in short-range munitions, they do still wield their boltguns, sodden with corruption."
+      },
+      "bName": {
+        "_value": "Plague Marine"
+      }
+    },
+    "WS_40K_DEA_POXWALKER": {
+      "bDesc": {
+        "_value": "Created from a cocktail of Nurgle's most foetid plagues. Infected with their pestilence, your body will transform and decay all at once, corrupted by Nurgle. But rest will not find you, and you will rise again forever trapped inside this twisted form to rampage in the name of Nurgle."
+      },
+      "bName": {
+        "_value": "Poxwalker"
+      }
+    },
+    "WS_40K_DEA_TYPHUS": {
+      "bDesc": {
+        "_value": "Herald of Nurgle and Host of the Destroyer Hive, Typhus is an ancient champion of Nurgle who has long fought beside Mortarion. He has brought Grandfather Nurgle's gifts to many a world, blanketing them in swarms of Poxwalkers, destroying everything in his wake and adding more allies to his virulent horde."
+      },
+      "bName": {
+        "_value": "Typhus"
+      }
+    },
+    "WS_40K_ORK_BIG_MEK": {
+      "bDesc": {
+        "_value": "The best laid plans and blueprints are nothing compared to Mek who knows what’s what. Cobbling together whatever feels right in the moment, constantly tinkering and experimenting with their creations, Meks produce some of the weirdest, and the most powerful weapons the Orks use. The Shokk Attack Gun is no exception. The Shokk Attack Gun fires small Snotlings, hurled through a warp portal, appearing on top of the Orks enemies. The terrified snotlings then tear into anything they happen to emerge in front of, on top of, or even inside of their foes. A truly shocking experience for the unsuspecting."
+      },
+      "bName": {
+        "_value": "Big Mek with Shokk Attack Gun"
+      }
+    },
+    "WS_40K_ORK_BOMB_SQUIG": {
+      "bDesc": {
+        "_value": "Living weapons of Ork design, these squigs are loaded with explosives. Stuffed and strapped with anything the Orks have on hand, everything from Tankbusta bombs to pressure mines, and a good helping of Stikkbombs. Through rudimentary training they are taught to chase down enemy tanks, fearlessly and without any sense of self-preservation."
+      },
+      "bName": {
+        "_value": "Bomb Squig"
+      }
+    },
+    "WS_40K_ORK_BOSS_GHAZGHKULL": {
+      "bDesc": {
+        "_value": "Ghazghkull Mag Uruk Thraka, Prophet of the Waaagh! is a fearsome warlord of the Goff Klan, and long-time nemesis of Commissar Yarrick. He’s has left many an Imperial world ablaze in the wake of his Waaagh! Yet he is insatiable. His lust to see the green tide swell means he ventures on, subjugating every clan and Warboss under his banner."
+      },
+      "bName": {
+        "_value": "Ghazghkull Thraka"
+      }
+    },
+    "WS_40K_ORK_BOY_A": {
+      "bDesc": {
+        "_value": "Ork Boyz are the many warriors that make up the backbone of the Orks armies. There are many types of Boyz, and not a lot of distinction between them. An Ork can be a Shoota, an ‘Ard Boy, and a Trukkboy at the same time. In battle, you’re most likely to encounter the Choppa Boyz, but if the dakka is loud and flashy enough, they’ll happily shoot you whilst closing the distance to get their green fists on you."
+      },
+      "bName": {
+        "_value": "Boy"
+      }
+    },
+    "WS_40K_ORK_GRETCHIN": {
+      "bDesc": {
+        "_value": "Also known as Grots, or Runts they share many similarities with their bigger, stronger clan mates. They ruefully serve the stronger Orks, their size being their main hindrance in advancing the ranks. Some even operate their own black-market businesses. Synonymous with cunning, and with a lack of any real physical prowess, these very un-Orky creatures are still a menace on the battlefield, with their flashy blastas and sharp stabbas."
+      },
+      "bName": {
+        "_value": "Gretchin"
+      }
+    },
+    "WS_40K_ORK_GRUKK_FACE_RIPPA": {
+      "bDesc": {
+        "_value": "Grukk the unstoppable is ten feet of muscle and rage! Once, he used his brutal power Klaw to rip his former boss’s face off. Grukk’s temper is well known throughout the clan, even going so far as to rip a camp apart because a Grot spilled engine oil on his breakfast."
+      },
+      "bName": {
+        "_value": "Grukk Face-Rippa"
+      }
+    },
+    "WS_40K_ORK_KILLA_KAN": {
+      "bDesc": {
+        "_value": "Small Orkish walkers, made by Meks and Painboyz. Crude in their appearance, but complex in their design, they are piloted by a Gretchin, eagerly wired into the large metal cans. The power and glory of their newfound strength carry them through battlefields, stomping on whatever gets in their way."
+      },
+      "bName": {
+        "_value": "Killa Kan"
+      }
+    },
+    "WS_40K_ORK_LOOTAS": {
+      "bDesc": {
+        "_value": "Thievin’ Orks who will pinch any and every piece of weaponry they can get their hands on. Meks use this stolen weaponry to make their fearsome Deffguns. These guns are strapped to the Lootas broad shoulders, and fire high calibre dakka than can easily pierce even the thickest armour."
+      },
+      "bName": {
+        "_value": "Loota"
+      }
+    },
+    "WS_40K_ORK_MAKARI": {
+      "bDesc": {
+        "_value": "Makari is perhaps the luckiest Grot there ever was, serving the glorious Goff Warboss Ghazghkull Thraka. Seen to follow his master into battle, wielding Da Lucky Stikk - a Bosspole adorned in bloody symbols drawn by Makari himself - Makari remains dutifully at Ghazghkull’s side. Despite many accusations to the contrary."
+      },
+      "bName": {
+        "_value": "Makari"
+      }
+    },
+    "WS_40K_ORK_MEGA_NOBZ": {
+      "bDesc": {
+        "_value": "Most Nobz enjoy a good Shoota. But the more krumpin’ up close the better, is usually the Orky way of thinking. Meganobz relish the thrill of close quarters combat. Clad in Mek made Mega Armour, their tremendous strength is felt across battlefields."
+      },
+      "bName": {
+        "_value": "Meganob"
+      }
+    },
+    "WS_40K_ORK_NOB_A": {
+      "bDesc": {
+        "_value": "Larger than a Boy and smaller than a Warboss, the Nobz have some authority over their peers. Arrogant, cruel Orks who love to boss around a mob of Boyz with impunity, they wield a variety of deadly weapons. But nothing looks better than a good 'ol flashy Shoota, maybe with a kustom job from an affordable Mek."
+      },
+      "bName": {
+        "_value": "Nob"
+      }
+    },
+    "WS_40K_ORK_RUNTHERD": {
+      "bDesc": {
+        "_value": "These callous taskmasters of the Oddboyz are as malicious as the next Ork, forcing Grots to the front lines relentlessly with their Grabba-Stikks and Grot Prods."
+      },
+      "bName": {
+        "_value": "Runtherd"
+      }
+    },
+    "WS_40K_ORK_WARBIKER": {
+      "bDesc": {
+        "_value": "Part of the Kult of Speed, these Orks are also known as Speed Freeks, and are entirely addicted to storming into battle as fast as they possibly can. Featuring Nitro-Squig fuel injektors, ultraboomerz blasting some good ol' Goff Rock, huge spoilers and billowing exhaust vents, these Warbikers are more than capable of upending the battlefield and looking way flashier than their mates whilst doing it."
+      },
+      "bName": {
+        "_value": "Warbiker"
+      }
+    },
+    "WS_40K_ORK_WEIRD_BOY": {
+      "bDesc": {
+        "_value": "Storms of Waaagh! energy flow into the Weirdboy, himself acting as a conduit for the potent psychic forces. Pain follows, an agonising blaze which burns through their bodies. In time, the all-consuming pressure builds to its pinnacle, and their heads explode. The explosions of Waaagh! energy wreak untold havoc on the Orks unlucky enough to be within head-popping range of the Weirdboy."
+      },
+      "bName": {
+        "_value": "Weirdboy"
+      }
+    },
+    "WS_40K_TYR_BIOVORE": {
+      "bDesc": {
+        "_value": "Living artillery of the Hive Mind. They anchor themselves into the ground with chitinous spurs only to wrack their bodies with violent spasms as they use their progeny as living ammunition."
+      },
+      "bName": {
+        "_value": "Biovore"
+      }
+    },
+    "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+      "bDesc": {
+        "_value": "Born of the Norn-Queen, these brutish bioforms are instilled only with the knowledge they need to complete their mission - killing you. These apex predators combine the Hive Mind's terrifying psionic potential with a speed, intelligence, and strength not found within the rank and file of the Tyranids. Running is the only sensible option, should you wish to survive your encounter with this monstrosity."
+      },
+      "bName": {
+        "_value": "Norn Emissary"
+      }
+    },
+    "WS_40K_TYR_CARNIFEX": {
+      "bDesc": {
+        "_value": "Towering masses of chitinous armour storm the battlefield, and suddenly your weapons ricochet. Even your heaviest weapons do little against the Hive Fleet's deadliest creatures as they tear through the battlefield, crushing your allies with terrifying ease."
+      },
+      "bName": {
+        "_value": "Carnifex"
+      }
+    },
+    "WS_40K_TYR_HIVETYRANT": {
+      "bDesc": {
+        "_value": "Hive Tyrants enact the Hive Mind's will on the battlefield as the massive commanders of the Tyranid swarm. Every part of their body is perfectly sculpted to maim, kill, and consume - and guide lesser bioforms in doing the same."
+      },
+      "bName": {
+        "_value": "Hive Tyrant"
+      }
+    },
+    "WS_40K_TYR_HORMAGAUNT": {
+      "bDesc": {
+        "_value": "Swarms of these vicious bioforms are drawn by the scent of fresh blood. With bladed talons, they carve their way through the worlds they rampage across, moving with a singular, unrelenting purpose. Reports state that whole bastions of the Imperium have been buried in the tsunami of their attacks."
+      },
+      "bName": {
+        "_value": "Hormagaunt"
+      }
+    },
+    "WS_40K_TYR_LEAPER": {
+      "bDesc": {
+        "_value": "Stealthy ambushers with large blade-like claws, these cunning hunters lie in wait, lurking in shadows for the optimum time to pounce on their prey."
+      },
+      "bName": {
+        "_value": "Von Ryan's Leaper"
+      }
+    },
+    "WS_40K_TYR_RIPPERSWARM": {
+      "bDesc": {
+        "_value": "A carpet of living teeth, these minuscule Tyranids are the primary means of consuming biomass for the Hive Fleet. Small but brutal forces, they are relentless, often massacring foes many times their size."
+      },
+      "bName": {
+        "_value": "Ripper"
+      }
+    },
+    "WS_40K_TYR_SPOREMINE": {
+      "bDesc": {
+        "_value": "Creating a bio-minefield for enemy troops, Spores move swiftly through the air and explode with lethal force."
+      },
+      "bName": {
+        "_value": "Spore Mine"
+      }
+    },
+    "WS_40K_TYR_TERMAGANT_A": {
+      "bDesc": {
+        "_value": "Spawned with the purpose to hunt prey in the tight corridors of Hive ships, Termagants seek to outflank and envelop their victims."
+      },
+      "bName": {
+        "_value": "Termagant"
+      }
+    },
+    "WS_40K_TYR_TYRANID_PRIME": {
+      "bDesc": {
+        "_value": "The apex of the Warrior strain, these beasts boast a fearsome intellect relaying the Hive Mind's commands from the air. With a frightening speed and manoeuvrability, they rend and tear until all that remains is viscera for their consumption."
+      },
+      "bName": {
+        "_value": "Winged Tyranid Prime"
+      }
+    },
+    "WS_40K_TYR_WARRIOR_A": {
+      "bDesc": {
+        "_value": "The most adaptable of all the Hive Mind's bioforms, these adept killing machines employ a wide variety of bio-weapons. They can be long-range or close-quarters fighters forming vital links through which the Hive Tyrants can issue their commands."
+      },
+      "bName": {
+        "_value": "Warrior"
+      }
+    },
+    "WS_40K_TYR_WARRIOR_A_OLD": {
+      "bName": {
+        "_value": "Warrior with Claws and Talons"
+      }
+    },
+    "WS_40K_TYR_WARRIOR_B": {
+      "bDesc": {
+        "_value": "The most adaptable of all the Hive Mind's bioforms, these adept killing machines employ a wide variety of bio-weapons. They can be long-range or close-quarters fighters forming vital links through which the Hive Tyrants can issue their commands."
+      },
+      "bName": {
+        "_value": "Warrior with Devourer"
+      }
+    },
+    "WS_40K_TYR_ZOANTHROPE": {
+      "bDesc": {
+        "_value": "Zoanthropes are the powerful psykers of the Hive Mind, floating through the battlefield with bulbous heads protected by chitinous plates."
+      },
+      "bName": {
+        "_value": "Zoanthrope"
+      }
+    },
+    "WS_AOS_BOK_BLOODCRUSHER_A1": {
+      "bDesc": {
+        "_value": "Bloodletters, once they have impressed Khorne, are granted a mount: a Juggernaut. These beasts carry the bloodletters into battle, but do not be fooled; it is not the Bloodletters who decide where the Juggernaut goes."
+      },
+      "bName": {
+        "_value": "Bloodcrusher"
+      }
+    },
+    "WS_AOS_BOK_BLOODLETTER_A1": {
+      "bDesc": {
+        "_value": "Legends say these creatures are Khorne’s most ardent worshippers reborn as daemons, with the same insatiable hunger for blood as their lord. Do not let their ghastly hellblades meet your neck, lest your skull be placed upon the Skull Throne of Khorne."
+      },
+      "bName": {
+        "_value": "Bloodletter"
+      }
+    },
+    "WS_AOS_BOK_BLOODREAVER_A1": {
+      "bDesc": {
+        "_value": "Frenzied mortal followers of Khorne, these warriors pursue slaughter with a surprising glee. But do not let the mortality of these enemies cloud your judgement, they are no less fervent in their worship of Khorne and will ensure the blood flows for the Blood God."
+      },
+      "bName": {
+        "_value": "Bloodreaver"
+      }
+    },
+    "WS_AOS_BOK_BLOODSTOKER_A1": {
+      "bDesc": {
+        "_value": "Bloodstokers are the whip cracking against the backs of the horde, wrangling them into shape and wielding their strength against the enemies of Khorne."
+      },
+      "bName": {
+        "_value": "Bloodstoker"
+      }
+    },
+    "WS_AOS_BOK_BLOODWARRIOR_A1": {
+      "bDesc": {
+        "_value": "Mired in a fog of rage brought forth by the Red Baptism, the berserk Blood Warriors see only red. Their battle frenzy blinds them, even to the most fatal of wounds."
+      },
+      "bName": {
+        "_value": "Blood Warrior"
+      }
+    },
+    "WS_AOS_BOK_BOSS_SKARBRAND": {
+      "bDesc": {
+        "_value": "Though fallen from Khorne’s favour, there has never been a Bloodthirster more feared than Skarbrand. His fury spills a river of red across every battlefield he visits. His ferocious roars and the ensuing screams echo as his victims' blood boils within their bodies."
+      },
+      "bName": {
+        "_value": "Skarbrand"
+      }
+    },
+    "WS_AOS_BOK_FLESHHOUND_A1": {
+      "bDesc": {
+        "_value": "These beasts relentlessly hunt their master’s prey across interstellar gulfs. Be wary of gnashing jaws and razor-sharp claws. Do not think to use magic against these forsaken hounds, for the collars around their necks protect them from even the most potent sorceries. Lastly, under no circumstances should you try to pet these canine abominations."
+      },
+      "bName": {
+        "_value": "Flesh Hound"
+      }
+    },
+    "WS_AOS_BOK_KHORGORATH": {
+      "bDesc": {
+        "_value": "Once mortal, the Khorgorath is now unrecognisable. These nightmarish monsters are sent to harvest skulls for the Skull Throne, which they consume after tearing apart their foes. Few things can stop a Khorgorath on a rampage; fewer still live to tell the tale."
+      },
+      "bName": {
+        "_value": "Khorgorath"
+      }
+    },
+    "WS_AOS_BOK_MIGHTYSKULLCRUSHER_A1": {
+      "bDesc": {
+        "_value": "Mortal warriors deemed worthy in the eyes of Khorne, these cavalry can break through any battle line. The Juggernauts bear their riders in the direction of the nearest prey, which for warriors of Khorne, is the right direction."
+      },
+      "bName": {
+        "_value": "Mighty Skullcrusher"
+      }
+    },
+    "WS_AOS_BOK_SKULLGRINDER_A1": {
+      "bDesc": {
+        "_value": "Legends say these wild anvil-wielding warriors appeared from nowhere. Legends neglect to say that the anvils they wield are used to forge weapons and to perform sacrifices to the Skull Lord."
+      },
+      "bName": {
+        "_value": "Skullgrinder"
+      }
+    },
+    "WS_AOS_BOK_SKULLCANNON": {
+      "bDesc": {
+        "_value": "The Lord of Rage looks unfavourably upon ranged weapons; they are impersonal and lacking. But weapons that decimate their foes and provoke the most primal terror? Those are acceptable. And so the wretched daemon engines hunger for the melee, roaring into combat with gnashing jaws ready to consume their foes. Those that meet this grisly fate have their skulls flensed and ignited, then hurled towards the daemon’s enemy with explosive force."
+      },
+      "bName": {
+        "_value": "Skull Cannon"
+      }
+    },
+    "WS_AOS_BOK_WRATHAXE_A1": {
+      "bDesc": {
+        "_value": "Khorne’s anger made manifest. A Wrath Axe is conjured by Khornate priests to wreak havoc on a battlefield. With its razor-sharp edge, a Wrath Axe will cleave through anything in its path, spilling more blood for the Blood God."
+      },
+      "bName": {
+        "_value": "Wrath-axe"
+      }
+    },
+    "WS_AOS_GLO_BOINGROT_BOUNDERZ": {
+      "bDesc": {
+        "_value": "Most squigs cannot sit still long enough to allow a grot to mount them, and when they do they make it a challenge to hang on. For the lucky grots able to cling to their ornery mounts, fewer still survive more than a few battles. Those survivors wear it with excessive pride, donning moon shaped Loonhelms and bringing extra long pokey lances with them."
+      },
+      "bName": {
+        "_value": "Boingrot Bounder"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "bDesc": {
+        "_value": "Once a slumbering behemoth beneath the realm of Ghyran, Trugg, mightiest of all Troggoths was awakened by Alarielle's Rite of Life. And thanks to Braggit Big-Talka annoying him so much he couldn't get back to sleep, Trugg has since been named King of the Troggoths. On his back he carries an ancient arcane keystone that crackles with otherworldly power, especially when Trugg gives it a good whack, hoping it might cease his endless headache. Trugg has carved his way through many a battle, armed with his snail-shell club and unpredictable bursts of magic."
+      },
+      "bName": {
+        "_value": "Trugg the Troggoth King"
+      }
+    },
+    "WS_AOS_GLO_DANKHOLD_TROGGOTH": {
+      "bDesc": {
+        "_value": "Loners even amongst the most anti-social troggoths, the Dankhold Troggoths grow – or shrink – to fit any cavern or crevice they squeeze themselves into. Should these reclusive Troggoths be summoned into battle by the will of the Bad Moon, they swat at everything within reach. Like all troggoths, they possess impressive regenerative capabilities, but are uniquely resistant to magic thanks to a diet of realmstone-infused fungi."
+      },
+      "bName": {
+        "_value": "Dankhold Troggoth"
+      }
+    },
+    "WS_AOS_GLO_FELLWATERTROGGOTH": {
+      "bDesc": {
+        "_value": "With no environment too rank for the Fellwater Troggoth, and a hide that secretes a noxious slime, it is good that these creatures dwell only in the most malignant places. Many grots, however, in their infinite wisdom, enjoy prodding the packs of beasts towards their Orruk neighbours. Only to watch the ensuing carnage with glee, hoping the troggoths do not return in search of tasty grot-meat."
+      },
+      "bName": {
+        "_value": "Fellwater Troggoth"
+      }
+    },
+    "WS_AOS_GLO_LOON_BOSS_ON_GIANT_CAVE_SQUIG": {
+      "bDesc": {
+        "_value": "Armed with luck and cunning, these grots have risen to the top of the Moonclan pecking order as their enemies lie behind them with a knife in their backs, or a blade to their throats. The more daring Loonbosses mount Giant Cave Squigs. These fantastically fanged mounts barrel and bounce into their enemies, paving the way for the rest of their comrades."
+      },
+      "bName": {
+        "_value": "Loonboss on Giant Cave Squig"
+      }
+    },
+    "WS_AOS_GLO_LOONSMASHA_FANATIC": {
+      "bDesc": {
+        "_value": "Driven insane by Madcap Mushroom brew and with a distinct lack of self-preservation, these insane grots are wound up and shoved towards the enemy like a wrecking ball. Literally. For such small grots, they pack a punch, but inevitably succumb quickly to either exhaustion or getting tangled in their own weapons. Beware these fanatical little guys as they spin across the battlefield."
+      },
+      "bName": {
+        "_value": "Loonsmasha Fanatic"
+      }
+    },
+    "WS_AOS_GLO_MALEVOLENT_MOON": {
+      "bDesc": {
+        "_value": "Behold the visage of the Bad Moon itself! The Malevolent Moon is conjured when a shaman raises high a carved loonstone and utters an incantation. The statue swells into a cackling, glowing abomination that sweeps across the battlefield, wreaking havoc."
+      },
+      "bName": {
+        "_value": "Malevolent Moon"
+      }
+    },
+    "WS_AOS_GLO_MANGLER_SQUIG": {
+      "bDesc": {
+        "_value": "What’s more insane than riding one untamable squig into battle? Riding two untamable, overgrown Mangler Squigs into battle! Chained together, they crash and bound through the battlefield, the grots on their backs truly at the mercy of the toothy terrors."
+      },
+      "bName": {
+        "_value": "Mangler Squigs"
+      }
+    },
+    "WS_AOS_GLO_MOONCLANSTABBAS": {
+      "bDesc": {
+        "_value": "The Moonclan are subterranean Gitz that pray to Gorkamorka and the Bad Moon. In battle, they form ragged ranks that advance on their enemies with bulging eyes, induced into a mania by the Gloomspite to stab and poke wildly at anything in their path."
+      },
+      "bName": {
+        "_value": "Moonclan Stabba"
+      }
+    },
+    "WS_AOS_GLO_MORKS_MIGHTY_MUSHROOM": {
+      "bDesc": {
+        "_value": "A single spore from between the caster’s squalid toes. Infused with magic, as the mushroom swells and grows, it grows taller and taller, blooming into something utterly foul."
+      },
+      "bName": {
+        "_value": "Mork's Mighty Mushroom"
+      }
+    },
+    "WS_AOS_GLO_ROCKGUTTROGGOTH": {
+      "bDesc": {
+        "_value": "Where other forces have siege weapons, the Gloomspite Gitz use the hardiest of Troggothkind. The Rockgut Troggoth have lumpen claws that pass through stone as though it were water, allowing them to scoop up huge clumps of earth and throw boulders at will. Subtle they are not."
+      },
+      "bName": {
+        "_value": "Rockgut Troggoth"
+      }
+    },
+    "WS_AOS_GLO_SQUIGHOPPER": {
+      "bDesc": {
+        "_value": "Grots of legend who ride mighty cave squigs into battle, boldly bouncing through battlefields, wreaking havoc. At least that’s what the Moonclan would have you believe. Each ill-tempered squig has a cackling grot clinging to its back, who flails wildly at nearby enemies as they try vainly to steer their pugnacious steed."
+      },
+      "bName": {
+        "_value": "Squig Hopper"
+      }
+    },
+    "WS_AOS_PURPLE_SUN_OF_SHYISH": {
+      "bDesc": {
+        "_value": "TBC - Desc"
+      },
+      "bName": {
+        "_value": "Purple Sun of Shyish"
+      }
+    },
+    "WS_AOS_OBR_TORMENTED_SPIRIT": {
+      "bDesc": {
+        "_value": "Wailing spectres, souls of the damned stripped of their identities and bound to a cruel master. They scream endlessly for the life they have lost. Unable to rage against the dying of the light inside themselves, they rage instead at the living, raking icy claws, rending not only flesh but your very soul as well."
+      },
+      "bName": {
+        "_value": "Spirit Hosts"
+      }
+    },
+    "WS_AOS_OBR_BOSS_NAGASH": {
+      "bDesc": {
+        "_value": "The Undying King, Supreme Lord of the Undead, and the Great Betrayer are just some of the titles Nagash has been known by. He is the incarnation of darkness, the creator of the foul art of Necromancy and ruler of the realm of Shyish. In battle, he wields artefacts of great power – Alakanash, the staff through which he channels his necromantic power. Zefet-nebtar, his cursed blade. And above all, through the Nine Books of Nagash, he commands the awesome and terrible magic of the Realm of Death.\nTo face him is to face death itself. And though victory may be had, death comes for us all eventually."
+      },
+      "bName": {
+        "_value": "Nagash, Supreme Lord of the Undead"
+      }
+    },
+    "WS_AOS_SKA_ACOLYTE_GLOBADIER": {
+      "bDesc": {
+        "_value": "Acolytes to the Warlocks of the Clans Skryre, a step above thrall-rats but not by much. Keep your wits about you lest you fall victim to the schemes of an Acolyte vying for the opportunity to become a Warlock. These tinkerers carry bandoliers of poisoned wind globes and rusty knives. So if the wounds alone don’t get you, the noxious warpstone-derived gases certainly will."
+      },
+      "bName": {
+        "_value": "Acolyte Globadier"
+      }
+    },
+    "WS_AOS_SKA_BELLOFDOOM": {
+      "bDesc": {
+        "_value": "Invoking the creation myths of their people, the ominous tolling of the Bell of Doom heralds the arrival of the Skaventide, and woe betide any who dare resist the onslaught. Emboldened by the peal of the bells, the once cowardly rodents become almost brave. Almost."
+      },
+      "bName": {
+        "_value": "Bell of Doom"
+      }
+    },
+    "WS_AOS_SKA_BOSS_VIZZIK": {
+      "bDesc": {
+        "_value": "Vizzik Skour, Lord of the Gnaw, Prophet of the Horned Rat, Master of the Death Frenzy. Formed from proto-flesh by the Great Horned Rat in the apocalyptic wake of the Vermindoom. He rose from the Masterburrow after the bells of Blight City tolled an ominous thirteen times. The force of his zeal is enough to drive his enemies utterly mad. All according to the Great Horned Rat's will."
+      },
+      "bName": {
+        "_value": "Vizzik Skour, Prophet of the Horned Rat"
+      }
+    },
+    "WS_AOS_SKA_CLANRAT": {
+      "bDesc": {
+        "_value": "The chittering unwashed masses of the Skaven Clans, only outnumbered by workers and slaves in the Under-Empire. Individually, they are prone to infighting, they are ill-disciplined, and easily handled. But one never faces a lone clanrat. In their hordes, they are a force to be reckoned with, becoming dangerously fast and vicious."
+      },
+      "bName": {
+        "_value": "Clanrat"
+      }
+    },
+    "WS_AOS_SKA_CLAWLORD_BOSS": {
+      "bName": {
+        "_value": "Clawlord Boss"
+      }
+    },
+    "WS_AOS_SKA_CLAWLORD": {
+      "bDesc": {
+        "_value": "Commanding their troops from a safe distance, these cunning leaders of the Clans Verminus will not hesitate to seize the slightest advantage in combat. Sneaky and duplicitous, you must watch out for underhanded tricks in the field when facing these foes. And it takes an age to get warpstone dust out of your eyes."
+      },
+      "bName": {
+        "_value": "Clawlord"
+      }
+    },
+    "WS_AOS_SKA_GREYSEER": {
+      "bDesc": {
+        "_value": "The Grey Seers, prophets of the Great Horned Rat, vie for power within the clans, executing their will - sometimes literally. Powerful, dark sorcery, enhanced by the consumption of warpstone can blast enemies with withering energy. Keep your ears open for their hissed incantations, and dive for the nearest cover if you hear them."
+      },
+      "bName": {
+        "_value": "Grey Seer"
+      }
+    },
+    "WS_AOS_SKA_PLAGUEMONK": {
+      "bDesc": {
+        "_value": "TBC - Desc"
+      },
+      "bName": {
+        "_value": "Plague Monk"
+      }
+    },
+    "WS_AOS_SKA_RATOGOR": {
+      "bDesc": {
+        "_value": "Gargantuan beasts with little in the way of intelligence, the Rat Ogor wreaks havoc on whatever battlefield it is let loose upon. Specially made by the Clans Moulder, the Rat Ogors more than make up for the Skaven's natural lack of physical prowess, at the expense of being of a singular mind."
+      },
+      "bName": {
+        "_value": "Rat Ogor"
+      }
+    },
+    "WS_AOS_SKA_RATTLING_GUN": {
+      "bDesc": {
+        "_value": "Favouring a hail of bullets over accuracy, the highly specialised rattling gun teams of the Clans Skryre unleash a torrent of bullets at their enemy. Powered by warpstone batteries and cranked by hand, the rattling gun is a devastating force of destruction. There is truly no limit to the mad genius of the Clans Skryre, if only the other Skaven were as fortunate in their intellect."
+      },
+      "bName": {
+        "_value": "Rattling Gun"
+      }
+    },
+    "WS_AOS_SKA_STORMVERMIN": {
+      "bDesc": {
+        "_value": "Stormvermin are hand-picked as the strongest of their litters to undergo rigorous, brutal training to one day fight for the position of Clawlord. Unlike most of their ilk, they slaughter their enemies with trained accuracy, methodically carving their way through battlefields. Though they lack the brutish might of the Rat Ogors and the intelligence of the Grey Seers, they are a force to be reckoned with."
+      },
+      "bName": {
+        "_value": "Stormvermin"
+      }
+    },
+    "WS_AOS_SKA_VERMINTIDE": {
+      "bDesc": {
+        "_value": "Skaven wizards will conjure an endless wave of rodents, smugly watching as these rats tear through anything in their path. One might assume they are rats and nothing more. Looks can be deceiving, though. With preternaturally sharp claws and teeth, and a hunger for raw flesh, these rats will strip a fully armoured enemy to the bone in seconds."
+      },
+      "bName": {
+        "_value": "Vermintide"
+      }
+    },
+    "WS_AOS_SKA_WARLOCKENGINEER": {
+      "bDesc": {
+        "_value": "Warlock Engineers wield a gruesome blend of magic and technology in battle. Preferring to wreak havoc from afar, these rodents carry warplock muskets, weapons of their own creation. Though genius often goes hand in hand with insanity, especially for Skaven. These engineers will push their creations beyond their limits, so utterly convinced of their flawless intellect. Until the weapon detonates in their hands."
+      },
+      "bName": {
+        "_value": "Warlock Engineer"
+      }
+    },
+    "WS_AOS_SKA_WARLOCKJEZZAIL": {
+      "bDesc": {
+        "_value": "TBC - Desc"
+      },
+      "bName": {
+        "_value": "Warplock Jezzails"
+      }
+    },
+    "WS_AOS_SKA_PLAGUEFURNACE": {
+      "bDesc": {
+        "_value": "A thunderous machine crafted by the Clans Pestilens, which you smell before you see. The virulent gases that seep from the censer cover the surrounding land in a putrescent fog. If you can stand the smog that envelops the machine, you must then reckon with its myriad rusted spikes and its operators."
+      },
+      "bName": {
+        "_value": "Plague Furnace"
+      }
+    }
+  }
+}

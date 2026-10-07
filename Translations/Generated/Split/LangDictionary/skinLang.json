@@ -1,0 +1,118 @@
+{
+  "SKIN_WS_40K_TITUS_WITH_HELMET": {
+    "suffix": {
+      "_value": {
+        "en": "(Helmet On)"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Placeholder"
+      }
+    }
+  },
+  "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+    "suffix": {
+      "_value": {
+        "en": "(Helmet On)"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Placeholder"
+      }
+    }
+  },
+  "SKIN_WS_40K_VIGILANT_WITH_K9": {
+    "suffix": {
+      "_value": {
+        "en": "& K9 Mastiff"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Starts with an additional Mechanical Bite."
+      }
+    },
+    "customCharName": {
+      "_value": {
+        "en": "Max & K9"
+      }
+    }
+  },
+  "SKIN_WS_40K_K9_WITH_VIGILANT": {
+    "suffix": {
+      "_value": {
+        "en": "& Max Mahon"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Starts with an additional Combat Shotgun."
+      }
+    },
+    "customCharName": {
+      "_value": {
+        "en": "K9 & Max"
+      }
+    }
+  },
+  "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+    "suffix": {
+      "_value": {
+        "en": "& Hanniver Toll"
+      }
+    },
+    "customCharName": {
+      "_value": {
+        "en": "Callis & Toll"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Starts with an additional Flintlock Pistol."
+      }
+    }
+  },
+  "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+    "suffix": {
+      "_value": {
+        "en": "& Armand Callis"
+      }
+    },
+    "customCharName": {
+      "_value": {
+        "en": "Toll & Callis"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Starts with an additional Brace of Pistols."
+      }
+    }
+  },
+  "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+    "suffix": {
+      "_value": {
+        "en": "& Maleneth Witchblade"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Starts with an additional Poisoned Throwing Knives."
+      }
+    }
+  },
+  "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+    "suffix": {
+      "_value": {
+        "en": "& Gotrek Gurnisson"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Starts with an additional Fyrestorm Greataxe."
+      }
+    }
+  }
+}

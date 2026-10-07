@@ -1,0 +1,72 @@
+{
+  "DEFAULT": {
+    "name": {
+      "_value": {
+        "en": "Default"
+      }
+    }
+  },
+  "FIRE": {
+    "name": {
+      "_value": {
+        "en": "Fire"
+      }
+    }
+  },
+  "POISON": {
+    "name": {
+      "_value": {
+        "en": "Poison"
+      }
+    }
+  },
+  "SHOCK": {
+    "name": {
+      "_value": {
+        "en": "Shock"
+      }
+    }
+  },
+  "GRAVITY": {
+    "name": {
+      "_value": {
+        "en": "Gravity"
+      }
+    }
+  },
+  "FROST": {
+    "name": {
+      "_value": {
+        "en": "Frost"
+      }
+    }
+  },
+  "WARP": {
+    "name": {
+      "_value": {
+        "en": "Warp"
+      }
+    }
+  },
+  "NULL": {
+    "name": {
+      "_value": {
+        "en": null
+      }
+    }
+  },
+  "INSTANT_KILL": {
+    "name": {
+      "_value": {
+        "en": "Instant Kill"
+      }
+    }
+  },
+  "HOLY": {
+    "name": {
+      "_value": {
+        "en": "Holy"
+      }
+    }
+  }
+}

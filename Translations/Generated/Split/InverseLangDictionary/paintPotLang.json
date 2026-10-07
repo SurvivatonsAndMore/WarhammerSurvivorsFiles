@@ -1,0 +1,100 @@
+{
+  "en": {
+    "ABADDON_BLACK": {
+      "name": {
+        "_value": "Abaddon Black"
+      },
+      "description": {
+        "_value": "Collecting the required paint pots can unlock additional characters."
+      }
+    },
+    "LEADBELCHER": {
+      "name": {
+        "_value": "Leadbelcher"
+      },
+      "description": {
+        "_value": "Collecting the required paint pots can unlock additional characters."
+      }
+    },
+    "AGRAX_EARTHSHADE": {
+      "name": {
+        "_value": "Agrax Earthshade"
+      },
+      "description": {
+        "_value": "Collecting the required paint pots can unlock additional characters."
+      }
+    },
+    "RETRIBUTOR_ARMOUR": {
+      "name": {
+        "_value": "Retributor Armour"
+      },
+      "description": {
+        "_value": "Collecting the required paint pots can unlock additional characters."
+      }
+    },
+    "CELESTRA_GREY": {
+      "name": {
+        "_value": "Celestra Grey"
+      },
+      "description": {
+        "_value": "Collecting the required paint pots can unlock additional characters."
+      }
+    },
+    "REIKLAND_FLESHSHADE": {
+      "name": {
+        "_value": "Reikland Fleshshade"
+      },
+      "description": {
+        "_value": "Collecting the required paint pots can unlock additional characters."
+      }
+    },
+    "MEPHISTON_RED": {
+      "name": {
+        "_value": "Mephiston Red"
+      },
+      "description": {
+        "_value": "Collecting the required paint pots can unlock additional characters."
+      }
+    },
+    "RUNELORD_BRASS": {
+      "name": {
+        "_value": "Runelord Brass"
+      },
+      "description": {
+        "_value": "Collecting the required paint pots can unlock additional characters."
+      }
+    },
+    "MACRAGGE_BLUE": {
+      "name": {
+        "_value": "Macragge Blue"
+      },
+      "description": {
+        "_value": "Collecting the required paint pots can unlock additional characters."
+      }
+    },
+    "DRAKENHOF_NIGHTSHADE": {
+      "name": {
+        "_value": "Drakenhof Nightshade"
+      },
+      "description": {
+        "_value": "Collecting the required paint pots can unlock additional characters."
+      }
+    },
+    "RAKARTH_FLESH": {
+      "name": {
+        "_value": "Rakarth Flesh"
+      },
+      "description": {
+        "_value": "Collecting the required paint pots can unlock additional characters."
+      }
+    },
+    "MECHANICUS_STANDARD_GREY": {
+      "name": {
+        "_value": "Mechanicus Standard Grey"
+      },
+      "description": {
+        "_value": "Collecting the required paint pots can unlock additional characters."
+      }
+    }
+  }
+}

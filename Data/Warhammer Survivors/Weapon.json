@@ -1,0 +1,2404 @@
+{
+  "WS_40K_CHAINSWORD": [
+    {
+      "level": 1,
+      "isUnlocked": true,
+      "sealable": true,
+      "bulletType": "WS_40K_CHAINSWORD",
+      "price": 10,
+      "name": "Chainsword",
+      "description": "Horizontal slash attack, hacks through enemies.",
+      "tips": "",
+      "texture": "40K_Items",
+      "frameName": "W_Chainsword.png",
+      "evoInto": "WS_40K_EVISCERATORCHAINSWORD",
+      "poolLimit": 30,
+      "rarity": 100,
+      "interval": 1350,
+      "repeatInterval": 100,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "hitsWalls": false,
+      "critChance": 0.2,
+      "critMul": 2,
+      "evoSynergy": [
+        "WS_RANGE"
+      ],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM"
+      ],
+      "keywords": [
+        "CHAINSWORD_USER"
+      ],
+      "isMelee": true
+    },
+    {
+      "amount": 1
+    },
+    {
+      "power": 0.5
+    },
+    {
+      "power": 0.5,
+      "area": 0.05
+    },
+    {
+      "power": 0.5
+    },
+    {
+      "power": 0.5,
+      "area": 0.05
+    },
+    {
+      "power": 0.5
+    },
+    {
+      "power": 0.5,
+      "addEvolvedWeapon": "WS_40K_EVISCERATORCHAINSWORD"
+    }
+  ],
+  "WS_40K_EVISCERATORCHAINSWORD": [
+    {
+      "hidden": false,
+      "isUnlocked": false,
+      "level": 1,
+      "sealable": true,
+      "bulletType": "WS_40K_EVISCERATORCHAINSWORD",
+      "name": "Eviscerator Chainsword",
+      "description": "Evolved Chainsword. Slows and causes damage over time.",
+      "texture": "40k_Items",
+      "frameName": "W_EvisceratorChainsword.png",
+      "isEvolution": true,
+      "evolvesFrom": [
+        "WS_40K_CHAINSWORD"
+      ],
+      "requires": [
+        "WS_RANGE"
+      ],
+      "poolLimit": 30,
+      "repeatInterval": 150,
+      "rarity": 1,
+      "interval": 1500,
+      "power": 4,
+      "area": 1.2,
+      "speed": 1,
+      "amount": 2,
+      "duration": 2000,
+      "hitsWalls": false,
+      "critChance": 0.2,
+      "critMul": 2,
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "ADEPTUS_ASTARTES"
+      ],
+      "keywords": [
+        "CHAINSWORD_USER"
+      ],
+      "isMelee": true,
+      "statusEffects": [
+        "BLEEDING"
+      ]
+    }
+  ],
+  "WS_40K_LASGUN": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_40K_LASGUN",
+      "price": 10,
+      "name": "Lasgun",
+      "description": "Shoots lasers at the nearest enemy. Damage decreases over distance.",
+      "texture": "40K_Items",
+      "frameName": "W_Lasgun.png",
+      "evoSynergy": [
+        "WS_STRENGTH"
+      ],
+      "evoInto": "WS_40K_MELTAGUN",
+      "poolLimit": 120,
+      "rarity": 100,
+      "interval": 1400,
+      "repeatInterval": 100,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "knockback": 0.5,
+      "customDescValue": "Gain an additional follower with another Lasgun.",
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "ASTRA_MILITARUM"
+      ],
+      "keywords": []
+    },
+    {
+      "customDesc": 0
+    },
+    {
+      "interval": -200
+    },
+    {
+      "customDesc": 0
+
+    },
+    {
+      "power": 0.5,
+      "area": 0.1
+    },
+    {
+      "customDesc": 0
+    },
+    {
+      "power": 0.5,
+      "area": 0.1
+    },
+    {
+      "customDesc": 0,
+      "addEvolvedWeapon": "WS_40K_MELTAGUN"
+    }
+  ],
+  "WS_40K_MELTAGUN": [
+    {
+      "hidden": false,
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_40K_MELTAGUN",
+      "name": "Meltagun",
+      "description": "Extremely powerful, short-ranged beam, that deals double damage to close enemies. Deals bonus damage to bosses.",
+      "tips": "",
+      "texture": "40k_Items",
+      "frameName": "W_Meltagun.png",
+      "isEvolution": true,
+      "evolvesFrom": [
+        "WS_40K_LASGUN"
+      ],
+      "requires": [
+        "WS_STRENGTH"
+      ],
+      "poolLimit": 50,
+      "rarity": 80,
+      "interval": 2000,
+      "duration": 1000,
+      "repeatInterval": 50,
+      "power": 1,
+      "area": 1,
+      "speed": 0.25,
+      "penetrating": 10,
+      "knockback": 0,
+      "hitsWalls": false,
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "ASTRA_MILITARUM"
+      ],
+      "keywords": []
+    }
+  ],
+  "WS_40K_BOLTGUN": [
+    {
+      "level": 1,
+      "isUnlocked": true,
+      "sealable": true,
+      "bulletType": "WS_40K_BOLTGUN",
+      "price": 600,
+      "name": "Boltgun",
+      "description": "Fires bursts of exploding bolts in the faced direction.",
+      "tips": "",
+      "texture": "40K_Items",
+      "frameName": "W_Boltgun.png",
+	  "evoSynergy": [
+        "WS_ATTACKS"
+      ],
+      "evoInto": "WS_40K_HEAVY_BOLTER",
+      "poolLimit": 70,
+      "rarity": 100,
+      "interval": 1000,
+      "repeatInterval": 100,
+      "power": 0.5,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "penetrating": 1,
+      "knockback": 0.5,
+      "critChance": 0.3,
+      "critMul": 3,
+	  "customDescValue": "%0% increase in explosion radius.",
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+      ],
+      "keywords": [
+        "BOLTGUN_USER"
+      ]
+    },
+    {
+      "amount": 1
+    },
+    {
+      "amount": 1,
+      "power": 0.5
+    },
+    {
+      "amount": 1,
+      "repeatInterval": -20
+    },
+	{
+	  "customDesc": 15
+	},
+    {
+      "amount": 1,
+      "repeatInterval": -20
+    },
+    {
+      "amount": 1,
+      "power": 0.5
+    },
+    {
+      "repeatInterval": -20,
+	  "customDesc": 30,
+	  "addEvolvedWeapon": "WS_40K_HEAVY_BOLTER"
+    }
+  ],
+  "WS_40K_BOLTGUNEXPLOSION": [
+    {
+      "level": 1,
+      "bulletType": "WS_40K_BOLTGUNEXPLOSION",
+      "name": "Boltgun Explosion",
+      "description": "",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "hitVfx": "None",
+      "poolLimit": 100,
+      "rarity": 0,
+      "interval": 500,
+      "repeatInterval": 50,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "duration": 300,
+      "hitsWalls": false
+    }
+  ],
+  "WS_40K_HEAVY_BOLTER": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "name": "Heavy Bolter",
+      "bulletType": "WS_40K_HEAVY_BOLTER",
+      "weaponType": "WS_40K_HEAVY_BOLTER",
+      "texture": "40K_Items",
+      "frameName": "W_HeavyBolter.png",
+      "price": 10,
+      "description": "Evolved Boltgun. Lays down a constant barrage of suppressing fire.",
+      "tips": "",
+      "hidden": false,
+      "isEvolution": true,
+      "evolvesFrom": [
+        "WS_40K_BOLTGUN"
+      ],
+      "requires": [
+        "WS_ATTACKS"
+      ],
+      "poolLimit": 70,
+      "rarity": 1,
+      "interval": 400,
+      "repeatInterval": 40,
+      "power": 2,
+      "area": 1.3,
+      "speed": 1,
+      "amount": 6,
+      "penetrating": 3,
+      "knockback": 0.5,
+      "critChance": 0.3,
+      "critMul": 3,
+      "hitsWalls": true,
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+      ],
+      "keywords": [
+        "BOLTGUN_USER"
+      ]
+    }
+  ],
+  "WS_40K_HEAVY_BOLTER_EXPLOSION": [
+    {
+      "level": 1,
+      "bulletType": "WS_40K_HEAVY_BOLTER_EXPLOSION",
+      "name": "Heavy Bolter Explosion",
+      "description": "",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "hitVfx": "None",
+      "poolLimit": 100,
+      "rarity": 0,
+      "interval": 500,
+      "repeatInterval": 50,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "duration": 300,
+      "hitsWalls": false
+    }
+  ],
+  
+  "WS_40K_WHIRLWIND_LAUNCHER": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_40K_WHIRLWIND_LAUNCHER",
+      "price": 400,
+      "name": "Whirlwind Launcher",
+      "description": "",
+      "tips": "",
+      "texture": "40k_Items",
+      "frameName": "W_WhirlwindBattery_A.png",
+      "evoSynergy": [
+        "WS_WOUNDS"
+      ],
+      "evoInto": "WS_40K_ORBITAL_BOMBARDMENT",
+      "poolLimit": 50,
+      "rarity": 80,
+      "interval": 4500,
+      "repeatInterval": 50,
+      "power": 2,
+      "area": 1,
+      "speed": 1,
+      "amount": 2,
+      "hitsWalls": false,
+      "placeholder": true,
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM"
+      ],
+      "keywords": []
+    },
+    {
+      "amount": 2,
+      "power": 1
+    },
+    {
+      "area": 0.2,
+      "power": 1
+    },
+    {
+      "interval": -500,
+      "area": 0.2
+    },
+    {
+      "area": 0.2,
+      "power": 1
+    },
+    {
+      "amount": 1,
+      "interval": -250
+    },
+    {
+      "area": 0.2,
+      "power": 2
+    },
+    {
+      "amount": 1,
+      "addEvolvedWeapon": "WS_40K_ORBITAL_BOMBARDMENT"
+    }
+  ],
+  "WS_40K_WHIRLWIND_LAUNCHER_EXPLOSION": [
+    {
+      "level": 1,
+      "bulletType": "WS_40K_WHIRLWIND_LAUNCHER_EXPLOSION",
+      "name": "Whirlwind Launcher Explosion",
+      "description": "",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "hitVfx": "None",
+      "poolLimit": 10,
+      "rarity": 0,
+      "interval": 500,
+      "repeatInterval": 50,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "duration": 300,
+      "hitsWalls": false
+    }
+  ],
+  "WS_40K_ORBITAL_BOMBARDMENT": [
+    {
+      "hidden": false,
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_40K_ORBITAL_BOMBARDMENT",
+      "name": "Orbital Bombardment",
+      "description": "Obliterates multiple targets with inescapable fury and leaves nothing but scorched ruin in its wake.",
+      "tips": "",
+      "texture": "40k_Items",
+      "frameName": "W_OrbitalBombardment.png",
+      "isEvolution": true,
+      "evolvesFrom": [
+        "WS_40K_WHIRLWIND_LAUNCHER"
+      ],
+      "requires": [
+        "WS_WOUNDS"
+      ],
+      "poolLimit": 50,
+      "rarity": 80,
+      "interval": 4000,
+      "repeatInterval": 200,
+      "power": 0.10,
+      "secondaryPower": 2,
+      "area": 1,
+      "speed": 1,
+      "amount": 3,
+      "knockback": 0,
+      "hitsWalls": false,
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM"
+      ],
+      "keywords": []
+    }
+  ],
+  "WS_40K_ORBITAL_BOMBARDMENT_BLAST": [
+    {
+      "level": 1,
+      "bulletType": "WS_40K_ORBITAL_BOMBARDMENT",
+      "name": "Orbital Bombardment",
+      "description": "Obliterates multiple targets with inescapable fury and leaves nothing but scorched ruin in its wake.",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "poolLimit": 50,
+      "power": 0.5,
+      "knockback": 0,
+      "hitsWalls": false,
+      "silos": [
+        "WH_40K"
+      ]
+    }
+  ],
+  "WS_40K_ORBITAL_BOMBARDMENT_EXPLOSION": [
+    {
+      "level": 1,
+      "bulletType": "WS_40K_ORBITAL_BOMBARDMENT_EXPLOSION",
+      "name": "Orbital Bombardment Explosion",
+      "description": "",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "hitsWalls": false
+    }
+  ],
+  "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE": [
+    {
+      "level": 1,
+      "sealable": true,
+      "bulletType": "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE",
+      "frameName": "W_FragGrenade",
+      "texture": "40K_Items",
+      "isUnlocked": false,
+      "rarity": 50,
+      "poolLimit": 10,
+      "power": 1,
+      "area": 0.75,
+      "speed": 1,
+      "amount": 1,
+      "duration": 500,
+      "penetrating": 1,
+      "interval": 5000,
+      "repeatInterval": 1000,
+      "description": "Throws a grenade at a random enemy.",
+      "knockback": 2,
+      "evoInto": "WS_40K_RIPPER_PISTOL",
+      "evoSynergy": [
+        "WS_RELOAD"
+      ],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+      ],
+      "keywords": [
+        "CATACHAN_LEGEND"
+      ]
+    },
+    {
+      "amount": 1.0
+    },
+    {
+      "area": 0.25
+    },
+    {
+      "power": 1.0
+    },
+    {
+      "interval": -1000,
+      "duration": 250
+    },
+    {
+      "power": 1.0
+    },
+    {
+      "amount": 1.0
+    },
+    {
+      "power": 1.0,
+      "duration": 250,
+      "addEvolvedWeapon": "WS_40K_RIPPER_PISTOL"
+    }
+  ],
+  "WS_40K_RIPPER_PISTOL": [
+    {
+      "level": 1,
+      "sealable": true,
+      "bulletType": "WS_40K_RIPPER_PISTOL",
+      "price": 1600,
+      "name": "Ripper Pistol",
+      "description": "Gift of Frag Grenade. Fires a burst of bullets. Poisons enemies.",
+      "tips": "",
+      "texture": "40K_Items",
+      "frameName": "W_RipperPistol.png",
+      "isUnlocked": false,
+      "isEvolution": true,
+      "poolLimit": 100,
+      "rarity": 20,
+      "interval": 3000,
+      "repeatInterval": 100,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "amount": 3,
+      "duration": 100,
+      "chance": 0.75,
+      "isGiftEvo": true,
+      "statusEffects": [
+        "POISONED"
+      ],
+      "evolvesFrom": [
+        "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE"
+      ],
+      "requires": [
+        "WS_RELOAD"
+      ],
+      "silos": [
+        "WH_40K"
+      ],
+      "keywords": [
+        "CATACHAN_LEGEND"
+      ]
+    }
+  ],
+
+  "WS_40K_POWER_FIST": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_40K_POWER_FIST",
+      "price": 10,
+      "name": "Power Fist",
+      "description": "How about a knuckle sandwich",
+      "tips": "",
+      "texture": "40K_Items",
+      "frameName": "W_Powerfist.png",
+      "evoSynergy": [
+      ],
+      "poolLimit": 10,
+      "rarity": 50,
+      "interval": 3500,
+      "repeatInterval": 200,
+      "power": 1.4,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "hitsWalls": false,
+      "critChance": 0.2,
+      "critMul": 2,
+      "duration": 0,
+      "placeholder": true,
+      "knockback": 10,
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "ADEPTUS_ASTARTES"
+      ],
+      "keywords": [],
+      "isMelee": true
+    },
+    {
+      "interval": -200
+    },
+    {
+      "customDesc": 20
+    },
+    {
+      "power": 1,
+      "area": 0.25
+    },
+    {
+      "interval": -200
+    },
+    {
+      "customDesc": 20
+    },
+    {
+      "area": 0.25
+    },
+    {
+      "power": 1,
+      "customDesc": 20
+    }
+  ],
+  "WS_40K_FRAG_GRENADE": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "bulletType": "WS_40K_FRAG_GRENADE",
+      "frameName": "W_FragGrenade",
+      "texture": "40K_Items",
+      "hidden": true,
+      "silos": [
+        "WH_40K"
+      ],
+      "alwaysHidden": true,
+      "isSpecialOnly": true,
+      "showInRecap": false,
+      "rarity": 50,
+      "poolLimit": 10,
+      "power": 2,
+      "area": 3,
+      "speed": 1,
+      "amount": 1,
+      "duration": 3000,
+      "penetrating": 1,
+      "interval": 500,
+      "repeatInterval": 200,
+      "description": "Bombs away!",
+      "hitBoxDelay": 500,
+      "knockback": 2
+    }
+  ],
+  "WS_40K_FRAG_GRENADE_EXPLOSION": [
+    {
+      "level": 1,
+      "bulletType": "WS_40K_FRAG_GRENADE_EXPLOSION",
+      "name": "Frag Grenade Explosion",
+      "description": "",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "hitVfx": "None",
+      "poolLimit": 10,
+      "rarity": 0,
+      "interval": 500,
+      "repeatInterval": 50,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "duration": 300,
+      "hitsWalls": false,
+      "silos": [
+        "WH_40K"
+      ]
+    }
+  ],
+  "WS_40K_FRAG_GRENADE_CRATER": [
+    {
+      "level": 1,
+      "bulletType": "WS_40K_FRAG_GRENADE_CRATER",
+      "name": "Frag Grenade Damage Zone",
+      "description": "",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "poolLimit": 100,
+      "rarity": 0.5,
+      "area": 1,
+      "hitboxDelay": 500,
+      "hitsWalls": false,
+      "damageType": "FIRE",
+      "hitVfx": "Fire",
+      "silos": [
+        "WH_40K"
+      ]
+    }
+  ],
+  "WS_40K_PROMETHIUM_CANISTER": [
+    {
+      "level": 1,
+      "bulletType": "WS_40K_PROMETHIUM_CANISTER",
+      "name": "Promethium Canister",
+      "description": "",
+      "tips": "",
+      "texture": "40K_Items",
+      "frameName": "Pickup_PromethiumCanister_00.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "showInRecap": false,
+      "hitVfx": "Fire",
+      "poolLimit": 50,
+      "rarity": 0,
+      "interval": 500,
+      "repeatInterval": 40,
+      "power": 3,
+      "area": 2,
+      "speed": 3,
+      "amount": 12,
+      "duration": 1000,
+      "secondaryPower": 0.1,
+      "hitsWalls": false,
+      "statusEffects": [
+        "BURNING"
+      ]
+    }
+  ],
+  "WS_40K_PROMETHIUM_CANISTER_DAMAGE_ZONE": [
+    {
+      "level": 1,
+      "bulletType": "WS_40K_PROMETHIUM_CANISTER_DAMAGE_ZONE",
+      "name": "Promethium Canister Damage Zone",
+      "description": "",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "hitVfx": "None",
+      "poolLimit": 150,
+      "rarity": 0.5,
+      "power": 1,
+      "area": 0.7,
+      "duration": 1200,
+      "hitboxDelay": 250,
+      "hitsWalls": false
+    }
+  ],
+  
+  "WS_AOS_TEMPEST_AXES": [
+    {
+      "level": 1,
+      "isUnlocked": true,
+      "sealable": true,
+      "bulletType": "WS_AOS_TEMPEST_AXES",
+      "damageType": "SHOCK",
+      "hitVfx": "Shock",
+      "price": 10,
+      "name": "Tempest Axes",
+      "description": "Horizontal stepped slice attack.",
+      "tips": "",
+      "texture": "AOS_Items",
+      "frameName": "W_TempestAxes.png",
+      "evoSynergy": [
+        "WS_MOVE"
+      ],
+      "evoInto": "WS_AOS_WHIRLWIND_AXES",
+      "poolLimit": 30,
+      "rarity": 100,
+      "interval": 1350,
+      "repeatInterval": 100,
+      "power": 1,
+      "area": 0.67,
+      "speed": 1,
+      "amount": 2,
+      "hitsWalls": false,
+      "critChance": 0.05,
+      "critMul": 2,
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "STORMCAST_ETERNALS"
+      ],
+      "keywords": [],
+      "preferredCharacter": "WS_AOS_NEAVE"
+    },
+    {
+      "amount": 1
+    },
+    {
+      "power": 0.5
+    },
+    {
+      "area": 0.05,
+	  "cooldown": -0.05
+    },
+    {
+      "power": 0.5
+    },
+    {
+      "area": 0.05,
+	  "cooldown": -0.05
+    },
+    {
+      "power": 0.5
+    },
+    {
+      "power": 0.5,
+      "addEvolvedWeapon": "WS_AOS_WHIRLWIND_AXES"
+    }
+  ],
+  "WS_AOS_WHIRLWIND_AXES": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_AOS_WHIRLWIND_AXES",
+      "damageType": "SHOCK",
+      "hitVfx": "Shock",
+      "price": 10,
+      "name": "Whirlwind Axes",
+      "description": "",
+      "tips": "",
+      "texture": "AOS_Items",
+      "frameName": "W_WhirlwindAxes.png",
+      "isEvolution": true,
+      "evolvesFrom": [
+        "WS_AOS_TEMPEST_AXES"
+      ],
+      "requires": [
+        "WS_MOVE"
+      ],
+      "poolLimit": 30,
+      "rarity": 100,
+      "interval": 2700,
+      "repeatInterval": 150,
+      "duration": 2100,
+      "power": 5,
+      "secondaryPower": 1,
+      "area": 1.1,
+      "speed": 1.45,
+      "amount": 2,
+      "hitsWalls": false,
+      "silos": [
+        "WH_AOS"
+      ],
+      "keywords": [
+        "NEAVE_BLACKTALON"
+      ]
+    }
+  ],
+  "WS_AOS_WHIRLWIND_AXES_LIGHTNING": [
+    {
+      "level": 1,
+      "bulletType": "WS_AOS_WHIRLWIND_AXES_LIGHTNING",
+      "name": "Whirlwind Axes Lightning",
+      "description": "",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "hitVfx": "None",
+      "poolLimit": 100,
+      "rarity": 0,
+      "interval": 800,
+      "repeatInterval": 50,
+      "power": 2,
+      "area": 1.5,
+      "speed": 1,
+      "amount": 1,
+      "duration": 300,
+      "hitsWalls": false
+    }
+  ],
+  "WS_AOS_NEBULOUS_SEAFOG": [
+    {
+      "level": 1,
+      "sealable": true,
+      "bulletType": "WS_AOS_NEBULOUS_SEAFOG",
+      "price": 800,
+      "name": "Lorai Fog",
+      "description": "Glimmers with strange light, sapping the strength of foes who enter its embrace.",
+      "tips": "",
+      "texture": "AOS_Items",
+      "frameName": "W_NebolousSeaFog.png",
+      "isUnlocked": false,
+      "poolLimit": 50,
+      "rarity": 70,
+      "interval": 1100,
+      "duration": 1000,
+      "repeatInterval": 1300,
+      "customValue1": 30,
+      "customValue2": 0,
+      "power": 0.2,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "knockback": 0,
+      "hitsWalls": false,
+      "evoSynergy": [
+        "WS_TOUGHNESS"
+      ],
+      "evoInto": "WS_AOS_AQUATIC_ILLUSIONS",
+      "silos": [
+        "WH_AOS"
+      ],
+      "statusEffects": [
+        "SLOWED",
+        "DISARMED"
+      ],
+      "placeholder": true,
+      "factionKeywords": [
+        "IDONETH_DEEPKIN"
+      ],
+      "keywords": [
+      ]
+    },
+    {
+      "area": 0.2,
+      "customValue1": 10
+    },
+    {
+      "interval": -100,
+      "power": 0.2
+    },
+    {
+      "area": 0.1,
+      "customValue1": 10
+    },
+    {
+      "interval": -100,
+      "power": 0.1
+    },
+    {
+      "area": 0.1,
+      "power": 0.1
+    },
+    {
+      "interval": -100,
+      "power": 0.1
+    },
+    {
+      "area": 0.1,
+      "customValue1": 10,
+      "power": 0.1,
+      "addEvolvedWeapon": "WS_AOS_AQUATIC_ILLUSIONS"
+    }
+  ],
+  "WS_AOS_AQUATIC_ILLUSIONS": [
+    {
+      "level": 1,
+      "placeholder": true,
+      "sealable": true,
+      "bulletType": "WS_AOS_AQUATIC_ILLUSIONS",
+      "price": 800,
+      "name": "Aquatic Illusions",
+      "description": "Constant damaging aura that slows enemies. Periodically summons illusions that pull enemies into the aura and trigger retaliatory damage.",
+      "tips": "",
+      "texture": "AOS_Items",
+      "frameName": "W_AquaticIllusions.png",
+      "isUnlocked": false,
+      "poolLimit": 50,
+      "rarity": 1,
+      "interval": 1000,
+      "duration": 5000,
+      "repeatInterval": 0,
+      "power": 4,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "knockback": 3,
+      "hitsWalls": false,
+      "isEvolution": true,
+      "evolvesFrom": [
+        "WS_AOS_NEBULOUS_SEAFOG"
+      ],
+      "requires": [
+        "WS_TOUGHNESS"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "IDONETH_DEEPKIN"
+      ],
+      "keywords": [
+      ]
+    }
+  ],
+  "WS_AOS_AQUATIC_ILLUSIONS_PULL": [
+    {
+      "level": 1,
+      "bulletType": "WS_AOS_AQUATIC_ILLUSIONS_PULL",
+      "price": 800,
+      "name": "",
+      "description": "",
+      "tips": "",
+      "texture": "AOS_VFX",
+      "frameName": "VFX_BoltstormPistol_B.png",
+      "isUnlocked": false,
+      "hidden": true,
+      "alwaysHidden": true,
+      "isSpecialOnly": true,
+      "poolLimit": 50,
+      "rarity": 70,
+      "interval": 3000,
+      "duration": 800,
+      "repeatInterval": 200,
+      "power": 1,
+      "secondaryPower": 0,
+      "area": 1,
+      "speed": 5,
+      "amount": 1,
+      "hitsWalls": false,
+      "silos": [
+        "WH_AOS"
+      ],
+      "placeholder": true,
+      "factionKeywords": [],
+      "keywords": [
+      ]
+    }
+  ],
+  "WS_AOS_AQUATIC_ILLUSIONS_RETALIATION":[
+    {
+      "level": 1,
+      "bulletType": "WS_AOS_AQUATIC_ILLUSIONS_RETALIATION",
+      "name": "Aquatic Illusions Retaliation",
+      "description": "",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "hitVfx": "None",
+      "poolLimit": 50,
+      "rarity": 0,
+      "duration": 700,
+      "interval": 3000,
+      "knockback": 12,
+      "repeatInterval": 0,
+      "power": 9,
+      "secondaryPower": 0,
+      "hitsWalls": false,
+      "silos": [
+        "WH_AOS"
+      ]
+    }
+  ],
+  "WS_AOS_BOLTSTORM_PISTOL": [
+    {
+      "level": 1,
+      "isUnlocked": true,
+      "sealable": true,
+      "bulletType": "WS_AOS_BOLTSTORM_PISTOL",
+      "damageType": "SHOCK",
+      "hitVfx": "Shock",
+      "price": 10,
+      "name": "Boltstorm Pistol",
+      "description": "Shoots at the nearest enemy.",
+      "tips": "",
+      "texture": "AOS_Items",
+      "frameName": "W_BoltstormPistol.png",
+      "evoInto": "WS_AOS_TYPHOON_CROSSBOW",
+      "evoSynergy": [
+        "WS_ATTACKS"
+      ],
+      "poolLimit": 60,
+      "rarity": 100,
+      "interval": 1700,
+      "repeatInterval": 1700,
+      "power": 1,
+      "area": 1,
+      "speed": 1.8,
+      "amount": 1,
+      "penetrating": 2,
+      "knockback": 0.5,
+      "hitsWalls": false,
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "STORMCAST_ETERNALS"
+      ],
+      "keywords": []
+    },
+    {
+      "amount": 1
+    },
+    {
+      "interval": -200
+    },
+    {
+      "amount": 1
+    },
+    {
+      "power": 1
+    },
+    {
+      "amount": 1
+    },
+    {
+      "penetrating": 1
+    },
+    {
+      "power": 1,
+      "addEvolvedWeapon": "WS_AOS_TYPHOON_CROSSBOW"
+    }
+  ],
+  "WS_AOS_TYPHOON_CROSSBOW": [
+    {
+      "level": 1,
+      "sealable": true,
+      "bulletType": "WS_AOS_TYPHOON_CROSSBOW",
+      "name": "Typhoon Crossbow",
+      "description": "Evolved Boltstorm Pistol. Fires with no delay.",
+      "tips": "",
+      "texture": "AOS_Items",
+      "frameName": "W_TyphoonCrossbow.png",
+      "isEvolution": true,
+      "evolvesFrom": [
+        "WS_AOS_BOLTSTORM_PISTOL"
+      ],
+      "requires": [
+        "WS_ATTACKS"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "poolLimit": 60,
+      "rarity": 1,
+      "interval": 500,
+      "repeatInterval": 100,
+      "power": 3,
+      "area": 1,
+      "speed": 2,
+      "amount": 4,
+      "penetrating": 2,
+      "keywords": [
+        "CROSSBOW_USER"
+      ]
+    }
+  ],
+  "WS_AOS_GRANDBLADE": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_AOS_GRANDBLADE",
+      "price": 10,
+      "name": "Grandblade",
+      "description": "Cuts through swathes of enemies.",
+      "tips": "",
+      "texture": "AOS_Items",
+      "frameName": "W_Grandblade.png",
+      "poolLimit": 100,
+      "rarity": 50,
+      "interval": 4000,
+      "repeatInterval": 200,
+      "power": 1.3,
+      "area": 0.8,
+      "speed": 1,
+      "amount": 2,
+      "hitsWalls": false,
+      "critChance": 0.2,
+      "critMul": 2.0,
+      "knockback": 8.0,
+      "customDescValue": "Every fourth activation has a combo finisher.",
+      "evoSynergy": [
+        "WS_RANGE"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "STORMCAST_ETERNALS"
+      ],
+      "keywords": []
+    },
+    {
+      "amount": 1
+    },
+    {
+      "power": 0.5,
+      "area": 0.1
+    },
+    {
+      "customDesc": 0
+    },
+    {
+      "power": 0.5,
+      "amount": 1
+    },
+    {
+      "power": 0.5
+    },
+    {
+      "area": 0.1,
+      "power": 0.5
+    },
+    {
+      "power": 1.0
+    }
+  ],
+  "WS_AOS_BRAZIER_STAFF": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_AOS_BRAZIER_STAFF",
+      "price": 0,
+      "name": "Brazier Staff",
+      "description": "PLACEHOLDER",
+      "tips": "",
+      "texture": "AOS_Items",
+      "frameName": "W_BrazierStaff.png",
+      "evoSynergy": [
+        "WS_WOUNDS"
+      ],
+      "evoInto": "WS_AOS_MASTER_OF_RUNES",
+      "poolLimit": 70,
+      "rarity": 100,
+      "interval": 3500,
+      "repeatInterval": 300,
+      "power": 2,
+      "secondaryPower": 1,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "penetrating": 2,
+      "duration": 3000,
+      "hitsWalls": false,
+      "critChance": 0.3,
+      "critMul": 2,
+      "placeholder": true,
+      "statusEffects": [
+        "BURNING"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "FYRESLAYERS"
+      ],
+      "keywords": []
+    },
+    {
+      "area": 0.15,
+      "amount": 1
+    },
+    {
+      "power": 2
+    },
+    {
+      "penetrating": 2
+    },
+    {
+      "area": 0.15,
+      "amount": 1
+    },
+    {
+      "power": 2
+    },
+    {
+      "penetrating": 2
+    },
+    {
+      "power": 2,
+      "addEvolvedWeapon": "WS_AOS_MASTER_OF_RUNES"
+    }
+  ],
+  "WS_AOS_BRAZIER_STAFF_EXPLOSION": [
+    {
+      "level": 1,
+      "bulletType": "WS_AOS_BRAZIER_STAFF_EXPLOSION",
+      "name": "Brazier Staff Explosion",
+      "description": "",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "hitVfx": "None",
+      "poolLimit": 100,
+      "rarity": 0,
+      "interval": 500,
+      "repeatInterval": 50,
+      "power": 1.5,
+      "area": 2,
+      "speed": 1,
+      "amount": 1,
+      "duration": 300,
+      "hitsWalls": false,
+      "placeholder": true
+    }
+  ],
+  "WS_AOS_MASTER_OF_RUNES": [
+    {
+      "level": 1,
+      "isEvolution": true,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_AOS_MASTER_OF_RUNES",
+      "name": "Master of Runes",
+      "description": "Evolved Brazier Staff. Arcing molten rock projectiles explode on the ground, inflicting Burning on enemies in a wide area.",
+      "tips": "",
+      "texture": "AOS_Items",
+      "frameName": "W_MasterOfRunes.png",
+      "poolLimit": 70,
+      "rarity": 100,
+      "interval": 7000,
+      "repeatInterval": 500,
+      "power": 2,
+      "knockback": 5,
+      "secondaryPower": 2,
+      "area": 0.85,
+      "speed": 1,
+      "amount": 6,
+      "penetrating": 3000,
+      "duration": 4000,
+      "hitsWalls": false,
+      "critChance": 0.3,
+      "critMul": 2,
+      "statusEffects": [
+        "BURNING"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "FYRESLAYERS"
+      ],
+      "evolvesFrom": [
+        "WS_AOS_BRAZIER_STAFF"
+      ],
+      "requires": [
+        "WS_WOUNDS"
+      ],
+      "keywords": []
+    }
+  ],
+  "WS_AOS_MASTER_OF_RUNES_EXPLOSION": [
+    {
+      "level": 1,
+      "bulletType": "WS_AOS_MASTER_OF_RUNES_EXPLOSION",
+      "name": "Master of Runes Explosion",
+      "description": "",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "hitVfx": "None",
+      "poolLimit": 100,
+      "rarity": 0,
+      "knockback": 0,
+      "power": 1,
+      "area": 0.6,
+      "speed": 1,
+      "amount": 1,
+      "hitsWalls": false,
+      "silos": [
+        "WH_AOS"
+      ]
+    }
+  ],
+  "WS_AOS_MASTER_OF_RUNES_EXPLOSION_BURST": [
+    {
+      "level": 1,
+      "bulletType": "WS_AOS_MASTER_OF_RUNES_EXPLOSION_BURST",
+      "name": "Master of Runes Explosion Burst",
+      "description": "",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "hitVfx": "None",
+      "poolLimit": 100,
+      "rarity": 0,
+      "knockback": 2,
+      "power": 5,
+      "area": 0.6,
+      "speed": 1,
+      "amount": 1,
+      "hitsWalls": false,
+      "silos": [
+        "WH_AOS"
+      ]
+    }
+  ],
+  "WS_AOS_ROPE_AND_GRAPNEL": [
+    {
+      "level": 1,
+      "sealable": true,
+      "bulletType": "WS_AOS_ROPE_AND_GRAPNEL",
+      "name": "Rope and Grapnel",
+      "description": "PLACEHOLDER",
+      "tips": "",
+      "texture": "AOS_Items",
+      "frameName": "W_RopeAndGrapnel.png",
+      "hidden": true,
+      "isUnlocked": false,
+      "poolLimit": 100,
+      "rarity": 50,
+      "interval": 6000,
+      "repeatInterval": 200,
+      "hitBoxDelay": 2000,
+      "power": 0.3,
+      "knockback": 0,
+      "area": 1,
+      "speed": 1,
+      "duration": 2000,
+      "amount": 1,
+      "chance": 0.05,
+      "hitsWalls": false,
+      "evoSynergy": [
+        "WS_VETERANCY"
+      ],
+      "evoInto": "WS_AOS_GHOST_OF_RHEA",
+      "silos": [
+        "WH_AOS"
+      ],
+      "keywords": [
+        "LYSSA_REVENYA"
+      ]
+    },
+    {
+      "area": 0.2,
+      "power": 1.0
+    },
+    {
+      "duration": 500
+    },
+    {
+      "interval": -500
+    },
+    {
+      "amount" : 1
+    },
+    {
+      "duration": 500
+    },
+    {
+      "interval": -500
+    },
+    {
+      "area": 0.2,
+      "power": 1.0,
+      "addEvolvedWeapon": "WS_AOS_GHOST_OF_RHEA"
+    }
+  ],
+  "WS_AOS_GHOST_OF_RHEA":  [
+    {
+      "level": 1,
+      "placeholder": true,
+      "sealable": true,
+      "bulletType": "WS_AOS_GHOST_OF_RHEA",
+      "price": 0,
+      "name": "Ghost of Rhea",
+      "description": "PLACEHOLDER",
+      "texture": "AOS_Items",
+      "frameName": "W_GhostOfRhea.png",
+      "isUnlocked": false,
+      "poolLimit": 20,
+      "rarity": 20,
+      "interval": 3000,
+      "area": 1,
+      "speed": 3,
+      "amount": 3,
+      "chance": 0,
+      "hitsWalls": false,
+      "isEvolution": true,
+      "isGiftEvo" : true,
+      "skipRemovingBaseWeapon": true,
+      "damageType": "FROST",
+      "hitVfx": "Frost",
+      "evolvesFrom": [
+        "WS_AOS_ROPE_AND_GRAPNEL"
+      ],
+      "requires": [
+        "WS_VETERANCY"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+      ],
+      "keywords": [
+        "LYSSA_REVENYA"
+      ]
+    }
+  ],
+  "WS_AOS_GHOST_OF_RHEA_DAMAGE_ZONE":  [
+    {
+      "placeholder": true,
+      "level": 1,
+      "bulletType": "WS_AOS_GHOST_OF_RHEA_DAMAGE_ZONE",
+      "price": 0,
+      "name": "Ghost of Rhea",
+      "description": "PLACEHOLDER",
+      "texture": "AOS_Items",
+      "frameName": "W_GhostOfRhea.png",
+      "isUnlocked": false,
+      "poolLimit": 10,
+      "rarity": 0,
+      "interval": 0,
+      "duration": 2500,
+      "hitBoxDelay": 250,
+      "power": 2.5,
+      "area": 1,
+      "speed": 0,
+      "amount": 1,
+      "isSpecialOnly": true,
+      "alwaysHidden": true,
+      "hidden": true,
+      "chance": 0,
+      "hitsWalls": false,
+      "silos": [
+        "WH_AOS"
+      ]
+    }
+  ],
+  "WS_AOS_GNASHING_JAWS": [
+    {
+      "level": 1,
+      "bulletType": "WS_AOS_GNASHING_JAWS",
+      "name": "Gnashing Jaws",
+      "description": "",
+      "tips": "",
+      "texture": "AOS_Items",
+      "frameName": "Pickup_Gnashing_Jaws_01.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "showInRecap": false,
+      "damageType": "FIRE",
+      "hitVfx": "Fire",
+      "poolLimit": 50,
+      "rarity": 0,
+      "interval": 50000,
+      "repeatInterval": 4000,
+      "power": 3,
+      "hitsWalls": false,
+      "area": 2,
+      "hitBoxDelay": 1700,
+      "speed": 3,
+      "amount": 12,
+      "duration": 6000,
+      "silos": [
+        "WH_AOS"
+      ],
+      "statusEffects": [
+        "BURNING"
+      ]
+    }
+  ],
+  "WS_AOS_GNASHING_JAWS_DAMAGING_TRAIL": [
+    {
+      "level": 1,
+      "bulletType": "WS_AOS_GNASHING_JAWS_DAMAGING_TRAIL",
+      "name": "Gnashing Jaws Damaging Trail",
+      "description": "",
+      "tips": "",
+      "texture": "items",
+      "frameName": "dummyFire.png",
+      "hidden": true,
+      "alwaysHidden": true,
+      "isUnlocked": false,
+      "isSpecialOnly": true,
+      "hitVfx": "None",
+      "poolLimit": 150,
+      "rarity": 0.5,
+      "power": 1,
+      "area": 0.7,
+      "duration": 100,
+      "hitboxDelay": 250,
+      "hitsWalls": false
+    }
+  ],
+  
+  "WS_VETERANCY": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_VETERANCY",
+      "price": 40,
+      "name": "White Dwarf",
+      "description": "Character gains 8% more experience.",
+      "appliesOnlyToOwner": true,
+      "texture": "WS_Items",
+      "frameName": "Passive_Veterancy.png",
+      "rarity": 70,
+      "isPowerUp": true,
+      "growth": 0.08,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "growth": 0.08
+    },
+    {
+      "growth": 0.08
+    },
+    {
+      "growth": 0.08
+    },
+    {
+      "growth": 0.08
+    }
+  ],
+  "WS_STRENGTH": [
+    {
+      "level": 1,
+      "isUnlocked": true,
+      "sealable": true,
+      "bulletType": "WS_STRENGTH",
+      "price": 40,
+      "name": "Gauntlet",
+      "description": "Raises inflicted damage by 10%.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Strength.png",
+      "rarity": 100,
+      "isPowerUp": true,
+      "power": 0.1,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "power": 0.1
+    },
+    {
+      "power": 0.1
+    },
+    {
+      "power": 0.1
+    },
+    {
+      "power": 0.1
+    }
+  ],
+  "WS_SAVES": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_SAVES",
+      "price": 40,
+      "name": "Glue",
+      "description": "Reduces incoming Damage by 1. Increases retaliatory Damage by 10%.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Save.png",
+      "rarity": 100,
+      "isPowerUp": true,
+      "armor": 1,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "armor": 1
+    },
+    {
+      "armor": 1
+    },
+    {
+      "armor": 1
+    },
+    {
+      "armor": 1
+    }
+  ],
+  "WS_RELOAD": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_RELOAD",
+      "price": 400,
+      "name": "Bandolier",
+      "description": "Reduces weapon cooldown by 8%.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Reload.png",
+      "rarity": 50,
+      "isPowerUp": true,
+      "cooldown": -0.08,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "cooldown": -0.08
+    },
+    {
+      "cooldown": -0.08
+    },
+    {
+      "cooldown": -0.08
+    },
+    {
+      "cooldown": -0.08
+    }
+  ],
+  "WS_WOUNDS": [
+    {
+      "level": 1,
+      "isUnlocked": true,
+      "sealable": true,
+      "bulletType": "WS_WOUNDS",
+      "price": 40,
+      "name": "Liquid Green Stuff",
+      "description": "Augments Max Health by 20%.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Wounds.png",
+      "rarity": 90,
+      "isPowerUp": true,
+      "maxHp": 0.2,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "maxHp": 0.2
+    },
+    {
+      "maxHp": 0.2
+    },
+    {
+      "maxHp": 0.2
+    },
+    {
+      "maxHp": 0.2
+    }
+  ],
+  "WS_TOUGHNESS": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "hidden": true,
+      "sealable": true,
+      "bulletType": "WS_TOUGHNESS",
+      "price": 40,
+      "name": "Bugman's Tankard",
+      "description": "Character recovers 0.2 HP per second.",
+      "appliesOnlyToOwner": true,
+      "texture": "WS_Items",
+      "frameName": "Passive_Toughness.png",
+      "rarity": 90,
+      "isPowerUp": true,
+      "regen": 0.2,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "regen": 0.2
+    },
+    {
+      "regen": 0.2
+    },
+    {
+      "regen": 0.2
+    },
+    {
+      "regen": 0.2
+    }
+  ],
+  "WS_RANGE": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_RANGE",
+      "price": 200,
+      "name": "Tape Measure",
+      "description": "Augments area of attacks by 10%.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Range.png",
+      "rarity": 100,
+      "isPowerUp": true,
+      "area": 0.1,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "area": 0.1
+    },
+    {
+      "area": 0.1
+    },
+    {
+      "area": 0.1
+    },
+    {
+      "area": 0.1
+    }
+  ],
+  "WS_SUSTAIN": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_SUSTAIN",
+      "price": 200,
+      "name": "Hourglass",
+      "description": "Increases duration of weapon effects by 10%.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Sustain.png",
+      "rarity": 100,
+      "isPowerUp": true,
+      "duration": 0.1,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "duration": 0.1
+    },
+    {
+      "duration": 0.1
+    },
+    {
+      "duration": 0.1
+    },
+    {
+      "duration": 0.1
+    }
+  ],
+  "WS_ATTACKS": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_ATTACKS",
+      "price": 400,
+      "name": "Dice Cube",
+      "description": "Weapons fire more projectiles.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Attacks.png",
+      "rarity": 50,
+      "isPowerUp": true,
+      "amount": 1,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "amount": 1
+    }
+  ],
+  "WS_SKILL": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_SKILL",
+      "price": 200,
+      "name": "Lightning Bolt",
+      "description": "Increases projectile speed by 10%.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Skill.png",
+      "rarity": 100,
+      "isPowerUp": true,
+      "speed": 0.1,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "speed": 0.1
+    },
+    {
+      "speed": 0.1
+    },
+    {
+      "speed": 0.1
+    },
+    {
+      "speed": 0.1
+    }
+  ],
+  "WS_MOVE": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "sealable": true,
+      "bulletType": "WS_MOVE",
+      "price": 40,
+      "name": "Boot",
+      "description": "Character moves 10% faster.",
+      "appliesOnlyToOwner": true,
+      "texture": "WS_Items",
+      "frameName": "Passive_Move.png",
+      "rarity": 50,
+      "isPowerUp": true,
+      "moveSpeed": 0.1,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "moveSpeed": 0.1
+    },
+    {
+      "moveSpeed": 0.1
+    },
+    {
+      "moveSpeed": 0.1
+    },
+    {
+      "moveSpeed": 0.1
+    }
+  ],
+  "WS_AURA": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "hidden": true,
+      "sealable": true,
+      "bulletType": "WS_AURA",
+      "price": 40,
+      "name": "Bar Magnet",
+      "description": "Character picks up items from further away.",
+      "appliesOnlyToOwner": true,
+      "texture": "WS_Items",
+      "frameName": "Passive_Aura.png",
+      "rarity": 100,
+      "isPowerUp": true,
+      "magnet": 0.5,
+      "placeholder": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "magnet": 0.33
+    },
+    {
+      "magnet": 0.25
+    },
+    {
+      "magnet": 0.2
+    },
+    {
+      "magnet": 0.33
+    }
+  ],
+  "WS_CHANCE": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "hidden": true,
+      "sealable": true,
+      "bulletType": "WS_CHANCE",
+      "price": 7,
+      "name": "Scatter Die",
+      "description": "Character's Chance increases by 10%.",
+      "appliesOnlyToOwner": true,
+      "texture": "WS_Items",
+      "frameName": "Passive_Chance.png",
+      "rarity": 100,
+      "isPowerUp": true,
+      "luck": 0.1,
+      "placeholder": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "luck": 0.1
+    },
+    {
+      "luck": 0.1
+    },
+    {
+      "luck": 0.1
+    },
+    {
+      "luck": 0.1
+    }
+  ],
+  "WS_TITHE": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "hidden": true,
+      "sealable": true,
+      "bulletType": "WS_TITHE",
+      "price": 40,
+      "name": "Golden Demon",
+      "description": "Character earns 10% more Gold coins.",
+      "appliesOnlyToOwner": true,
+      "texture": "WS_Items",
+      "frameName": "Passive_Tithe.png",
+      "rarity": 70,
+      "isPowerUp": true,
+      "greed": 0.1,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "greed": 0.1
+    },
+    {
+      "greed": 0.1
+    },
+    {
+      "greed": 0.1
+    },
+    {
+      "greed": 0.1
+    }
+  ],
+  "WS_CORRUPTION": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "hidden": true,
+      "sealable": true,
+      "bulletType": "WS_CORRUPTION",
+      "price": 200,
+      "name": "Chaos Sigil",
+      "description": "Increases enemy speed, health, quantity, and frequency by 10%.",
+      "texture": "WS_Items",
+      "frameName": "Passive_Corruption.png",
+      "rarity": 40,
+      "isPowerUp": true,
+      "curse": 0.1,
+      "placeholder": true,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "curse": 0.1
+    },
+    {
+      "curse": 0.1
+    },
+    {
+      "curse": 0.1
+    },
+    {
+      "curse": 0.1
+    }
+  ],
+  "WS_REDEPLOYMENT": [
+    {
+      "level": 1,
+      "isUnlocked": false,
+      "hidden": true,
+      "sealable": true,
+      "bulletType": "WS_REDEPLOYMENT",
+      "price": 400,
+      "name": "Figure Case",
+      "description": "Revives once with 50% Health.",
+      "appliesOnlyToOwner": true,
+      "texture": "WS_Items",
+      "frameName": "Passive_Redeployment.png",
+      "rarity": 40,
+      "isPowerUp": true,
+      "revivals": 1,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ]
+    },
+    {
+      "revivals": 1
+    }
+  ],
+
+  "WS_NULN_OIL": [
+    {
+      "level": 1,
+      "sealable": true,
+      "bulletType": "WS_NULN_OIL",
+      "damageType": "NULL",
+      "hitVfx": "Null",
+      "price": 800,
+      "name": "Nuln Oil",
+      "description": "Generates damaging zones.",
+      "tips": "",
+      "texture": "WS_Items",
+      "frameName": "W_NulnOil.png",
+      "evoSynergy": [
+        "WS_SUSTAIN"
+      ],
+      "evoInto": "WS_MORDANT_EARTH",
+      "isUnlocked": true,
+      "poolLimit": 20,
+      "rarity": 100,
+      "interval": 6000,
+      "repeatInterval": 300,
+      "power": 0.6,
+      "area": 1,
+      "speed": 1,
+      "amount": 1,
+      "duration": 2000,
+      "hitBoxDelay": 500,
+      "knockback": 0,
+      "hitsWalls": false,
+       "statusEffects": [
+        "OILED"
+      ],
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "factionKeywords": [],
+      "keywords": []
+    },
+    {
+      "amount": 1,
+        "area": 0.2
+    },
+    {
+      "power": 0.5,
+      "duration": 500
+    },
+    {
+      "area": 0.2
+    },
+    {
+      "power": 0.5,
+      "duration": 250
+    },
+    {
+      "amount": 1,
+        "area": 0.2
+    },
+    {
+      "power": 0.5,
+      "duration": 250
+    },
+    {
+      "amount": 1,
+      "area": 0.2,
+      "addEvolvedWeapon": "WS_MORDANT_EARTH"
+    }
+  ],
+  "WS_MORDANT_EARTH": [
+    {
+      "placeholder": true,
+      "level": 1,
+      "sealable": true,
+      "bulletType": "WS_MORDANT_EARTH",
+      "damageType": "NULL",
+      "hitVfx": "Null",
+      "price": 800,
+      "name": "Mordant Earth",
+      "description": "Evolved Nuln Oil. Damaging zones follow you and slow enemies.",
+      "tips": "",
+      "texture": "WS_Items",
+      "frameName": "W_MordantEarth.png",
+      "isEvolution": true,
+      "evolvesFrom": [
+        "WS_NULN_OIL"
+      ],
+      "requires": [
+        "WS_SUSTAIN"
+      ],
+      "isUnlocked": false,
+      "poolLimit": 30,
+      "rarity": 100,
+      "interval": 4000,
+      "repeatInterval": 300,
+      "power": 3,
+      "area": 1.8,
+      "speed": 1,
+      "amount": 3,
+      "duration": 3000,
+      "hitBoxDelay": 500,
+      "knockback": 0,
+      "hitsWalls": false,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "factionKeywords": [],
+      "keywords": []
+    }
+  ],
+  "WS_D6_DICE": [
+    {
+      "level": 1,
+      "sealable": true,
+      "bulletType": "WS_D6_DICE",
+      "price": 400,
+      "name": "D6 Dice",
+      "description": "Throws exploding dice. Damage is based on the number rolled. Increase Blessing to roll better.",
+      "tips": "",
+      "texture": "WS_Items",
+      "frameName": "W_D6Dice.png",
+      "evoSynergy": [
+        "WS_CHANCE"
+      ],
+      "isUnlocked": true,
+      "poolLimit": 100,
+      "rarity": 50,
+      "interval": 8000,
+      "duration": 800,
+      "repeatInterval": 100,
+      "power": 0.1,
+	  "secondaryPower": 0.3,
+      "chance": 1,
+      "area": 1,
+      "speed": 1,
+      "amount": 2,
+      "hitsWalls": false,
+      "critChance": 0.2,
+      "critMul": 2,
+      "knockback": 0.4,
+      "placeholder": true,
+	  "penetrating": 1,
+      "silos": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "factionKeywords": [],
+      "keywords": []
+    },
+    {
+      "power": 0.3,
+      "amount": 2
+    },
+    {
+      "penetrating": 1,
+      "secondaryPower": 0.3,
+      "customDesc": 1
+    },
+    {
+      "power": 0.3,
+      "amount": 2
+    },
+    {
+      "penetrating": 1,
+      "secondaryPower": 0.3,
+      "customDesc": 1
+    },
+    {
+      "power": 1,
+      "amount": 2
+    },
+    {
+      "penetrating": 1,
+      "secondaryPower": 0.3,
+      "customDesc": 1
+    },
+    {
+      "power": 0.3,
+      "amount": 2
+    }
+  ],
+  
+  "WS_EXTINGUISH": [
+  {
+    "level": 1,
+    "bulletType": "WS_EXTINGUISH",
+    "name": "Extinguish",
+    "description": "Lights out",
+    "tips": "",
+    "texture": "WS_Items",
+    "frameName": "Element_QuestionMark.png",
+    "hidden": true,
+    "isUnlocked": false,
+    "isSpecialOnly": true,
+    "showInRecap": false,
+    "hitVfx": "None",
+    "poolLimit": 5,
+    "rarity": 0.5,
+    "power": 1,
+    "area": 1,
+    "knockback": 0,
+    "duration": 1500,
+    "interval": 1500,
+    "hitboxDelay": 500,
+    "hitsWalls": false,
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ]
+  }
+]
+}

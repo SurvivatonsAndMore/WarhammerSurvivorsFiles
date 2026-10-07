@@ -1,0 +1,110 @@
+{
+  "ABILITY": {
+    "change": 0.01,
+    "rarity": 0.05
+  },
+  "ATTACKS": {
+    "change": 1,
+    "rarity": 0.1,
+    "maximum": 10
+  },
+  "AURA": {
+    "change": 5,
+    "rarity": 1
+  },
+  "BAIT": {
+   "change": 5,
+   "rarity": 1
+  },
+  "WS_BANISH": {
+    "change": 1,
+    "rarity": 0
+  },
+  "CHANCE": {
+    "change": 0.01,
+    "rarity": 5
+  },
+  "CORRUPTION": {
+    "change": 0.01,
+    "rarity": 3
+  },
+  "FERVOUR": {
+    "change": 0.01,
+    "rarity": 1
+  },
+  "INVULNERABILITY": {
+    "change":5,
+    "maximum": 250,
+    "rarity": 0
+  },
+  "MOVE": {
+    "change": 0.01,
+    "rarity": 1
+  },
+  "RANGE": {
+    "change": 0.01,
+    "rarity": 1,
+    "maximum": 10
+  },
+  "REDEPLOYMENT": {
+    "change": 1,
+    "rarity": 0.1
+  },
+  "RELOAD": {
+    "change": -0.01,
+    "minimum": 0.1,
+    "rarity": 0.5
+  },
+  "WS_REROLL": {
+    "change": 1,
+    "rarity": 0.1
+  },
+  "RETRIBUTION": {
+    "change": 0.1,
+    "rarity": 0
+  },
+  "SAVES": {
+    "change": 1,
+    "maximum": 50,
+    "rarity": 0.5
+  },
+  "WS_SEAL": {
+    "change": 1,
+    "rarity": 0
+  },
+  "SKILL": {
+    "change": 0.01,
+    "rarity": 1,
+    "maximum": 5
+  },
+  "WS_SKIP": {
+    "change": 1,
+    "rarity": 0
+  },
+  "STRENGTH": {
+    "change": 0.01,
+    "maximum": 10,
+    "rarity": 1
+  },
+  "SUSTAIN": {
+    "change": 0.01,
+    "maximum": 5,
+    "rarity": 1
+  },
+  "TITHE": {
+    "change": 0.01,
+    "rarity": 1
+  },
+  "TOUGHNESS": {
+    "change": 0.01,
+    "rarity": 0.5
+  },
+  "VETERANCY": {
+    "change": 0.01,
+    "rarity": 0.5
+  },
+  "WOUNDS": {
+    "change": 5,
+    "rarity": 0.5
+  }
+}

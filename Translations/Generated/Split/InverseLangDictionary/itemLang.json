@@ -1,0 +1,1136 @@
+{
+  "en": {
+    "WS_40K_ALWAYS_MEDIPACK": {
+      "description": {
+        "_value": "For every subsequent level up gain 30 Wounds. Level up screen will no longer be shown for this run."
+      },
+      "name": {
+        "_value": "[Always] Medicae Kit"
+      }
+    },
+    "WS_40K_AMMO_CRATE": {
+      "description": {
+        "_value": "Contains Passive items. Dropped by dangerous enemies."
+      },
+      "name": {
+        "_value": "Ammo Crate"
+      },
+      "tips": {
+        "_value": "Quality affected by {[CHANCE]}, and Coins multiplied by {[TITHE]}."
+      }
+    },
+    "WS_40K_BLAST_TEMPLATE": {
+      "description": {
+        "_value": "Destroys all enemies in sight."
+      },
+      "name": {
+        "_value": "Blast Template"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Blast Templates"
+      }
+    },
+    "WS_40K_DA_LUCKY_STIKK": {
+      "description": {
+        "_value": "Increases both {[CHANCE]} and {[BAIT]} stats as it levels up. Effective with a character feared by Orks."
+      },
+      "name": {
+        "_value": "Da Lucky Stikk"
+      }
+    },
+    "WS_40K_FRAG_GRENADE": {
+      "description": {
+        "_value": "Damages enemies caught in its explosion."
+      },
+      "name": {
+        "_value": "Frag Grenade"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_40K_FRENZON": {
+      "description": {
+        "_value": "Induces a Frenzied state that temporarily doubles {[MOVE]} and halves {[RELOAD]}."
+      },
+      "name": {
+        "_value": "Frenzon"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_40K_HELLFIRE_AMMO": {
+      "description": {
+        "_value": "Bolts which temporary increase the damage of ranged weapons and cause them to inflict Poison."
+      },
+      "name": {
+        "_value": "Hellfire Ammo"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Hellfire Ammo"
+      }
+    },
+    "WS_40K_KRAK_GRENADE": {
+      "description": {
+        "_value": "Deals very high damage to a single target."
+      },
+      "name": {
+        "_value": "Krak Grenade"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Krak Grenades"
+      }
+    },
+    "WS_40K_LAUD_HAILER": {
+      "description": {
+        "_value": "Inflicts Battle Shocked state on all enemies."
+      },
+      "name": {
+        "_value": "Laud-Hailer"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Laud Hailer"
+      }
+    },
+    "WS_40K_MEDIPACK": {
+      "description": {
+        "_value": "Restores 30 Wounds."
+      },
+      "name": {
+        "_value": "Medicae Kit"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_40K_MEDICAE_BAG": {
+      "description": {
+        "_value": "Restores 60 Wounds."
+      },
+      "name": {
+        "_value": "Medicae Bag"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Medicae Bags"
+      }
+    },
+    "WS_40K_MELTA_BOMB": {
+      "description": {
+        "_value": "Causes a huge and powerful explosion, melting enemies within range."
+      },
+      "name": {
+        "_value": "Melta Bomb"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Melta Bombs"
+      }
+    },
+    "WS_40K_ONSLAUGHT": {
+      "description": {
+        "_value": "Induces a Hastened state, temporarily heightens {[SKILL]} and reaction time, making enemies slower."
+      },
+      "name": {
+        "_value": "Onslaught"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Onslaught"
+      }
+    },
+    "WS_40K_PROMETHIUM_CANISTER": {
+      "description": {
+        "_value": "Temporarily spews burning promethium in the faced direction."
+      },
+      "name": {
+        "_value": "Promethium Canister"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_40K_RECAFF": {
+      "description": {
+        "_value": "Caffeinated drink that boosts a character's {[TOUGHNESS]} and {[WOUNDS]} stats."
+      },
+      "name": {
+        "_value": "Recaff"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Recaff"
+      }
+    },
+    "WS_40K_SUPPLY_CRATE_LARGE": {
+      "description": {
+        "_value": "Contains large amounts of glorious loot. Dropped by dangerous enemies."
+      },
+      "name": {
+        "_value": "Supply Crate (Large)"
+      },
+      "tips": {
+        "_value": "Quality affected by {[CHANCE]}, and Coins multiplied by {[TITHE]}."
+      }
+    },
+    "WS_40K_SUPPLY_CRATE_SMALL": {
+      "description": {
+        "_value": "Contains small amounts of glorious loot. Dropped by dangerous enemies."
+      },
+      "name": {
+        "_value": "Supply Crate (Small)"
+      },
+      "tips": {
+        "_value": "Quality affected by {[CHANCE]}, and Coins multiplied by {[TITHE]}."
+      }
+    },
+    "WS_40K_TREASURE_DEFAULT": {
+      "description": {
+        "_value": "Contains glorious loot. Dropped by dangerous enemies."
+      },
+      "name": {
+        "_value": "Supply Crate"
+      },
+      "tips": {
+        "_value": "Quality affected by {[CHANCE]}, and Coins multiplied by {[TITHE]}."
+      }
+    },
+    "WS_40K_VALKYRIE_AIRSTRIKE": {
+      "description": {
+        "_value": "Bombards the screen with frag rockets.​"
+      },
+      "name": {
+        "_value": "Valkyrie Airstrike"
+      },
+      "tips": {
+        "_value": "TBC - Tips"
+      }
+    },
+    "WS_40K_RELIQUARY _CRATE": {
+      "description": {
+        "_value": "Contains Emperor's Tarot Cards. Dropped by dangerous enemies."
+      },
+      "name": {
+        "_value": "Psykana Crate"
+      },
+      "tips": {
+        "_value": "Quality affected by {[CHANCE]}, and Coins multiplied by {[TITHE]}."
+      }
+    },
+    "WS_40K_PURITY_SEAL": {
+      "description": {
+        "_value": "Increases {[VETERANCY]} for the remainder of the run."
+      },
+      "name": {
+        "_value": "Purity Seal"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Purity Seals"
+      }
+    },
+    "WS_40K_DUMMY_ARCANA": {
+      "description": {
+        "_value": "Gain +1 Emperor's Tarot Card for this run."
+      },
+      "name": {
+        "_value": "Emperor's Tarot Card"
+      }
+    },
+    "WS_AOS_AETHERVOID_PENDULUM": {
+      "description": {
+        "_value": "Huge pendulum swings back and forth across the screen, harming enemies.​"
+      },
+      "name": {
+        "_value": "Aethervoid Pendulum"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_AOS_ALWAYS_AQUA": {
+      "description": {
+        "_value": "Restores 30 health points."
+      },
+      "name": {
+        "_value": "[Always] Aqua Ghyranis Orb Sack"
+      },
+      "tips": {
+        "_value": "Always picked, for the rest of the run."
+      }
+    },
+    "WS_AOS_AQUA": {
+      "description": {
+        "_value": "Restores 30 health points."
+      },
+      "name": {
+        "_value": "Aqua Ghyranis"
+      }
+    },
+    "WS_AOS_AQUA_SMALL": {
+      "description": {
+        "_value": "Restores 30 Wounds."
+      },
+      "name": {
+        "_value": "Aqua Ghyranis Phial"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_AOS_AQUA_GHYRANIS": {
+      "description": {
+        "_value": "Restores 30 Wounds."
+      },
+      "name": {
+        "_value": "Aqua Ghyranis Phial"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_AOS_ALWAYS_AQUA_GHYRANIS": {
+      "description": {
+        "_value": "For every subsequent level up gain 30 Wounds. Level up screen will no longer be shown for this run."
+      },
+      "name": {
+        "_value": "[Always] Aqua Ghyranis Phial"
+      }
+    },
+    "WS_AOS_AQUA_GHYRANIS_VESSEL": {
+      "description": {
+        "_value": "Restores 60 Wounds."
+      },
+      "name": {
+        "_value": "Aqua Ghyranis Vessel"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Aqua Ghyranis Vessels"
+      }
+    },
+    "WS_AOS_BLACKPOWDER_CASE": {
+      "description": {
+        "_value": "Contains Passive items. Dropped by dangerous enemies."
+      },
+      "name": {
+        "_value": "Blackpowder Case"
+      },
+      "tips": {
+        "_value": "Quality affected by {[CHANCE]}, and Coins multiplied by {[TITHE]}."
+      }
+    },
+    "WS_AOS_CHRONOMANTIC_COG": {
+      "description": {
+        "_value": "Induces a Hastened state, temporarily heightens {[SKILL]} , making enemies slower."
+      },
+      "name": {
+        "_value": "Chronomantic Cog"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Chronomantic Cog"
+      }
+    },
+    "WS_AOS_CINDERBLAST_BOMB": {
+      "description": {
+        "_value": "Triggers a large incendiary blast.​"
+      },
+      "name": {
+        "_value": "Cinderblast Bomb"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Cinderblast Bombs"
+      }
+    },
+    "WS_AOS_CANNON_FIRE": {
+      "name": {
+        "_value": "Cannon Fire"
+      },
+      "description": {
+        "_value": "Deadly cannon balls fired horizontally across the screen."
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_AOS_EMERALD_LIFESWARM": {
+      "description": {
+        "_value": "Instantly heals and applies a temporary Healing state."
+      },
+      "name": {
+        "_value": "Emerald Lifeswarm"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Emerald Lifeswarm Endless Spell"
+      }
+    },
+    "WS_AOS_EVERBLAZE_COMET": {
+      "description": {
+        "_value": "Destroys all enemies in sight."
+      },
+      "name": {
+        "_value": "Everblaze Comet"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_AOS_GNASHING_JAWS": {
+      "description": {
+        "_value": "Temporarily conjures burning jaws that chomp enemies."
+      },
+      "name": {
+        "_value": "Gnashing Jaws"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_AOS_MALEVOLENT_MAELSTROM": {
+      "description": {
+        "_value": "Volatile death magic that damages enemies caught in its explosion."
+      },
+      "name": {
+        "_value": "Malevolent Maelstrom"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Malevolent Maelstrom Endless Spell"
+      }
+    },
+    "WS_AOS_PRISMATIC_PALISADE": {
+      "description": {
+        "_value": "Conjures a temporary protective shield."
+      },
+      "name": {
+        "_value": "Prismatic Palisade"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Prismatic Palisade Endless Spell"
+      }
+    },
+    "WS_AOS_PURPLE_SUN_OF_SHYISH": {
+      "description": {
+        "_value": "A sphere of termination. Fires lethal rays that damage all within its path."
+      },
+      "name": {
+        "_value": "Purple Sun of Shyish"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Purple Sun of Shyish Endless Spell"
+      }
+    },
+    "WS_AOS_QUICKSILVER_BLADES": {
+      "description": {
+        "_value": "Magical blades that slice through the air and home in on nearby enemies."
+      },
+      "name": {
+        "_value": "Quicksilver Swords"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Quicksilver Swords Endless Spell"
+      }
+    },
+    "WS_AOS_SUFFOCATING_GRAVETIDE": {
+      "description": {
+        "_value": "Spectral, relentless dead erupt from the ground, inflicting the Stunned and Battle Shocked states on enemies."
+      },
+      "name": {
+        "_value": "Suffocating Gravetide"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      },
+      "achievementTips": {
+        "_value": "Suffocating Gravetide Endless Spell"
+      }
+    },
+    "WS_AOS_TREASURE_CHEST_LARGE": {
+      "description": {
+        "_value": "Contains large amounts of glorious loot. Dropped by dangerous enemies."
+      },
+      "name": {
+        "_value": "Treasure Chest (Large)"
+      },
+      "tips": {
+        "_value": "Quality affected by {[CHANCE]}, and Coins multiplied by {[TITHE]}."
+      }
+    },
+    "WS_AOS_TREASURE_CHEST_SMALL": {
+      "description": {
+        "_value": "Contains small amounts of glorious loot. Dropped by dangerous enemies."
+      },
+      "name": {
+        "_value": "Treasure Chest (Small)"
+      },
+      "tips": {
+        "_value": "Quality affected by {[CHANCE]}, and Coins multiplied by {[TITHE]}."
+      }
+    },
+    "WS_AOS_TREASURE_DEFAULT": {
+      "description": {
+        "_value": "Contains glorious loot. Dropped by dangerous enemies."
+      },
+      "name": {
+        "_value": "Treasure Chest"
+      },
+      "tips": {
+        "_value": "Quality affected by {[CHANCE]}, and Coins multiplied by {[TITHE]}."
+      }
+    },
+    "WS_AOS_TROVE_OF_THE_ARCANE": {
+      "description": {
+        "_value": "Contains Celestial Arcana. Dropped by dangerous enemies."
+      },
+      "name": {
+        "_value": "Trove of the Arcane"
+      },
+      "tips": {
+        "_value": "Quality affected by {[CHANCE]}, and Coins multiplied by {[TITHE]}."
+      }
+    },
+    "WS_AOS_URGOLD": {
+      "description": {
+        "_value": "Counts as currency but also triggers a temporary stat boost for Fyreslayers.​"
+      },
+      "name": {
+        "_value": "Ur-Gold Runes"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_AOS_VARANITE": {
+      "description": {
+        "_value": "Permanently improves a random stat for the current character by a tiny amount."
+      },
+      "name": {
+        "_value": "Varanite"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_AOS_DUMMY_ARCANA": {
+      "description": {
+        "_value": "Gain +1 Celestial Arcana for this run."
+      },
+      "name": {
+        "_value": "Celestial Arcana"
+      }
+    },
+    "WS_ALWAYS_CURRENCY": {
+      "description": {
+        "_value": "For every subsequent level up gain 25 Coins. Level up screen will no longer be shown for this run."
+      },
+      "name": {
+        "_value": "[Always] Collectable Coins"
+      }
+    },
+    "WS_LUCKY_DIE": {
+      "description": {
+        "_value": "Increases {[CHANCE]} by 10% for this run."
+      },
+      "name": {
+        "_value": "Lucky Die"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_BLOOD_DROP": {
+      "description": {
+        "_value": "Restores 1 Wound."
+      },
+      "name": {
+        "_value": "Blood Drop"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_COLLECTATHON": {
+      "description": {
+        "_value": "Gathers all Collectable Coins on the ground and starts a Collectathon."
+      },
+      "name": {
+        "_value": "Collectathon"
+      },
+      "achievementTips": {
+        "_value": "Collectathon"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_CURRENCY_LARGE": {
+      "description": {
+        "_value": "Adds 100 to your Collectable Coins total."
+      },
+      "name": {
+        "_value": "Collectible Ingot"
+      }
+    },
+    "WS_CURRENCY_MEDIUM": {
+      "description": {
+        "_value": "Adds 25 to your Collectable Coins total."
+      },
+      "name": {
+        "_value": "Gold Collectible Coin"
+      }
+    },
+    "WS_CURRENCY_SMALL": {
+      "description": {
+        "_value": "Adds 10 to your Collectable Coins total."
+      },
+      "name": {
+        "_value": "Silver Collectible Coin"
+      }
+    },
+    "WS_CURRENCY": {
+      "description": {
+        "_value": "Adds 1 to your Collectable Coins total."
+      },
+      "name": {
+        "_value": "Collectable Coin"
+      }
+    },
+    "WS_EIGHT_POINTED_STAR": {
+      "name": {
+        "_value": "Eight-Pointed Star"
+      },
+      "description": {
+        "_value": "Increases {[CORRUPTION]} for the remainder of the run."
+      }
+    },
+    "WS_GILDED_AMULET": {
+      "description": {
+        "_value": "Gathers all Collectable Coins left on the ground and starts a Collectathon."
+      },
+      "name": {
+        "_value": "Collectathon"
+      },
+      "achievementTips": {
+        "_value": "Collectathon"
+      }
+    },
+    "WS_MAGNET": {
+      "description": {
+        "_value": "Gathers all Skull Gems left on the ground."
+      },
+      "name": {
+        "_value": "Magnet"
+      },
+      "tips": {
+        "_value": "Drop rate affected by {[CHANCE]}."
+      }
+    },
+    "WS_40K_MUTAGEN": {
+      "description": {
+        "_value": "Permanently improves a random stat for the current character by a tiny amount."
+      },
+      "name": {
+        "_value": "Mutagen"
+      }
+    },
+    "WS_SKULLGEM_BLUE": {
+      "description": {
+        "_value": "Increases experience."
+      },
+      "name": {
+        "_value": "Skull Gems (Blue)"
+      }
+    },
+    "WS_SKULLGEM_GREEN": {
+      "description": {
+        "_value": "Increases experience."
+      },
+      "name": {
+        "_value": "Skull Gem (Green)"
+      }
+    },
+    "WS_SKULLGEM_RED": {
+      "description": {
+        "_value": "Increases experience."
+      },
+      "name": {
+        "_value": "Skull Gem (Red)"
+      }
+    },
+    "WS_SKULLGEM": {
+      "description": {
+        "_value": "Increases experience."
+      },
+      "name": {
+        "_value": "Skull Gem"
+      }
+    },
+    "WS_DUMMY_REVIVE": {
+      "name": {
+        "_value": "Redeployment"
+      },
+      "description": {
+        "_value": "Gain +1 {[REDEPLOYMENT]} for this run."
+      }
+    },
+    "WS_40K_RELIC_AUSPEX": {
+      "description": {
+        "_value": "Reveals the location of hidden items and marks them on the map for all Warhammer 40,000 stages."
+      },
+      "name": {
+        "_value": "Auspex"
+      },
+      "achievementTips": {
+        "_value": "Hidden stage items"
+      }
+    },
+    "WS_40K_RELIC_SIGNUM_ARRAY": {
+      "description": {
+        "_value": "Adds more detail to the map in Warhammer 40,000 stages."
+      },
+      "name": {
+        "_value": "Signum Array"
+      },
+      "achievementTips": {
+        "_value": "Detailed Maps"
+      }
+    },
+    "WS_40K_RELIC_BOOK_OF_WOE": {
+      "description": {
+        "_value": "Unlocks Grim Darkness Mode for Warhammer 40,000.​"
+      },
+      "name": {
+        "_value": "Book of Woe"
+      },
+      "achievementTips": {
+        "_value": "Grim Darkness mode"
+      }
+    },
+    "WS_40K_RELIC_EMPERORS_TAROT_DECK": {
+      "description": {
+        "_value": "Unlocks the ability to obtain and equip powerful Emperor's Tarot Cards."
+      },
+      "name": {
+        "_value": "The Emperor's Tarot"
+      },
+      "achievementTips": {
+        "_value": "The Emperor's Tarot"
+      }
+    },
+    "WS_40K_RELIC_FERROSANCTIC_ORRERY": {
+      "description": {
+        "_value": "Summons  the merchant Balphamus Vaulk on all other Warhammer 40,000 stages."
+      },
+      "name": {
+        "_value": "Ferrosanctic Orrery"
+      },
+      "achievementTips": {
+        "_value": "Second Merchant"
+      }
+    },
+    "WS_40K_RELIC_GYROTEMPORAL_VAULT": {
+      "description": {
+        "_value": "Unlocks Fast Attack Mode for Warhammer 40,000."
+      },
+      "name": {
+        "_value": "Gyrotemporal Vault"
+      },
+      "achievementTips": {
+        "_value": "Fast Attack Mode"
+      }
+    },
+    "WS_40K_RELIC_MUNITORUM_DATASLATE": {
+      "description": {
+        "_value": "Grants access to the Warhammer 40,000 Armoury menu.​"
+      },
+      "name": {
+        "_value": "Munitorum Dataslate"
+      },
+      "achievementTips": {
+        "_value": "Armoury"
+      }
+    },
+    "WS_40K_RELIC_RELAY_DEATH_WORLD_1": {
+      "description": {
+        "_value": "Allows the merchant Daedalosus to appear on this stage."
+      },
+      "name": {
+        "_value": "Astropathic Relay - Death World - Daedalosus"
+      },
+      "achievementTips": {
+        "_value": "Death World merchant."
+      }
+    },
+    "WS_40K_RELIC_RELAY_DESERT_WASTELAND_1": {
+      "description": {
+        "_value": "Allows the merchant Daedalosus to appear on this stage."
+      },
+      "name": {
+        "_value": "Astropathic Relay - Desert Wasteland - Daedalosus"
+      }
+    },
+    "WS_40K_RELIC_RELAY_GALLOWDARK_1": {
+      "description": {
+        "_value": "Allows the merchant Daedalosus to appear on this stage."
+      },
+      "name": {
+        "_value": "Astropathic Relay - Gallowdark -  Daedalosus"
+      },
+      "achievementTips": {
+        "_value": "Gallowdark merchant."
+      }
+    },
+    "WS_40K_RELIC_RELAY_HOBBY_TABLE_1": {
+      "description": {
+        "_value": "Allows the merchant Daedalosus to appear on this stage."
+      },
+      "name": {
+        "_value": "Astropathic Relay - Hobby Table - Daedalosus"
+      },
+      "achievementTips": {
+        "_value": "Hobby Table merchant."
+      }
+    },
+    "WS_40K_RELIC_RELAY_IMPERIAL_BASTION_1": {
+      "description": {
+        "_value": "Allows the merchant Daedalosus to appear on this stage."
+      },
+      "name": {
+        "_value": "Astropathic Relay - Imperial Bastion - Daedalosus"
+      },
+      "achievementTips": {
+        "_value": "Imperial Bastion merchant."
+      }
+    },
+    "WS_40K_RELIC_RELAY_ORK_STRONGHOLD_1": {
+      "description": {
+        "_value": "Allows the merchant Daedalosus to appear on this stage."
+      },
+      "name": {
+        "_value": "Astropathic Relay - Ork Stronghold - Daedalosus"
+      },
+      "achievementTips": {
+        "_value": "Ork Stronghold merchant."
+      }
+    },
+    "WS_40K_RELIC_RELAY_IMPERIAL_SHIPYARD_1": {
+      "description": {
+        "_value": "Allows the merchant Daedalosus to appear on this stage."
+      },
+      "name": {
+        "_value": "Astropathic Relay - Imperial Shipyard - Daedalosus"
+      },
+      "achievementTips": {
+        "_value": "Imperial Shipyard merchant."
+      }
+    },
+    "WS_40K_RELIC_STANDARD_OF_THE_EMPEROR_ASCENDANT": {
+      "description": {
+        "_value": "Unlocks Purity Mode for Warhammer 40,000."
+      },
+      "name": {
+        "_value": "Standard of the Emperor Ascendant"
+      },
+      "achievementTips": {
+        "_value": "Purity Mode"
+      }
+    },
+    "WS_40K_RELIC_TELEPORTARIUM_STC": {
+      "description": {
+        "_value": "Summons Astropathic Relays for the merchant Daedalosus in all other Warhammer 40,000 stages."
+      },
+      "name": {
+        "_value": "Teleportarium"
+      },
+      "achievementTips": {
+        "_value": "Astropathic Relays"
+      }
+    },
+    "WS_40K_RELIC_THE_BOOK_OF_TZEENTCH": {
+      "description": {
+        "_value": "Grants access to the Warhammer 40,000 Secrets menu.​"
+      },
+      "name": {
+        "_value": "The Book of Tzeentch"
+      },
+      "achievementTips": {
+        "_value": "???"
+      }
+    },
+    "WS_40K_RELIC_TOME_OF_ECTOLADES": {
+      "description": {
+        "_value": "Grants access to the Warhammer 40,000 Bestiarium menu.​"
+      },
+      "name": {
+        "_value": "Tome of Ectoclades"
+      },
+      "achievementTips": {
+        "_value": "Bestiarum"
+      }
+    },
+    "WS_40K_RELIC_MAELSTROM_KEY": {
+      "description": {
+        "_value": "Unlocks Endless War Mode for Warhammer 40,000.​"
+      },
+      "name": {
+        "_value": "Maelstrom Key"
+      },
+      "achievementTips": {
+        "_value": "Endless War mode"
+      }
+    },
+    "WS_AOS_RELIC_AMBERBONE": {
+      "description": {
+        "_value": "Allows the Freeguild Fusilier to morph into the Fusil-Major on Ogor Warhulk."
+      },
+      "name": {
+        "_value": "Amberbone"
+      },
+      "achievementTips": {
+        "_value": "Major Docheval"
+      }
+    },
+    "WS_AOS_RELIC_ARCANOSCOPE": {
+      "description": {
+        "_value": "Reveals the location of hidden items and marks them on the map for all Warhammer Age of Sigmar stages."
+      },
+      "name": {
+        "_value": "Arcanoscope"
+      },
+      "achievementTips": {
+        "_value": "Hidden stage items"
+      }
+    },
+    "WS_AOS_RELIC_ATMOSPHERIC_ANATOMISER": {
+      "description": {
+        "_value": "Allows the merchant Drekki Flynt to appear on the Bloodwind Spoil stage."
+      },
+      "name": {
+        "_value": "Atmospheric Anatomiser"
+      },
+      "achievementTips": {
+        "_value": "Second Merchant"
+      }
+    },
+    "WS_AOS_RELIC_CARTOARCANABULUM": {
+      "description": {
+        "_value": "Adds more detail to the map in Warhammer Age of Sigmar stages."
+      },
+      "name": {
+        "_value": "Carto-Arcanabulum"
+      },
+      "achievementTips": {
+        "_value": "Detailed Maps"
+      }
+    },
+    "WS_AOS_RELIC_CELESTIAL_ORRERY": {
+      "description": {
+        "_value": "Unlocks the ability to obtain and equip powerful Celestial Arcana.​"
+      },
+      "name": {
+        "_value": "Celestial Orrery"
+      },
+      "achievementTips": {
+        "_value": "Celestial Arcana"
+      }
+    },
+    "WS_AOS_RELIC_CREATURA_MYTHOLOGICA": {
+      "description": {
+        "_value": "Grants access to the Warhammer Age of Sigmar Bestiarium menu.​"
+      },
+      "name": {
+        "_value": "Creatura Mythologica"
+      },
+      "achievementTips": {
+        "_value": "Bestiarium"
+      }
+    },
+    "WS_AOS_RELIC_EYE_OF_TZEENTCH": {
+      "description": {
+        "_value": "Grants access to the Warhammer Age of Sigmar Secrets menu.​"
+      },
+      "name": {
+        "_value": "Eye of Tzeentch"
+      },
+      "achievementTips": {
+        "_value": "???"
+      }
+    },
+    "WS_AOS_RELIC_GLIMMERING": {
+      "description": {
+        "_value": "Unlocks Endless War Mode for Warhammer Age of Sigmar."
+      },
+      "name": {
+        "_value": "Glimmering"
+      },
+      "achievementTips": {
+        "_value": "Endless War mode"
+      }
+    },
+    "WS_AOS_RELIC_OATHSTONE": {
+      "achievementTips": {
+        "_value": "Purity Mode"
+      },
+      "description": {
+        "_value": "Unlocks Purity Mode for Warhammer Age of Sigmar."
+      },
+      "name": {
+        "_value": "Oathstone"
+      }
+    },
+    "WS_AOS_RELIC_QUICKSILVER_DRAUGHT": {
+      "description": {
+        "_value": "Unlocks Fast Attack Mode for Warhammer Age of Sigmar."
+      },
+      "name": {
+        "_value": "Quicksilver Draught"
+      },
+      "achievementTips": {
+        "_value": "Fast Attack Mode"
+      }
+    },
+    "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR": {
+      "description": {
+        "_value": "Sign an exclusive trade agreement with Drekki Flynt, gaining access to his wares. First purchase unlocks Drekki on other Warhammer Age of Sigmar stages."
+      },
+      "name": {
+        "_value": "Barak-Mhornar Contract"
+      },
+      "achievementTips": {
+        "_value": "Toggles second merchant"
+      }
+    },
+    "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR": {
+      "description": {
+        "_value": "Sign an exclusive trade agreement with Brokk Grungsson, gaining access to his wares. First purchase unlocks Brokk on other Warhammer Age of Sigmar stages."
+      },
+      "name": {
+        "_value": "Barak-Nar Contract"
+      },
+      "achievementTips": {
+        "_value": "Merchant items"
+      }
+    },
+    "WS_AOS_RELIC_WARSCROLL": {
+      "description": {
+        "_value": "Grants access to the Warhammer Age of Sigmar Armoury menu.​"
+      },
+      "name": {
+        "_value": "Warscroll"
+      },
+      "achievementTips": {
+        "_value": "Armoury"
+      }
+    },
+    "WS_AOS_RELIC_WARPSTONE_TALISMAN": {
+      "description": {
+        "_value": "Unlocks Grim Darkness Mode for Warhammer Age of Sigmar."
+      },
+      "name": {
+        "_value": "Warpstone Talisman"
+      },
+      "achievementTips": {
+        "_value": "Grim Darkness mode"
+      }
+    },
+    "WS_DUMMY_SKIP": {
+      "name": {
+        "_value": "Skip"
+      },
+      "description": {
+        "_value": "+1 {[SKIP]}"
+      }
+    },
+    "WS_DUMMY_BANISH": {
+      "name": {
+        "_value": "Banish"
+      },
+      "description": {
+        "_value": "+1 {[BANISH]}"
+      }
+    },
+    "WS_DUMMY_REROLL": {
+      "name": {
+        "_value": "Reroll"
+      },
+      "description": {
+        "_value": "+1 {[REROLL]}"
+      }
+    },
+    "WS_40K_CHARBUY_VAULK": {
+      "name": {
+        "_value": "Balphamus Vaulk"
+      },
+      "description": {
+        "_value": "Unlock Balphamus Vaulk as a playable character."
+      }
+    },
+    "WS_RELIC_BROKEN_SWORD": {
+      "description": {
+        "_value": "Unlocks the Retribution stat in the Enhancements menu for Warhammer 40,000 and Warhammer Age of Sigmar Universes.​"
+      },
+      "name": {
+        "_value": "Broken Sword"
+      },
+      "achievementTips": {
+        "_value": "Retribution"
+      }
+    },
+    "WS_RELIC_HUNTING_TRAP": {
+      "description": {
+        "_value": "Unlocks the Bait stat in the Enhancements menu for Warhammer 40,000 and Warhammer Age of Sigmar Universes.​"
+      },
+      "name": {
+        "_value": "Hunting Trap"
+      },
+      "achievementTips": {
+        "_value": "Bait"
+      }
+    }
+  }
+}

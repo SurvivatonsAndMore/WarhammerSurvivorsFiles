@@ -1,0 +1,30 @@
+{
+  "ws_RedemptionArc": {
+    "name": {
+      "_value": {
+        "en": "Redemption Arc"
+      }
+    }
+  },
+  "ws_VampireSurvivor": {
+    "name": {
+      "_value": {
+        "en": "Vampire Survivor"
+      }
+    }
+  },
+  "ws_CryptBreaker": {
+    "name": {
+      "_value": {
+        "en": "Crypt-Breaker"
+      }
+    }
+  },
+  "ws_ObtainWarhammerPaint": {
+    "description": {
+      "_value": {
+        "en": "Obtain the required Warhammer Paint Pots."
+      }
+    }
+  }
+}

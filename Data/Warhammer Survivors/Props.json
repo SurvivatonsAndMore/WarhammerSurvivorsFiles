@@ -1,0 +1,2338 @@
+{
+  "BRAZIER": {
+    "textureName": "items",
+    "frameName": "Brazier",
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "destructibleType": "BRAZIER"
+  },
+  "BRAZIER2": {
+    "textureName": "items",
+    "frameName": "Brazier2",
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "destructibleType": "BRAZIER"
+  },
+  "CANDELABRA": {
+    "textureName": "items",
+    "frameName": "Candelabrone",
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "destructibleType": "CANDELABRA"
+  },
+  "LAMPOST": {
+    "textureName": "items",
+    "frameName": "Lampost",
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "destructibleType": "LAMPOST"
+  },
+  "CANDLE": {
+    "textureName": "items",
+    "frameName": "Candelabrone",
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "destructibleType": "CANDLE"
+  },
+  "CART": {
+    "textureName": "items",
+    "frameName": "Cart",
+    "destroyedAmount": 0,
+    "maxHp": 4,
+    "destructibleType": "CART"
+  },
+  "WINDOW": {
+    "textureName": "items",
+    "frameName": "windowPieces",
+    "destroyedAmount": 0,
+    "maxHp": 5,
+    "destructibleType": "WINDOW"
+  },
+  "LANTERN": {
+    "textureName": "items",
+    "frameName": "Lantern",
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "destructibleType": "LANTERN"
+  },
+  "LANTERN_INVERSE": {
+    "textureName": "items",
+    "frameName": "LanternInv",
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "destructibleType": "LANTERN_INVERSE"
+  },
+  "WEATHERNODE": {
+    "textureName": "items",
+    "frameName": "WeatherNode",
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "destructibleType": "WEATHERNODE"
+  },
+  "TRAINLEVER": {
+    "textureName": "items",
+    "frameName": "Lever",
+    "destroyedAmount": 0,
+    "maxHp": 999,
+    "destructibleType": "TRAINLEVER"
+  },
+  "LABORATORYLEVER2": {
+    "textureName": "items",
+    "frameName": "Lever",
+    "destroyedAmount": 0,
+    "maxHp": 999,
+    "destructibleType": "LABORATORYLEVER2"
+  },
+  "LABORATORYLEVER3": {
+    "textureName": "items",
+    "frameName": "Lever",
+    "destroyedAmount": 0,
+    "maxHp": 999,
+    "destructibleType": "LABORATORYLEVER3"
+  },
+  "LABORATORYLEVER4": {
+    "textureName": "items",
+    "frameName": "Lever",
+    "destroyedAmount": 0,
+    "maxHp": 999,
+    "destructibleType": "LABORATORYLEVER4"
+  },
+  "LAB_DOOR_A": {
+    "textureName": "items",
+    "frameName": "labDoorA1",
+    "destroyedAmount": 0,
+    "maxHp": 999,
+    "destructibleType": "LAB_DOOR_A"
+  },
+  "LAB_DOOR_B": {
+    "textureName": "items",
+    "frameName": "labDoorB1",
+    "destroyedAmount": 0,
+    "maxHp": 999,
+    "destructibleType": "LAB_DOOR_B"
+  },
+  "LAMPOST_SINGLE": {
+    "textureName": "items",
+    "frameName": "SingleLampost",
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "destructibleType": "LAMPOST_SINGLE"
+  },
+  "FB_CAPSULE": {
+    "textureName": "firstBlood",
+    "frameName": "fb_capsule",
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "destructibleType": "FB_CAPSULE"
+  },
+  "FB_EXPLOBARREL": {
+    "textureName": "items",
+    "frameName": "propBarrelExplo",
+    "destroyedAmount": 0,
+    "maxHp": 2,
+    "destructibleType": "FB_EXPLOBARREL"
+  },
+  "FB_EXPLOCAR": {
+    "textureName": "firstBlood",
+    "frameName": "propCarExplo",
+    "destroyedAmount": 0,
+    "maxHp": 5,
+    "destructibleType": "FB_EXPLOCAR"
+  },
+  "TP_DOOR": {
+    "textureName": "TP_items",
+    "frameName": "TP_Item_DoorA_01",
+    "destroyedAmount": 0,
+    "maxHp": 999,
+    "destructibleType": "TP_DOOR"
+  },
+  "WS_DECAL": {
+    "textureName": "none",
+    "frameName": "none",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_DECAL"
+  },
+  "WS_40K_INFESTATION_NODE": {
+    "textureName": "40K_Items",
+    "frameName": "T_DS_Pustule",
+    "frameCount": 5,
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "destructibleType": "WS_40K_INFESTATION_NODE"
+  },
+  "WS_40K_HOMING_BEACON": {
+    "textureName": "40K_Items",
+    "frameName": "T_DS_HomingBeacon",
+    "frameCount": 4,
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "useSmartCollider": true,
+    "destructibleType": "WS_40K_HOMING_BEACON"
+  },
+  "WS_40K_ORK_FIRE_BARREL": {
+    "textureName": "40K_Items",
+    "frameName": "T_DS_FireBarrel",
+    "frameCount": 4,
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "useSmartCollider": true,
+    "destructibleType": "WS_40K_ORK_FIRE_BARREL"
+  },
+  "WS_40K_MARKOFNURGLE": {
+    "textureName": "40K_Items",
+    "frameName": "T_DS_MarkOfNurgle",
+    "frameCount": 6,
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "useSmartCollider": true,
+    "colliderOffsetY" : 14.0, 
+    "destructibleType": "WS_40K_MARKOFNURGLE"
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_GREEN_V_A": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Green_V_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_GREEN_V_A",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_GREEN_V_B": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Green_V_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_GREEN_V_B",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_GREEN_V_C": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Green_V_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_GREEN_V_C",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_GREEN_V_D": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Green_V_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_GREEN_V_D",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_GREEN_H_A": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Green_H_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_GREEN_H_A",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_GREEN_H_B": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Green_H_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_GREEN_H_B",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_GREEN_H_C": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Green_H_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_GREEN_H_C",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_GREEN_H_D": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Green_H_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_GREEN_H_D",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_RED_V_A": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Red_V_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_RED_V_A",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_RED_V_B": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Red_V_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_RED_V_B",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_RED_H_A": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Red_H_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_RED_H_A",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_RED_H_B": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Red_H_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_RED_H_B",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_RED_H_C": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Red_H_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_RED_H_C",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_RED_H_D": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Red_H_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_RED_H_D",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_BLUE_V_A": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Blue_V_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_BLUE_V_A",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_BLUE_V_B": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Blue_V_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_BLUE_V_B",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_BLUE_V_C": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Blue_V_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_BLUE_V_C",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_BLUE_V_D": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Blue_V_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_BLUE_V_D",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_BLUE_H_A": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Blue_H_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_BLUE_H_A",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_BLUE_H_B": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Blue_H_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_BLUE_H_B",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_YELLOW_V_A": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Yellow_V_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_YELLOW_V_A",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_YELLOW_H_A": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Yellow_H_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_YELLOW_H_A",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_GREY_V_A": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_GREY_V_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_GREY_V_A",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_GREY_H_A": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Grey_H_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_GREY_H_A",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_BLACK_V_A": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Black_V_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_BLACK_V_A",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_CONTAINER_BLACK_H_A": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Container_Black_H_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_CONTAINER_BLACK_H_A",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_IMP_GOTH_SKYTALON_A": {
+    "textureName": "Props_40K_ImperialGothic",
+    "frameName": "Prop_Skytalon_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_GOTH_SKYTALON_A"
+  },
+  "WS_40K_IMP_SHIPYARD_RUBBLE_A": {
+    "textureName": "Props_40K_ImperialShipyard_A_01",
+    "frameName": "Prop_Rubble_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_SHIPYARD_RUBBLE_A",
+    "dynamicZSortOffset": 125
+  },
+  "WS_40K_IMP_SHIPYARD_RUBBLE_B": {
+    "textureName": "Props_40K_ImperialShipyard_A_01",
+    "frameName": "Prop_Rubble_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_SHIPYARD_RUBBLE_B",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_IMP_SHIPYARD_RUBBLE_C": {
+    "textureName": "Props_40K_ImperialShipyard_A_01",
+    "frameName": "Prop_Rubble_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_SHIPYARD_RUBBLE_C",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_IMP_SHIPYARD_RUBBLE_D": {
+    "textureName": "Props_40K_ImperialShipyard_A_01",
+    "frameName": "Prop_Rubble_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_SHIPYARD_RUBBLE_D",
+    "dynamicZSortOffset": 50
+  },
+  "WS_40K_IMP_SHIPYARD_CRATES_A": {
+    "textureName": "Props_40K_ImperialShipyard_A_01",
+    "frameName": "Prop_Crates_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_SHIPYARD_CRATES_A",
+    "dynamicZSortOffset": 15
+  },
+  "WS_40K_IMP_SHIPYARD_CRATES_B": {
+    "textureName": "Props_40K_ImperialShipyard_A_01",
+    "frameName": "Prop_Crates_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_SHIPYARD_CRATES_B",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_IMP_SHIPYARD_CRATES_C": {
+    "textureName": "Props_40K_ImperialShipyard_A_01",
+    "frameName": "Prop_Crates_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_SHIPYARD_CRATES_C",
+    "dynamicZSortOffset": 60
+  },
+  "WS_40K_IMP_SHIPYARD_CRATES_D": {
+    "textureName": "Props_40K_ImperialShipyard_A_01",
+    "frameName": "Prop_Crates_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_SHIPYARD_CRATES_D",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_IMP_SHIPYARD_PLASMA_REGULATOR_A": {
+    "textureName": "Props_40K_ImperialShipyard_A_01",
+    "frameName": "Prop_PlasmaRegulator_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_SHIPYARD_PLASMA_REGULATOR_A",
+    "dynamicZSortOffset": 50
+  },
+  "WS_40K_IMP_SHIPYARD_PLASMA_REGULATOR_B": {
+    "textureName": "Props_40K_ImperialShipyard_A_01",
+    "frameName": "Prop_PlasmaRegulator_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_SHIPYARD_PLASMA_REGULATOR_B",
+    "dynamicZSortOffset": 50
+  },
+  "WS_40K_IMP_SHIPYARD_CONSOLE_ELEVATOR_A": {
+    "textureName": "Props_40K_ImperialShipyard_A_01",
+    "frameName": "Prop_Console_Elevator_A_",
+    "frameCount": 4,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMP_SHIPYARD_CONSOLE_ELEVATOR_A"
+  },
+  "WS_40K_GALLOWDARK_AIRLOCK_A": {
+    "textureName": "Props_40K_Gallowdark_A",
+    "frameName": "Prop_Airlock_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_GALLOWDARK_AIRLOCK_A"
+  },
+  "WS_40K_GALLOWDARK_AIRLOCKDOOR_B": {
+    "textureName": "Props_40K_Gallowdark_A",
+    "frameName": "Prop_Airlock_Door_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_GALLOWDARK_AIRLOCKDOOR_B"
+  },
+  "WS_40K_GALLOWDARK_AIRLOCKSPACE_A": {
+    "textureName": "Props_40K_Gallowdark_A",
+    "frameName": "Prop_Airlock_Space_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_GALLOWDARK_AIRLOCKSPACE_A"
+  },
+  "WS_40K_GALLOWDARK_AIRLOCKDOOR_A": {
+    "textureName": "Props_40K_Gallowdark_A",
+    "frameName": "Prop_Airlock_Door_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_GALLOWDARK_AIRLOCKDOOR_A"
+  },
+  "WS_40K_GALLOWDARK_CRATES_A": {
+    "textureName": "Props_40K_Gallowdark_A",
+    "frameName": "Prop_Crates_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_GALLOWDARK_CRATES_A",
+    "dynamicZSortOffset": 75
+  },
+  "WS_40K_GALLOWDARK_CRATES_B": {
+    "textureName": "Props_40K_Gallowdark_A",
+    "frameName": "Prop_Crates_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_GALLOWDARK_CRATES_B",
+    "dynamicZSortOffset": 16
+  },
+  "WS_40K_GALLOWDARK_CRATES_C": {
+    "textureName": "Props_40K_Gallowdark_A",
+    "frameName": "Prop_Crates_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_GALLOWDARK_CRATES_C",
+    "dynamicZSortOffset": 16
+  },
+  "WS_40K_GALLOWDARK_CRATES_D": {
+    "textureName": "Props_40K_Gallowdark_A",
+    "frameName": "Prop_Crates_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_GALLOWDARK_CRATES_D",
+    "dynamicZSortOffset": 50
+  },
+  "WS_40K_GALLOWDARK_RUBBLE_A": {
+    "textureName": "Props_40K_Gallowdark_A",
+    "frameName": "Prop_Rubble_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_GALLOWDARK_RUBBLE_A",
+    "dynamicZSortOffset": 60
+  },
+  "WS_40K_GALLOWDARK_RUBBLE_B": {
+    "textureName": "Props_40K_Gallowdark_A",
+    "frameName": "Prop_Rubble_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_GALLOWDARK_RUBBLE_B",
+    "dynamicZSortOffset": 20
+  },
+  "WS_40K_GALLOWDARK_RUBBLE_C": {
+    "textureName": "Props_40K_Gallowdark_A",
+    "frameName": "Prop_Rubble_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_GALLOWDARK_RUBBLE_C",
+    "dynamicZSortOffset": 120
+  },
+  "WS_40K_GALLOWDARK_RUBBLE_D": {
+    "textureName": "Props_40K_Gallowdark_A",
+    "frameName": "Prop_Rubble_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_GALLOWDARK_RUBBLE_D",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_ORK_BARRICADE_A": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_Barricade_Ork_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_BARRICADE_A",
+    "dynamicZSortOffset": 95
+  },
+  "WS_40K_ORK_BARRICADE_B": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_Barricade_Ork_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_BARRICADE_B",
+    "dynamicZSortOffset": 95
+  },
+  "WS_40K_ORK_BARRICADE_C": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_Barricade_Ork_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_BARRICADE_C",
+    "dynamicZSortOffset": 95
+  },
+  "WS_40K_ORK_BARRICADE_D": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_Barricade_Ork_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_BARRICADE_D",
+    "dynamicZSortOffset": 95
+  },
+  "WS_40K_ORK_BARRICADE_E": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_Barricade_Ork_E_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_BARRICADE_E",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_ORK_BARRICADE_F": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_Barricade_Ork_F_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_BARRICADE_F",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_ORK_BARRICADE_G": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_Barricade_Ork_G_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_BARRICADE_G",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_ORK_BARRICADE_H": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_Barricade_Ork_H_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_BARRICADE_H",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_ORK_BOSSBUNKA_A": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_BossBunka_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_BOSSBUNKA_A",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_ORK_BOSSBUNKA_B": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_BossBunka_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_BOSSBUNKA_B",
+    "dynamicZSortOffset": 80
+  },
+  "WS_40K_ORK_EXPLOSIVEBARREL_A": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_ExplosiveBarrel_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": 40,
+    "destructibleType": "WS_40K_ORK_EXPLOSIVEBARREL_A",
+    "dynamicZSortOffset": 20
+  },
+  "WS_40K_ORK_EXPLOSIVEBARREL_B": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_ExplosiveBarrel_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": 20,
+    "destructibleType": "WS_40K_ORK_EXPLOSIVEBARREL_B",
+    "dynamicZSortOffset": 20
+  },
+  "WS_40K_ORK_LOUDSPEAKER_A": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_Loudspeaker_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_LOUDSPEAKER_A",
+    "dynamicZSortOffset": 30
+  },
+  "WS_40K_ORK_LOUDSPEAKER_B": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_Loudspeaker_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_LOUDSPEAKER_B",
+    "dynamicZSortOffset": 30
+  },
+  "WS_40K_ORK_SCRAPPILE_A": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_ScrapPile_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_SCRAPPILE_A",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_ORK_SCRAPPILE_B": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_ScrapPile_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_SCRAPPILE_B",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_ORK_SCRAPPILE_C": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_ScrapPile_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_SCRAPPILE_C",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_ORK_SCRAPPILE_D": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_ScrapPile_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_SCRAPPILE_D",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_ORK_SCRAPPILE_E": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_ScrapPile_E_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_SCRAPPILE_E",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_ORK_SCRAPPILE_F": {
+    "textureName": "Props_40K_Ork",
+    "frameName": "Prop_ScrapPile_F_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_ORK_SCRAPPILE_F",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_DESERT_DEADTREE_A": {
+    "textureName": "Props_40K_Desert",
+    "frameName": "Prop_DeadTree_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DESERT_DEADTREE_A",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_DESERT_DEADTREE_B": {
+    "textureName": "Props_40K_Desert",
+    "frameName": "Prop_DeadTree_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DESERT_DEADTREE_B",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_DESERT_DEADTREE_C": {
+    "textureName": "Props_40K_Desert",
+    "frameName": "Prop_DeadTree_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DESERT_DEADTREE_C",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_DESERT_MOUNTAIN_A": {
+    "textureName": "Props_40K_Desert",
+    "frameName": "Prop_Mountain_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DESERT_MOUNTAIN_A",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_DESERT_MOUNTAIN_B": {
+    "textureName": "Props_40K_Desert",
+    "frameName": "Prop_Mountain_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DESERT_MOUNTAIN_B",
+    "dynamicZSortOffset": 40
+  },
+  "WS_40K_DESERT_MOUNTAIN_C": {
+    "textureName": "Props_40K_Desert",
+    "frameName": "Prop_Mountain_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DESERT_MOUNTAIN_C",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_TYRANID_BROODNEST_A": {
+    "textureName": "Props_40K_Tyranid",
+    "frameName": "Prop_BroodNest_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_TYRANID_BROODNEST_A",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_TYRANID_BROODNEST_B": {
+    "textureName": "Props_40K_Tyranid",
+    "frameName": "Prop_BroodNest_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_TYRANID_BROODNEST_B",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_TYRANID_CAPILLARYTOWER_A": {
+    "textureName": "Props_40K_Tyranid",
+    "frameName": "Prop_CapillaryTower_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_TYRANID_CAPILLARYTOWER_A",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_TYRANID_CAPILLARYTOWER_B": {
+    "textureName": "Props_40K_Tyranid",
+    "frameName": "Prop_CapillaryTower_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_TYRANID_CAPILLARYTOWER_B",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_TYRANID_CAPILLARYTOWER_C": {
+    "textureName": "Props_40K_Tyranid",
+    "frameName": "Prop_CapillaryTower_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_TYRANID_CAPILLARYTOWER_C",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_TYRANID_CAPILLARYTOWER_D": {
+    "textureName": "Props_40K_Tyranid",
+    "frameName": "Prop_CapillaryTower_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_TYRANID_CAPILLARYTOWER_D",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_TYRANID_CAPILLARYTOWER_E": {
+    "textureName": "Props_40K_Tyranid",
+    "frameName": "Prop_CapillaryTower_E_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_TYRANID_CAPILLARYTOWER_E",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_TYRANID_CAPILLARYTOWER_F": {
+    "textureName": "Props_40K_Tyranid",
+    "frameName": "Prop_CapillaryTower_F_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_TYRANID_CAPILLARYTOWER_F",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_TYRANID_GESTATIONSAC_A": {
+    "textureName": "Props_40K_Tyranid",
+    "frameName": "Prop_GestationSac_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_TYRANID_GESTATIONSAC_A",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_TYRANID_GESTATIONSAC_B": {
+    "textureName": "Props_40K_Tyranid",
+    "frameName": "Prop_GestationSac_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_TYRANID_GESTATIONSAC_B",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_TYRANID_HIVENODE_A": {
+    "textureName": "Props_40K_Tyranid",
+    "frameName": "Prop_HiveNode_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_TYRANID_HIVENODE_A",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_TYRANID_HIVENODE_B": {
+    "textureName": "Props_40K_Tyranid",
+    "frameName": "Prop_HiveNode_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_TYRANID_HIVENODE_B",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_IMPERIALGUARD_IMPERIALBASTION_A": {
+    "textureName": "Props_40K_ImperialGuard_A",
+    "frameName": "Prop_ImperialBastion_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMPERIALGUARD_IMPERIALBASTION_A",
+    "dynamicZSortOffset": 110
+  },
+  "WS_40K_IMPERIALGUARD_MOUNTEDGUN_A": {
+    "textureName": "Props_40K_ImperialGuard_A",
+    "frameName": "Prop_MountedGun_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMPERIALGUARD_MOUNTEDGUN_A",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_IMPERIALGUARD_MOUNTEDGUN_B": {
+    "textureName": "Props_40K_ImperialGuard_A",
+    "frameName": "Prop_MountedGun_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_IMPERIALGUARD_MOUNTEDGUN_B",
+    "dynamicZSortOffset": 25
+  },
+  "WS_40K_DEATHWORLD_BARRICADE_SHARDWRACK_A": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Barricade_Shardwrack_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_BARRICADE_SHARDWRACK_A",
+    "dynamicZSortOffset": 164
+  },
+  "WS_40K_DEATHWORLD_BARRICADE_SHARDWRACK_B": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Barricade_Shardwrack_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_BARRICADE_SHARDWRACK_B",
+    "dynamicZSortOffset": 90
+  },
+  "WS_40K_DEATHWORLD_BARRICADE_SHARDWRACK_C": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Barricade_Shardwrack_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_BARRICADE_SHARDWRACK_C",
+    "dynamicZSortOffset": 32
+  },
+  "WS_40K_DEATHWORLD_BARRICADE_SHARDWRACK_D": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Barricade_Shardwrack_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_BARRICADE_SHARDWRACK_D",
+    "dynamicZSortOffset": 32
+  },
+  "WS_40K_DEATHWORLD_CACTUS_GIANT_A": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Cactus_Giant_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_CACTUS_GIANT_A",
+    "dynamicZSortOffset": 32
+  },
+  "WS_40K_DEATHWORLD_CACTUS_GIANT_B": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Cactus_Giant_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_CACTUS_GIANT_B",
+    "dynamicZSortOffset": 32
+  },
+  "WS_40K_DEATHWORLD_CACTUS_GIANT_C": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Cactus_Giant_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_CACTUS_GIANT_C",
+    "dynamicZSortOffset": 32
+  },
+  "WS_40K_DEATHWORLD_TREE_DEATHWORLD_A": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Tree_DeathWorld_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_TREE_DEATHWORLD_A",
+    "dynamicZSortOffset": 32
+  },
+  "WS_40K_DEATHWORLD_TREE_DEATHWORLD_B": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Tree_DeathWorld_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_TREE_DEATHWORLD_B",
+    "dynamicZSortOffset": 32
+  },
+  "WS_40K_DEATHWORLD_TREE_DEATHWORLD_C": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Tree_DeathWorld_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_TREE_DEATHWORLD_C",
+    "dynamicZSortOffset": 32
+  },
+  "WS_40K_DEATHWORLD_TREE_JUNGLE_A": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Tree_Jungle_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_TREE_JUNGLE_A",
+    "dynamicZSortOffset": 20
+  },
+  "WS_40K_DEATHWORLD_TREE_JUNGLE_B": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Tree_Jungle_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_TREE_JUNGLE_B",
+    "dynamicZSortOffset": 20
+  },
+  "WS_40K_DEATHWORLD_TREE_JUNGLE_C": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Tree_Jungle_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_TREE_JUNGLE_C",
+    "dynamicZSortOffset": 20
+  },
+  "WS_40K_DEATHWORLD_TREE_JUNGLE_D": {
+    "textureName": "Props_40K_Deathworld",
+    "frameName": "Prop_Tree_Jungle_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_40K_DEATHWORLD_TREE_JUNGLE_D",
+    "dynamicZSortOffset": 20
+  },
+  "WS_AOS_SKAVEN_TORCH": {
+    "textureName": "AOS_Items",
+    "frameName": "T_DS_SkavenTorch",
+    "frameCount": 8,
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "useSmartCollider":  true,
+    "destructibleType": "WS_AOS_SKAVEN_TORCH"
+  },
+  "WS_AOS_BOSSLOON_MUSHROOM": {
+    "textureName": "AOS_Items",
+    "frameName": "T_DS_BossloonMushroom",
+    "frameCount": 4,
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "destructibleType": "WS_AOS_BOSSLOON_MUSHROOM"
+  },
+  "WS_AOS_KHORNE_BANNER": {
+    "textureName": "AOS_Items",
+    "frameName": "T_DS_KhorneBanner",
+    "frameCount": 8,
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "useSmartCollider":  true,
+    "destructibleType": "WS_AOS_KHORNE_BANNER"
+  },
+  "WS_AOS_MORTALISTERMINEXUS": {
+    "textureName": "AOS_Items",
+    "frameName": "T_DS_MortalisTerminexus",
+    "frameCount": 5,
+    "destroyedAmount": 0,
+    "maxHp": 1,
+    "useSmartCollider": true,
+    "destructibleType": "WS_AOS_MORTALISTERMINEXUS"
+  }, 
+  "WS_AOS_BELL_A": {
+    "textureName": "Props_AOS_Skaven",
+    "frameName": "Prop_Skaven_Bell_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BELL_A"
+  },
+  "WS_AOS_BELL_B": {
+    "textureName": "Props_AOS_Skaven",
+    "frameName": "Prop_Skaven_Bell_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BELL_B"
+  },
+  "WS_AOS_SKAVEN_LEVER_A": {
+    "textureName": "Props_AOS_Skaven",
+    "frameName": "Prop_Skaven_Lever_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_SKAVEN_LEVER_A"
+  },  
+  "WS_AOS_WARPSTONE_A": {
+    "textureName": "Props_AOS_Skaven",
+    "frameName": "Prop_WarpstoneCrystal_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_WARPSTONE_A",
+    "dynamicZSortOffset": 32
+  },  
+  "WS_AOS_WARPSTONE_B": {
+    "textureName": "Props_AOS_Skaven",
+    "frameName": "Prop_WarpstoneCrystal_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_WARPSTONE_B",
+    "dynamicZSortOffset": 24
+  },
+  "WS_AOS_WARPSTONE_C": {
+    "textureName": "Props_AOS_Skaven",
+    "frameName": "Prop_WarpstoneCrystal_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_WARPSTONE_C",
+    "dynamicZSortOffset": 16
+  },
+  "WS_AOS_SKAVEN_GALLOWS_A": {
+    "textureName": "Props_AOS_Skaven",
+    "frameName": "Prop_Gallows_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_SKAVEN_GALLOWS_A",
+    "dynamicZSortOffset": 16
+  },
+  "WS_AOS_SKAVEN_GALLOWS_B": {
+    "textureName": "Props_AOS_Skaven",
+    "frameName": "Prop_Gallows_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_SKAVEN_GALLOWS_B",
+    "dynamicZSortOffset": 16
+  },
+  "WS_AOS_SKAVEN_GALLOWS_C": {
+    "textureName": "Props_AOS_Skaven",
+    "frameName": "Prop_Gallows_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_SKAVEN_GALLOWS_C",
+    "dynamicZSortOffset": 32
+  },
+  "WS_AOS_SKAVEN_GNAWHOLE_A": {
+    "textureName": "Props_AOS_Skaven",
+    "frameName": "Prop_Gnawhole_Active_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_SKAVEN_GNAWHOLE_A",
+    "staticZSortLayerIndex": -2000
+  },
+  "WS_SHARED_MUG": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_Mug_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_MUG",
+    "dynamicZSortOffset": 80
+  },
+  "WS_SHARED_HOBBYTABLE_CLIPPERS_A": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_Clippers_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_HOBBYTABLE_CLIPPERS_A",
+    "dynamicZSortOffset": 145
+  },
+  "WS_SHARED_HOBBYTABLE_GLUE_A": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_Glue_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_HOBBYTABLE_GLUE_A",
+    "dynamicZSortOffset": 25
+  },
+  "WS_SHARED_HOBBYTABLE_KNIFE_H_A": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_Knife_H_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_HOBBYTABLE_KNIFE_H_A",
+    "dynamicZSortOffset": 40
+  },
+  "WS_SHARED_HOBBYTABLE_KNIFE_V_A": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_Knife_V_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_HOBBYTABLE_KNIFE_V_A",
+    "dynamicZSortOffset": 180
+  },
+  "WS_SHARED_HOBBYTABLE_PAINTHANDLE_A": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_PaintHandle_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_HOBBYTABLE_PAINTHANDLE_A",
+    "dynamicZSortOffset": 60
+  },
+  "WS_SHARED_HOBBYTABLE_PAINTPOT_BLUE_A": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_PaintPot_Blue_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_HOBBYTABLE_PAINTPOT_BLUE_A",
+    "dynamicZSortOffset": 30
+  },
+  "WS_SHARED_HOBBYTABLE_PAINTPOT_GREEN_A": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_PaintPot_Green_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_HOBBYTABLE_PAINTPOT_GREEN_A",
+    "dynamicZSortOffset": 30
+  },
+  "WS_SHARED_HOBBYTABLE_PAINTPOT_YELLOW_A": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_PaintPot_Yellow_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_HOBBYTABLE_PAINTPOT_YELLOW_A",
+    "dynamicZSortOffset": 30
+  },
+  "WS_SHARED_HOBBYTABLE_PINVICE_H_A": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_PinVice_H_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_HOBBYTABLE_PINVICE_H_A",
+    "dynamicZSortOffset": 40
+  },
+  "WS_SHARED_HOBBYTABLE_PINVICE_V_A": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_PinVice_V_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_HOBBYTABLE_PINVICE_V_A",
+    "dynamicZSortOffset": 180
+  },
+  "WS_SHARED_HOBBYTABLE_REMOVER_H_A": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_Remover_H_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_HOBBYTABLE_REMOVER_H_A",
+    "dynamicZSortOffset": 40
+  },
+  "WS_SHARED_HOBBYTABLE_REMOVER_V_A": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_Remover_V_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_HOBBYTABLE_REMOVER_V_A",
+    "dynamicZSortOffset": 180
+  },
+  "WS_SHARED_HOBBYTABLE_WATERPOT_A": {
+    "textureName": "Props_Shared_HobbyTable_A_01",
+    "frameName": "Prop_WaterPot_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_SHARED_HOBBYTABLE_WATERPOT_A",
+    "dynamicZSortOffset": 75
+  },
+  "WS_AOS_MUSHROOM_LARGE_A": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Mushroom_Large_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_MUSHROOM_LARGE_A",
+    "dynamicZSortOffset": 33
+  },
+  "WS_AOS_MUSHROOM_LARGE_B": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Mushroom_Large_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_MUSHROOM_LARGE_B",
+    "dynamicZSortOffset": 25
+  },
+    "WS_AOS_MUSHROOM_LARGE_C": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Mushroom_Large_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_MUSHROOM_LARGE_C",
+    "dynamicZSortOffset": 27
+  },
+  "WS_AOS_MUSHROOM_LARGE_D": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Mushroom_Large_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_MUSHROOM_LARGE_D",
+    "dynamicZSortOffset": 20
+  },
+    "WS_AOS_MUSHROOM_MED_A": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Mushroom_Med_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_MUSHROOM_MED_A",
+    "dynamicZSortOffset": 25
+  },
+    "WS_AOS_MUSHROOM_MED_B": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Mushroom_Med_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_MUSHROOM_MED_B",
+    "dynamicZSortOffset": 25
+  },
+    "WS_AOS_MUSHROOM_SMALL_A": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Mushroom_Small_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_MUSHROOM_SMALL_A",
+    "dynamicZSortOffset": 25
+  },
+    "WS_AOS_MUSHROOM_SMALL_B": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Mushroom_Small_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_MUSHROOM_SMALL_B",
+    "dynamicZSortOffset": 20
+  },
+    "WS_AOS_SCRAPPILE_A": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_ScrapPile_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_SCRAPPILE_A",
+    "dynamicZSortOffset": 45
+  },
+    "WS_AOS_SCRAPPILE_B": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_ScrapPile_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_SCRAPPILE_B",
+    "dynamicZSortOffset": 35
+  },
+    "WS_AOS_SCRAPPILE_C": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_ScrapPile_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_SCRAPPILE_C",
+    "dynamicZSortOffset": 35
+  },
+    "WS_AOS_STALAGMITE_A": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Stalagmite_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_STALAGMITE_A",
+    "dynamicZSortOffset": 35
+  },
+    "WS_AOS_STALAGMITE_B": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Stalagmite_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_STALAGMITE_B",
+    "dynamicZSortOffset": 35
+  },
+    "WS_AOS_STALAGMITE_C": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Stalagmite_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_STALAGMITE_C",
+    "dynamicZSortOffset": 25
+  },
+    "WS_AOS_STALAGMITE_D": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Stalagmite_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_STALAGMITE_D",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_ROCKS_PLAIN_A": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Rocks_Plain_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_ROCKS_PLAIN_A",
+    "dynamicZSortOffset": 45
+  },
+    "WS_AOS_ROCKS_PLAIN_B": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Rocks_Plain_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_ROCKS_PLAIN_B",
+    "dynamicZSortOffset": 45
+  },
+    "WS_AOS_ROCKS_PLAIN_C": {
+    "textureName": "Props_SkrappaSpill_A_01",
+    "frameName": "Prop_Rocks_Plain_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_ROCKS_PLAIN_C",
+    "dynamicZSortOffset": 20
+  },
+  "WS_AOS_HAMMERHAL_PORTAL_A": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_Portal_Ghyra_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_PORTAL_A",
+    "dynamicZSortOffset": 200
+  },
+    "WS_AOS_HAMMERHAL_PORTALKEYGHYRA_A": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_PortalKey_Ghyra_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_PORTALKEYGHYRA_A",
+    "dynamicZSortOffset": 0
+  },
+    "WS_AOS_HAMMERHAL_PORTALPEDESTALGHYRA_A": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_PortalPedestal_Ghyra_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_PORTALPEDESTALGHYRA_A",
+    "dynamicZSortOffset": 80
+  },
+    "WS_AOS_HAMMERHAL_TREEGHYRA_A": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_Tree_Ghyra_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_TREEGHYRA_A",
+    "dynamicZSortOffset": 45
+  },
+    "WS_AOS_HAMMERHAL_TREEGHYRA_B": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_Tree_Ghyra_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_TREEGHYRA_B",
+    "dynamicZSortOffset": 45
+  },
+    "WS_AOS_HAMMERHAL_TREEGHYRA_C": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_Tree_Ghyra_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_TREEGHYRA_C",
+    "dynamicZSortOffset": 45
+  },
+    "WS_AOS_HAMMERHAL_BUSHGHYRA_A": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_Bush_Ghyra_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_BUSHGHYRA_A",
+    "dynamicZSortOffset": 30
+  },
+    "WS_AOS_HAMMERHAL_GUARDIANSTATUEGHYRA_A": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_GuardianStatue_Ghyra_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_GUARDIANSTATUEGHYRA_A",
+    "dynamicZSortOffset": 20
+  },
+    "WS_AOS_HAMMERHAL_SHRINEGHYRA_A": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_Shrine_Ghyra_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_SHRINEGHYRA_A",
+    "dynamicZSortOffset": 50
+  },
+    "WS_AOS_HAMMERHAL_BRAZIERAQSHY_A": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_Brazier_Aqshy_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_BRAZIERAQSHY_A",
+    "dynamicZSortOffset": 20
+  },
+    "WS_AOS_HAMMERHAL_GUARDIANSTATUEAQSHY_A": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_GuardianStatue_Aqshy_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_GUARDIANSTATUEAQSHY_A",
+    "dynamicZSortOffset": 60
+  },
+    "WS_AOS_HAMMERHAL_PORTALPEDESTALAQSHY_A": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_PortalPedestal_Aqshy_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_PORTALPEDESTALAQSHY_A",
+    "dynamicZSortOffset": 80
+  },
+    "WS_AOS_HAMMERHAL_PORTALKEYAQSHY_A": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_PortalKey_Aqshy_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_PORTALKEYAQSHY_A",
+    "dynamicZSortOffset": 0
+  },
+    "WS_AOS_HAMMERHAL_SHRINEAQSHY_A": {
+    "textureName": "Props_AOS_Hammerhal",
+    "frameName": "Prop_Shrine_Aqshy_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_HAMMERHAL_SHRINEAQSHY_A",
+    "dynamicZSortOffset": 50
+  },
+    "WS_AOS_BLOODWINDSPOIL_BARRICADE_A": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_Barricade_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_BARRICADE_A",
+    "dynamicZSortOffset": 25
+  },
+    "WS_AOS_BLOODWINDSPOIL_BARRICADE_B": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_Barricade_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_BARRICADE_B",
+    "dynamicZSortOffset": 25
+  },
+    "WS_AOS_BLOODWINDSPOIL_BARRICADE_C": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_Barricade_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_BARRICADE_C",
+    "dynamicZSortOffset": 25
+  },
+    "WS_AOS_BLOODWINDSPOIL_BARRICADE_D": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_Barricade_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_BARRICADE_D",
+    "dynamicZSortOffset": 95
+  },
+    "WS_AOS_BLOODWINDSPOIL_BARRICADE_E": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_Barricade_E_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_BARRICADE_E",
+    "dynamicZSortOffset": 95
+  },
+    "WS_AOS_BLOODWINDSPOIL_BARRICADE_D": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_Barricade_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_BARRICADE_D",
+    "dynamicZSortOffset": 95
+  },
+    "WS_AOS_BLOODWINDSPOIL_SKULLPILE_A": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_SkullPile_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_SKULLPILE_A",
+    "dynamicZSortOffset": 20
+  },
+    "WS_AOS_BLOODWINDSPOIL_SKULLPILE_B": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_SkullPile_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_SKULLPILE_B",
+    "dynamicZSortOffset": 11
+  },
+    "WS_AOS_BLOODWINDSPOIL_SKULLPILE_B": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_SkullPile_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_SKULLPILE_B",
+    "dynamicZSortOffset": 11
+  },
+    "WS_AOS_BLOODWINDSPOIL_SKULLPILE_C": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_SkullPile_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_SKULLPILE_C",
+    "dynamicZSortOffset": 11
+  },
+    "WS_AOS_BLOODWINDSPOIL_SKULLPILE_D": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_SkullPile_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_SKULLPILE_D",
+    "dynamicZSortOffset": 20
+  },
+    "WS_AOS_BLOODWINDSPOIL_SKULLPILE_E": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_SkullPile_E_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_SKULLPILE_E",
+    "dynamicZSortOffset": 20
+  },
+    "WS_AOS_BLOODWINDSPOIL_SKULLPILE_F": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_SkullPile_F_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_SKULLPILE_F",
+    "dynamicZSortOffset": 20
+  },
+    "WS_AOS_BLOODWINDSPOIL_SKULLPILE_G": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_SkullPile_G_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_SKULLPILE_G",
+    "dynamicZSortOffset": 20
+  },
+    "WS_AOS_BLOODWINDSPOIL_SKULLPILE_H": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_SkullPile_H_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_SKULLPILE_H",
+    "dynamicZSortOffset": 20
+  },
+    "WS_AOS_BLOODWINDSPOIL_SKULLPILE_I": {
+    "textureName": "Props_AOS_BloodwindSpoil",
+    "frameName": "Prop_SkullPile_I_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_BLOODWINDSPOIL_SKULLPILE_I",
+    "dynamicZSortOffset": 20
+  },
+    "WS_AOS_GNARLWOOD_ANCIENTBONES_A": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_AncientBones_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_ANCIENTBONES_A",
+    "dynamicZSortOffset": 40
+  },
+    "WS_AOS_GNARLWOOD_ANCIENTBONES_B": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_AncientBones_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_ANCIENTBONES_B",
+    "dynamicZSortOffset": 25
+  },
+    "WS_AOS_GNARLWOOD_ANCIENTBONES_C": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_AncientBones_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_ANCIENTBONES_C",
+    "dynamicZSortOffset": 25
+  },
+    "WS_AOS_GNARLWOOD_GNARLWOODTREE_A": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_GnarlwoodTree_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_GNARLWOODTREE_A",
+    "dynamicZSortOffset": 25
+  },
+    "WS_AOS_GNARLWOOD_GNARLWOODTREE_B": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_GnarlwoodTree_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_GNARLWOODTREE_B",
+    "dynamicZSortOffset": 20
+  },
+    "WS_AOS_GNARLWOOD_GNARLWOODTREE_C": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_GnarlwoodTree_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_GNARLWOODTREE_C",
+    "dynamicZSortOffset": 25
+  },
+    "WS_AOS_GNARLWOOD_SKULLPILE_A": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_SkulPile_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_SKULLPILE_A",
+    "dynamicZSortOffset": 20
+  },
+    "WS_AOS_GNARLWOOD_SKULLPILE_B": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_SkulPile_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_SKULLPILE_B",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_GNARLWOOD_SKULLPILE_C": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_SkulPile_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_SKULLPILE_C",
+    "dynamicZSortOffset": 10
+  },
+    "WS_AOS_GNARLWOOD_SKULLPILE_D": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_SkulPile_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_SKULLPILE_D",
+    "dynamicZSortOffset": 10
+  },
+    "WS_AOS_GNARLWOOD_SKULLPILE_E": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_SkulPile_E_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_SKULLPILE_E",
+    "dynamicZSortOffset": 10
+  },
+    "WS_AOS_GNARLWOOD_SKULLPILE_F": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_SkulPile_F_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_SKULLPILE_F",
+    "dynamicZSortOffset": 10
+  },
+    "WS_AOS_GNARLWOOD_SKULLPILE_G": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_SkulPile_G_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_SKULLPILE_G",
+    "dynamicZSortOffset": 10
+  },
+    "WS_AOS_GNARLWOOD_SKULLPILE_H": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_SkulPile_H_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_SKULLPILE_H",
+    "dynamicZSortOffset": 10
+  },
+    "WS_AOS_GNARLWOOD_SKULLPILE_I": {
+    "textureName": "Props_AOS_Gnarlwood",
+    "frameName": "Prop_SkulPile_I_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_GNARLWOOD_SKULLPILE_I",
+    "dynamicZSortOffset": 12
+  },
+    "WS_AOS_NECROPOLIS_FIRE_A": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Fire_Necropolis_A_",
+    "frameCount": 5,
+    "startRandomFrame": true, 
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_FIRE_A",
+    "dynamicZSortOffset": 5
+  },
+    "WS_AOS_NECROPOLIS_FIRE_B": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Fire_Necropolis_B_",
+    "frameCount": 5,
+    "startRandomFrame": true,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_FIRE_B",
+    "dynamicZSortOffset": 5
+  },
+    "WS_AOS_NECROPOLIS_FIRE_C": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Fire_Necropolis_C_",
+    "frameCount": 5,
+    "startRandomFrame": true,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_FIRE_C",
+    "dynamicZSortOffset": 5
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_A": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_A",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_B": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_B",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_C": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_C",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_D": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_D",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_E": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_E_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_E",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_F": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_F_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_F",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_G": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_G_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_G",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_H": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_H_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_H",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_I": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_I_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_I",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_J": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_J_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_J",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_K": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_K_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_K",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_L": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_L_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_L",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_M": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_M_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_M",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_N": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Large_N_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_LARGE_N",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_A": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_A",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_B": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_B",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_C": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_C",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_D": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_D",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_E": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_E_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_E",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_F": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_F_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_F",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_G": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_G_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_G",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_H": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_H_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_H",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_I": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_I_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_I",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_J": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_J_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_J",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_K": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_K_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_K",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_L": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_L_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_L",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_M": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_M_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_M",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_N": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Medium_N_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_MEDIUM_N",
+    "dynamicZSortOffset": 15
+  },
+    "WS_AOS_NECROPOLIS_SKULLPILE_SMALL_A": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Skullpile_Small_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_SKULLPILE_SMALL_A",
+    "dynamicZSortOffset": 5
+  },
+  "WS_AOS_NECROPOLIS_OBJECTIVE_NAGASH_SPAWN_A": {
+    "textureName": "Props_AOS_Necropolis_A",
+    "frameName": "Prop_Objective_NagashSpawn_A_",
+    "frameCount": 5,
+    "frameRate": 6,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_NECROPOLIS_OBJECTIVE_NAGASH_SPAWN_A",
+    "staticZSortLayerIndex": -1999
+  },
+    "WS_AOS_AQSHY_LAVACRACKS_A": {
+    "textureName": "Props_AOS_Aqshy",
+    "frameName": "Prop_LavaCracks_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_AQSHY_LAVACRACKS_A",
+    "dynamicZSortOffset": 40
+  },
+    "WS_AOS_AQSHY_LAVACRACKS_B": {
+    "textureName": "Props_AOS_Aqshy",
+    "frameName": "Prop_LavaCracks_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_AQSHY_LAVACRACKS_B",
+    "dynamicZSortOffset": 40
+  },
+    "WS_AOS_AQSHY_LAVACRACKS_C": {
+    "textureName": "Props_AOS_Aqshy",
+    "frameName": "Prop_LavaCracks_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_AQSHY_LAVACRACKS_C",
+    "dynamicZSortOffset": 40
+  },
+    "WS_AOS_AQSHY_LAVACRACKS_D": {
+    "textureName": "Props_AOS_Aqshy",
+    "frameName": "Prop_LavaCracks_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_AQSHY_LAVACRACKS_D",
+    "dynamicZSortOffset": 40
+  },
+    "WS_AOS_AQSHY_ROCKS_A": {
+    "textureName": "Props_AOS_Aqshy",
+    "frameName": "Prop_Rocks_A_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_AQSHY_ROCKS_A",
+    "dynamicZSortOffset": 40
+  },
+    "WS_AOS_AQSHY_ROCKS_B": {
+    "textureName": "Props_AOS_Aqshy",
+    "frameName": "Prop_Rocks_B_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_AQSHY_ROCKS_B",
+    "dynamicZSortOffset": 40
+  },
+    "WS_AOS_AQSHY_ROCKS_C": {
+    "textureName": "Props_AOS_Aqshy",
+    "frameName": "Prop_Rocks_C_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_AQSHY_ROCKS_C",
+    "dynamicZSortOffset": 40
+  },
+    "WS_AOS_AQSHY_ROCKS_D": {
+    "textureName": "Props_AOS_Aqshy",
+    "frameName": "Prop_Rocks_D_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_AQSHY_ROCKS_D",
+    "dynamicZSortOffset": 40
+  },
+    "WS_AOS_AQSHY_ROCKS_E": {
+    "textureName": "Props_AOS_Aqshy",
+    "frameName": "Prop_Rocks_E_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_AQSHY_ROCKS_E",
+    "dynamicZSortOffset": 40
+  },
+    "WS_AOS_AQSHY_ROCKS_F": {
+    "textureName": "Props_AOS_Aqshy",
+    "frameName": "Prop_Rocks_F_01",
+    "frameCount": 1,
+    "destroyedAmount": 0,
+    "maxHp": -1,
+    "destructibleType": "WS_AOS_AQSHY_ROCKS_F",
+    "dynamicZSortOffset": 40
+  }
+}

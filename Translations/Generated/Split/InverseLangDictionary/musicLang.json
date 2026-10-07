@@ -1,0 +1,89 @@
+{
+  "en": {
+    "WS_40K_Main": {
+      "title": {
+        "_value": "Main Menu - Warhammer 40,000"
+      }
+    },
+    "WS_AOS_Main": {
+      "title": {
+        "_value": "Main Menu - Warhammer Age of Sigmar"
+      }
+    },
+    "WS_40K_ImperialBastion": {
+      "title": {
+        "_value": "Imperial Bastion"
+      }
+    },
+    "WS_40K_Gallowdark": {
+      "title": {
+        "_value": "Gallowdark"
+      }
+    },
+    "WS_40K_OrkStronghold": {
+      "title": {
+        "_value": "Ork Stronghold"
+      }
+    },
+    "WS_40K_DeathWorldInvasion": {
+      "title": {
+        "_value": "Death World Invasion"
+      }
+    },
+    "WS_40K_DesertWasteland": {
+      "title": {
+        "_value": "Desert Wasteland"
+      }
+    },
+    "WS_40K_HobbyTable": {
+      "title": {
+        "_value": "Hobby Table - Warhammer 40,000"
+      }
+    },
+    "WS_40K_PerilsWarp": {
+      "title": {
+        "_value": "Perils of the Warp"
+      }
+    },
+    "WS_AOS_GreatParch": {
+      "title": {
+        "_value": "The Great Parch"
+      }
+    },
+    "WS_AOS_SkrappaSpill": {
+      "title": {
+        "_value": "Skrappa Spill"
+      }
+    },
+    "WS_AOS_BloodwindSpoil": {
+      "title": {
+        "_value": "Bloodwind Spoil"
+      }
+    },
+    "WS_AOS_TwinTailed": {
+      "title": {
+        "_value": "The Twin-Tailed City"
+      }
+    },
+    "WS_AOS_UnderEmpire": {
+      "title": {
+        "_value": "Under-Empire"
+      }
+    },
+    "WS_AOS_Gnarlwood": {
+      "title": {
+        "_value": "Gnarlwood"
+      }
+    },
+    "WS_AOS_HobbyTable": {
+      "title": {
+        "_value": "Hobby Table - Warhammer Age of Sigmar"
+      }
+    },
+    "WS_AOS_Necropolis": {
+      "title": {
+        "_value": "Necropolis"
+      }
+    }
+  }
+}

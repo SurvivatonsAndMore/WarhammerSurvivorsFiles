@@ -1,0 +1,80 @@
+{
+  "en": {
+    "SKIN_WS_40K_TITUS_WITH_HELMET": {
+      "suffix": {
+        "_value": "(Helmet On)"
+      },
+      "description": {
+        "_value": "Placeholder"
+      }
+    },
+    "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+      "suffix": {
+        "_value": "(Helmet On)"
+      },
+      "description": {
+        "_value": "Placeholder"
+      }
+    },
+    "SKIN_WS_40K_VIGILANT_WITH_K9": {
+      "suffix": {
+        "_value": "& K9 Mastiff"
+      },
+      "description": {
+        "_value": "Starts with an additional Mechanical Bite."
+      },
+      "customCharName": {
+        "_value": "Max & K9"
+      }
+    },
+    "SKIN_WS_40K_K9_WITH_VIGILANT": {
+      "suffix": {
+        "_value": "& Max Mahon"
+      },
+      "description": {
+        "_value": "Starts with an additional Combat Shotgun."
+      },
+      "customCharName": {
+        "_value": "K9 & Max"
+      }
+    },
+    "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+      "suffix": {
+        "_value": "& Hanniver Toll"
+      },
+      "customCharName": {
+        "_value": "Callis & Toll"
+      },
+      "description": {
+        "_value": "Starts with an additional Flintlock Pistol."
+      }
+    },
+    "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+      "suffix": {
+        "_value": "& Armand Callis"
+      },
+      "customCharName": {
+        "_value": "Toll & Callis"
+      },
+      "description": {
+        "_value": "Starts with an additional Brace of Pistols."
+      }
+    },
+    "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+      "suffix": {
+        "_value": "& Maleneth Witchblade"
+      },
+      "description": {
+        "_value": "Starts with an additional Poisoned Throwing Knives."
+      }
+    },
+    "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+      "suffix": {
+        "_value": "& Gotrek Gurnisson"
+      },
+      "description": {
+        "_value": "Starts with an additional Fyrestorm Greataxe."
+      }
+    }
+  }
+}

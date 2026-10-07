@@ -1,0 +1,20 @@
+{
+  "WH_40K": {
+    "name": "Warhammer 40,000",
+    "index": 0,
+    "backgroundTextureName": "BG_40K",
+    "uiTextureName": "40K_UI",
+    "uiVFXTextureName": "40K_UI_VFX",
+    "healthPickupType": "WS_40K_MEDIPACK",
+    "startingCoins": 0
+  },
+  "WH_AOS": {
+    "name": "Warhammer Age of Sigmar",
+    "index": 1,
+    "backgroundTextureName": "BG_AOS",
+    "uiTextureName": "AOS_UI",
+    "uiVFXTextureName": "AOS_UI_VFX",
+    "healthPickupType": "WS_AOS_AQUA_GHYRANIS",
+    "startingCoins": 0
+  }
+}

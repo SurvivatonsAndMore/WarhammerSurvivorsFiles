@@ -1,0 +1,338 @@
+{
+  "ABILITY": {
+    "description": {
+      "_value": {
+        "en": "Increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, and {[AURA]} by {[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Ability"
+      }
+    }
+  },
+  "ATTACKS": {
+    "description": {
+      "_value": {
+        "en": "Fires {[VALUE]} more projectile per rank for all weapons (max +{[MAXVALUE]})."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Attacks"
+      }
+    }
+  },
+  "AURA": {
+    "description": {
+      "_value": {
+        "en": "Increases pickup range +{[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Aura"
+      }
+    }
+  },
+  "BAIT": {
+    "description": {
+      "_value": {
+        "en": "Increases enemy spawn quantity by {[VALUE]} per rank (max +{[MAXVALUE]})."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Bait"
+      }
+    }
+  },
+  "CHANCE": {
+    "description": {
+      "_value": {
+        "en": "Chance to get lucky goes up by {[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Chance"
+      }
+    }
+  },
+  "CORRUPTION": {
+    "description": {
+      "_value": {
+        "en": "Increases enemy speed, health, quantity, and frequency by 5% per rank (max +{[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Corruption"
+      }
+    }
+  },
+  "FERVOUR": {
+    "description": {
+      "_value": {
+        "en": "Increases duration of Collectathon by {[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Fervour"
+      }
+    }
+  },
+  "INVULNERABLE": {
+    "description": {
+      "_value": {
+        "en": "Increases {[INVULNERABILITY]} time after getting damaged by 50 milliseconds."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Invulnerable"
+      }
+    }
+  },
+  "MOVE": {
+    "description": {
+      "_value": {
+        "en": "Character moves {[VALUE]}% faster per rank (max {[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Move"
+      }
+    }
+  },
+  "RANGE": {
+    "description": {
+      "_value": {
+        "en": "Increases size of attacks by {[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Range"
+      }
+    }
+  },
+  "REDEPLOYMENT": {
+    "description": {
+      "_value": {
+        "en": "Revive once per rank with 50% Wounds (max +{[MAXVALUE]})."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Redeployment"
+      }
+    }
+  },
+  "RELOAD": {
+    "description": {
+      "_value": {
+        "en": "Uses weapons {[VALUE]}% faster per rank (max {[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Reload"
+      }
+    }
+  },
+  "RETRIBUTION": {
+    "description": {
+      "_value": {
+        "en": "{[VALUE]}% of enemies per rank spawn unable to deal damage (max {[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Retribution"
+      }
+    }
+  },
+  "SAVES": {
+    "description": {
+      "_value": {
+        "en": "Reduces incoming damage by {[VALUE]} per rank (max -{[MAXVALUE]})."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Save"
+      }
+    }
+  },
+  "WS_SEAL2": {
+    "description": {
+      "_value": {
+        "en": "Seal 2 Items and Weapons so that they do not appear in Missions and level up choices. (Use in Bit Box menu)"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Seal II"
+      }
+    }
+  },
+  "WS_SEAL3": {
+    "description": {
+      "_value": {
+        "en": "WS_SEAL 3 Items and Weapons so that they do not appear in Missions and level up choices. (Use in Bit Box menu)"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "WS_SEAL III"
+      }
+    }
+  },
+  "WS_SEAL4": {
+    "description": {
+      "_value": {
+        "en": "WS_SEAL 4 Items and Weapons so that they do not appear in Missions and level up choices. (Use in Bit Box menu)"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Seal All"
+      }
+    }
+  },
+  "SKILL": {
+    "description": {
+      "_value": {
+        "en": "Projectiles move {[VALUE]}% faster per rank (max {[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Skill"
+      }
+    }
+  },
+  "STRENGTH": {
+    "description": {
+      "_value": {
+        "en": "Raises inflicted damage by {[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Strength"
+      }
+    }
+  },
+  "SUSTAIN": {
+    "description": {
+      "_value": {
+        "en": "Increases attack and effect time by {[VALUE]}% (max {[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Sustain"
+      }
+    }
+  },
+  "TITHE": {
+    "description": {
+      "_value": {
+        "en": "Gains {[VALUE]}% more Coins per rank (max +{[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Tithe"
+      }
+    }
+  },
+  "TOUGHNESS": {
+    "description": {
+      "_value": {
+        "en": "Recovers {[VALUE]} Wounds per rank (max {[MAXVALUE]}) per second."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Toughness"
+      }
+    }
+  },
+  "VETERANCY": {
+    "description": {
+      "_value": {
+        "en": "Gains {[VALUE]}% more experience per rank (max {[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Veterancy"
+      }
+    }
+  },
+  "WOUNDS": {
+    "description": {
+      "_value": {
+        "en": "Increases Max Health by {[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Wounds"
+      }
+    }
+  },
+  "WS_BANISH": {
+    "description": {
+      "_value": {
+        "en": "Twice per rank, allows you to remove an item from level up choices, for the rest of the run."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Banish"
+      }
+    }
+  },
+  "WS_REROLL": {
+    "description": {
+      "_value": {
+        "en": "Twice per rank, allows you to get different choices when leveling up."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Reroll"
+      }
+    }
+  },
+  "WS_SEAL": {
+    "description": {
+      "_value": {
+        "en": "Seal Items and Weapons so that they do not appear in Missions and level up choices. (Use in Bit Box menu)"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Seal"
+      }
+    }
+  },
+  "WS_SKIP": {
+    "description": {
+      "_value": {
+        "en": "Twice per rank, allows you to skip level up choices and get experience instead."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Skip"
+      }
+    }
+  }
+}

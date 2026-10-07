@@ -1,0 +1,2780 @@
+{
+
+  "WS_BLANK_TEST_LEVEL": [
+    {
+      "hidden": true,
+      "alwaysHidden": true,
+      "unlocked": false,
+      "order": 99,
+      "stageName": "Wilson Test Level",
+      "description": "Wilson Test Level",
+      "uiTexture": "AOS_UI_New",
+      "uiFrame": "Button_StageSelect_GreatParch.png",
+      "texture": "UI",
+      "frameName": "stage_green_unlock.png",
+      "bestiaryBG": "background_great_parch.png",
+      "stageNumber": "Stage 1",
+      "BGM": "WS_40K_ImperialBastion",
+      "sideBBGM": "WS_40K_ImperialBastion",
+      "tips": "",
+      "hyperTips": "50% Gold bonus",
+      "cff": "PUGNALA",
+      "validForCharcaterData": false,
+      "mods": {
+        "TimeLimit": 9999,
+        "ClockSpeed": 1,
+        "PlayerPxSpeed": 1.1,
+        "EnemySpeed": 1.1,
+        "ProjectileSpeed": 1,
+        "GoldMultiplier": 1,
+        "EnemyHealthMultiplier": 1,
+        "LuckBonus": 0,
+        "XPBonus": 1
+      },
+      "hyper": {
+        "unlocked": false,
+        "TimeLimit": 1800,
+        "ClockSpeed": 1,
+        "PlayerPxSpeed": 0.9,
+        "EnemySpeed": 0.9,
+        "ProjectileSpeed": 0.25,
+        "GoldMultiplier": 0.5,
+        "EnemyHealthMultiplier": 0,
+        "LuckBonus": 0,
+        "XPBonus": 0,
+        "StartingSpawns": 15
+      },
+      "inverse": {
+        "tint": 8947950,
+        "GoldMultiplier": 2,
+        "EnemyHealthMultiplier": 2,
+        "LuckBonus": 0.2,
+        "TimeMods": {
+          "start": 0,
+          "hpPerMinute": 0.05,
+          "speedPerMinute": 0.005
+        }
+      },
+      "tileset": {
+        "isTiling": true,
+        "hasWallsCheckDestructibleLogic": true
+      },
+      "background": {
+        "texture": ""
+      },
+      "startingSpawns": 10,
+      "minute": 0,
+      "destructibleType": "WS_AOS_SKAVEN_TORCH",
+      "destructibleFreq": 1000,
+      "destructibleChance": 10,
+      "destructibleChanceMax": 50,
+      "maxDestructibles": 10,
+      "BGTextureName": "bg_null",
+      "dayNight": true,
+      "tilemapTiledJSON": {
+        "name": "",
+        "path": ""
+      },
+      "tilemapTiledIMG": {
+        "name": "",
+        "path": ""
+      },
+      "tilemapPos": {
+        "x": 0,
+        "y": 0
+      },
+      "minimum": 15,
+      "frequency": 1000,
+      "silos": [
+        "WH_AOS",
+        "WH_40K"
+      ]
+    }
+  ],
+  "WS_40K_IMPERIAL_BASTION": [
+    {
+      "placeholder": true,
+      "hidden": false,
+      "alwaysHidden": false,
+      "unlocked": true,
+      "order": 1,
+      "stageName": "WS_40K_IMPERIAL_BASTION",
+      "description": "",
+      "uiTexture": "40K_UI_New",
+      "uiFrame": "Button_StageSelect_ImperialBastion.png",
+      "texture": "40K_UI_New",
+      "frameName": "StageIcon_ImperialBastion.png",
+      "frameNameUnlock": "StageIcon_ImperialBastion.png",
+      "bestiaryTexture": "40K_UI_Bestiarium",
+      "bestiaryBG": "40K_Desert.png",
+      "stageNumber": "Stage 1",
+      "BGM": "WS_40K_ImperialBastion",
+      "sideBBGM": "WS_40K_ImperialBastion",
+      "tips": "",
+      "hyperTips": "",
+      "relics": [
+        "WS_40K_RELIC_MUNITORUM_DATASLATE"
+      ],
+      "paintPots": [
+      ],
+      "rescues": [
+        "WS_40K_KOZLOWSKI",
+        "WS_40K_CATACHAN_LEGEND"
+      ],
+      "yellowRelics": [],
+      "cff": "",
+      "zoom": 1.15,
+      "validForCharcaterData": true,
+      "mods": {
+        "TimeLimit": 1500,
+        "ClockSpeed": 1,
+        "PlayerPxSpeed": 1.25,
+        "EnemySpeed": 1.25,
+        "ProjectileSpeed": 1,
+        "GoldMultiplier": 1.3,
+        "EnemyHealthMultiplier": 1,
+        "LuckBonus": 0,
+        "XPBonus": 1
+      },
+      "hyper": {
+        "unlocked": false,
+        "TimeLimit": 1500,
+        "ClockSpeed": 1,
+        "PlayerPxSpeed": 0.65,
+        "EnemySpeed": 0.65,
+        "ProjectileSpeed": 0.15,
+        "GoldMultiplier": 0.5,
+        "EnemyHealthMultiplier": 0,
+        "LuckBonus": 0.1,
+        "XPBonus": 0,
+        "StartingSpawns": 15
+      },
+      "inverse": {
+        "tint": 8947950,
+        "LuckBonus": 0.2,
+        "GoldMultiplier": 2,
+        "EnemyHealthMultiplier": 2,
+        "TimeMods": {
+          "start": 0,
+          "hpPerMinute": 0.05,
+          "speedPerMinute": 0.005
+        }
+      },
+      "tileset": {
+        "isTiling": true
+      },
+      "background": {
+        "texture": ""
+      },
+      "preload": {
+        "textures": []
+      },
+      "BGTextureName": "bg_null",
+      "destructibleType": "WS_40K_INFESTATION_NODE",
+      "destructibleFreq": 1000,
+      "destructibleChance": 10,
+      "destructibleChanceMax": 50,
+      "maxDestructibles": 10,
+      "spawnType": "STANDARD",
+      "minute": 0,
+      "startingSpawns": 10,
+      "minimum": 10,
+      "frequency": 2000,
+      "enemies": [
+        "WS_40K_TYR_RIPPERSWARM_INTRO",
+        "WS_40K_TYR_RIPPERSWARM_INTRO",
+        "WS_40K_TYR_RIPPERSWARM_NOXP"
+      ],
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 3,
+          "moreY": "WS_40K_TYR_RIPPERSWARM_INTRO",
+          "delay": 100,
+          "duration": 60000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 2,
+          "moreY": "WS_40K_TYR_RIPPERSWARM_INTRO",
+          "delay": 800,
+          "duration": 60000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 5,
+          "moreY": "WS_40K_TYR_RIPPERSWARM",
+          "delay": 7000,
+          "repeat": 1,
+          "duration": 60000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 11,
+          "moreY": "WS_40K_TYR_RIPPERSWARM",
+          "delay": 21000,
+          "repeat": 1,
+          "duration": 60000
+        }
+      ],
+      "silos": [
+        "WH_40K"
+      ]
+    },
+    {
+      "minute": 1,
+      "minimum": 15,
+      "frequency": 1250,
+      "enemies": [
+        "WS_40K_TYR_RIPPERSWARM_INTRO",
+        "WS_40K_TYR_RIPPERSWARM_NOXP"
+      ],
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 6,
+          "moreY": "WS_40K_TYR_TERMAGANT_A_TOUGH",
+          "delay": 45000,
+          "duration": 120000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 7,
+          "moreY": "WS_40K_TYR_RIPPERSWARM",
+          "delay": 4000,
+          "repeat": 3
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 40,
+          "moreY": "WS_40K_TYR_RIPPERSWARM",
+          "delay": 31000
+        }
+      ],
+      "bosses": [
+        "WS_40K_TYR_TERMAGANT_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          1,
+          5,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ],
+        "fixedPrizes": [
+          "AMOUNT"
+        ]
+      }
+    },
+    {
+      "minute": 2,
+      "minimum": 20,
+      "frequency": 1200,
+      "enemies": [
+        "WS_40K_TYR_TERMAGANT_A_TOUGH",
+        "WS_40K_TYR_TERMAGANT_B_TOUGH",
+        "WS_40K_TYR_RIPPERSWARM_INTRO",
+        "WS_40K_TYR_RIPPERSWARM_NOXP"
+      ],
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 10,
+          "moreY": "WS_40K_TYR_TERMAGANT_A",
+          "delay": 15000,
+          "repeat": 2,
+          "duration": 120000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 33,
+          "moreY": "WS_40K_TYR_RIPPERSWARM",
+          "delay": 11500
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": "45",
+          "moreY": "WS_40K_TYR_RIPPERSWARM_VSLOW",
+          "delay": 1700,
+          "moreZ": 0.9
+        }
+      ]
+    },
+    {
+      "minute": 3,
+      "minimum": 20,
+      "frequency": 800,
+      "enemies": [
+        "WS_40K_TYR_TERMAGANT_A_TOUGH",
+        "WS_40K_TYR_TERMAGANT_B_TOUGH"
+      ],
+      "bosses": [
+        "WS_40K_TYR_TERMAGANT_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          1,
+          5,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EXISTING_WEAPON",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      },
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 15,
+          "moreY": "WS_40K_TYR_TERMAGANT_A",
+          "delay": 10000,
+          "repeat": 2,
+          "duration": 30000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 4,
+          "moreY": "WS_40K_TYR_SPOREMINE_STATIC",
+          "moreZ": 2,
+          "delay": 1000,
+          "repeat": 3,
+          "duration": 60000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 3,
+          "moreY": "WS_40K_TYR_SPOREMINE_STATIC",
+          "moreZ": 2,
+          "delay": 1700,
+          "repeat": 2,
+          "duration": 60000
+        }
+      ]
+    },
+    {
+      "minute": 4,
+      "minimum": 10,
+      "frequency": 1800,
+      "enemies": [
+        "WS_40K_TYR_TERMAGANT_C_TOUGH",
+        "WS_40K_TYR_TERMAGANT_D_TOUGH"
+      ],
+      "bosses": [
+        "WS_40K_TYR_LEAPER_BOSS_INTRO"
+      ],
+      "treasure": {
+        "chances": [
+          1,
+          5,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EXISTING_WEAPON",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      },
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 30,
+          "moreY": "WS_40K_TYR_RIPPERSWARM",
+          "delay": 19000,
+          "repeat": 2
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 10,
+          "moreY": "WS_40K_TYR_HORMAGAUNT",
+          "delay": 55000,
+          "angle": 90,
+          "duration": 60000
+        }
+      ]
+    },
+    {
+      "minute": 5,
+      "minimum": 25,
+      "frequency": 1000,
+      "enemies": [
+        "WS_40K_TYR_TERMAGANT_A",
+        "WS_40K_TYR_TERMAGANT_B",
+        "WS_40K_TYR_TERMAGANT_C_TOUGH",
+        "WS_40K_TYR_TERMAGANT_D_TOUGH"
+      ],
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_40K_TYR_TERMAGANT_A",
+          "delay": 10000,
+          "angle": 270,
+          "duration": 60000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 15,
+          "moreY": "WS_40K_TYR_TERMAGANT_B",
+          "delay": 10000,
+          "angle": 180,
+          "duration": 60000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_40K_TYR_HORMAGAUNT",
+          "delay": 15000,
+          "angle": 90,
+          "duration": 60000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_40K_TYR_HORMAGAUNT",
+          "delay": 43000,
+          "angle": 90,
+          "duration": 60000
+        }
+      ]
+    },
+    {
+      "minute": 6,
+      "minimum": 30,
+      "frequency": 800,
+      "enemies": [
+        "WS_40K_TYR_HORMAGAUNT",
+        "WS_40K_TYR_HORMAGAUNT_5PLUS"
+      ],
+      "bosses": [
+        "WS_40K_TYR_LEAPER_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          1,
+          5,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      },
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 25,
+          "moreY": "WS_40K_TYR_TERMAGANT_A",
+          "delay": 48000,
+          "duration": 60000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 30,
+          "moreY": "WS_40K_TYR_TERMAGANT_A",
+          "delay": 58000,
+          "duration": 60000
+        }
+      ]
+    },
+    {
+      "minute": 7,
+      "minimum": 30,
+      "frequency": 800,
+      "enemies": [
+        "WS_40K_TYR_RIPPERSWARM_INTRO",
+        "WS_40K_TYR_RIPPERSWARM_NOXP"
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": "4",
+          "moreY": "WS_40K_TYR_LEAPER_AMBUSH",
+          "moreZ": 0.9,
+          "delay": 1000,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": "5",
+          "moreY": "WS_40K_TYR_LEAPER_AMBUSH",
+          "moreZ": 0.9,
+          "delay": 18000,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": "6",
+          "moreY": "WS_40K_TYR_LEAPER",
+          "moreZ": 0.9,
+          "delay": 33000,
+          "duration": 120000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_40K_TYR_HORMAGAUNT_5PLUS",
+          "delay": 29000,
+          "duration": 60000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 30,
+          "moreY": "WS_40K_TYR_TERMAGANT_B",
+          "delay": 45000,
+          "duration": 60000
+        }
+      ]
+    },
+    {
+      "minute": 8,
+      "minimum": 30,
+      "frequency": 700,
+      "enemies": [
+        "WS_40K_TYR_TERMAGANT_A",
+        "WS_40K_TYR_TERMAGANT_D"
+      ],
+      "bosses": [
+        "WS_40K_TYR_WARRIOR_A_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          0,
+          5,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EXISTING_WEAPON",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      },
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 10,
+          "moreY": "WS_40K_TYR_TERMAGANT_B_TOUGH",
+          "delay": 15000,
+          "repeat": 1,
+          "duration": 120000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 22,
+          "moreY": "WS_40K_TYR_TERMAGANT_D_TOUGH",
+          "delay": 32000,
+          "repeat": 1,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 6,
+          "moreY": "WS_40K_TYR_SPOREMINE_STATIC",
+          "moreZ": 1,
+          "delay": 35000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 5,
+          "moreY": "WS_40K_TYR_SPOREMINE_STATIC",
+          "moreZ": 1,
+          "delay": 38000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 7,
+          "moreY": "WS_40K_TYR_SPOREMINE_STATIC",
+          "moreZ": 1,
+          "delay": 41000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 7,
+          "moreY": "WS_40K_TYR_SPOREMINE_STATIC",
+          "moreZ": 2,
+          "delay": 42000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 6,
+          "moreY": "WS_40K_TYR_SPOREMINE_STATIC",
+          "moreZ": 2,
+          "delay": 46000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 8,
+          "moreY": "WS_40K_TYR_SPOREMINE_STATIC",
+          "moreZ": 2,
+          "delay": 53000
+        }
+      ]
+    },
+    {
+      "minute": 9,
+      "minimum": 30,
+      "frequency": 1200,
+      "enemies": [
+        "WS_40K_TYR_TERMAGANT_A_TOUGH",
+        "WS_40K_TYR_RIPPERSWARM_VSLOW"
+      ],
+      "events": [
+
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": "11",
+          "moreY": "WS_40K_TYR_RIPPERSWARM_VSLOW",
+          "moreZ": 0.9,
+          "delay": 600,
+          "repeat": 40
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": "12",
+          "moreY": "WS_40K_TYR_RIPPERSWARM_VSLOW_NOXP",
+          "moreZ": 0.9,
+          "delay": 400,
+          "repeat": 40
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 15,
+          "moreY": "WS_40K_TYR_HORMAGAUNT_TORPEDO",
+          "delay": 21000,
+          "repeat": 2,
+          "duration": 60000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 25,
+          "moreY": "WS_40K_TYR_HORMAGAUNT_5PLUS",
+          "delay": 43000,
+          "duration": 60000
+        }
+      ]
+    },
+    {
+      "minute": 10,
+      "minimum": 35,
+      "frequency": 1000,
+      "enemies": [
+        "WS_40k_TYR_TERMAGANT_10PLUS_MIXED"
+      ],
+      "bosses": [
+        "WS_40K_TYR_WARRIOR_A_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          10,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EVOLUTION",
+          "EXISTING_WEAPON",
+          "EXISTING_WEAPON"
+        ]
+      },
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 22,
+          "moreY": "WS_40K_TYR_HORMAGAUNT",
+          "delay": 49000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 18,
+          "moreY": "WS_40K_TYR_HORMAGAUNT",
+          "delay": 56000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_40K_TYR_HORMAGAUNT_TORPEDO",
+          "delay": 25000,
+          "duration": 60000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 10,
+          "moreY": "WS_40K_TYR_HORMAGAUNT_TORPEDO",
+          "delay": 42000,
+          "duration": 60000
+        }
+      ]
+    },
+    {
+      "minute": 11,
+      "minimum": 40,
+      "frequency": 1000,
+      "enemies": [
+        "WS_40k_TYR_TERMAGANT_10PLUS_MIXED"
+      ],
+      "bosses": [
+        "WS_40K_TYR_BIOVORE"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          10,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_WEAPON",
+          "EXISTING_WEAPON"
+        ]
+      },
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 15,
+          "moreY": "WS_40K_TYR_HORMAGAUNT",
+          "delay": 29000,
+          "repeat": 1,
+          "duration": 60000
+        }
+      ]
+    },
+    {
+      "minute": 12,
+      "minimum": 30,
+      "frequency": 800,
+      "enemies": [
+        "WS_40K_TYR_HORMAGAUNT",
+        "WS_40K_TYR_HORMAGAUNT_5PLUS",
+        "WS_40K_TYR_HORMAGAUNT_10PLUS"
+      ],
+
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 25,
+          "moreY": "WS_40K_TYR_TERMAGANT_B",
+          "delay": 31000,
+          "duration": 30000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_40K_TYR_TERMAGANT_C",
+          "delay": 45000,
+          "duration": 30000
+        }
+      ]
+    },
+    {
+      "minute": 13,
+      "minimum": 40,
+      "frequency": 700,
+      "enemies": [
+        "WS_40K_TYR_HORMAGAUNT_10PLUS",
+        "WS_40k_TYR_TERMAGANT_10PLUS_MIXED"
+      ],
+      "bosses": [
+        "WS_40K_TYR_BIOVORE"
+      ],
+      "treasure": {
+        "chances": [
+          1,
+          5,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      },
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 8,
+          "moreY": "WS_40K_TYR_HORMAGAUNT_TORPEDO",
+          "delay": 31000,
+          "duration": 60000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 16,
+          "moreY": "WS_40K_TYR_HORMAGAUNT_TORPEDO",
+          "delay": 40000,
+          "duration": 60000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 24,
+          "moreY": "WS_40K_TYR_HORMAGAUNT_TORPEDO",
+          "delay": 48000,
+          "duration": 60000
+        }
+      ]
+    },
+    {
+      "minute": 14,
+      "minimum": 50,
+      "frequency": 650,
+      "enemies": [
+        "WS_40k_TYR_TERMAGANT_10PLUS_MIXED"
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 7,
+          "moreY": "WS_40K_TYR_SPOREMINE_STATIC",
+          "moreZ": 1,
+          "delay": 3000,
+          "repeat": 13
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 8,
+          "moreY": "WS_40K_TYR_SPOREMINE_STATIC",
+          "moreZ": 2,
+          "delay": 3000,
+          "repeat": 13
+        }
+      ]
+    },
+    {
+      "minute": 15,
+      "minimum": 50,
+      "frequency": 600,
+      "enemies": [
+        "WS_40k_TYR_TERMAGANT_10PLUS_MIXED"
+      ],
+      "bosses": [
+        "WS_40K_TYR_CARNIFEX"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          10,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      },
+      "events":
+      [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 25,
+          "moreY": "WS_40K_TYR_HORMAGAUNT_10PLUS",
+          "delay": 19000,
+          "duration": 120000,
+          "repeat": 2
+        }
+      ]
+    },
+    {
+      "minute": 16,
+      "minimum": 50,
+      "frequency": 800,
+      "enemies": [
+        "WS_40K_TYR_TERMAGANT_A",
+        "WS_40k_TYR_TERMAGANT_10PLUS_MIXED",
+        "WS_40k_TYR_TERMAGANT_15PLUS_MIXED"
+      ],
+      "bosses": [
+        "WS_40K_TYR_ZOANTHROPE"
+      ],
+      "treasure": {
+        "chances": [
+          1,
+          5,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      },
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_40K_TYR_TERMAGANT_A",
+          "delay": 9000,
+          "duration": 60000,
+          "repeat": 3
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 35,
+          "moreY": "WS_40K_TYR_RIPPERSWARM",
+          "delay": 29000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 50,
+          "moreY": "WS_40K_TYR_RIPPERSWARM",
+          "delay": 45000
+        },
+        {
+          "eventType": "GENERIC_BOSS_SPAWN",
+          "moreX": 2,
+          "moreY": "WS_40K_TYR_LEAPER",
+          "moreZ": 10,
+          "delay": 40000,
+          "duration": 120000
+        },
+        {
+          "eventType": "GENERIC_BOSS_SPAWN",
+          "moreX": 4,
+          "moreY": "WS_40K_TYR_LEAPER",
+          "moreZ": 10,
+          "delay": 50000,
+          "duration": 120000
+        }
+      ]
+    },
+    {
+      "minute": 17,
+      "minimum": 50,
+      "frequency": 600,
+      "enemies": [
+        "WS_40K_TYR_TERMAGANT_A",
+        "WS_40k_TYR_TERMAGANT_15PLUS_MIXED",
+        "WS_40K_TYR_HORMAGAUNT_5PLUS",
+        "WS_40K_TYR_HORMAGAUNT_15PLUS"
+      ],
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 11,
+          "moreY": "WS_40K_TYR_RIPPERSWARM",
+          "delay": 14000,
+          "repeat": 4,
+          "duration": 60000
+        },
+        {
+          "eventType": "GENERIC_BOSS_SPAWN",
+          "moreX": 1,
+          "moreY": "WS_40K_TYR_WARRIOR_A",
+          "moreZ": 10,
+          "delay": 20000,
+          "duration": 120000
+        },
+        {
+          "eventType": "GENERIC_BOSS_SPAWN",
+          "moreX": 1,
+          "moreY": "WS_40K_TYR_WARRIOR_A",
+          "moreZ": 10,
+          "delay": 45000,
+          "duration": 120000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 15,
+          "moreY": "WS_40K_TYR_HORMAGAUNT_TORPEDO",
+          "delay": 31000,
+          "duration": 30000
+        }
+      ]
+    },
+    {
+      "minute": 18,
+      "minimum": 60,
+      "frequency": 600,
+      "enemies": [
+        "WS_40K_TYR_TERMAGANT_A",
+        "WS_40K_TYR_TERMAGANT_A_TOUGH",
+        "WS_40k_TYR_TERMAGANT_10PLUS_MIXED",
+        "WS_40k_TYR_TERMAGANT_15PLUS_MIXED"
+      ],
+      "bosses": [
+        "WS_40K_TYR_ZOANTHROPE"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          10,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      },
+      "events": [
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": "17",
+          "moreY": "WS_40K_TYR_RIPPERSWARM_SLOW",
+          "moreZ": 0.9,
+          "repeat": 5,
+          "delay": 9000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": "19",
+          "moreY": "WS_40K_TYR_RIPPERSWARM_SLOW",
+          "moreZ": 0.9,
+          "delay": 18000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": "11",
+          "moreY": "WS_40K_TYR_SPOREMINE_STATIC",
+          "moreZ": 0.9,
+          "delay": 27000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": "19",
+          "moreY": "WS_40K_TYR_RIPPERSWARM_SLOW",
+          "moreZ": 0.9,
+          "delay": 36500
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": "11",
+          "moreY": "WS_40K_TYR_SPOREMINE_STATIC",
+          "moreZ": 0.9,
+          "delay": 37000
+        }
+      ]
+    },
+    {
+      "minute": 19,
+      "minimum": 70,
+      "frequency": 550,
+      "enemies": [
+        "WS_40K_TYR_HORMAGAUNT_5PLUS",
+        "WS_40K_TYR_HORMAGAUNT_15PLUS",
+        "WS_40k_TYR_TERMAGANT_10PLUS_MIXED",
+        "WS_40k_TYR_TERMAGANT_15PLUS_MIXED",
+        "WS_40K_TYR_RIPPERSWARM_INTRO"
+      ],
+      "bosses": [
+        "WS_40K_TYR_TYRANID_PRIME"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          10,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
+    },
+    {
+      "minute": 20,
+      "minimum": 80,
+      "frequency": 500,
+      "enemies": [
+        "WS_40K_TYR_HORMAGAUNT_5PLUS",
+        "WS_40K_TYR_HORMAGAUNT_10PLUS",
+        "WS_40K_TYR_HORMAGAUNT_15PLUS",
+        "WS_40K_TYR_SPOREMINE_STATIC"
+      ],
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 33,
+          "moreY": "WS_40K_TYR_RIPPERSWARM",
+          "delay": 17000,
+          "repeat": 2,
+          "duration": 30000
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 30,
+          "moreY": "WS_40K_TYR_TERMAGANT_D",
+          "delay": 29000,
+          "repeat": 1,
+          "duration": 60000,
+          "angle": 90
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 30,
+          "moreY": "WS_40K_TYR_HORMAGAUNT_15PLUS",
+          "delay": 29000,
+          "repeat": 1,
+          "duration": 60000,
+          "angle": 270
+        },
+        {
+          "eventType": "GENERIC_BOSS_SPAWN",
+          "moreX": 2,
+          "moreY": "WS_40K_TYR_LEAPER",
+          "moreZ": 10,
+          "delay": 10000,
+          "duration": 120000,
+          "repeat": 4
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 7,
+          "moreY": "WS_40K_TYR_SPOREMINE",
+          "moreZ": 2,
+          "delay": 2000,
+          "repeat": 9,
+          "duration": 60000
+        }
+      ]
+    },
+    {
+      "minute": 21,
+      "minimum": 100,
+      "frequency": 800,
+      "enemies": [
+        "WS_40k_TYR_TERMAGANT_15PLUS_MIXED"
+      ],
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 30,
+          "moreY": "WS_40K_TYR_TERMAGANT_B",
+          "delay": 29000,
+          "repeat": 1,
+          "duration": 60000,
+          "angle": 270
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 30,
+          "moreY": "WS_40K_TYR_HORMAGAUNT_5PLUS",
+          "delay": 29000,
+          "repeat": 1,
+          "duration": 60000,
+          "angle": 90
+        }
+      ],
+      "bosses": [
+        "WS_40K_TYR_HIVETYRANT"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          10,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
+    },
+    {
+      "minute": 22,
+      "minimum": 180,
+      "frequency": 500,
+      "enemies": [
+        "WS_40K_TYR_SPOREMINE",
+        "WS_40K_TYR_HORMAGAUNT_15PLUS",
+        "WS_40K_TYR_LEAPER",
+        "WS_40K_TYR_RIPPERSWARM"
+      ],
+      "events": [
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 45,
+          "moreY": "WS_40K_TYR_TERMAGANT_A",
+          "delay": 11000,
+          "repeat": 1,
+          "duration": 60000,
+          "angle": 270
+        },
+        {
+          "eventType": "GENERIC_SWARM",
+          "moreX": 45,
+          "moreY": "WS_40K_TYR_TERMAGANT_B",
+          "delay": 40000,
+          "duration": 60000,
+          "angle": 270
+        },
+        {
+          "eventType": "GENERIC_BOSS_SPAWN",
+          "moreX": 2,
+          "moreY": "WS_40K_TYR_ZOANTHROPE_REGULAR",
+          "moreZ": 10,
+          "delay": 50000,
+          "duration": 120000
+        }
+      ]
+    },
+    {
+      "minute": 23,
+      "minimum": 250,
+      "frequency": 300,
+      "enemies": [
+        "WS_40K_TYR_TERMAGANT_A",
+        "WS_40K_TYR_TERMAGANT_A_TOUGH",
+        "WS_40k_TYR_TERMAGANT_10PLUS_MIXED",
+        "WS_40k_TYR_TERMAGANT_15PLUS_MIXED"
+      ],
+      "bosses": [
+        "WS_40K_TYR_TYRANID_PRIME"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          10,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
+    },
+    {
+      "minute": 24,
+      "minimum": 300,
+      "frequency": 200,
+      "enemies": [
+        "WS_40K_TYR_HORMAGAUNT_15PLUS",
+        "WS_40k_TYR_TERMAGANT_15PLUS_MIXED",
+        "WS_40K_TYR_WARRIOR_A",
+        "WS_40K_TYR_WARRIOR_B",
+        "WS_40K_TYR_LEAPER"
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 7,
+          "moreY": "WS_40K_TYR_SPOREMINE",
+          "moreZ": 2,
+          "delay": 2000,
+          "repeat": 18,
+          "duration": 60000
+        }
+      ]
+    },
+    {
+      "minute": 25,
+      "minimum": 1,
+      "frequency": 10000,
+      "enemies": [],
+      "bosses": [
+        "WS_40K_TYR_BOSS_NORN_EMISSARY"
+      ],
+      "events": [
+        {
+          "eventType": "CYCLE_COMPLETE"
+        }
+      ]
+    }
+  ],
+  "WS_AOS_GREAT_PARCH": [
+    {
+      "hidden": false,
+      "alwaysHidden": false,
+      "unlocked": true,
+      "order": 1,
+      "stageName": "The Great Parch",
+      "description": "Aqshy Great Parch",
+      "uiTexture": "AOS_UI_New",
+      "uiFrame": "Button_StageSelect_GreatParch.png",
+      "texture": "AOS_UI_New",
+      "frameName": "StageIcon_GreatParch.png",
+      "frameNameUnlock": "StageIcon_GreatParch.png",
+      "bestiaryTexture": "AOS_UI_Bestiarium",
+      "bestiaryBG": "AOS_GreatParch.png",
+      "stageNumber": "Stage 1",
+      "BGM": "WS_AOS_GreatParch",
+      "tips": "",
+      "zoom": 1.25,
+      "hyperTips": "",
+      "relics": [
+        "WS_AOS_RELIC_WARSCROLL"
+      ],
+      "paintPots": [
+      ],
+      "cff": "",
+      "validForCharcaterData": true,
+      "mods": {
+        "TimeLimit": 1500,
+        "ClockSpeed": 1,
+        "PlayerPxSpeed": 1.1,
+        "EnemySpeed": 1.1,
+        "ProjectileSpeed": 1,
+        "GoldMultiplier": 1,
+        "EnemyHealthMultiplier": 1,
+        "LuckBonus": 0,
+        "XPBonus": 1
+      },
+      "hyper": {
+        "unlocked": false,
+        "TimeLimit": 1500,
+        "ClockSpeed": 1,
+        "PlayerPxSpeed": 0.9,
+        "EnemySpeed": 0.9,
+        "ProjectileSpeed": 0.25,
+        "GoldMultiplier": 0.5,
+        "EnemyHealthMultiplier": 0,
+        "LuckBonus": 0,
+        "XPBonus": 0,
+        "StartingSpawns": 15
+      },
+      "inverse": {
+        "tint": 8947950,
+        "GoldMultiplier": 2,
+        "EnemyHealthMultiplier": 2,
+        "LuckBonus": 0.2,
+        "TimeMods": {
+          "start": 0,
+          "hpPerMinute": 0.05,
+          "speedPerMinute": 0.005
+        }
+      },
+      "tileset": {
+        "isTiling": true,
+        "hasWallsCheckDestructibleLogic": true
+      },
+      "background": {
+        "texture": ""
+      },
+      "startingSpawns": 10,
+      "minute": 0,
+      "destructibleType": "WS_AOS_SKAVEN_TORCH",
+      "destructibleFreq": 1000,
+      "destructibleChance": 10,
+      "destructibleChanceMax": 50,
+      "maxDestructibles": 10,
+      "BGTextureName": "bg_null",
+      "dayNight": true,
+      "tilemapTiledJSON": {
+        "name": "",
+        "path": ""
+      },
+      "tilemapTiledIMG": {
+        "name": "",
+        "path": ""
+      },
+      "tilemapPos": {
+        "x": 0,
+        "y": 0
+      },
+      "minimum": 10,
+      "frequency": 2000,
+      "enemies": [
+        "WS_AOS_SKA_VERMINTIDE_GP_VSLOW_NOXP",
+        "WS_AOS_SKA_VERMINTIDE_GP_VSLOW"
+
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_START",
+          "moreZ": 20,
+          "delay": 0,
+          "angle": 180,
+          "duration" : 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_START",
+          "moreZ": 20,
+          "delay": 100,
+          "angle": 0,
+          "duration" : 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 20000,
+          "angle": 220,
+          "duration" : 10000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 25000,
+          "angle": 140,
+          "duration" : 10000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 8,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_VSLOW",
+          "moreZ": 20,
+          "delay": 49000,
+          "repeat": 1,
+          "angle": 190,
+          "duration": 30000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 4,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_SLOW",
+          "moreZ": 20,
+          "delay": 22000,
+          "angle": 40,
+          "duration": 30000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 4,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_VSLOW",
+          "moreZ": 20,
+          "delay": 35000,
+          "angle": 60,
+          "duration": 30000
+        }
+      ],
+      "silos": [
+        "WH_AOS"
+      ]
+    },
+    {
+      "minute": 1,
+      "minimum": 20,
+      "frequency": 1800,
+      "enemies": [
+        "WS_AOS_SKA_VERMINTIDE_GP_SLOW",
+        "WS_AOS_SKA_VERMINTIDE_GP_SLOW_NOXP",
+        "WS_AOS_SKA_VERMINTIDE_GP_VSLOW",
+        "WS_AOS_SKA_VERMINTIDE_GP_VSLOW_NOXP"
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 25000,
+          "angle": 220,
+          "duration" : 10000
+        },
+                {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 26000,
+          "angle": 220,
+          "duration" : 10000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 26000,
+          "angle": 140,
+          "duration" : 10000,
+          "repeat": 2
+        },
+                {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 29000,
+          "angle": 140,
+          "duration" : 10000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 30000,
+          "angle": 30,
+          "duration" : 10000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 35000,
+          "angle": 30,
+          "duration" : 10000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 5,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_VSLOW",
+          "delay": 32000,
+          "duration": 60000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 5,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_VSLOW",
+          "moreZ": 20,
+          "delay": 50000,
+          "duration" : 120000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 2,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "moreZ": 1,
+          "delay": 57800
+        }
+      ],
+      "bosses": [
+        "WS_AOS_SKA_CLANRAT_GP_D_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          0,
+          0,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ],
+        "fixedPrizes": [
+          "AMOUNT"
+        ]
+      }
+    },
+    {
+      "minute": 2,
+      "minimum": 5,
+      "frequency": 3000,
+      "enemies": [
+        "WS_AOS_SKA_VERMINTIDE_GP_SLOW"
+
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 3,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "moreZ": 1,
+          "repeat": 2,
+          "delay": 800,
+          "duration": 60000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 7,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "moreZ": 1,
+          "repeat": 2,
+          "delay": 1000,
+          "duration": 60000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 4,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_MIX",
+          "moreZ": 20,
+          "delay": 14000,
+          "repeat": 1,
+          "duration": 60000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 5,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_MIX",
+          "moreZ": 20,
+          "delay": 10000,
+          "repeat": 1,
+          "duration": 60000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 8,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP",
+          "moreZ": 20,
+          "delay": 29000,
+          "repeat": 1,
+          "duration": 60000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 5,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_MIX",
+          "moreZ": 20,
+          "delay": 40000,
+          "repeat": 4,
+          "duration": 60000
+        }
+      ]
+    },
+    {
+      "minute": 3,
+      "minimum": 20,
+      "frequency": 1800,
+      "enemies": [
+        "WS_AOS_SKA_VERMINTIDE_GP_SLOW",
+        "WS_AOS_SKA_VERMINTIDE_GP_SLOW_NOXP",
+        "WS_AOS_SKA_VERMINTIDE_GP_VSLOW",
+        "WS_AOS_SKA_VERMINTIDE_GP_VSLOW_NOXP",
+        "WS_AOS_SKA_VERMINTIDE_GP_SLOW",
+        "WS_AOS_SKA_VERMINTIDE_GP_SLOW_NOXP",
+        "WS_AOS_SKA_VERMINTIDE_GP",
+        "WS_AOS_SKA_VERMINTIDE_GP_NOXP",
+        "WS_AOS_SKA_CLANRAT_GP_A",
+        "WS_AOS_SKA_CLANRAT_GP_B",
+        "WS_AOS_SKA_CLANRAT_GP_C",
+        "WS_AOS_SKA_CLANRAT_GP_D"
+
+
+      ],
+      "events": [
+        {
+
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 8,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_MIX",
+          "moreZ": 20,
+          "delay": 29000,
+          "repeat": 1,
+          "duration": 60000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 8,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_MIX",
+          "moreZ": 20,
+          "delay": 42000,
+          "repeat": 1,
+          "duration": 60000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 3,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_SLOW",
+          "moreZ": 1,
+          "repeat": 2,
+          "delay": 55000,
+          "duration": 60000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 7,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_SLOW",
+          "moreZ": 1,
+          "repeat": 2,
+          "delay": 58000,
+          "duration": 60000
+        }
+
+      ],
+      "bosses": [
+        "WS_AOS_SKA_CLANRAT_GP_A_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          0,
+          0,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ],
+        "fixedPrizes": [
+          "AMOUNT"
+        ]
+      }
+    },
+    {
+      "minute": 4,
+      "minimum": 5,
+      "frequency": 3000,
+      "enemies": [
+        "WS_AOS_SKA_CLANRAT_GP_C",
+        "WS_AOS_SKA_CLANRAT_GP_A"
+      ],
+      "events": [
+
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 4,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "moreZ": 1,
+          "repeat": 60,
+          "delay": 500,
+          "duration": 20000
+        },
+
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 5,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "moreZ": 1,
+          "repeat": 50,
+          "delay": 600,
+          "duration": 20000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "angle": 250,
+          "delay": 13000,
+          "duration": 120000,
+          "repeat": 1
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "angle": 270,
+          "delay": 10000,
+          "duration": 120000,
+          "repeat": 1
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "angle": 285,
+          "delay": 15000,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "angle": 260,
+          "delay": 28000,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "angle": 270,
+          "delay": 28000,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "angle": 280,
+          "delay": 28000,
+          "duration": 120000
+        },
+
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 15,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_5PLUS_MIX",
+          "moreZ": 10,
+          "delay": 34000,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 10,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_5PLUS_MIX",
+          "delay": 30000,
+          "duration": 120000,
+          "repeat": 2,
+          "angle": 275
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 10,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_5PLUS_MIX",
+          "delay": 40000,
+          "duration": 120000,
+          "angle": 275
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 15,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_5PLUS_MIX",
+          "delay": 50000,
+          "duration": 120000,
+          "angle": 275
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": 33,
+          "moreY": "WS_AOS_SKA_STORMVERMIN_GP",
+          "moreZ": 0.9,
+          "delay": 52000,
+          "duration": 60000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": 32,
+          "moreY": "WS_AOS_SKA_STORMVERMIN_GP",
+          "moreZ": 0.9,
+          "delay": 52000,
+          "duration": 90000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": 33,
+          "moreY": "WS_AOS_SKA_STORMVERMIN_GP",
+          "moreZ": 0.9,
+          "delay": 52000,
+          "duration": 120000
+        }
+      ]
+    },
+    {
+      "minute": 5,
+      "minimum": 25,
+      "frequency": 1600,
+      "enemies": [
+        "WS_AOS_SKA_VERMINTIDE_GP_NOXP",
+        "WS_AOS_SKA_VERMINTIDE_GP"
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP",
+          "moreZ": 10,
+          "delay": 18000,
+          "duration": 120000,
+          "repeat": 3
+        }
+      ]
+    },
+    {
+      "minute": 6,
+      "minimum": 35,
+      "frequency": 1900,
+      "enemies": [
+        "WS_AOS_SKA_CLANRAT_GP_5PLUS_A",
+        "WS_AOS_SKA_CLANRAT_GP_5PLUS_D"
+
+      ],
+      "bosses": [
+        "WS_AOS_SKA_GREYSEER_GP_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          0,
+          60,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ],
+        "fixedPrizes": [
+          "AMOUNT"
+        ]
+      }
+    },
+    {
+      "minute": 7,
+      "minimum": 50,
+      "frequency": 1800,
+      "enemies": [
+        "WS_AOS_SKA_VERMINTIDE_GP_NOXP",
+        "WS_AOS_SKA_VERMINTIDE_GP",
+        "WS_AOS_SKA_CLANRAT_GP_5PLUS_FAST_B"
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_START",
+          "moreZ": 20,
+          "angle": 145,
+          "duration" : 120000,
+          "delay": 0,
+          "repeat": 2
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 3,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 1000,
+          "angle": 220,
+          "duration" : 120000,
+          "repeat": 2
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 3,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 3000,
+          "angle": 140,
+          "duration" : 120000,
+          "repeat": 2
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 3,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 5000,
+          "angle": 30,
+          "duration" : 120000,
+          "repeat": 2
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 5,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 15000,
+          "angle": 220,
+          "duration" : 120000,
+          "duration" : 120000,
+          "repeat": 5
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 7,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 18000,
+          "angle": 140,
+          "duration" : 120000,
+          "repeat": 5
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 10,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 20000,
+          "angle": 30,
+          "duration" : 120000,
+          "repeat": 5
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 5,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 35000,
+          "angle": 220,
+          "duration" : 120000,
+          "repeat": 5
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 5,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 450000,
+          "angle": 220,
+          "duration" : 120000,
+          "repeat": 1
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 5,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 460000,
+          "angle": 220,
+          "duration" : 120000,
+          "repeat": 1
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 5,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 20,
+          "delay": 470000,
+          "angle": 220,
+          "duration" : 120000,
+          "repeat": 1
+        }
+      ],
+      "bosses": [
+        "WS_AOS_SKA_GREYSEER_GP_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          30,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ],
+        "fixedPrizes": [
+          "AMOUNT"
+        ]
+      }
+    },
+    {
+      "minute": 8,
+      "minimum": 10,
+      "frequency": 2000,
+      "enemies": [
+        "WS_AOS_SKA_VERMINTIDE_GP",
+        "WS_AOS_SKA_VERMINTIDE_GP",
+        "WS_AOS_SKA_STORMVERMIN_GP_SLOW"
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": 5,
+          "moreY": "WS_AOS_SKA_GREYSEER_GP",
+          "moreZ": 0.4,
+          "delay": 20000,
+          "duration": 20000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": 100,
+          "moreY": "WS_AOS_SKA_STORMVERMIN_GP_PLUS",
+          "moreZ": 0.9,
+          "delay": 20000,
+          "duration": 30000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": 100,
+          "moreY": "WS_AOS_SKA_STORMVERMIN_GP_PLUS",
+          "moreZ": 0.9,
+          "delay": 24000,
+          "duration": 30000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": 100,
+          "moreY": "WS_AOS_SKA_STORMVERMIN_GP_PLUS",
+          "moreZ": 0.9,
+          "delay": 28000,
+          "duration": 30000
+        }
+      ]
+    },
+    {
+      "minute": 9,
+      "minimum": 30,
+      "frequency": 2000,
+      "enemies": [
+        "WS_AOS_SKA_CLANRAT_GP_5PLUS_A",
+        "WS_AOS_SKA_CLANRAT_GP_5PLUS_B",
+        "WS_AOS_SKA_CLANRAT_GP_5PLUS_C"
+
+      ]
+    },
+    {
+      "minute": 10,
+      "minimum": 50,
+      "frequency": 1800,
+      "enemies": [
+        "WS_AOS_SKA_STORMVERMIN_GP_PLUS",
+        "WS_AOS_SKA_CLANRAT_GP_10PLUS_D"
+
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 3,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "moreZ": 1,
+          "repeat": 2,
+          "delay": 800,
+          "duration": 60000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_MEDUSA",
+          "moreX": 7,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "moreZ": 1,
+          "repeat": 2,
+          "delay": 1000,
+          "duration": 60000
+        }
+      ],
+      "bosses": [
+        "WS_AOS_SKA_ACOLYTE_GLOBADIER_GP_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          10,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
+    },
+    {
+      "minute": 11,
+      "minimum": 30,
+      "frequency": 2200,
+      "enemies": [
+        "WS_AOS_SKA_STORMVERMIN_GP_PLUS"
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "moreZ": 10,
+          "angle": 285,
+          "delay": 2000,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "moreZ": 10,
+          "angle": 250,
+          "delay": 44000,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "angle": 250,
+          "delay": 13000,
+          "duration": 120000,
+          "repeat": 1
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "angle": 270,
+          "delay": 10000,
+          "duration": 120000,
+          "repeat": 1
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_MEDUSA",
+          "angle": 285,
+          "delay": 15000,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_10PLUS_MIX",
+          "angle": 260,
+          "delay": 28000,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_10PLUS_MIX",
+          "angle": 270,
+          "delay": 28000,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_10PLUS_MIX",
+          "angle": 280,
+          "delay": 28000,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 30,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_10PLUS_A",
+          "moreZ": 10,
+          "delay": 32000,
+          "angle": 180,
+          "duration": 60000
+        }
+      ]
+    },
+    {
+      "minute": 12,
+      "minimum": 50,
+      "frequency": 2000,
+      "enemies": [
+        "WS_AOS_SKA_VERMINTIDE_GP",
+        "WS_AOS_SKA_CLANRAT_GP_10PLUS_A",
+        "WS_AOS_SKA_CLANRAT_GP_10PLUS_B"
+      ],
+      "events": [
+        {
+          "eventType": "GENERIC_BOSS_SPAWN",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_WARLOCKENGINEER_GP",
+          "delay": 5000,
+          "repeat": 10
+        }
+      ]
+    },
+    {
+      "minute": 13,
+      "minimum": 70,
+      "frequency": 1000,
+      "enemies": [
+        "WS_AOS_SKA_CLANRAT_GP_10PLUS_C",
+        "WS_AOS_SKA_CLANRAT_GP_10PLUS_D",
+        "WS_AOS_SKA_STORMVERMIN_GP_10PLUS"
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 15,
+          "moreY": "WS_AOS_SKA_STORMVERMIN_GP_CHARGE",
+          "moreZ": 10,
+          "delay": 15000,
+          "angle": 45,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 10,
+          "moreY": "WS_AOS_SKA_STORMVERMIN_GP_CHARGE",
+          "moreZ": 10,
+          "delay": 15000,
+          "angle": 135,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 15,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_10PLUS_A",
+          "moreZ": 10,
+          "delay": 15000,
+          "angle": 215,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 10,
+          "moreY": "WS_AOS_SKA_STORMVERMIN_GP_CHARGE",
+          "moreZ": 10,
+          "delay": 15000,
+          "angle": 315,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_WARLOCKENGINEER_GP",
+          "delay": 1000,
+          "duration": 60000,
+          "repeat": 10
+        }
+      ],
+      "bosses": [
+        "WS_AOS_SKA_ACOLYTE_GLOBADIER_GP_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          10,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
+    },
+    {
+      "minute": 14,
+      "minimum": 60,
+      "frequency": 1200,
+      "enemies": [
+        "WS_AOS_SKA_CLANRAT_GP_10PLUS_A",
+        "WS_AOS_SKA_CLANRAT_GP_10PLUS_B"
+      ],
+      "events": [
+      ]
+    },
+    {
+      "minute": 15,
+      "minimum": 250,
+      "frequency": 400,
+      "enemies": [
+          "WS_AOS_SKA_WARLOCKENGINEER_GP_FAST",
+          "WS_AOS_SKA_CLANRAT_GP_15PLUS_MIX_FAST",
+          "WS_AOS_SKA_CLANRAT_GP_15PLUS_MIX_FAST",
+          "WS_AOS_SKA_STORMVERMIN_GP_15PLUS_FAST"
+      ],
+      "events": [
+                                               {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": 100,
+          "moreY": "WS_AOS_SKA_STORMVERMIN_GP_15PLUS_FAST",
+          "moreZ": 0.9,
+          "delay": 20000,
+          "duration": 60000,
+          "repeat": 2
+          }
+      ],
+      "bosses": [
+        "WS_AOS_SKA_PLAGUEFURNACE_GP"
+      ],
+      "treasure": {
+        "chances": [
+          60,
+          100,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
+    },
+    {
+      "minute": 16,
+      "minimum": 70,
+      "frequency": 2000,
+      "enemies": [
+         "WS_AOS_SKA_CLANRAT_GP_15PLUS_MIX",
+         "WS_AOS_SKA_CLANRAT_GP_15PLUS_MIX",
+        "WS_AOS_SKA_VERMINTIDE_GP"
+      ]
+    },
+    {
+      "minute": 17,
+      "minimum": 100,
+      "frequency": 1000,
+      "enemies": [
+        "WS_AOS_SKA_STORMVERMIN_GP_15PLUS",
+        "WS_AOS_SKA_STORMVERMIN_GP_15PLUS_MIDFAST"
+      ],
+      "events": [
+
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 30,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_15PLUS_D",
+          "moreZ": 10,
+          "delay": 2000,
+          "repeat": 2,
+          "angle": 165
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 30,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_15PLUS_A",
+          "moreZ": 10,
+          "delay": 14000,
+          "repeat": 2,
+          "angle": 140
+        }
+      ],
+      "bosses": [
+        "WS_AOS_SKA_BELLOFDOOM_GP_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          10,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
+    },
+    {
+      "minute": 18,
+      "minimum": 150,
+      "frequency": 700,
+      "enemies": [
+        "WS_AOS_SKA_CLANRAT_GP_15PLUS_MIX"
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 20,
+          "moreY": "WS_AOS_SKA_STORMVERMIN_GP_15PLUS",
+          "moreZ": 10,
+          "delay": 10000,
+           "duration": 120000,
+           "repeat": 3
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 30,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_HOMING",
+          "moreZ": 10,
+          "delay": 14000,
+          "repeat": 2,
+          "angle": 165,
+          "duration": 30000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 50,
+          "moreY": "WS_AOS_SKA_VERMINTIDE_GP_15PLUS",
+          "moreZ": 10,
+          "delay": 21000,
+          "repeat": 1,
+          "angle": 70,
+          "duration": 30000
+        }
+      ],
+      "bosses": [
+        "WS_AOS_SKA_BELLOFDOOM_GP_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          0,
+          30,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ],
+        "fixedPrizes": [
+          "AMOUNT"
+        ]
+      },
+      "arcanaHolder": "WS_AOS_SKA_STORMVERMIN_GP_ARCANA",
+      "arcanaTreasure": {
+        "level": 1,
+        "chances": [ 0, 0, 100 ],
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
+    },
+    {
+      "minute": 19,
+      "minimum": 60,
+      "frequency": 2000,
+      "enemies": [
+        "WS_AOS_SKA_STORMVERMIN_GP_15PLUS"
+      ],
+      "events": [
+        {
+          "eventType": "GENERIC_BOSS_SPAWN",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_CLAWLORD_GP_20PLUS",
+          "delay": 1000,
+          "repeat": 50
+        }
+      ]
+    },
+    {
+      "minute": 20,
+      "minimum": 100,
+      "frequency": 400,
+      "enemies": [
+        "WS_AOS_SKA_WARLOCKENGINEER_GP_20PLUS",
+        "WS_AOS_SKA_CLANRAT_GP_20PLUS_MIX",
+        "WS_AOS_SKA_CLANRAT_GP_20PLUS_MIX",
+        "WS_AOS_SKA_CLANRAT_GP_20PLUS_MIX"
+
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 50,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_20PLUS_MIX",
+          "delay": 15000,
+          "repeat": 2
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 50,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_20PLUS_MIX",
+          "delay": 22000,
+          "repeat": 2
+        }
+      ],
+      "bosses": [
+        "WS_AOS_SKA_RATOGOR_GP_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          10,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
+    },
+    {
+      "minute": 21,
+      "minimum": 150,
+      "frequency": 300,
+      "enemies": [
+        "WS_AOS_SKA_CLANRAT_GP_20PLUS_MIX"
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 50,
+          "moreY": "WS_AOS_SKA_STORMVERMIN_GP_20PLUS",
+          "moreZ": 40,
+          "delay": 5000,
+          "repeat": 10,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_CLAWLORD_GP_20PLUS",
+          "delay": 1000,
+          "repeat": 50
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_GREYSEER_GP_20PLUS",
+          "delay": 20000,
+          "repeat": 2
+        }
+      ],
+      "bosses": [
+        "WS_AOS_SKA_RATOGOR_GP_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          10,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
+    },
+    {
+      "minute": 22,
+      "minimum": 350,
+      "frequency": 300,
+      "enemies": [
+        "WS_AOS_SKA_CLANRAT_GP_20PLUS_MIX"
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": 5,
+          "moreY": "WS_AOS_SKA_BELLOFDOOM_GP",
+          "moreZ": 0.9,
+          "delay": 15000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 60,
+          "moreY": "WS_AOS_SKA_STORMVERMIN_GP_20PLUS",
+          "delay": 20000,
+          "repeat": 8,
+          "duration": 120000
+        },
+        {
+          "eventType": "GENERIC_BOSS_SPAWN",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_CLAWLORD_GP_20PLUS",
+          "delay": 1000,
+          "repeat": 50
+        }
+      ]
+    },
+    {
+      "minute": 23,
+      "minimum": 450,
+      "frequency": 200,
+      "enemies": [
+        "WS_AOS_SKA_WARLOCKENGINEER_GP_20PLUS",
+        "WS_AOS_SKA_CLANRAT_GP_20PLUS_MIX",
+        "WS_AOS_SKA_CLANRAT_GP_20PLUS_MIX",
+        "WS_AOS_SKA_STORMVERMIN_GP_20PLUS",
+        "WS_AOS_SKA_STORMVERMIN_GP_20PLUS"
+
+      ],
+      "events": [
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": 7,
+          "moreY": "WS_AOS_SKA_BELLOFDOOM_GP",
+          "moreZ": 0.9,
+          "delay": 15000
+        },
+        {
+          "eventType": "WS_GENERIC_WALL_CIRCLE",
+          "moreX": 7,
+          "moreY": "WS_AOS_SKA_BELLOFDOOM_GP",
+          "moreZ": 0.9,
+          "delay": 35000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 60,
+          "moreY": "WS_AOS_SKA_CLANRAT_GP_20PLUS_MIX",
+          "delay": 20000,
+          "repeat": 4,
+          "duration": 120000
+        },
+        {
+          "eventType": "WS_GENERIC_SWARM",
+          "moreX": 1,
+          "moreY": "WS_AOS_SKA_CLAWLORD_GP_20PLUS",
+          "delay": 1000,
+          "repeat": 50
+        }
+      ],
+      "bosses": [
+        "WS_AOS_SKA_RATOGOR_GP_BOSS"
+      ],
+      "treasure": {
+        "chances": [
+          3,
+          10,
+          100
+        ],
+        "level": 1,
+        "prizeTypes": [
+          "EVOLUTION",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY",
+          "EXISTING_ANY"
+        ]
+      }
+    },
+    {
+      "minute": 24,
+      "minimum": 250,
+      "frequency": 350,
+      "enemies": [
+        "WS_AOS_SKA_RATOGOR_GP",
+        "WS_AOS_SKA_WARLOCKENGINEER_GP_20PLUS",
+        "WS_AOS_SKA_CLANRAT_GP_15PLUS_MIX",
+        "WS_AOS_SKA_CLAWLORD_GP_20PLUS",
+        "WS_AOS_SKA_RATOGOR_GP",
+        "WS_AOS_SKA_CLANRAT_GP_15PLUS_MIX"
+      ]
+    },
+    {
+      "minute": 25,
+      "minimum": 1,
+      "frequency": 10000,
+      "enemies": [],
+      "bosses": [
+        "WS_AOS_SKA_BOSS_VIZZIK"
+      ],
+      "events": [
+        {
+          "eventType": "CYCLE_COMPLETE"
+        }
+      ]
+    }
+  ]
+}

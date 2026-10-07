@@ -1,0 +1,203 @@
+{
+  "en": {
+    "WS_40K_DEATH_WORLD": {
+      "description": {
+        "_value": "Journey through thick foliage into the heart of a jungle consumed by the Hive Fleet."
+      },
+      "stageName": {
+        "_value": "Death World Invasion"
+      }
+    },
+    "WS_40K_DEBUG_TILING": {
+      "description": {
+        "_value": "Basic example of a Tiling Stage, loaded with 40K Weapons and Items."
+      },
+      "stageName": {
+        "_value": "40K Debug - Tiling"
+      }
+    },
+    "WS_40K_DESERT_WASTELAND": {
+      "description": {
+        "_value": "Barren badlands, virtually devoid of life. The Hive Fleet have swarmed and consumed relentlessly, leaving an empty husk of a world."
+      },
+      "hyperTips": {
+        "_value": "50% Coin bonus"
+      },
+      "stageName": {
+        "_value": "Desert Wasteland"
+      },
+      "tips": {
+        "_value": "No health drops. Enemies get stronger and faster over time."
+      }
+    },
+    "WS_40K_GALLOWDARK": {
+      "description": {
+        "_value": "Navigate the chaotic maze of a derelict space hulk infested by Death Guard."
+      },
+      "stageName": {
+        "_value": "Gallowdark"
+      },
+      "tip": {
+        "_value": "Enemies get stronger and faster over time."
+      }
+    },
+    "WS_40K_HOBBY_TABLE": {
+      "description": {
+        "_value": "The tabletop of a Warhammer 40,000 hobbyist."
+      },
+      "stageName": {
+        "_value": "Hobby Table"
+      },
+      "tips": {
+        "_value": "Random enemy waves from normal stages."
+      }
+    },
+    "WS_40K_IMPERIAL_BASTION": {
+      "description": {
+        "_value": "An Imperial bastion swarmed by Tyranids in a consumed wasteland."
+      },
+      "stageName": {
+        "_value": "Imperial Bastion"
+      }
+    },
+    "WS_40K_IMPERIAL_SHIPYARD": {
+      "description": {
+        "_value": "Battle Death Guard for control of an Imperial Navy shipyard."
+      },
+      "stageName": {
+        "_value": "Imperial Shipyard"
+      },
+      "tips": {
+        "_value": "Elevators aid navigation."
+      }
+    },
+    "WS_40K_ORK_STRONGHOLD": {
+      "description": {
+        "_value": "Fight your way through a Goff fort without getting krumped by da boyz!"
+      },
+      "stageName": {
+        "_value": "Ork Stronghold"
+      }
+    },
+    "WS_40K_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "In the grim darkness of the far future, there is only Debugging."
+      },
+      "hyperTips": {
+        "_value": "50% Coin bonus"
+      },
+      "stageName": {
+        "_value": "40K Placeholder Level"
+      }
+    },
+    "WS_40K_THE_WARP": {
+      "description": {
+        "_value": "The Immaterium, a realm of psychic energy where matter, time and space have no meaning."
+      },
+      "stageName": {
+        "_value": "Perils of the Warp"
+      }
+    },
+    "WS_AOS_BLOODWIND_SPOIL": {
+      "description": {
+        "_value": "A mining camp in the Eightpoints whose rivers of molten realmstone have been claimed by the Blades of Khorne."
+      },
+      "stageName": {
+        "_value": "Bloodwind Spoil"
+      }
+    },
+    "WS_AOS_CITADEL_OF_SKULLS": {
+      "description": {
+        "_value": "The final citadel. Time runs out and death draws near."
+      },
+      "stageName": {
+        "_value": "Necropolis"
+      }
+    },
+    "WS_AOS_DEBUG_TILING": {
+      "description": {
+        "_value": "Basic example of a Tiling Stage, loaded with AOS Weapons and Items."
+      },
+      "stageName": {
+        "_value": "AOS Debug - Tiling"
+      }
+    },
+    "WS_AOS_GNARLWOOD": {
+      "description": {
+        "_value": "Fight the Gloomspite Gitz while surviving the predatory flora and fauna in the treacherous Realm of Beasts."
+      },
+      "stageName": {
+        "_value": "Gnarlwood"
+      },
+      "tips": {
+        "_value": "No health drops. Enemies get stronger and faster over time."
+      }
+    },
+    "WS_AOS_GREAT_PARCH": {
+      "description": {
+        "_value": "A dry, desolate land. Full of blazing heat, sulphurous fumes and teeming with Skaven."
+      },
+      "stageName": {
+        "_value": "The Great Parch"
+      }
+    },
+    "WS_AOS_HAMMERHAL": {
+      "description": {
+        "_value": "The legendary Hammerhal, two free cities joined by a Realmgate and relentlessly attacked by Chaos forces."
+      },
+      "stageName": {
+        "_value": "The Twin-Tailed City"
+      },
+      "tips": {
+        "_value": "Travel by realmgate between Aqshan and Ghyran"
+      }
+    },
+    "WS_AOS_HOBBY_TABLE": {
+      "description": {
+        "_value": "The tabletop of a Warhammer Age of Sigmar hobbyist."
+      },
+      "stageName": {
+        "_value": "Hobby Table"
+      },
+      "tips": {
+        "_value": "Random enemy waves from normal stages."
+      }
+    },
+    "WS_AOS_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "Sigmar Lied - This isn't the mortal realms, this is a Debug level."
+      },
+      "hyperTips": {
+        "_value": "50% Coin bonus"
+      },
+      "stageName": {
+        "_value": "AOS Placeholder Level"
+      }
+    },
+    "WS_AOS_SKRAPPA_SPILL": {
+      "description": {
+        "_value": "A dark, dank lurklair where Gloomspite Gitz hoard looted scrap under the gaze of the Bad Moon."
+      },
+      "stageName": {
+        "_value": "Skrappa Spill"
+      }
+    },
+    "WS_AOS_UNDER_EMPIRE": {
+      "description": {
+        "_value": "Descend into the Skaven-infested warrens of the Under-Empire that lies beneath the Mortal Realms."
+      },
+      "stageName": {
+        "_value": "Under-Empire"
+      }
+    },
+    "WS_Challenge_stageType": {
+      "_value": "Challenge"
+    },
+    "WS_Secret_stageType": {
+      "_value": "Secret"
+    },
+    "WS_Bonus_stageType": {
+      "_value": "Bonus"
+    }
+  }
+}

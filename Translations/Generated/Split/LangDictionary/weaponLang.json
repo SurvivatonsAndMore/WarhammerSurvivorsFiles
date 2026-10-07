@@ -1,0 +1,2272 @@
+{
+  "WS_MORDANT_EARTH": {
+    "tips": {
+      "_value": {
+        "en": "This Texture Paint splits and crackles on the base mimicking the dry cracked ground of worlds such as the planet Tallarn. Once a verdant agri-world, a virus bomb saw that nothing would ever grow again."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Nuln Oil. Damaging zones follow you and slow enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Mordant Earth"
+      }
+    }
+  },
+  "WS_40K_ARC_GALAXY": {
+    "name": {
+      "_value": {
+        "en": "Warp Rifts"
+      }
+    }
+  },
+  "WS_40K_ARCHEOTECH": {
+    "tips": {
+      "_value": {
+        "en": "The sacred quest of the Adeptus Mechanicus is to recover humanity's great artefacts that were lost during the Dark Age of Technology, and this equipment cache contains many such trinkets ready to purge the Imperium's foes once more."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Choose any unlocked weapon."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Archeotech"
+      }
+    }
+  },
+  "WS_40K_ARDENT_BLADE": {
+    "tips": {
+      "_value": {
+        "en": "This sword is wielded by none other than the Living Saint, Celestine, in the name of Emperer. Its petals scatter, just as they did when the Saint emerged from the tomb of Saint Katherine."
+      }
+    },
+    "customValue1": {
+      "_value": {
+        "en": "Hitbox delay reduced."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Fires a large blade blossoming with roses in the player facing direction."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Ardent Blade"
+      }
+    }
+  },
+  "WS_40K_ASSAULT_CANNON": {
+    "tips": {
+      "_value": {
+        "en": "What the assault cannon lacks in range it makes up for in firepower with six barrels of self-loading ballistic artillery."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Storm Bolter. Shots fire faster and faster until weapon overheats."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Assault Cannon"
+      }
+    }
+  },
+  "WS_40K_BALE_EYE": {
+    "tips": {
+      "_value": {
+        "en": "Feeding into the Orkish myths surrounding him, Yarrick had a bionic eye implanted so he could “kill with a glance”. The Bale Eye produces a concentrated laser beam in combat that is so powerful it can melt an enemy from ten paces."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Gift of Power Klaw. An 'evil eye' implant firing a short ranged laser, Battle-Shocks Orks. Bane of Ghazghkull Thraka"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Bale Eye"
+      }
+    }
+  },
+  "WS_40K_BATTLE_CANNON": {
+    "tips": {
+      "_value": {
+        "en": "Primary armament of the Leman Russ Battle Tank, it’s shells can deal significant damage at long or close range."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "A high explosive shell that detonates on contact with an enemy or terrain."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Battle Cannon"
+      }
+    }
+  },
+  "WS_40K_BENEDICTION_OF_FURY": {
+    "tips": {
+      "_value": {
+        "en": "This ancient, relic crozius arcanum has absorbed the righteous fury of every Chaplain to ever wield it. Now it unleashes those centuries of fury in thunderous fervour."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Crozius Arcanum. Strikes in front and behind, causing thunderous shockwaves."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Benediction of Fury"
+      }
+    }
+  },
+  "WS_40K_BOLTGUN": {
+    "tips": {
+      "_value": {
+        "en": "One of the most powerful hand-held ballistic weapons within the Imperium, these anti-personnel weapons fire explosive kinetic rounds a.k.a ‘bolts’."
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "%0% increase in explosion radius."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Fires exploding bolts in the faced direction."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Boltgun"
+      }
+    }
+  },
+  "WS_40K_CHAINSWORD": {
+    "tips": {
+      "_value": {
+        "en": "The preferred close combat weapon of many forces within the Imperium of Man, it is not a subtle weapon but it is highly effective."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Horizontal slash attack, hacks through enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Chainsword"
+      }
+    }
+  },
+  "WS_40K_CHERUBIM": {
+    "description": {
+      "_value": {
+        "en": "Cherubs fly around the screen, interacting with pickups and attacking enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Cherubim"
+      }
+    }
+  },
+  "WS_40K_CODEX_ASTARTES": {
+    "description": {
+      "_value": {
+        "en": "Improves combat effectiveness and reduces {[CORRUPTION]}. Combine with a powerful punch."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Codex Astartes"
+      }
+    }
+  },
+  "WS_40K_COMBAT_SHOTGUN": {
+    "tips": {
+      "_value": {
+        "en": "The Adeptus Arbites commonly use these ancient Imperial weapons for crowd control, especially in urban conditions."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Fires in a wide spread at short range."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Combat Shotgun"
+      }
+    }
+  },
+  "WS_40K_CONDEMNOR_BOLTGUN": {
+    "description": {
+      "_value": {
+        "en": "Drops flaming projectiles while moving, unleashing a deadly barrage while stopped."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Condemnor Boltgun"
+      }
+    }
+  },
+  "WS_40K_CROZIUS_ARCANUM": {
+    "tips": {
+      "_value": {
+        "en": "A sacred mace, denoting the office of the Chaplain wielding it. Battle is the most valuable form of worship to the Emperor."
+      }
+    },
+    "customValue1": {
+      "_value": {
+        "en": "Fires 1 more projectile (in front)"
+      }
+    },
+    "customValue2": {
+      "_value": {
+        "en": "Fires 1 more projectile (at rear)"
+      }
+    },
+    "customValue3": {
+      "_value": {
+        "en": "%0% chance to Stun enemies."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Attacks and Stuns nearby enemies. Deals retaliatory damage."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Crozius Arcanum"
+      }
+    }
+  },
+  "WS_D6_DICE": {
+    "tips": {
+      "_value": {
+        "en": "“Roll to wound?” Don’t mind if I do!"
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "Explosion Damage up by %0."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Exploding dice. Roll for damage."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "D6 Dice"
+      }
+    }
+  },
+  "WS_40K_DA_LUCKY_STIKK": {
+    "description": {
+      "_value": {
+        "en": "Increases both {[CHANCE]} and {[BAIT]} stats as it levels up. Effective with a character feared by Orks."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Da Lucky Stikk"
+      }
+    }
+  },
+  "WS_40K_EVISCERATORCHAINSWORD": {
+    "tips": {
+      "_value": {
+        "en": "This variant of the standard chainsword can only be wielded with two hands. It rends flesh and armour with ease, and can even be used to break through enemy walls."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Chainsword. Brutal horizontal slash attack that inflicts Bleeding."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Eviscerator Chainsword"
+      }
+    }
+  },
+  "WS_40K_EXECUTIONER_SHOTGUN": {
+    "tips": {
+      "_value": {
+        "en": "This variant of the combat shotgun fires self-guided missile rounds that can seek targets even behind cover using tiny bursts of propellant. These weapons are more accurate at longer range, despite their name."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Combat Shotgun. Executioner rounds seek out their target."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Executioner shotgun"
+      }
+    }
+  },
+  "WS_40K_FLAMER": {
+    "tips": {
+      "_value": {
+        "en": "By fire is the mutant, the xenos, and the heretic cleansed of the sin of their existence. Those who wield this weapon purge all in their path."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Shoots arcs of fire at random enemies. Does heavy damage."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Flamer"
+      }
+    }
+  },
+  "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE": {
+    "tips": {
+      "_value": {
+        "en": "A standard anti-personnel grenade commonly employed by the forces of the Imperium, the shrapnel from its blast shreds the flesh on unarmoured infantry. Simple in design, with explosive potential."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Throws a grenade at a random enemy."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Frag Grenade"
+      }
+    }
+  },
+  "WS_40K_FRAG_GRENADE": {
+    "name": {
+      "_value": {
+        "en": "Frag Grenade"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Throws a grenade at a random enemy."
+      }
+    }
+  },
+  "WS_40K_FIDELIS": {
+    "tips": {
+      "_value": {
+        "en": "The fidelis, mounted upon the armor of Morvenn Vahl, proscribes upon those faithless heretics a sentence of a swift death."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Underslung Heavy Bolter. Chance to trigger a miracle, increasing {[ATTACKS]}."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Fidelis"
+      }
+    }
+  },
+  "WS_40K_FURY_OF_THE_ANCIENTS": {
+    "tips": {
+      "_value": {
+        "en": "One of the many abilities of Mephiston, Lord of Death. The warp-infused fury of it’s wielder sunders all it touches."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Smite. Shoots a beam of warp-infused energy that damages all enemies in its path. Enemies have a chance to explode based on corruption."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Fury of the Ancients"
+      }
+    }
+  },
+  "WS_40K_GAUNTLETS_OF_ULTRAMAR": {
+    "tips": {
+      "_value": {
+        "en": "A pair of ancient, master-crafted power fists, once wielded by the primarch Roboute Guilliman himself. So sacred are they to the Ultramarines they are only ever borne into battle by their chapter master, Lord Macragge Marneus Calgar."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Power Fist. Two fists that smash enemies and spray projectiles. Bane of the Norn Emissary."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Gauntlets Of Ultramar"
+      }
+    }
+  },
+  "WS_40K_GUARDIAN_SKULL": {
+    "description": {
+      "_value": {
+        "en": "Releases electrical explosions when bouncing and shoots projectiles as it flies around."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Guardian Skull"
+      }
+    }
+  },
+  "WS_40K_HEAVY_BOLTER": {
+    "tips": {
+      "_value": {
+        "en": "Also known as a Back Breaker, the heavy bolter is a huge variant of the standard Boltgun. As an oversized weapon it fires fist-sized armour piercing rounds into enemy lines with an astounding rate of fire."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Boltgun. Lays down a constant barrage of suppressing fire."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Heavy Bolter"
+      }
+    }
+  },
+  "WS_40K_HEAVY_FLAMER": {
+    "tips": {
+      "_value": {
+        "en": "A larger variant of the flamer, capable of unleashing denser, hotter flames. Where flamers can melt almost any surface, the heavy flamer’s burning promethium has much greater anti-armour capacity."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Flamer. Fires twin-jets of burning promethium, spreading fire to nearby foes."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Heavy Flamer"
+      }
+    }
+  },
+  "WS_40K_HULL_LASCANNON": {
+    "description": {
+      "_value": {
+        "en": "3rd stage evolution. Powerful horizontal beam attack that cuts through enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Hull Lascannon"
+      }
+    }
+  },
+  "WS_40K_EMPERORS_WRATH": {
+    "tips": {
+      "_value": {
+        "en": "The Emperor’s wrath courses through you, burning your enemies with righteous flame."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Shield of Faith. A blazing aura that scorches nearby foes and heals the bearer."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Emperor's Wrath"
+      }
+    }
+  },
+  "WS_40K_LASGUN": {
+    "tips": {
+      "_value": {
+        "en": "The lasgun is favoured by the Astra Militarum troops as a realiable weapon against the enemies of the Emperor, though not as powerful as many of the kinetic weapons of the Imperium."
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "Gain an additional trooper with another lasgun."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Shoots a las bolt at the nearest enemy. Damage decreases over distance."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Lasgun"
+      }
+    }
+  },
+  "WS_40K_DEATHSTRIKE_MISSILE": {
+    "tips": {
+      "_value": {
+        "en": "A weapon of Mass Destruction utilised by the Astra Militarum, a rarity on the battlefield in current times they are only used in the most apocalyptic situations."
+      }
+    },
+    "customValue1": {
+      "_value": {
+        "en": "%0% chance to not erase items."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Storm Eagle Rocket. Annihilates enemies, accumulates bonus XP."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Deathstrike Missile"
+      }
+    }
+  },
+  "WS_40K_MECHANICAL_BITE": {
+    "tips": {
+      "_value": {
+        "en": "Proud hounds of the Imperium rend their prey with powerful metal jaws. Rumour has it they can rip even an Ogryn’s arm off in just one snap of its jaws."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Chomps enemies in a circling zone."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Mechanical Bite"
+      }
+    }
+  },
+  "WS_40K_MELTAGUN": {
+    "tips": {
+      "_value": {
+        "en": "A short range anti-armour weapon that produces a beam of intense heat. The heat is devastatingly intense, and can melt through almost any surface."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Lasgun. Extremely powerful, short-ranged beam. Deals bonus damage to bosses and close enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Meltagun"
+      }
+    }
+  },
+  "WS_40K_NARTHECIUM": {
+    "description": {
+      "_value": {
+        "en": "Restores {[WOUNDS]} based on {[SKILL]} and {[TOUGHNESS]}"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Narthecium"
+      }
+    }
+  },
+  "WS_40K_NEURO_GAUNTLET": {
+    "description": {
+      "_value": {
+        "en": "Sharp talons slash horizontally in front of the player"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Neuro Gauntlet"
+      }
+    }
+  },
+  "WS_NULN_OIL": {
+    "tips": {
+      "_value": {
+        "en": "This popular Shade Paint, which readily flows from a paintbrush into the crevices of a Warhammer tabletop miniature, gives depth to shadowed areas. Please be careful not to spill it everywhere."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Targets groups of enemies. Splashes them with flammable oil."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Nuln Oil"
+      }
+    }
+  },
+  "WS_40K_ORBITAL_BOMBARDMENT": {
+    "tips": {
+      "_value": {
+        "en": "\"Some may question your right to destroy ten billion people. Those who understand know that you have no right to let them live.\""
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Whirlwind Battery. Obliterates enemies leaving nothing but scorched ruin in its wake."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Orbital Bombardment"
+      }
+    }
+  },
+  "WS_40K_PASK_SQUISH": {
+    "description": {
+      "_value": {
+        "en": "Big tank, very squishy"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Crush"
+      }
+    }
+  },
+  "WS_40K_PERDITION_AXE_MORTALIS": {
+    "description": {
+      "_value": {
+        "en": "TBC - Desc (not designed)"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Perdition & Axe Mortalis"
+      }
+    }
+  },
+  "WS_40K_POWER_FIST": {
+    "tips": {
+      "_value": {
+        "en": "An oversized, armoured gauntlet and the primary choice of close combat weapon for many warriors of the Imperium."
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "Arc grows by %0 degrees."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Arcing punching attack, knocks back enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Power Fist"
+      }
+    }
+  },
+  "WS_40K_POWER_KLAW": {
+    "tips": {
+      "_value": {
+        "en": "Within Ork society a Power Klaw is a a status symbol, to Yarrick it is the symbol of his victory in the never ending war against the Ork menace."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Powerful slashes that attack faster when health is low."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Power Klaw"
+      }
+    }
+  },
+  "WS_40K_PURGATOR_MIRABILIS": {
+    "tips": {
+      "_value": {
+        "en": "The Paragon warsuit of Morvenn Vahl, Abbess of the Adepta Sororitas. It’s missiles, fired in righteous volleys from shoulder mounted missiles inscribed with verses from the Fede Imperialis. All will feel the Emperor’s divine wrath."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Gift of Fidelis. Righteous missile salvos. Collecting coins increases next volley."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Purgator Mirabilis"
+      }
+    }
+  },
+  "WS_40K_RELIQUARY": {
+    "tips": {
+      "_value": {
+        "en": "Memento of a fallen marine, wield his weapon in his honour, and continue the righteous fight he could not."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Gift of Archeotech. Choose any unlocked evolved weapon."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Reliquary"
+      }
+    }
+  },
+  "WS_40K_REMOTE_DETONATION": {
+    "tips": {
+      "_value": {
+        "en": "The hounds of the Arbites are loyal indeed, as one expects from a robotic dog. So loyal are they that they will run into the enemy forces, only to sacrifice themselves in a fiery blaze once their handler detonates the explosives in their bodies."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Mechanical Bite. Adds an electrical explosion to the target area, Stuns enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Remote Detonation"
+      }
+    }
+  },
+  "WS_40K_RIPPER_PISTOL": {
+    "tips": {
+      "_value": {
+        "en": "A modified Imperial autopistol, it is a favoured weapons of those who delve the jungle world of Catachan. It fires specially designed armour-piercing rounds, filled with a contemptible concoction of vile chemicals."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Gift of Frag Grenade. Fires a burst of bullets. Poisons enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Ripper Pistol"
+      }
+    }
+  },
+  "WS_40K_SHIELD_OF_FAITH": {
+    "tips": {
+      "_value": {
+        "en": "Through faith and fury are the servants of the Emperor protected. None may harm you as you carry out His will."
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "+%0% chance to Burn enemy for %0 seconds."
+      }
+    },
+    "customValue2": {
+      "_value": {
+        "en": "Knockback effect increased."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Pulses a holy aura outwards, damaging and knocking back enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Shield of Faith"
+      }
+    }
+  },
+  "WS_40K_SERVOSKULL": {
+    "customDescValue": {
+      "_value": {
+        "en": "Skulls accelerate by x after each bounce."
+      }
+    },
+    "customDescValue2": {
+      "_value": {
+        "en": "Bounces create a tiny shock blast"
+      }
+    },
+    "customDescValue3": {
+      "_value": {
+        "en": "Upon expiry an explosion deals 100% shock damage in a small area."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Skulls that bounce off terrain and pass through enemies, dealing shock damage."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Servo-Skull"
+      }
+    }
+  },
+  "WS_40K_SIDE_SPONSONS": {
+    "tips": {
+      "_value": {
+        "en": "Two mounted heavy bolters fire independently, covering the battlefield in a hail of fist-sized bolts whilst the operators remain safely ensconced in the tank’s heavy metal shell."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Battle Cannon. Side-mounted Heavy Bolters."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Side Sponsons"
+      }
+    }
+  },
+  "WS_40K_SMITE": {
+    "tips": {
+      "_value": {
+        "en": "Unleash the power of the warp upon your foes as tendrils of powerful lightning snake across the battlefield."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Lightning that strikes the toughest nearby enemy."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Smite"
+      }
+    }
+  },
+  "WS_40K_VAHL_SQUISH": {
+    "name": {
+      "_value": {
+        "en": "Crush"
+      }
+    }
+  },
+  "WS_40K_SPEAR_OF_THE_FAITHFUL": {
+    "tips": {
+      "_value": {
+        "en": "Weapon of the most skilled fighters within the Adepta Sororitas, purging heretics with anointed weapons and the power of faith."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Execute multiple thrusting attacks by changing vertical direction."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Spear of the Faithful"
+      }
+    }
+  },
+  "WS_40K_STORM_BOLTER": {
+    "tips": {
+      "_value": {
+        "en": "The storm bolter is capable of withering fire without hindering manoeuvrability, granting the wielder enormous individual firepower."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Bursts of diagonal bolter fire."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Storm Bolter"
+      }
+    }
+  },
+  "WS_40K_THE_TREE_OF_LIFE": {
+    "description": {
+      "_value": {
+        "en": "Recovering HP damages nearby enemies for the same amount"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "The Tree of Life"
+      }
+    }
+  },
+  "WS_40K_THORN_OF_THE_WHITE_ROSE": {
+    "tips": {
+      "_value": {
+        "en": "Relic blade of the Matriarch Saint Arabella, of the Order of the Sacred Rose. Now wielded in battle by Sister Aveline Aboyé, it’s zealous flames cleansing the battlefield in her hands."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Spear of the Faithful. Upward strikes burn heretics."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Thorn of the White Rose"
+      }
+    }
+  },
+  "WS_40K_STORM_EAGLE_ROCKET": {
+    "tips": {
+      "_value": {
+        "en": "Heavy assault gunships provide tactical air support to the squads on the ground, unleashing devastating aerial assaults."
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "+%0% chance of not destroying pickups."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Potent weapon of mass destruction."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Storm Eagle Rocket"
+      }
+    }
+  },
+  "WS_40K_VIVISPECTRUM": {
+    "description": {
+      "_value": {
+        "en": "TBC - Desc"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Vivispectrum"
+      }
+    }
+  },
+  "WS_40K_VORTEX_GRENADE": {
+    "description": {
+      "_value": {
+        "en": "“Gift” evolution of the Condemnor. Grenades create vortexes pulling enemies into its AoE."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Vortex Grenade"
+      }
+    }
+  },
+  "WS_40K_WEAPON_OF_THE_MATRIARCH": {
+    "tips": {
+      "_value": {
+        "en": "Saint Celestine’s blade, once borne by one of the matriarch’s of the Adepta Sororitas. It is wreathed in flowers, as it was when Celestine arose from the tomb of Saint Katherine, and can unleash the Sister’s pious fury in a jet of flames."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Ardent Blade. Unleashes a burning horizontal strike. Bane of the Great Unclean One."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Weapon of the Matriarch"
+      }
+    }
+  },
+  "WS_40K_WHIRLWIND_LAUNCHER": {
+    "tips": {
+      "_value": {
+        "en": "Solid-fuel, high explosive missiles rain down from the skies, neutralising the Imperium’s enemies from afar."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Rains missiles down on random enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Whirlwind Battery"
+      }
+    }
+  },
+  "WS_40k_ARC_GALAXY": {
+    "description": {
+      "_value": {
+        "en": "Emits a Warp Rift that damages enemies within your {[AURA]} range."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Galaxy"
+      }
+    }
+  },
+  "WS_AOS_ANTI_WIZARD_FLINTLOCK": {
+    "tips": {
+      "_value": {
+        "en": "These wooden stakes hail from the Realm of Fire — Aqshy. They burst into flames upon contact, and can permanently end the heretical threats the Saviours of Cinderfall face."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Flintlock Pistol. Endlessly ricochets, does extra damage to magic users. Bane of Vizzik Skour."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Aqshian Firestakes"
+      }
+    }
+  },
+  "WS_AOS_AQUATIC_ILLUSIONS": {
+    "tips": {
+      "_value": {
+        "en": "Lorai, Child of the Abyss controls the seas, and conjures figures from the ethersea to mystify and bring her enemies to a watery grave."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Nebulous Sea-Fog. Summons illusions that pull enemies into a damaging aura. May trigger retaliatory damage."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Aquatic Illusions"
+      }
+    }
+  },
+  "WS_AOS_ARTEFACTS_OF_POWER": {
+    "description": {
+      "_value": {
+        "en": "Gift of Exotic Weaponry. Choose any evolved weapon."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Artefacts of Power"
+      }
+    }
+  },
+  "WS_AOS_BATTLE_HORN": {
+    "description": {
+      "_value": {
+        "en": "Fires growing pulses of sound in the faced direction."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Battle Horn"
+      }
+    }
+  },
+  "WS_AOS_BLADED_VORTEX": {
+    "tips": {
+      "_value": {
+        "en": "Conjured from the blood rites of the Daughters of Khaine, the curved falchions carve through lines upon lines of enemies."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Poisoned Throwing Knives. Throws multiple spinning blades that cause Poisoned and Bleeding."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Bladed Vortex"
+      }
+    }
+  },
+  "WS_AOS_BLOOD_ARROWS": {
+    "descriptions": {
+      "_value": {
+        "en": "“Gift” evolution from Heartseeker Bow. A hail of arrows rains down from the skies, causing enemies to suffer the Bleeding status effect."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Blood Arrows"
+      }
+    }
+  },
+  "WS_AOS_BLOOD_RITUAL": {
+    "customDescValue": {
+      "_value": {
+        "en": "Arcing magma projectiles."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Casting blood into the brazier sacrifices everything on screen."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Blood Ritual"
+      }
+    }
+  },
+  "WS_AOS_BOLTSTORM_PISTOL": {
+    "tips": {
+      "_value": {
+        "en": "Compact crossbow-like weapons carried by Vanguard-Hunters and Palladors alike. Able to harry a foe’s flank from afar or fire on enemies caught out of position."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Shoots at the nearest enemy."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Boltstorm Pistol"
+      }
+    }
+  },
+  "WS_AOS_BRACE_OF_PISTOLS": {
+    "tips": {
+      "_value": {
+        "en": "Brace of duardin-crafted pistols - duardin crafts are known for their durability and precision, especially in the hands of Armand Callis."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Shoots dual bursts of smoky bullets at the nearest enemy."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Brace of Pistols"
+      }
+    }
+  },
+  "WS_AOS_BRAZIER_STAFF": {
+    "tips": {
+      "_value": {
+        "en": "Each Runemaster carries a brazier-staff lit by the flames of his magmahold’s master forge, they slam their braziers down rending the field of battle itself."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Arcing magma projectiles."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Brazier Staff"
+      }
+    }
+  },
+  "WS_AOS_CELESTIAL_GREATSWORD": {
+    "tips": {
+      "_value": {
+        "en": "Greatsword blessed with celestium realmstone, the Vanquishers who wield these truly become one with their blades after strict meditation."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Grandblade. Strikes with additional slashes and makes multiple large sweep attacks."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Celestial Greatsword"
+      }
+    }
+  },
+  "WS_AOS_CYCLONE_SWORD": {
+    "tips": {
+      "_value": {
+        "en": "Hendrik harnesses the power of the storm, the winds and the lightning of Sigmar, to strike down his foes."
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "+%0% chance to Stun enemies."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "A sword swept along by a powerful gust of wind, targeting enemies before returning to the wielder."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Cyclone Sword"
+      }
+    }
+  },
+  "WS_AOS_DUELLING_PISTOLS": {
+    "tips": {
+      "_value": {
+        "en": "The freeguild soldier turned witch-hunter Armand Callis wields two expertly crafted Duardin-forged duelling pistols loaded with sanctified silver bullets."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Brace of Pistols. Projectiles can fragment and make enemies Vulnerable."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Duelling Pistols"
+      }
+    }
+  },
+  "WS_AOS_ENCHANTED_GLOVE": {
+    "tips": {
+      "_value": {
+        "en": "Mistress Verentia’s enchanted glove, which she uses to maintain her web of intrigue in the twin-tailed city through her ‘little watchers’ as they go unnoticed."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Twin-Tailed Cat. ‘Little Watchers' provide positive effect from collecting items."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Enchanted Glove"
+      }
+    }
+  },
+  "WS_AOS_EXOTIC_WEAPONRY": {
+    "description": {
+      "_value": {
+        "en": "Choose any unlocked base weapon."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Exotic Weaponry"
+      }
+    }
+  },
+  "WS_AOS_FLINTLOCK_PISTOLS": {
+    "tips": {
+      "_value": {
+        "en": "The signature weapon of Hanniver Toll. Many cultists have met their end by Toll’s blackpowder gun."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Trick shots that ricochet off enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Flintlock Pistols"
+      }
+    }
+  },
+  "WS_AOS_FUSIL_CANNON": {
+    "tips": {
+      "_value": {
+        "en": "A wall of iron and oak stands afore the fusilier, as bullets of sanctified silver devastate the enemy lines."
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "Shield is active for %0% longer."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Shoots bullets in the faced direction, and bashes enemies with a shield."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Fusil-Cannon"
+      }
+    }
+  },
+  "WS_AOS_FUSILIERS_FIRE": {
+    "description": {
+      "_value": {
+        "en": "TBC - Desc (not designed)"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Fusilier's Fire"
+      }
+    }
+  },
+  "WS_AOS_FYRESLAYER_AXE": {
+    "tips": {
+      "_value": {
+        "en": "An axe forged of powerful Fyresteel. Its embers light the way as the blade finds its mark."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "An axe that swings based on movement. Damage affects duration."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Fyrestorm Greataxe"
+      }
+    }
+  },
+  "WS_AOS_GHAL_MARAZ": {
+    "tips": {
+      "_value": {
+        "en": "Once wielded by Sigmar himself, this skull-splitting hammer was a gift to the god from the Dwarf King. Now it is wielded by the Celestant-Prime, first Scion of Sigmar."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Gift of Uskavar the Sunderer. Nought may escape the divine wrath of the Great Shatterer."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Ghal Maraz"
+      }
+    }
+  },
+  "WS_AOS_GHOST_OF_RHEA": {
+    "tips": {
+      "_value": {
+        "en": "Bound to Lyssa Revenya, Rhea is a banshee bound to the skull Lyssa keeps on her belt to aid in her escapades."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Gift of Rope & Grapnel. Summons the Ghost of Rhea to charge forward and explode."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Ghost of Rhea"
+      }
+    }
+  },
+  "WS_AOS_GLAIVE_OF_KHAINE": {
+    "description": {
+      "_value": {
+        "en": "TBC - Desc (not designed)"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Glaive of Khaine"
+      }
+    }
+  },
+  "WS_AOS_GNASHING_JAWS": {
+    "description": {
+      "_value": {
+        "en": "Temporarily conjures burning jaws that chomp enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Gnashing Jaws"
+      }
+    }
+  },
+  "WS_AOS_GRANDBLADE": {
+    "tips": {
+      "_value": {
+        "en": "A two-handed blade wielded by the proud, exacting hands of Sigmar’s Vanquishers."
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "Every fourth activation is a circular sword sweep."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Slow but powerful, cuts through swathes of enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Grandblade"
+      }
+    }
+  },
+  "WS_AOS_HEARTSEEKER_BOW": {
+    "description": {
+      "_value": {
+        "en": "Shoots lethal arrows in the faced direction. Has a special heavy attack. Critical Damage could drop Blood Drops."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Heartseeker Bow"
+      }
+    }
+  },
+  "WS_AOS_KYNDLEDROTH": {
+    "description": {
+      "_value": {
+        "en": "TBC - Desc (not designed)"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Kyndledroth"
+      }
+    }
+  },
+  "WS_AOS_LOYAL_COMPANION": {
+    "description": {
+      "_value": {
+        "en": "TBC - Desc (not designed)"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Loyal Companion"
+      }
+    }
+  },
+  "WS_AOS_MAGMADROTH": {
+    "description": {
+      "_value": {
+        "en": "TBC - Desc (not designed)"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Magmadroth"
+      }
+    }
+  },
+  "WS_AOS_MASTER_OF_RUNES": {
+    "tips": {
+      "_value": {
+        "en": "Auric Runemasters channel their emotions - rage and hate for their enemy - into their staves releasing the scorching energy."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Brazier Staff. Projectiles explode on the ground, inflicting Burning."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Master of Runes"
+      }
+    }
+  },
+  "WS_AOS_MASTER_RUNE": {
+    "description": {
+      "_value": {
+        "en": "All held passives (excluding the Master Rune) gain +1 level. Reuniting with the Verminslayer would prove useful."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Kragg Blackhammer's Master Rune"
+      }
+    }
+  },
+  "WS_AOS_MURDER_OF_CROWS": {
+    "description": {
+      "_value": {
+        "en": "TBC - Desc (not designed)"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Murder of Crows"
+      }
+    }
+  },
+  "WS_AOS_MYSTICAL_WARD": {
+    "tips": {
+      "_value": {
+        "en": "The saviours of Cinderfall suffer no threat to their kin to live, nor harm any member of their retinue. They rally beneath the shield of the Keeper Aqshian when the moment is dire."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Blocks damage with a mystical ward that deals retaliatory damage when struck."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Mystical Ward"
+      }
+    }
+  },
+  "WS_AOS_NEBULOUS_SEAFOG": {
+    "tips": {
+      "_value": {
+        "en": "Soulscryers of the Idoneth wield an impressive control over water, using it to create a thick obscuring fog."
+      }
+    },
+    "customValue1": {
+      "_value": {
+        "en": "Slowed effect increases by %0%."
+      }
+    },
+    "customValue2": {
+      "_value": {
+        "en": "+%0% chance to Disarm enemies."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "A constant, shimmering fog radiates out, damaging and slowing nearby enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Nebulous Sea-Fog"
+      }
+    }
+  },
+  "WS_AOS_NULL_PENDANT": {
+    "customDescValue2": {
+      "_value": {
+        "en": "Generic Enemy Healing  is slowed by 50%"
+      }
+    },
+    "customDescValue3": {
+      "_value": {
+        "en": "Enemies tagged as Wizard and/or Priest do 10% less damage"
+      }
+    },
+    "customDescValue4": {
+      "_value": {
+        "en": "Magical projectiles do 10% less damage"
+      }
+    },
+    "customDescValue5": {
+      "_value": {
+        "en": "Generic Enemy Healing does not work"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Reduces the potency of enemy magic."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Null Pendant"
+      }
+    }
+  },
+  "WS_AOS_POISONED_THROWING_KNIVES": {
+    "tips": {
+      "_value": {
+        "en": "Not all warriors fight with honour; the Shadowblades of Khaine train such arts as poison and subterfuge."
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "+%0% chance to Poison enemies."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Throws a blade projectile that might bounce off enemies and inflict Poisoned."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Poisoned Throwing Knives"
+      }
+    }
+  },
+  "WS_AOS_QUICKSILVER_SWORDS": {
+    "description": {
+      "_value": {
+        "en": "Magical blades that slice through the air and home in on nearby enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Quicksilver Swords"
+      }
+    }
+  },
+  "WS_AOS_ROPE_AND_GRAPNEL": {
+    "tips": {
+      "_value": {
+        "en": "A tool for a master thief can be a powerful weapon in the right hands. Cast forth from the shadows by an unseen hand, it might just save your life."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Shoots a hook that restrains enemies, may instantly kill weaker foes."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Rope & Grapnel"
+      }
+    }
+  },
+  "WS_AOS_RUNIC_POWER": {
+    "description": {
+      "_value": {
+        "en": "Whirling vertical Runic War Irons and chains."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "TBC - Runic Power"
+      }
+    }
+  },
+  "WS_AOS_RUNIC_WARIRON": {
+    "description": {
+      "_value": {
+        "en": "Whirling vertical War Irons and runes."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Runic War-Iron"
+      }
+    }
+  },
+  "WS_AOS_SACRIFICIAL_WEAPON": {
+    "customDescValue0": {
+      "_value": {
+        "en": "+%0% chance to inflict Bleeding onto enemies."
+      }
+    },
+    "customDescValue1": {
+      "_value": {
+        "en": "`+%0% chance to Disarm enemies."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Attacks nearby enemies with a chance to inflict Bleeding. {[SKILL]} affects damage."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Sacrificial Weapon"
+      }
+    }
+  },
+  "WS_AOS_STORMCHARGED_HAMMER": {
+    "tips": {
+      "_value": {
+        "en": "Fulgent energy coalesces around this sizeable hammer, delivering fulminous blows to your enemies."
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "Increased chance to do chain lightning damage."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Hammer strikes that target nearby groups of enemies."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Stormcharged Warhammer"
+      }
+    }
+  },
+  "WS_AOS_TEMPEST_AXES": {
+    "tips": {
+      "_value": {
+        "en": "Signature weapons of Neave Blacktalon, foremost of the Knights-Zephyros. Her dual axes strike swift and true."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Makes a series of horizontal slashes at increasing distance."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Tempest Axes"
+      }
+    }
+  },
+  "WS_AOS_THENGAVAR": {
+    "tips": {
+      "_value": {
+        "en": "The legendary spear of Yndrasta, twin to Sigmar’s own and used to channel his divine wrath toward his enemies."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Gift of Blade of the High Heavens. Homing spear projectiles that target enemies with high health."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Thengavar"
+      }
+    }
+  },
+  "WS_AOS_BLADE_OF_THE_HIGH_HEAVENS": {
+    "tips": {
+      "_value": {
+        "en": "Yndrasta, the Prime Huntress of Sigmar wields this blade in his name, striking down his foes with the divine power of Azyr."
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "Increases chance of scoring critical hits with the blade tip."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Blade of the High Heavens"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Powerful slashes in front and behind. Grants Blessed upon defeating many enemies."
+      }
+    }
+  },
+  "WS_AOS_TWIN_TAILED_CAT": {
+    "tips": {
+      "_value": {
+        "en": "The ‘little watchers’ of the Mistress Verentia. These intrepid felines pounce the enemy at the behest of their master and her enchanted glove."
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "+%0% chance to retrieve items."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Summons 'Little Watchers' that attack enemies and might fetch pickups."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Twin-Tailed Cat"
+      }
+    }
+  },
+  "WS_AOS_TYPHOON_CROSSBOW": {
+    "tips": {
+      "_value": {
+        "en": "Signature weapon of the eagle-eyed Shakana Goldenblade, Blacktalon member and warrior of Sigmar. Few escape the electrifying bolts of her crossbow for long."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Boltstorm Pistol. Shoots powerful bolts of thunderous lightning at the foes of Sigmar."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Typhoon Crossbow"
+      }
+    }
+  },
+  "WS_AOS_USKAVAR_THE_SUNDERER": {
+    "tips": {
+      "_value": {
+        "en": "The great Warhammer of Lord-Commander Bastian Carthalos, he has fought alongside Draconith, and now brings his hammer down upon your enemies."
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "+%0% increase in Blood Drops generated by this weapon."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Gift of Stormcharged Warhammer. A slam of thunderous retribution that responds to nearby enemies. Bane of Skarbrand."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Uskavar the Sunderer"
+      }
+    }
+  },
+  "WS_AOS_VOICE_OF_THE_GOD_KING": {
+    "tips": {
+      "_value": {
+        "en": "Sigmar calls unto you! He bequeaths you a fragmet of his awesome, fulminous power!"
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Gift of Cyclone Swords which can recharge this weapon, triggering a divine lightning strike."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Voice of the God-King"
+      }
+    }
+  },
+  "WS_AOS_WARDING_LANTERN": {
+    "tips": {
+      "_value": {
+        "en": "Magical lanterns used by the Lord-Castellans of the Stormcast, they bolster their allies with its radiant light."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Mystical Ward. When all wards are depleted, releases a radiant explosion which can spread Burning."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Warding Lantern"
+      }
+    }
+  },
+  "WS_AOS_LONG_FUSIL": {
+    "tips": {
+      "_value": {
+        "en": "Specially trained to battle on the backs of Ogors these sharpshooters pick off foes with their precision shots, whilst being protected by the Ogor beneath."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Fusil-Cannon. Targeted sniper shot, Ogor uses its shield."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Long-Fusil"
+      }
+    }
+  },
+  "WS_AOS_WHIRLWIND_AXES": {
+    "tips": {
+      "_value": {
+        "en": "Empowered by Sigmar, Neave - Knight-Zephyros and leader of the Blacktalons - is able, through swiftness, guile, and sheer savagery, to outfight forces many times her own number."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Tempest Axes. Swirling horizontal axes infused with lightning."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Whirlwind Axes"
+      }
+    }
+  },
+  "WS_AOS_ZANGROM_THAZ": {
+    "tips": {
+      "_value": {
+        "en": "Forged from a shard of the ancestral axe of Grimnir, and wielded by the legendary hero Gotrek Gurnisson, all fear the might of Zangrom-Thaz."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved Fyrestorm Greataxe. A fast swinging axe that burns enemies. Bane of Trugg."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Zangrom-Thaz"
+      }
+    }
+  },
+  "WS_AOS_PRISMATIC_PALISADE": {
+    "name": {
+      "_value": {
+        "en": "Prismatic Palisade"
+      }
+    }
+  },
+  "WS_AOS_MALEVOLENT_MAELSTROM": {
+    "name": {
+      "_value": {
+        "en": "Malevolent Maelstrom"
+      }
+    }
+  },
+  "WS_AOS_EVERBLAZE_COMET": {
+    "name": {
+      "_value": {
+        "en": "Everblaze Comet"
+      }
+    }
+  },
+  "WS_AOS_CINDERBLAST_BOMB": {
+    "name": {
+      "_value": {
+        "en": "Cinderblast Bomb"
+      }
+    }
+  },
+  "WS_AOS_SUFFOCATING_GRAVETIDE": {
+    "name": {
+      "_value": {
+        "en": "Suffocating Gravetide"
+      }
+    }
+  },
+  "WS_40K_MELTA_BOMB": {
+    "name": {
+      "_value": {
+        "en": "Melta Bomb"
+      }
+    }
+  },
+  "WS_40K_KRAK_GRENADE": {
+    "name": {
+      "_value": {
+        "en": "Krak Grenade"
+      }
+    }
+  },
+  "WS_CHAOS_BLACK": {
+    "description": {
+      "_value": {
+        "en": "Evolved Paintbrush. Constantly sprays enemies causing damage and inflicting multiple random status effects, while also making them vulnerable to fire.​"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Chaos Black"
+      }
+    }
+  },
+  "WS_PAINTBRUSH": {
+    "description": {
+      "_value": {
+        "en": "Abstract weapon that “paints” random enemies with various negative status effects.​"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Paintbrush"
+      }
+    }
+  },
+  "WS_SKULL_GEM_CANNON": {
+    "description": {
+      "_value": {
+        "en": "Skull Gems turn into exploding projectiles"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "The Young Warrior"
+      }
+    }
+  },
+  "WS_SLAYER_SWORD": {
+    "description": {
+      "_value": {
+        "en": "Evolves from the Sprue Cutter. Critically hits or instantly kills multiple enemies on the screen in one go, slicing their sprites in half. Applies Buning status effect to all surviving enemies on the screen.​"
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Slayer Sword"
+      }
+    }
+  },
+  "WS_SPRUE_CUTTER": {
+    "description": {
+      "_value": {
+        "en": "Abstract weapon that critically hits a random enemy on the screen, with a chance to instantly kill them by snipping their sprite in half."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Sprue Cutter"
+      }
+    }
+  },
+  "WS_SUSTAINED_FIRE_DICE": {
+    "tips": {
+      "_value": {
+        "en": "Pray to whichever gods you serve that your weapon doesn’t jam when rolling these old school dice."
+      }
+    },
+    "description": {
+      "_value": {
+        "en": "Evolved D6 Dice. The initial die roll can split into additional dice and explode multiple times."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Sustained Fire Dice"
+      }
+    }
+  },
+  "WS_PURGE": {
+    "description": {
+      "_value": {
+        "en": "Allows the player to remove a weapon/item from their inventory."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Purge"
+      }
+    }
+  },
+  "WS_AOS_WS_ABILITY": {
+    "description": {
+      "_value": {
+        "en": "Increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, and {[AURA]}. Attracts tougher enemies. A hammer-wielding hero would find this useful."
+      }
+    }
+  },
+  "WS_40K_WS_ABILITY": {
+    "description": {
+      "_value": {
+        "en": "Increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, and {[AURA]}. Attracts tougher enemies. The Living Saint’s blade burns brightly atop this stone."
+      }
+    }
+  },
+  "WS_ABILITY": {
+    "name": {
+      "_value": {
+        "en": "Tactical Rock"
+      }
+    },
+    "customDescValue": {
+      "_value": {
+        "en": "Increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, and {[AURA]} by %0%."
+      }
+    }
+  },
+  "WS_ATTACKS": {
+    "description": {
+      "_value": {
+        "en": "Weapons fire more projectiles."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Dice Cube"
+      }
+    }
+  },
+  "WS_AURA": {
+    "description": {
+      "_value": {
+        "en": "Character picks up items from further away."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Magnet"
+      }
+    }
+  },
+  "WS_CHANCE": {
+    "description": {
+      "_value": {
+        "en": "Character increases their chance by 10%."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Scatter Die"
+      }
+    }
+  },
+  "WS_CORRUPTION": {
+    "description": {
+      "_value": {
+        "en": "Increases enemy speed, health, quantity and frequency by 10%."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Chaos Sigil"
+      }
+    }
+  },
+  "WS_AOS_WS_INVULNERABILITY": {
+    "description": {
+      "_value": {
+        "en": "Increases {[INVULNERABILITY]} time after getting damaged by 0.5 seconds. Works well with a Witch Hunter’s flintlock."
+      }
+    }
+  },
+  "WS_40K_WS_INVULNERABILITY": {
+    "description": {
+      "_value": {
+        "en": "Increases {[INVULNERABILITY]} time after getting damaged by 0.5 seconds."
+      }
+    }
+  },
+  "WS_INVULNERABILITY": {
+    "name": {
+      "_value": {
+        "en": "Ardcoat"
+      }
+    }
+  },
+  "WS_MOVE": {
+    "description": {
+      "_value": {
+        "en": "Character moves 10% faster."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Sabaton"
+      }
+    }
+  },
+  "WS_RANGE": {
+    "description": {
+      "_value": {
+        "en": "Increases size of attacks by 10%."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Tape Measure"
+      }
+    }
+  },
+  "WS_REDEPLOYMENT": {
+    "description": {
+      "_value": {
+        "en": "Redeploy once with 50% Wounds."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Figure Case"
+      }
+    }
+  },
+  "WS_RELOAD": {
+    "description": {
+      "_value": {
+        "en": "Reduces weapon reload time by 8%."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Bandolier"
+      }
+    }
+  },
+  "WS_SAVES": {
+    "description": {
+      "_value": {
+        "en": "Reduces incoming damage by 1. Increases retaliatory damage by 10%."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Glue"
+      }
+    }
+  },
+  "WS_SKILL": {
+    "description": {
+      "_value": {
+        "en": "Increases projectile speed by 10%."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Lightning Bolt"
+      }
+    }
+  },
+  "WS_STRENGTH": {
+    "description": {
+      "_value": {
+        "en": "Raises inflicted damage by 10%."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Gauntlet"
+      }
+    }
+  },
+  "WS_SUSTAIN": {
+    "description": {
+      "_value": {
+        "en": "Increases attack and effect time by 10%."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Hourglass"
+      }
+    }
+  },
+  "WS_TITHE": {
+    "description": {
+      "_value": {
+        "en": "Character earns 10% more Coins."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Golden Demon"
+      }
+    }
+  },
+  "WS_TOUGHNESS": {
+    "description": {
+      "_value": {
+        "en": "Character recovers 0.2 Wounds per second."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Bugman's Tankard"
+      }
+    }
+  },
+  "WS_VETERANCY": {
+    "description": {
+      "_value": {
+        "en": "Character gains 8% more experience."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "White Dwarf"
+      }
+    }
+  },
+  "WS_WOUNDS": {
+    "description": {
+      "_value": {
+        "en": "Increases {[WOUNDS]} (Max Health) by 20%."
+      }
+    },
+    "name": {
+      "_value": {
+        "en": "Liquid Green Stuff"
+      }
+    }
+  },
+  "WS_40K_K9_RETALIATE": {
+    "name": {
+      "_value": {
+        "en": "Retaliate"
+      }
+    }
+  }
+}

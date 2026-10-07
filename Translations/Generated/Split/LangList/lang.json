@@ -1,0 +1,4069 @@
+{
+  "FixedDirection": {
+    "_value": [
+      "Fixed Direction"
+    ]
+  },
+  "HPxCurrentLevel": {
+    "_value": [
+      "HP x Current Level"
+    ]
+  },
+  "HPxLevel": {
+    "_value": [
+      "HP x Level"
+    ]
+  },
+  "Medusa": {
+    "_value": [
+      "Flying"
+    ]
+  },
+  "Pounce": {
+    "_value": [
+      "Pounce"
+    ]
+  },
+  "SelfDestruct": {
+    "_value": [
+      "Self-destruct"
+    ]
+  },
+  "SynapseDependent": {
+    "_value": [
+      "Synapse Dependent"
+    ]
+  },
+  "SynapseEmitting": {
+    "_value": [
+      "Synapse Emitter"
+    ]
+  },
+  "TollOfDoomEmit": {
+    "_value": [
+      "Toll of Doom"
+    ]
+  },
+  "TollOfDoomReceive": {
+    "_value": [
+      "Toll of Doom Listener"
+    ]
+  },
+  "UnleashedWarpFury": {
+    "_value": [
+      "Unleashed Warp Fury"
+    ]
+  },
+  "Bouncin": {
+    "_value": [
+      "Bouncin'"
+    ]
+  },
+  "Charge": {
+    "_value": [
+      "Charge!"
+    ]
+  },
+  "Contagion": {
+    "_value": [
+      "Contagion"
+    ]
+  },
+  "CorneredRat": {
+    "_value": [
+      "Cornered Rat"
+    ]
+  },
+  "Erratic": {
+    "_value": [
+      "Erratic Movement"
+    ]
+  },
+  "GetBouncin": {
+    "_value": [
+      "Get Bouncin'!"
+    ]
+  },
+  "Gnash": {
+    "_value": [
+      "Gnash-Gnaw on Their Bones"
+    ]
+  },
+  "GroundStrike": {
+    "_value": [
+      "Ground Strike"
+    ]
+  },
+  "NurglesGift": {
+    "_value": [
+      "Nurgle's Gift"
+    ]
+  },
+  "OneAndDone": {
+    "_value": [
+      "One-and-Done"
+    ]
+  },
+  "Slash": {
+    "_value": [
+      "Slash"
+    ]
+  },
+  "Waaagh": {
+    "_value": [
+      "Waaagh!"
+    ]
+  },
+  "Wandering": {
+    "_value": [
+      "Wandering"
+    ]
+  },
+  "Roar": {
+    "_value": [
+      "Roar Attack"
+    ]
+  },
+  "SelfHealing": {
+    "_value": [
+      "Self Healing"
+    ]
+  },
+  "achievements_header": {
+    "_value": [
+      "Completed: %0 of %1"
+    ]
+  },
+  "achievements_hideCompleted": {
+    "_value": [
+      "Hide Completed"
+    ]
+  },
+  "active": {
+    "_value": [
+      "Active"
+    ]
+  },
+  "bestiary_defeated": {
+    "_value": [
+      "Defeated:"
+    ]
+  },
+  "bestiary_discovered": {
+    "_value": [
+      "Discovered:"
+    ]
+  },
+  "bestiary_discovered_of": {
+    "_value": [
+      "%0 of %1"
+    ]
+  },
+  "bestiary_foundIn": {
+    "_value": [
+      "Found in:"
+    ]
+  },
+  "bestiary_hp": {
+    "_value": [
+      "HP:"
+    ]
+  },
+  "bestiary_wounds": {
+    "_value": [
+      "Wounds:"
+    ]
+  },
+  "bestiary_others": {
+    "_value": [
+      "others"
+    ]
+  },
+  "bestiary_power": {
+    "_value": [
+      "Power:"
+    ]
+  },
+  "bestiary_resistances": {
+    "_value": [
+      "Resistances:"
+    ]
+  },
+  "bestiary_skills": {
+    "_value": [
+      "Skills:"
+    ]
+  },
+  "bestiary_speed": {
+    "_value": [
+      "Speed:"
+    ]
+  },
+  "charConfirm_???": {
+    "_value": [
+      "???"
+    ]
+  },
+  "charConfirm_buy_skin": {
+    "_value": [
+      "Buy Skin"
+    ]
+  },
+  "charConfirm_confirm": {
+    "_value": [
+      "Confirm"
+    ]
+  },
+  "charConfirm_description": {
+    "_value": [
+      "Description"
+    ]
+  },
+  "charConfirm_name": {
+    "_value": [
+      "Name"
+    ]
+  },
+  "charConfirm_price": {
+    "_value": [
+      "Price"
+    ]
+  },
+  "charConfirm_start": {
+    "_value": [
+      "START"
+    ]
+  },
+  "charConfirm_unlock": {
+    "_value": [
+      "Buy"
+    ]
+  },
+  "charConfirm_unlockCondition": {
+    "_value": [
+      "Unlock condition:"
+    ]
+  },
+  "charFound_joins": {
+    "_value": [
+      "%0\nJOINS THE BATTLE!"
+    ]
+  },
+  "charFound_ok": {
+    "_value": [
+      "Next"
+    ]
+  },
+  "charFound_rescue": {
+    "_value": [
+      "Thank you for the rescue, %0!"
+    ]
+  },
+  "charFound_rescue_joins": {
+    "_value": [
+      "%0\nJOINS THE BATTLE!"
+    ]
+  },
+  "charSelection_name": {
+    "_value": [
+      "Name"
+    ]
+  },
+  "character_header": {
+    "_value": [
+      "Character Selection"
+    ]
+  },
+  "collectionAchievementPanel_description": {
+    "_value": [
+      "Description"
+    ]
+  },
+  "context_next": {
+    "_value": [
+      "Next"
+    ]
+  },
+  "controllerDisconnect_desc": {
+    "_value": [
+      "Please reconnect the controller to continue"
+    ]
+  },
+  "ws_controllerDisconnect_desc_playstation": {
+    "_value": [
+      "Please reconnect the DualSense® wireless controller to continue"
+    ]
+  },
+  "controllerDisconnect_desc_playstation": {
+    "_value": [
+      "Please reconnect the controller to continue"
+    ]
+  },
+  "controllerDisconnect_desc_switch": {
+    "_value": [
+      "Please reconnect the controller to continue"
+    ]
+  },
+  "controllerDisconnect_desc_xbox": {
+    "_value": [
+      "Please reconnect the controller to continue"
+    ]
+  },
+  "controllerDisconnect_title": {
+    "_value": [
+      "Player disconnected"
+    ]
+  },
+  "exclusive_fullscreen": {
+    "_value": [
+      "Exclusive Fullscreen"
+    ]
+  },
+  "failed_init_storage": {
+    "_value": [
+      "Failed to initialise storage"
+    ]
+  },
+  "failed_load_save_data": {
+    "_value": [
+      "Failed to load save data"
+    ]
+  },
+  "failed_login": {
+    "_value": [
+      "Failed to log in"
+    ]
+  },
+  "fetching_save_data": {
+    "_value": [
+      "Fetching save data"
+    ]
+  },
+  "free_reroll": {
+    "_value": [
+      "FREE"
+    ]
+  },
+  "fullscreen_window": {
+    "_value": [
+      "Fullscreen Window"
+    ]
+  },
+  "genericPopup_achievement": {
+    "_value": [
+      "New Achievement!"
+    ]
+  },
+  "genericPopup_description": {
+    "_value": [
+      "Description"
+    ]
+  },
+  "genericPopup_level": {
+    "_value": [
+      "level:"
+    ]
+  },
+  "genericPopup_name": {
+    "_value": [
+      "Name"
+    ]
+  },
+  "genericPopup_new": {
+    "_value": [
+      "New!"
+    ]
+  },
+  "genericPopup_obtained": {
+    "_value": [
+      "Obtained"
+    ]
+  },
+  "genericPopup_obtainedCoin": {
+    "_value": [
+      "Awarded: %0 gold coins"
+    ]
+  },
+  "genericPopup_obtainsCoin": {
+    "_value": [
+      "Awards: %0 gold coins"
+    ]
+  },
+  "genericPopup_tips": {
+    "_value": [
+      "Tips"
+    ]
+  },
+  "genericPopup_unlocks": {
+    "_value": [
+      "Unlocks:"
+    ]
+  },
+  "genericPopup_unlocked": {
+    "_value": [
+      "Unlocked:"
+    ]
+  },
+  "genericPopup_unlockedHyper": {
+    "_value": [
+      "Unlocked: 'Eavy Metal %0"
+    ]
+  },
+  "generic_empty": {
+    "_value": [
+      "Empty"
+    ]
+  },
+  "generic_ok": {
+    "_value": [
+      "OK"
+    ]
+  },
+  "grimoire_header": {
+    "_value": [
+      "Weapon Evolutions & Unions"
+    ]
+  },
+  "ingame_level": {
+    "_value": [
+      "LV %0"
+    ]
+  },
+  "intro_start": {
+    "_value": [
+      "PRESS TO START"
+    ]
+  },
+  "levelup_Xleft": {
+    "_value": [
+      "%0 left"
+    ]
+  },
+  "limitBreak_always": {
+    "_value": [
+      "always"
+    ]
+  },
+  "limitBreak_ability": {
+    "_value": [
+      "{[ABILITY]} +%0"
+    ]
+  },
+  "limitBreak_amount": {
+    "_value": [
+      "{[ATTACK]} +%0"
+    ]
+  },
+  "limitBreak_aura": {
+    "_value": [
+      "{[AURA]} +%0"
+    ]
+  },
+  "limitBreak_area": {
+    "_value": [
+      "{[RANGE]}  +%0%"
+    ]
+  },
+  "limitBreak_chance": {
+    "_value": [
+      "{[CHANCE]} +%0%"
+    ]
+  },
+  "limitBreak_cooldown": {
+    "_value": [
+      "{[RELOAD]} -%0%"
+    ]
+  },
+  "limitBreak_critical": {
+    "_value": [
+      "Critical Chance +%0%"
+    ]
+  },
+  "limitBreak_duration": {
+    "_value": [
+      "{[SUSTAIN]} +%0%"
+    ]
+  },
+  "limitBreak_might": {
+    "_value": [
+      "{[STRENGTH]} +%0%"
+    ]
+  },
+  "limitBreak_once": {
+    "_value": [
+      "once"
+    ]
+  },
+  "limitBreak_passes": {
+    "_value": [
+      "{[PIERCE]} +%0"
+    ]
+  },
+  "limitBreak_random": {
+    "_value": [
+      "RANDOM"
+    ]
+  },
+  "limitBreak_speed": {
+    "_value": [
+      "{[SKILL]} +%0%"
+    ]
+  },
+  "loading": {
+    "_value": [
+      "Loading"
+    ]
+  },
+  "loading_save_data": {
+    "_value": [
+      "Loading save data"
+    ]
+  },
+  "maxWeapons_selection": {
+    "_value": [
+      "MAX WEAPONS"
+    ]
+  },
+  "maximised_window": {
+    "_value": [
+      "Maximised Window"
+    ]
+  },
+  "menu_quickstart": {
+    "_value": [
+      "quick start"
+    ]
+  },
+  "menu_screen": {
+    "_value": [
+      "screen"
+    ]
+  },
+  "multiplayer_awaiting_connect": {
+    "_value": [
+      "Connect a controller"
+    ]
+  },
+  "multiplayer_awaiting_connect_playstation": {
+    "_value": [
+      "Connect a controller"
+    ]
+  },
+  "multiplayer_awaiting_connect_switch": {
+    "_value": [
+      "Connect a controller"
+    ]
+  },
+  "multiplayer_awaiting_connect_xbox": {
+    "_value": [
+      "Connect a controller"
+    ]
+  },
+  "multiplayer_awaiting_player": {
+    "_value": [
+      "Press any button to join!"
+    ]
+  },
+  "multiplayer_awaiting_player_switch": {
+    "_value": [
+      "Press any button to join!"
+    ]
+  },
+  "multiplayer_awaiting_player_xbox": {
+    "_value": [
+      "Press any button to join!"
+    ]
+  },
+  "musicMod_forsaken": {
+    "_value": [
+      "Forsaken"
+    ]
+  },
+  "musicMod_hyper": {
+    "_value": [
+      "'Eavy Metal"
+    ]
+  },
+  "musicMod_normal": {
+    "_value": [
+      "Normal"
+    ]
+  },
+  "musicpanel_advanced": {
+    "_value": [
+      "Advanced"
+    ]
+  },
+  "musicpanel_advancedMusicSelection": {
+    "_value": [
+      "Advanced Music Selection"
+    ]
+  },
+  "musicpanel_author": {
+    "_value": [
+      "Author"
+    ]
+  },
+  "musicpanel_lockSelected": {
+    "_value": [
+      "Lock Selected"
+    ]
+  },
+  "musicpanel_modifier": {
+    "_value": [
+      "Modifier"
+    ]
+  },
+  "musicpanel_none": {
+    "_value": [
+      "None"
+    ]
+  },
+  "musicpanel_origins": {
+    "_value": [
+      "Origins"
+    ]
+  },
+  "musicpanel_playAll": {
+    "_value": [
+      "Play All"
+    ]
+  },
+  "musicpanel_playOnlyDuringRun": {
+    "_value": [
+      "Play Only during Run"
+    ]
+  },
+  "musicpanel_shuffle": {
+    "_value": [
+      "Shuffle"
+    ]
+  },
+  "newItem_discard": {
+    "_value": [
+      "DISCARD"
+    ]
+  },
+  "newItem_get": {
+    "_value": [
+      "GET"
+    ]
+  },
+  "newItem_header": {
+    "_value": [
+      "Item Found!"
+    ]
+  },
+  "new_skins_for": {
+    "_value": [
+      "New skins for %0"
+    ]
+  },
+  "new_skins_unlocked": {
+    "_value": [
+      "New Skins Unlocked!"
+    ]
+  },
+  "new_starting_weapon_for": {
+    "_value": [
+      "New starting weapon for %0"
+    ]
+  },
+  "new_starting_weapon_unlocked": {
+    "_value": [
+      "New Starting Weapon Unlocked!"
+    ]
+  },
+  "open_dlc_page": {
+    "_value": [
+      "New content available in store"
+    ]
+  },
+  "open_dlc_page_switch": {
+    "_value": [
+      "New content available in the Nintendo eShop"
+    ]
+  },
+  "options_invertStages": {
+    "_value": [
+      "Visually Invert Missions"
+    ]
+  },
+  "options_apply": {
+    "_value": [
+      "Apply"
+    ]
+  },
+  "options_areYouSure": {
+    "_value": [
+      "Are you sure?"
+    ]
+  },
+  "options_deleteSaveMessage2": {
+    "_value": [
+      "Are you really sure?"
+    ]
+  },
+  "options_borders": {
+    "_value": [
+      "Borders"
+    ]
+  },
+  "options_borders_none": {
+    "_value": [
+      "None"
+    ]
+  },
+  "options_borders_solid": {
+    "_value": [
+      "Solid"
+    ]
+  },
+  "options_borders_transparent": {
+    "_value": [
+      "Semi-Transparent"
+    ]
+  },
+  "options_cancel": {
+    "_value": [
+      "Cancel"
+    ]
+  },
+  "options_confirm": {
+    "_value": [
+      "Confirm"
+    ]
+  },
+  "options_damageNumbers": {
+    "_value": [
+      "Damage Numbers"
+    ]
+  },
+  "options_dataRecovery": {
+    "_value": [
+      "DATA RECOVERY"
+    ]
+  },
+  "options_default": {
+    "_value": [
+      "Default"
+    ]
+  },
+  "options_delete": {
+    "_value": [
+      "Delete Save"
+    ]
+  },
+  "options_deleteSave": {
+    "_value": [
+      "Delete Save"
+    ]
+  },
+  "options_deleteSaveMessage1": {
+    "_value": [
+      "Are you sure you want to delete your save?"
+    ]
+  },
+  "options_deleteSaveMessage3": {
+    "_value": [
+      "Last chance. Your save will be deleted permanently. Are you sure?"
+    ]
+  },
+  "options_disable_blood": {
+    "_value": [
+      "Disable blood"
+    ]
+  },
+  "options_enable_vsync": {
+    "_value": [
+      "Enable V-Sync"
+    ]
+  },
+  "options_error": {
+    "_value": [
+      "An error occurred"
+    ]
+  },
+  "options_flashing_VFX": {
+    "_value": [
+      "Reduce Flashing VFX"
+    ]
+  },
+  "options_flashing_VFX_switch": {
+    "_value": [
+      "Strong Visual Effects"
+    ]
+  },
+  "options_target_framerate": {
+    "_value": [
+      "Framerate"
+    ]
+  },
+  "options_fullscreen": {
+    "_value": [
+      "Fullscreen"
+    ]
+  },
+  "options_header": {
+    "_value": [
+      "Options"
+    ]
+  },
+  "options_joystickType": {
+    "_value": [
+      "Control stick Type"
+    ]
+  },
+  "options_keyboardType": {
+    "_value": [
+      "Keyboard Type"
+    ]
+  },
+  "options_language": {
+    "_value": [
+      "Language"
+    ]
+  },
+  "options_lastRun": {
+    "_value": [
+      "Load Last Run"
+    ]
+  },
+  "options_legacy": {
+    "_value": [
+      "Legacy"
+    ]
+  },
+  "options_music": {
+    "_value": [
+      "Music"
+    ]
+  },
+  "options_no": {
+    "_value": [
+      false
+    ]
+  },
+  "options_notifications": {
+    "_value": [
+      "Notifications"
+    ]
+  },
+  "options_open": {
+    "_value": [
+      "Open"
+    ]
+  },
+  "options_pixel_font": {
+    "_value": [
+      "Pixel Font"
+    ]
+  },
+  "options_privacyPolicyUnity": {
+    "_value": [
+      "Unity Privacy Policy"
+    ]
+  },
+  "options_resolution": {
+    "_value": [
+      "Resolution"
+    ]
+  },
+  "options_refresh_rate": {
+    "_value": [
+      "Screen Refresh Rate"
+    ]
+  },
+  "options_screenShake": {
+    "_value": [
+      "Reduce Screen Shake"
+    ]
+  },
+  "options_sounds": {
+    "_value": [
+      "Sounds"
+    ]
+  },
+  "options_tab_about": {
+    "_value": [
+      "About"
+    ]
+  },
+  "options_tab_display": {
+    "_value": [
+      "Display"
+    ]
+  },
+  "options_tab_favourites": {
+    "_value": [
+      "Favourites"
+    ]
+  },
+  "options_tab_gameplay": {
+    "_value": [
+      "Gameplay"
+    ]
+  },
+  "options_tab_sound": {
+    "_value": [
+      "Audio"
+    ]
+  },
+  "options_tab_inGame": {
+    "_value": [
+      "Options"
+    ]
+  },
+  "options_use_custom_hardware_cursor": {
+    "_value": [
+      "Custom Hardware Cursor"
+    ]
+  },
+  "options_view": {
+    "_value": [
+      "View"
+    ]
+  },
+  "options_visible_control_stick": {
+    "_value": [
+      "Touch screen control stick"
+    ]
+  },
+  "options_window_mode": {
+    "_value": [
+      "Window Mode"
+    ]
+  },
+  "options_yes": {
+    "_value": [
+      true
+    ]
+  },
+  "options_toggle_guides": {
+    "_value": [
+      "Toggle Map Guides"
+    ]
+  },
+  "options_toggle_pickups": {
+    "_value": [
+      "Toggle Map Pickups"
+    ]
+  },
+  "options_dynamic": {
+    "_value": [
+      "Dynamic"
+    ]
+  },
+  "paintPotFound": {
+    "_value": [
+      "Paint Pot found!"
+    ]
+  },
+  "playStationNoFreeSpaceDialogButton1": {
+    "_value": [
+      "Try Again"
+    ]
+  },
+  "playStationNoFreeSpaceDialogButton2": {
+    "_value": [
+      "Continue"
+    ]
+  },
+  "playStationNoFreeSpaceDialogDescription": {
+    "_value": [
+      "There is not enough free space to create a save file. Would you like to try saving again, or continue without saving?"
+    ]
+  },
+  "playStationNoFreeSpaceDialogTitle": {
+    "_value": [
+      "Error - No Free Space"
+    ]
+  },
+  "postGame_damage": {
+    "_value": [
+      "Damage"
+    ]
+  },
+  "postGame_done": {
+    "_value": [
+      "DONE"
+    ]
+  },
+  "postGame_done1": {
+    "_value": [
+      "DONE"
+    ]
+  },
+  "postGame_dps": {
+    "_value": [
+      "DPS"
+    ]
+  },
+  "postGame_enemiesDefeated": {
+    "_value": [
+      "Enemies defeated:"
+    ]
+  },
+  "postGame_goldEarned_WS": {
+    "_value": [
+      "Coins earned:"
+    ]
+  },
+  "postGame_header": {
+    "_value": [
+      "Results"
+    ]
+  },
+  "postGame_hideAchievements": {
+    "_value": [
+      "Hide\nAchievements"
+    ]
+  },
+  "postGame_hyper_WS": {
+    "_value": [
+      "- 'Eavy Metal - Coins x %0"
+    ]
+  },
+  "postGame_level": {
+    "_value": [
+      "LV"
+    ]
+  },
+  "postGame_levelReached": {
+    "_value": [
+      "Level reached:"
+    ]
+  },
+  "postGame_normal_WS": {
+    "_value": [
+      "- Normal - Coins x %0"
+    ]
+  },
+  "postGame_showAchievements": {
+    "_value": [
+      "Show\nAchievements"
+    ]
+  },
+  "postGame_survived": {
+    "_value": [
+      "Survived:"
+    ]
+  },
+  "postGame_survivedTime": {
+    "_value": [
+      "(MAX) %0"
+    ]
+  },
+  "postGame_time": {
+    "_value": [
+      "Time"
+    ]
+  },
+  "postGame_unlocks": {
+    "_value": [
+      "Objectives"
+    ]
+  },
+  "postGame_weapon": {
+    "_value": [
+      "Weapon"
+    ]
+  },
+  "powerupConfirm_buy": {
+    "_value": [
+      "Buy"
+    ]
+  },
+  "powerupConfirm_confirm": {
+    "_value": [
+      "Confirm"
+    ]
+  },
+  "powerupConfirm_description": {
+    "_value": [
+      "Description"
+    ]
+  },
+  "powerupConfirm_maxed": {
+    "_value": [
+      "MAXIMUM\n LEVEL\nREACHED"
+    ]
+  },
+  "powerupConfirm_name": {
+    "_value": [
+      "Name"
+    ]
+  },
+  "powerupConfirm_price": {
+    "_value": [
+      "Price"
+    ]
+  },
+  "powerupConfirm_start": {
+    "_value": [
+      "START"
+    ]
+  },
+  "powerupSelection_name": {
+    "_value": [
+      "Name"
+    ]
+  },
+  "powerup_header": {
+    "_value": [
+      "Enhancements Selection"
+    ]
+  },
+  "powerup_refund": {
+    "_value": [
+      "Refund Enhancements"
+    ]
+  },
+  "preload_warning_text": {
+    "_value": [
+      "This game contains imagery that may trigger Trypophobia in some players. \n\nThis game also contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing."
+    ]
+  },
+  "preload_warning_title": {
+    "_value": [
+      "TRYPOPHOBIA AND PHOTOSENSITIVITY WARNINGS"
+    ]
+  },
+  "relicFound": {
+    "_value": [
+      "Relic Found!"
+    ]
+  },
+  "res_Debuffs": {
+    "_value": [
+      "Debuff"
+    ]
+  },
+  "res_Freeze": {
+    "_value": [
+      "Freeze"
+    ]
+  },
+  "res_InstantKill": {
+    "_value": [
+      "Instant Kill"
+    ]
+  },
+  "res_Knockback": {
+    "_value": [
+      "Knockback"
+    ]
+  },
+  "res_Rosary": {
+    "_value": [
+      "Rosary"
+    ]
+  },
+  "resolution_fullscreen": {
+    "_value": [
+      "FULLSCREEN"
+    ]
+  },
+  "resolution_header": {
+    "_value": [
+      "Resolution"
+    ]
+  },
+  "restart_requied_info": {
+    "_value": [
+      "To install the DLC the app needs to restart. Restart now?"
+    ]
+  },
+  "restart_required_title": {
+    "_value": [
+      "App Restart Required"
+    ]
+  },
+  "restore_purchases": {
+    "_value": [
+      "Restore Purchases"
+    ]
+  },
+  "save_conflict_description": {
+    "_value": [
+      "Please select the save data you want to keep"
+    ]
+  },
+  "save_conflict_title": {
+    "_value": [
+      "Save Conflict"
+    ]
+  },
+  "save_data_corrupted": {
+    "_value": [
+      "Save data is corrupted"
+    ]
+  },
+  "save_data_corrupted_playstation": {
+    "_value": [
+      "Save data is corrupted. A new save file will be generated."
+    ]
+  },
+  "seal_cannot": {
+    "_value": [
+      "Cannot be sealed."
+    ]
+  },
+  "seal_header": {
+    "_value": [
+      "Sealed:"
+    ]
+  },
+  "secrets_castspell": {
+    "_value": [
+      "Incantation"
+    ]
+  },
+  "secrets_header": {
+    "_value": [
+      "Uncovered: %0/%1"
+    ]
+  },
+  "shop_soldout": {
+    "_value": [
+      "Sold Out"
+    ]
+  },
+  "show_stage_progression": {
+    "_value": [
+      "Show stage progression"
+    ]
+  },
+  "stageConfirm_?": {
+    "_value": [
+      "???"
+    ]
+  },
+  "stageConfirm_description": {
+    "_value": [
+      "Description"
+    ]
+  },
+  "stageConfirm_hurry": {
+    "_value": [
+      "Fast Attack"
+    ]
+  },
+  "stageConfirm_hyper": {
+    "_value": [
+      "'Eavy Metal"
+    ]
+  },
+  "stageConfirm_inverse": {
+    "_value": [
+      "Grim Darkness"
+    ]
+  },
+  "stageConfirm_limitbreak": {
+    "_value": [
+      "Limitless"
+    ]
+  },
+  "stageConfirm_lockSelected": {
+    "_value": [
+      "Lock Selected"
+    ]
+  },
+  "stageConfirm_reapers": {
+    "_value": [
+      "Endless War"
+    ]
+  },
+  "stageConfirm_start": {
+    "_value": [
+      "START"
+    ]
+  },
+  "stageSelect_not_discovered": {
+    "_value": [
+      "Not yet discovered."
+    ]
+  },
+  "stageSelectionPanel_?": {
+    "_value": [
+      "???"
+    ]
+  },
+  "stageSelectionPanel_description": {
+    "_value": [
+      "Description"
+    ]
+  },
+  "stageSelectionPanel_hidden": {
+    "_value": [
+      "Not yet discovered."
+    ]
+  },
+  "stageSelection_ChanceBonus": {
+    "_value": [
+      "{[CHANCE]} Bonus"
+    ]
+  },
+  "stageSelection_ClockSpeed": {
+    "_value": [
+      "Clock Speed"
+    ]
+  },
+  "stageSelection_CoinMultiplier": {
+    "_value": [
+      "Coin Bonus"
+    ]
+  },
+  "stageSelection_EnemyHealth": {
+    "_value": [
+      "Enemy Wounds"
+    ]
+  },
+  "stageSelection_PlayerPxSpeed": {
+    "_value": [
+      "Move Speed"
+    ]
+  },
+  "stageSelection_TimeLimit": {
+    "_value": [
+      "Time Limit"
+    ]
+  },
+  "stageSelection_XPBonus": {
+    "_value": [
+      "XP Bonus"
+    ]
+  },
+  "stageSelection_musicSelection": {
+    "_value": [
+      "Music Selection"
+    ]
+  },
+  "stageSelection_stageNumber": {
+    "_value": [
+      "Stage %0"
+    ]
+  },
+  "topBar_back": {
+    "_value": [
+      "BACK"
+    ]
+  },
+  "topBar_options": {
+    "_value": [
+      "OPTIONS"
+    ]
+  },
+  "topBar_quit": {
+    "_value": [
+      "QUIT"
+    ]
+  },
+  "ws_40K_treasure_header": {
+    "_value": [
+      "Wargear Acquired!"
+    ]
+  },
+  "ws_AOS_treasure_header": {
+    "_value": [
+      "Artefact Found!"
+    ]
+  },
+  "treasure_open": {
+    "_value": [
+      "OPEN"
+    ]
+  },
+  "treasure_skip": {
+    "_value": [
+      "PRESS CANCEL TO SKIP"
+    ]
+  },
+  "unseal_all": {
+    "_value": [
+      "Unseal All"
+    ]
+  },
+  "updating_dlc": {
+    "_value": [
+      "Updating DLC"
+    ]
+  },
+  "weaponCollectionPanel_description": {
+    "_value": [
+      "Description"
+    ]
+  },
+  "weaponCollectionPanel_name": {
+    "_value": [
+      "Name"
+    ]
+  },
+  "weaponCollectionPanel_notFound": {
+    "_value": [
+      "Not yet found."
+    ]
+  },
+  "ws_40K_weaponSelection_header": {
+    "_value": [
+      "A gift from the Emperor..."
+    ]
+  },
+  "ws_AOS_weaponSelection_header": {
+    "_value": [
+      "Expand your arsenal"
+    ]
+  },
+  "ws_40K_evo_weaponSelection_header": {
+    "_value": [
+      "Blessings from the Omnissiah..."
+    ]
+  },
+  "ws_AOS_evo_weaponSelection_header": {
+    "_value": [
+      "Burn with power..."
+    ]
+  },
+  "weapon_bonus_": {
+    "_value": [
+      "Bonus:"
+    ]
+  },
+  "weapon_description": {
+    "_value": [
+      "Description"
+    ]
+  },
+  "weapon_evo": {
+    "_value": [
+      "evo:"
+    ]
+  },
+  "weapon_header": {
+    "_value": [
+      "Collected: %0 of %1"
+    ]
+  },
+  "weapon_level": {
+    "_value": [
+      "Level"
+    ]
+  },
+  "weapon_level_": {
+    "_value": [
+      "level:"
+    ]
+  },
+  "weapon_limit_break_": {
+    "_value": [
+      "Level:"
+    ]
+  },
+  "weapon_name": {
+    "_value": [
+      "Name"
+    ]
+  },
+  "weapon_new": {
+    "_value": [
+      "New!"
+    ]
+  },
+  "windowed": {
+    "_value": [
+      "Windowed"
+    ]
+  },
+  "checking_dlc": {
+    "_value": [
+      "Checking DLC"
+    ]
+  },
+  "ws_arcanas_title_40k": {
+    "_value": [
+      "Emperor's Tarot"
+    ]
+  },
+  "ws_arcanas_title_aos": {
+    "_value": [
+      "Celestial Arcana"
+    ]
+  },
+  "ws_arcanas_undiscovered": {
+    "_value": [
+      "???"
+    ]
+  },
+  "ws_AOS_arcanas_undiscovered_description": {
+    "_value": [
+      "You have not yet discovered this Celestial Arcana."
+    ]
+  },
+  "ws_40k_arcanas_undiscovered_description": {
+    "_value": [
+      "You have not yet discovered this Tarot Card."
+    ]
+  },
+  "ws_armory_arcanas_active": {
+    "_value": [
+      "Active"
+    ]
+  },
+  "ws_armory_arcanas_locked": {
+    "_value": [
+      "Undiscovered"
+    ]
+  },
+  "ws_armory_arcanas_unlocked": {
+    "_value": [
+      "Discovered"
+    ]
+  },
+  "ws_armory_detailed": {
+    "_value": [
+      "Detailed View"
+    ]
+  },
+  "ws_armory_passives_owned": {
+    "_value": [
+      "Owned Passives"
+    ]
+  },
+  "ws_armory_passives_unlocked": {
+    "_value": [
+      "Unlocked Passives"
+    ]
+  },
+  "ws_armory_rank": {
+    "_value": [
+      "Rank: %0/%1"
+    ]
+  },
+  "ws_armory_weapons_button": {
+    "_value": [
+      "Armoury"
+    ]
+  },
+  "ws_armory_weapons_owned": {
+    "_value": [
+      "Owned Weapons"
+    ]
+  },
+  "ws_armory_weapons_unlocked": {
+    "_value": [
+      "Unlocked Weapons"
+    ]
+  },
+  "ws_armory_40k_arcana_button": {
+    "_value": [
+      "Emperor's Tarot"
+    ]
+  },
+  "ws_bestiary_undiscovered": {
+    "_value": [
+      "Not yet discovered."
+    ]
+  },
+  "ws_bestiary_enemyNameUndiscovered": {
+    "_value": [
+      "???"
+    ]
+  },
+  "ws_bestiary_enemyStatUndiscovered": {
+    "_value": [
+      "?"
+    ]
+  },
+  "ws_character_select_character_stats": {
+    "_value": [
+      "Character Statistics"
+    ]
+  },
+  "ws_character_select_game_options": {
+    "_value": [
+      "Game Options"
+    ]
+  },
+  "ws_character_select_locked_button": {
+    "_value": [
+      "Locked"
+    ]
+  },
+  "ws_character_select_max_weapons": {
+    "_value": [
+      "Max Weapons"
+    ]
+  },
+  "ws_character_select_mutators": {
+    "_value": [
+      "Mutagens"
+    ]
+  },
+  "ws_character_select_varanite_aos": {
+    "_value": [
+      "Varanite"
+    ]
+  },
+  "ws_character_select_purchase_button": {
+    "_value": [
+      "Purchase"
+    ]
+  },
+  "ws_character_select_options": {
+    "_value": [
+      "Character Options"
+    ]
+  },
+  "ws_character_select_mutagens": {
+    "_value": [
+      "Mutagens"
+    ]
+  },
+  "ws_hud_collectathon_title": {
+    "_value": [
+      "COLLECTATHON!"
+    ]
+  },
+  "ws_hud_collectathon_title_results": {
+    "_value": [
+      "COLLECTATHON RESULTS"
+    ]
+  },
+  "ws_full_equipment_title": {
+    "_value": [
+      "Full Equipment List"
+    ]
+  },
+  "ws_full_equipment_weapons": {
+    "_value": [
+      "Weapons"
+    ]
+  },
+  "ws_full_equipment_passives": {
+    "_value": [
+      "Passives"
+    ]
+  },
+  "ws_full_equipment_banished": {
+    "_value": [
+      "Banished"
+    ]
+  },
+  "ws_weapon_new": {
+    "_value": [
+      "NEW"
+    ]
+  },
+  "ws_collection_button_seal": {
+    "_value": [
+      "Seal"
+    ]
+  },
+  "ws_collection_button_unseal": {
+    "_value": [
+      "Unseal"
+    ]
+  },
+  "ws_collection_button_unseal_all": {
+    "_value": [
+      "Unseal All"
+    ]
+  },
+  "ws_collection_collected_text": {
+    "_value": [
+      "Collected:"
+    ]
+  },
+  "ws_collection_collected_value": {
+    "_value": [
+      "%0 of %1"
+    ]
+  },
+  "ws_collection_evolution_max": {
+    "_value": [
+      "MAX"
+    ]
+  },
+  "ws_collection_evolution_requirements": {
+    "_value": [
+      "Evolution Requirements"
+    ]
+  },
+  "ws_collection_misc_info": {
+    "_value": [
+      "Miscellaneous Info"
+    ]
+  },
+  "ws_collection_sealed_state": {
+    "_value": [
+      "SEALED"
+    ]
+  },
+  "ws_collection_sealed_text": {
+    "_value": [
+      "Sealed:"
+    ]
+  },
+  "ws_collection_synergies": {
+    "_value": [
+      "Synergies"
+    ]
+  },
+  "ws_collections_header_arcanas_40k": {
+    "_value": [
+      "Emperor's Tarot Cards"
+    ]
+  },
+  "ws_collections_header_arcanas_aos": {
+    "_value": [
+      "Celestial Arcana"
+    ]
+  },
+  "ws_collections_header_relics": {
+    "_value": [
+      "Relics"
+    ]
+  },
+  "ws_collections_header_items": {
+    "_value": [
+      "Items"
+    ]
+  },
+  "ws_collections_header_paintPots": {
+    "_value": [
+      "Paint Pots"
+    ]
+  },
+  "ws_collections_header_passives": {
+    "_value": [
+      "Passives"
+    ]
+  },
+  "ws_collections_header_pickups": {
+    "_value": [
+      "Pickups"
+    ]
+  },
+  "ws_collections_header_weapons": {
+    "_value": [
+      "Weapons"
+    ]
+  },
+  "ws_collections_undiscovered": {
+    "_value": [
+      "???"
+    ]
+  },
+  "ws_collections_undiscovered_desc": {
+    "_value": [
+      "Not yet discovered."
+    ]
+  },
+  "ws_credit_auroch_digital_sub": {
+    "_value": [
+      "Thanks for Playing!"
+    ]
+  },
+  "ws_credit_roundtable_company": {
+    "_value": [
+      "A Roundtable Interactive Company"
+    ]
+  },
+  "ws_credit_account_manager": {
+    "_value": [
+      "Account Manager"
+    ]
+  },
+  "ws_credit_account_manager_business": {
+    "_value": [
+      "Account Manager & Business Development"
+    ]
+  },
+  "ws_credit_account_manager_sales": {
+    "_value": [
+      "Account Manager & Sales Operations Team Lead"
+    ]
+  },
+  "ws_credit_additional_art": {
+    "_value": [
+      "Additional Art By"
+    ]
+  },
+  "ws_credit_admin": {
+    "_value": [
+      "Adminstration Coordinator"
+    ]
+  },
+  "ws_credit_art_animation_production": {
+    "_value": [
+      "Art & Animation Production"
+    ]
+  },
+  "ws_credit_artistic_director": {
+    "_value": [
+      "Art Director"
+    ]
+  },
+  "ws_credit_art_team": {
+    "_value": [
+      "Art Team"
+    ]
+  },
+  "ws_credit_associate_producer": {
+    "_value": [
+      "Associate Producer"
+    ]
+  },
+  "ws_credit_associate_programmer": {
+    "_value": [
+      "Associate Programmer"
+    ]
+  },
+  "ws_credit_associate_tech_director": {
+    "_value": [
+      "Associate Technical Director"
+    ]
+  },
+  "ws_credit_audio_team": {
+    "_value": [
+      "Audio Team"
+    ]
+  },
+  "ws_credit_auroch_digital": {
+    "_value": [
+      "Auroch Digital Ltd"
+    ]
+  },
+  "ws_credit_bastion": {
+    "_value": [
+      "Bastion"
+    ]
+  },
+  "ws_credit_business_director": {
+    "_value": [
+      "Business Development Director"
+    ]
+  },
+  "ws_credit_business_manager": {
+    "_value": [
+      "Business Development Manager"
+    ]
+  },
+  "ws_credit_ceo": {
+    "_value": [
+      "CEO"
+    ]
+  },
+  "ws_credit_ceo_founder": {
+    "_value": [
+      "CEO & Founder"
+    ]
+  },
+  "ws_credit_char_animations": {
+    "_value": [
+      "Character and enemy animation"
+    ]
+  },
+  "ws_credit_chief_exec": {
+    "_value": [
+      "Chief Executive Officer"
+    ]
+  },
+  "ws_credit_chief_op": {
+    "_value": [
+      "Chief Operating Officer"
+    ]
+  },
+  "ws_credit_code_team": {
+    "_value": [
+      "Code Team"
+    ]
+  },
+  "ws_credit_company_audio_lead": {
+    "_value": [
+      "Company Audio and Music Leadership"
+    ]
+  },
+  "ws_credit_concept_artist": {
+    "_value": [
+      "Concept Artist"
+    ]
+  },
+  "ws_credit_cousin": {
+    "_value": [
+      "COUSIN Media Group"
+    ]
+  },
+  "ws_credit_creative_director": {
+    "_value": [
+      "Creative Director"
+    ]
+  },
+  "ws_credit_designer": {
+    "_value": [
+      "Designer"
+    ]
+  },
+  "ws_credit_designer_director": {
+    "_value": [
+      "Design Director"
+    ]
+  },
+  "ws_credit_designer_support": {
+    "_value": [
+      "Design Support"
+    ]
+  },
+  "ws_credit_designer_team": {
+    "_value": [
+      "Design Team"
+    ]
+  },
+  "ws_credit_engineer": {
+    "_value": [
+      "IT Engineer"
+    ]
+  },
+  "ws_credit_exec_team": {
+    "_value": [
+      "Executive Team"
+    ]
+  },
+  "ws_credit_finance": {
+    "_value": [
+      "Finance Manager"
+    ]
+  },
+  "ws_credit_games_workshop": {
+    "_value": [
+      "Games Workshop"
+    ]
+  },
+  "ws_credit_groundshatter": {
+    "_value": [
+      "Ground Shatter"
+    ]
+  },
+  "ws_credit_head_business": {
+    "_value": [
+      "Head of Business Development"
+    ]
+  },
+  "ws_credit_international_business": {
+    "_value": [
+      "International Business Development Manager"
+    ]
+  },
+  "ws_credit_it_infrastructure": {
+    "_value": [
+      "IT Infrastructure Managers"
+    ]
+  },
+  "ws_credit_localisation_lead": {
+    "_value": [
+      "Localization QA Lead"
+    ]
+  },
+  "ws_credit_localisation_testers": {
+    "_value": [
+      "Localization QA Testers"
+    ]
+  },
+  "ws_credit_lead_artist": {
+    "_value": [
+      "Lead Artist"
+    ]
+  },
+  "ws_credit_lead_concept_artist": {
+    "_value": [
+      "Lead Concept Artist"
+    ]
+  },
+  "ws_credit_lead_designer": {
+    "_value": [
+      "Lead Designer"
+    ]
+  },
+  "ws_credit_lead_games_designer": {
+    "_value": [
+      "Lead Game Designer"
+    ]
+  },
+  "ws_credit_lead_producer": {
+    "_value": [
+      "Lead Producer"
+    ]
+  },
+  "ws_credit_lead_programmer": {
+    "_value": [
+      "Lead Programmer"
+    ]
+  },
+  "ws_credit_lead_project_manager": {
+    "_value": [
+      "Lead Project Manager"
+    ]
+  },
+  "ws_credit_lead_qa": {
+    "_value": [
+      "Lead QA"
+    ]
+  },
+  "ws_credit_lead_qa_tester": {
+    "_value": [
+      "Lead QA Tester"
+    ]
+  },
+  "ws_credit_lead_uiux": {
+    "_value": [
+      "Lead UI/UX"
+    ]
+  },
+  "ws_credit_leading_marketing": {
+    "_value": [
+      "Lead Marketing Manager"
+    ]
+  },
+  "ws_credit_marketing_director": {
+    "_value": [
+      "Marketing and Comms Director"
+    ]
+  },
+  "ws_credit_marketing_manager": {
+    "_value": [
+      "Marketing Manager"
+    ]
+  },
+  "ws_credit_marketing_team": {
+    "_value": [
+      "Marketing Team"
+    ]
+  },
+  "ws_credit_pets": {
+    "_value": [
+      "Winston Mackenzie for his voice acting skills"
+    ]
+  },
+  "ws_credit_pets_2": {
+    "_value": [
+      "Rimmer Mackenzie and his piggy for always making the team laugh"
+    ]
+  },
+  "ws_credit_pixelcomposer": {
+    "_value": [
+      "Pixel Composer by Makham Dev"
+    ]
+  },
+  "ws_credit_poncle": {
+    "_value": [
+      "Poncle"
+    ]
+  },
+  "ws_credit_principle_programmer": {
+    "_value": [
+      "Principal Programmer"
+    ]
+  },
+  "ws_credit_producer": {
+    "_value": [
+      "Producer"
+    ]
+  },
+  "ws_credit_production_director": {
+    "_value": [
+      "Production Director"
+    ]
+  },
+  "ws_credit_production_team": {
+    "_value": [
+      "Production Team"
+    ]
+  },
+  "ws_credit_programmer": {
+    "_value": [
+      "Programmer"
+    ]
+  },
+  "ws_credit_project_managr": {
+    "_value": [
+      "Project Manager"
+    ]
+  },
+  "ws_credit_project_design_lead": {
+    "_value": [
+      "Project Design Lead"
+    ]
+  },
+  "ws_credit_project_audio_leads": {
+    "_value": [
+      "Project Audio and Music Leads"
+    ]
+  },
+  "ws_credit_project_audio_lead": {
+    "_value": [
+      "Project Audio and Music Lead"
+    ]
+  },
+  "ws_credit_project_code_lead": {
+    "_value": [
+      "Project Code Lead"
+    ]
+  },
+  "ws_credit_project_art_lead": {
+    "_value": [
+      "Project Lead Artist"
+    ]
+  },
+  "ws_credit_project_production_lead": {
+    "_value": [
+      "Project Lead Producer"
+    ]
+  },
+  "ws_credit_project_marketing_lead": {
+    "_value": [
+      "Project Marketing Lead"
+    ]
+  },
+  "ws_credit_project_qa_lead": {
+    "_value": [
+      "Project QA Lead"
+    ]
+  },
+  "ws_credit_project_ui_lead": {
+    "_value": [
+      "Project UI/UX Lead"
+    ]
+  },
+  "ws_credit_provided_art": {
+    "_value": [
+      "Provided for the project by RocketBrush Art Team:"
+    ]
+  },
+  "ws_credit_qa_assist_lead": {
+    "_value": [
+      "QA Assistant Lead"
+    ]
+  },
+  "ws_credit_qa_lead": {
+    "_value": [
+      "QA Lead"
+    ]
+  },
+  "ws_credit_qa_manager": {
+    "_value": [
+      "QA Manager"
+    ]
+  },
+  "ws_credit_qa_manager_plural": {
+    "_value": [
+      "QA Managers"
+    ]
+  },
+  "ws_credit_qa_tech": {
+    "_value": [
+      "QA Technicians"
+    ]
+  },
+  "ws_credit_qa_tester": {
+    "_value": [
+      "QA Tester"
+    ]
+  },
+  "ws_credit_qc_director": {
+    "_value": [
+      "Quality Control Director"
+    ]
+  },
+  "ws_credit_quantic_lab": {
+    "_value": [
+      "Quantic Lab"
+    ]
+  },
+  "ws_credit_release_manager": {
+    "_value": [
+      "Release Manager"
+    ]
+  },
+  "ws_credit_rockbrush_studio": {
+    "_value": [
+      "RocketBrush Studio Ltd"
+    ]
+  },
+  "ws_credit_roundtable": {
+    "_value": [
+      "Roundtable Interactive Company"
+    ]
+  },
+  "ws_credit_senior_audio": {
+    "_value": [
+      "Senior Audio Designer"
+    ]
+  },
+  "ws_credit_senior_build_engineer": {
+    "_value": [
+      "Senior Build Engineer"
+    ]
+  },
+  "ws_credit_senior_marketing_business_manager": {
+    "_value": [
+      "Senior Marketing and Business Development Manager"
+    ]
+  },
+  "ws_credit_senior_ops": {
+    "_value": [
+      "Senior Operations and Engagement Manager"
+    ]
+  },
+  "ws_credit_senior_production": {
+    "_value": [
+      "Senior Producer"
+    ]
+  },
+  "ws_credit_senior_programmer": {
+    "_value": [
+      "Senior Programmer"
+    ]
+  },
+  "ws_credit_six_peaks": {
+    "_value": [
+      "Six Peaks Games"
+    ]
+  },
+  "ws_credit_coherence": {
+    "_value": [
+      "Supported by the coherence team \nwith special Thanks to Miguel Ferradáns Valdés"
+    ]
+  },
+  "ws_credit_special_thanks": {
+    "_value": [
+      "Auroch Digital Special Thanks"
+    ]
+  },
+  "ws_credit_sprite_design": {
+    "_value": [
+      "Character and enemy sprite design and production"
+    ]
+  },
+  "ws_credit_studio_director": {
+    "_value": [
+      "Studio Director"
+    ]
+  },
+  "ws_credit_studio_manager": {
+    "_value": [
+      "Studio Manager"
+    ]
+  },
+  "ws_credit_studio_support": {
+    "_value": [
+      "Studio Employee Support Manager"
+    ]
+  },
+  "ws_credit_tap_skip": {
+    "_value": [
+      "(Tap to Skip)"
+    ]
+  },
+  "ws_credit_tech_director": {
+    "_value": [
+      "Technical Director"
+    ]
+  },
+  "ws_credit_tech_ops_officer": {
+    "_value": [
+      "Technical Operations Officer"
+    ]
+  },
+  "ws_credit_translation_coord": {
+    "_value": [
+      "Translation Project Coordinator"
+    ]
+  },
+  "ws_credit_translation_team": {
+    "_value": [
+      "Translation Team"
+    ]
+  },
+  "ws_credit_uiux_artist": {
+    "_value": [
+      "UI/UX Artist"
+    ]
+  },
+  "ws_credit_uiux_director": {
+    "_value": [
+      "UI/UX Director"
+    ]
+  },
+  "ws_credit_vfx_artist": {
+    "_value": [
+      "VFX Artist"
+    ]
+  },
+  "ws_credit_vfx_production": {
+    "_value": [
+      "VFX production (attacks, projectiles, magic effects)"
+    ]
+  },
+  "ws_credit_water_witch": {
+    "_value": [
+      "Water Witch Studio"
+    ]
+  },
+  "ws_credit_weapon_animations": {
+    "_value": [
+      "Weapon art and animation"
+    ]
+  },
+  "ws_credit_writer": {
+    "_value": [
+      "Writer"
+    ]
+  },
+  "ws_credit_tech_art": {
+    "_value": [
+      "Technical Artist"
+    ]
+  },
+  "ws_credit_font": {
+    "_value": [
+      "Alagard font, created by Hewett Tsoi, (also known as Pixem) and adapted to display extended Latin characters by Auroch Digital"
+    ]
+  },
+  "ws_credit_software_odin": {
+    "_value": [
+      "Odin Inspector"
+    ]
+  },
+  "ws_credit_software_build_report": {
+    "_value": [
+      "Build Report Tool"
+    ]
+  },
+  "ws_credit_software_reference": {
+    "_value": [
+      "Find Reference 2"
+    ]
+  },
+  "ws_credit_software_procamera": {
+    "_value": [
+      "Pro Camera 2D"
+    ]
+  },
+  "ws_credit_software_i2localisation": {
+    "_value": [
+      "I2 Localization"
+    ]
+  },
+  "ws_credit_software_rewired": {
+    "_value": [
+      "Rewired"
+    ]
+  },
+  "ws_credit_software_master_audio": {
+    "_value": [
+      "Master Audio 2022"
+    ]
+  },
+  "ws_credit_software_doozy_ui": {
+    "_value": [
+      "Doozy UI Manager"
+    ]
+  },
+  "ws_credit_software_master_object": {
+    "_value": [
+      "Master Object Pooler 2"
+    ]
+  },
+  "ws_credit_software_texturepacker_importer": {
+    "_value": [
+      "TexturePacker Importer"
+    ]
+  },
+  "ws_credit_software_safe_area": {
+    "_value": [
+      "Safe Area Helper"
+    ]
+  },
+  "ws_credit_software_dot": {
+    "_value": [
+      "DOTween (HOTween v2)"
+    ]
+  },
+  "ws_credit_software_dreamteck": {
+    "_value": [
+      "Dreamteck Splines"
+    ]
+  },
+  "ws_credit_software_shoebox": {
+    "_value": [
+      "ShoeBox Tools for Unity"
+    ]
+  },
+  "ws_credit_software_relationsinspector": {
+    "_value": [
+      "RelationsInspector"
+    ]
+  },
+  "ws_credit_software_debug": {
+    "_value": [
+      "In-game Debug Console"
+    ]
+  },
+  "ws_credit_software_tiled_mapeditor": {
+    "_value": [
+      "Tiled Mapeditor"
+    ]
+  },
+  "ws_credit_software_texturepacker": {
+    "_value": [
+      "TexturePacker"
+    ]
+  },
+  "ws_credit_software_spriteilluminator": {
+    "_value": [
+      "SpriteIlluminator"
+    ]
+  },
+  "ws_credit_software_unitask": {
+    "_value": [
+      "UniTask"
+    ]
+  },
+  "ws_credit_software_external_dependancy": {
+    "_value": [
+      "External Dependency Manager for Unity (Google)"
+    ]
+  },
+  "ws_credit_software_app_bundle": {
+    "_value": [
+      "Android App Bundle"
+    ]
+  },
+  "ws_credit_software_google_play": {
+    "_value": [
+      "Google Play Asset Delivery, Google Play Common, and Google Play Core"
+    ]
+  },
+  "ws_credit_software_converters": {
+    "_value": [
+      "Unity Converters for Newtonsoft.Json"
+    ]
+  },
+  "ws_credit_software_twitch": {
+    "_value": [
+      "Unity Twitch Chat"
+    ]
+  },
+  "ws_credit_software_ui_effect": {
+    "_value": [
+      "UI Effect"
+    ]
+  },
+  "ws_credit_software_ui_particle": {
+    "_value": [
+      "UI Particle"
+    ]
+  },
+  "ws_credit_software_compilation_visualizer": {
+    "_value": [
+      "Compilation Visualizer"
+    ]
+  },
+  "ws_credit_software_extenject": {
+    "_value": [
+      "Extenject"
+    ]
+  },
+  "ws_credit_software_steamworks": {
+    "_value": [
+      "Steamworks.NET Wrapper"
+    ]
+  },
+  "ws_credit_software_super_tiled": {
+    "_value": [
+      "Super Tiled2Unity"
+    ]
+  },
+  "ws_credit_software_n_easing": {
+    "_value": [
+      "N:Easing"
+    ]
+  },
+  "ws_credit_software_playfab": {
+    "_value": [
+      "PlayFab"
+    ]
+  },
+  "ws_credit_software_bit_render": {
+    "_value": [
+      "URP Blit Render Feature"
+    ]
+  },
+  "ws_credit_software_asesprite": {
+    "_value": [
+      "Asesprite"
+    ]
+  },
+  "ws_credit_software_gamedev_bundle": {
+    "_value": [
+      "GameDev Mega Bundle"
+    ]
+  },
+  "ws_credit_software_pixelcomposer": {
+    "_value": [
+      "PixelComposer"
+    ]
+  },
+  "ws_credit_software_photoshop": {
+    "_value": [
+      "Photoshop"
+    ]
+  },
+  "ws_waaagh_erewego": {
+    "_value": [
+      "'ERE WE GO!"
+    ]
+  },
+  "ws_dialog_030": {
+    "_value": [
+      "I am Nagash, Supreme Lord of the Undead. Your soul will be mine. Die, mortal!"
+    ]
+  },
+  "ws_dialog_050": {
+    "_value": [
+      "For Sigmar!"
+    ]
+  },
+  "ws_gameover_game_over": {
+    "_value": [
+      "GAME OVER"
+    ]
+  },
+  "ws_gameover_revive": {
+    "_value": [
+      "Redeploy"
+    ]
+  },
+  "ws_gameover_revives_cash_in": {
+    "_value": [
+      "Quit to cash in remaining Redeployments:"
+    ]
+  },
+  "ws_gameover_revives_remaining": {
+    "_value": [
+      "Redeployments Remaining: %0"
+    ]
+  },
+  "ws_gameover_stage_complete": {
+    "_value": [
+      "MISSION COMPLETE"
+    ]
+  },
+  "ws_gameover_bonus_coins": {
+    "_value": [
+      "Bonus Coins"
+    ]
+  },
+  "ws_ingame_level": {
+    "_value": [
+      "Lvl %0"
+    ]
+  },
+  "ws_ingame_levelup_banish_title": {
+    "_value": [
+      "Banish!"
+    ]
+  },
+  "ws_ingame_levelup_level": {
+    "_value": [
+      "Lvl %0/%1"
+    ]
+  },
+  "ws_ingame_levelup_luck": {
+    "_value": [
+      "Increase your {[CHANCE]} for an opportunity to get 4 choices."
+    ]
+  },
+  "ws_ingame_levelup_title": {
+    "_value": [
+      "Level Up!"
+    ]
+  },
+  "ws_ingame_levelup_limitBreak_once": {
+    "_value": [
+      "Random Once"
+    ]
+  },
+  "ws_ingame_levelup_limitBreak_always": {
+    "_value": [
+      "Random Always"
+    ]
+  },
+  "ws_item_found_title_40k": {
+    "_value": [
+      "Item Found!"
+    ]
+  },
+  "ws_item_found_title_aos": {
+    "_value": [
+      "Item Found!"
+    ]
+  },
+  "ws_map_zoom_in": {
+    "_value": [
+      "Zoom In"
+    ]
+  },
+  "ws_map_zoom_out": {
+    "_value": [
+      "Zoom Out"
+    ]
+  },
+  "ws_menu_armory": {
+    "_value": [
+      "Armoury"
+    ]
+  },
+  "ws_menu_credits": {
+    "_value": [
+      "Credits"
+    ]
+  },
+  "ws_menu_back": {
+    "_value": [
+      "Back"
+    ]
+  },
+  "ws_menu_battle_report_powerups": {
+    "_value": [
+      "Enhancements"
+    ]
+  },
+  "ws_menu_battle_report_recap": {
+    "_value": [
+      "Recap"
+    ]
+  },
+  "ws_menu_battle_report_unlocks": {
+    "_value": [
+      "Completed Objectives"
+    ]
+  },
+  "ws_menu_battle_report_popup_endRecap_title": {
+    "_value": [
+      "End Recap"
+    ]
+  },
+  "ws_menu_battle_report_popup_endRecap_text": {
+    "_value": [
+      "Confirm enhancements and return to main menu?"
+    ]
+  },
+  "ws_menu_bestiary": {
+    "_value": [
+      "Bestiarium"
+    ]
+  },
+  "ws_menu_characterSelect": {
+    "_value": [
+      "Character Select"
+    ]
+  },
+  "ws_menu_collections": {
+    "_value": [
+      "Bit Box"
+    ]
+  },
+  "ws_menu_main_menu": {
+    "_value": [
+      "Main Menu"
+    ]
+  },
+  "ws_menu_modeselect": {
+    "_value": [
+      "Universe"
+    ]
+  },
+  "ws_menu_options": {
+    "_value": [
+      "Options"
+    ]
+  },
+  "ws_menu_powerup": {
+    "_value": [
+      "Enhancements"
+    ]
+  },
+  "ws_menu_quit": {
+    "_value": [
+      "Quit"
+    ]
+  },
+  "ws_menu_secrets": {
+    "_value": [
+      "Secrets"
+    ]
+  },
+  "ws_menu_stageSelect": {
+    "_value": [
+      "Mission Select"
+    ]
+  },
+  "ws_menu_start": {
+    "_value": [
+      "START"
+    ]
+  },
+  "ws_menu_quick_start": {
+    "_value": [
+      "Quick Start"
+    ]
+  },
+  "ws_menu_unlocks": {
+    "_value": [
+      "Objectives"
+    ]
+  },
+  "ws_menu_paintpots": {
+    "_value": [
+      "Paint Pots"
+    ]
+  },
+  "ws_secrets_unlocked": {
+    "_value": [
+      "Unlocked:"
+    ]
+  },
+  "ws_secrets_delete": {
+    "_value": [
+      "Delete"
+    ]
+  },
+  "ws_secrets_enter": {
+    "_value": [
+      "Enter"
+    ]
+  },
+  "ws_secrets_incantation_entry": {
+    "_value": [
+      "Incantation Entry"
+    ]
+  },
+  "ws_secrets_unlocked_popup_title": {
+    "_value": [
+      "Unlocked"
+    ]
+  },
+  "ws_test": {
+    "_value": [
+      "Test"
+    ]
+  },
+  "ws_secrets_none": {
+    "_value": [
+      "No outstanding Secrets remaining."
+    ]
+  },
+  "ws_music_selection_title": {
+    "_value": [
+      "Music Selection"
+    ]
+  },
+  "ws_music_selection_locked_selected": {
+    "_value": [
+      "Lock Selected"
+    ]
+  },
+  "ws_merchant_purchase": {
+    "_value": [
+      "Purchase"
+    ]
+  },
+  "ws_merchant_title": {
+    "_value": [
+      "Merchant"
+    ]
+  },
+  "ws_merchant_equipped": {
+    "_value": [
+      "EQUIPPED!"
+    ]
+  },
+  "ws_40K_merchant1_title": {
+    "_value": [
+      "How may I augment?"
+    ]
+  },
+  "ws_40K_merchant2_title": {
+    "_value": [
+      "The flesh is weak?"
+    ]
+  },
+  "ws_AOS_merchant1_title": {
+    "_value": [
+      "Weapons from Kharadron!"
+    ]
+  },
+  "ws_AOS_merchant2_title": {
+    "_value": [
+      "Need more firepower?"
+    ]
+  },
+  "ws_merchant_unavailable": {
+    "_value": [
+      "SOLD OUT!"
+    ]
+  },
+  "ws_options_apply_graphics": {
+    "_value": [
+      "Apply Graphics Settings"
+    ]
+  },
+  "ws_options_restore_default": {
+    "_value": [
+      "Restore Default"
+    ]
+  },
+  "ws_options_border_none": {
+    "_value": [
+      "None"
+    ]
+  },
+  "ws_options_border_solid": {
+    "_value": [
+      "Solid"
+    ]
+  },
+  "ws_options_border_transparent": {
+    "_value": [
+      "Semi-Transparent"
+    ]
+  },
+  "ws_options_border_skulls": {
+    "_value": [
+      "Skulls"
+    ]
+  },
+  "ws_options_grimdark_effect": {
+    "_value": [
+      "Grim Darkness Effect"
+    ]
+  },
+  "ws_options_show_retribution": {
+    "_value": [
+      "Show enemies disarmed by Retribution"
+    ]
+  },
+  "ws_options_reset": {
+    "_value": [
+      "Reset Save"
+    ]
+  },
+  "ws_options_reset_confirmation": {
+    "_value": [
+      "Resetting will permanently delete your save data. Are you sure you want to reset?"
+    ]
+  },
+  "ws_options_faq": {
+    "_value": [
+      "FAQ"
+    ]
+  },
+  "ws_options_privacyPolicyAuroch": {
+    "_value": [
+      "Auroch Digital Privacy Policy"
+    ]
+  },
+  "ws_pause_armory": {
+    "_value": [
+      "Armoury"
+    ]
+  },
+  "ws_pause_options": {
+    "_value": [
+      "Options"
+    ]
+  },
+  "ws_pause_quit": {
+    "_value": [
+      "Quit"
+    ]
+  },
+  "ws_pause_resume": {
+    "_value": [
+      "Resume"
+    ]
+  },
+  "ws_pause_stats": {
+    "_value": [
+      "Statistics"
+    ]
+  },
+  "ws_pause_title": {
+    "_value": [
+      "Paused"
+    ]
+  },
+  "ws_pause_unlocks": {
+    "_value": [
+      "Objectives"
+    ]
+  },
+  "ws_pause_map": {
+    "_value": [
+      "Map"
+    ]
+  },
+  "ws_popup_accept": {
+    "_value": [
+      "Accept"
+    ]
+  },
+  "ws_popup_cancel": {
+    "_value": [
+      "Cancel"
+    ]
+  },
+  "ws_popup_close": {
+    "_value": [
+      "Close"
+    ]
+  },
+  "ws_popup_confirm": {
+    "_value": [
+      "Confirm"
+    ]
+  },
+  "ws_popup_discard": {
+    "_value": [
+      "Discard"
+    ]
+  },
+  "ws_popup_exit": {
+    "_value": [
+      "Universe"
+    ]
+  },
+  "ws_popup_finish": {
+    "_value": [
+      "Finish"
+    ]
+  },
+  "ws_popup_next": {
+    "_value": [
+      "Next"
+    ]
+  },
+  "ws_popup_quit": {
+    "_value": [
+      "Quit"
+    ]
+  },
+  "ws_popup_title_quit": {
+    "_value": [
+      "Quit"
+    ]
+  },
+  "ws_popup_title_refund": {
+    "_value": [
+      "Refund All"
+    ]
+  },
+  "ws_popup_title_unseal": {
+    "_value": [
+      "Unseal All"
+    ]
+  },
+  "ws_popup_quit_game": {
+    "_value": [
+      "Are you sure you want to quit the game?"
+    ]
+  },
+  "ws_popup_quit_run": {
+    "_value": [
+      "Are you sure you want to quit this run? Any completed objectives will be saved."
+    ]
+  },
+  "ws_popup_reset_powerups": {
+    "_value": [
+      "Are you sure you want to refund all your Enhancements? This will reset all your Enhancement ranks to 0 and refund their cost."
+    ]
+  },
+  "ws_popup_reset_seals": {
+    "_value": [
+      "Are you sure you want to Unseal all items?"
+    ]
+  },
+  "ws_popup_warning": {
+    "_value": [
+      "Warning!"
+    ]
+  },
+  "ws_powerups_activate": {
+    "_value": [
+      "Activate"
+    ]
+  },
+  "ws_powerups_active": {
+    "_value": [
+      "Active"
+    ]
+  },
+  "ws_powerups_deactivate": {
+    "_value": [
+      "Deactivate"
+    ]
+  },
+  "ws_powerups_inactive": {
+    "_value": [
+      "Inactive"
+    ]
+  },
+  "ws_powerups_max_rank": {
+    "_value": [
+      "MAX RANK"
+    ]
+  },
+  "ws_powerups_next_rank": {
+    "_value": [
+      "Next Rank"
+    ]
+  },
+  "ws_powerups_next_rank_cost": {
+    "_value": [
+      "Next rank cost:"
+    ]
+  },
+  "ws_powerups_prev_rank": {
+    "_value": [
+      "Prev Rank"
+    ]
+  },
+  "ws_powerups_refund_all": {
+    "_value": [
+      "Refund All"
+    ]
+  },
+  "ws_recap_passive_items": {
+    "_value": [
+      "Passive Items"
+    ]
+  },
+  "ws_recap_stage_modifiers": {
+    "_value": [
+      "Modifiers"
+    ]
+  },
+  "ws_recap_stage_pickups": {
+    "_value": [
+      "Pickups"
+    ]
+  },
+  "ws_recap_stage_stats": {
+    "_value": [
+      "Mission Stats"
+    ]
+  },
+  "ws_recap_stage_stats_enemies_defeated": {
+    "_value": [
+      "Enemies Defeated:"
+    ]
+  },
+  "ws_recap_stage_stats_gold_earned": {
+    "_value": [
+      "Coins Earned:"
+    ]
+  },
+  "ws_recap_stage_stats_level_reached": {
+    "_value": [
+      "Level Reached:"
+    ]
+  },
+  "ws_recap_stage_stats_survived": {
+    "_value": [
+      "Survived:"
+    ]
+  },
+  "ws_recap_powerups": {
+    "_value": [
+      "Enhancements"
+    ]
+  },
+  "ws_recap_weapon_list_damage": {
+    "_value": [
+      "Damage"
+    ]
+  },
+  "ws_recap_weapon_list_dps": {
+    "_value": [
+      "DPS"
+    ]
+  },
+  "ws_recap_weapon_list_level": {
+    "_value": [
+      "Lvl"
+    ]
+  },
+  "ws_recap_weapon_list_time": {
+    "_value": [
+      "Time"
+    ]
+  },
+  "ws_recap_weapon_list_weapon": {
+    "_value": [
+      "Weapon"
+    ]
+  },
+  "ws_recap_40K_arcanas": {
+    "_value": [
+      "Emperor's Tarot"
+    ]
+  },
+  "ws_recap_AOS_arcanas": {
+    "_value": [
+      "Celestial Arcana"
+    ]
+  },
+  "ws_secrets_enter_incantation": {
+    "_value": [
+      "Enter Incantation"
+    ]
+  },
+  "ws_secrets_cancel_incantation": {
+    "_value": [
+      "Cancel Incantation"
+    ]
+  },
+  "ws_shop_header_aos_closed": {
+    "_value": [
+      "Closed"
+    ]
+  },
+  "ws_silo_selection_40k_title": {
+    "_value": [
+      "Warhammer 40,000"
+    ]
+  },
+  "ws_silo_selection_AOS_title": {
+    "_value": [
+      "Warhammer Age of Sigmar"
+    ]
+  },
+  "ws_silo_selection_40k_description": {
+    "_value": [
+      "Battle against Tyranids, Orks and the Death Guard in the grim darkness of the Warhammer 40,000 universe."
+    ]
+  },
+  "ws_silo_selection_WH_40K_description": {
+    "_value": [
+      "Battle against Tyranids, Orks and the Death Guard in the grim darkness of the Warhammer 40,000 universe."
+    ]
+  },
+  "ws_silo_selection_WH_AOS_description": {
+    "_value": [
+      "Fight for Survival in the Mortal Realms against the Blades of Khorne, Gloomspite Gitz and Skaven."
+    ]
+  },
+  "ws_silo_selection_aos_description": {
+    "_value": [
+      "Fight for Survival in the Mortal Realms against the Blades of Khorne, Gloomspite Gitz and Skaven."
+    ]
+  },
+  "ws_silo_selection_completion": {
+    "_value": [
+      "Completion"
+    ]
+  },
+  "ws_silo_selection_start": {
+    "_value": [
+      "START"
+    ]
+  },
+  "ws_silo_selection_timeplayed": {
+    "_value": [
+      "Time Played"
+    ]
+  },
+  "ws_splash_start": {
+    "_value": [
+      "Click to Start / Press any button"
+    ]
+  },
+  "ws_40K_stage_modes_arcanum_desc": {
+    "_value": [
+      "Allows the use of Emperor's Tarot Cards within a run."
+    ]
+  },
+  "ws_AOS_stage_modes_arcanum_desc": {
+    "_value": [
+      "Allows the use of Celestial Arcana within a run."
+    ]
+  },
+  "ws_stage_modes_endless_war__desc": {
+    "_value": [
+      "No final boss. Only cycles of more, tougher enemies."
+    ]
+  },
+  "ws_stage_modes_grimdark_desc": {
+    "_value": [
+      "Enemies are stronger and grow in strength over time."
+    ]
+  },
+  "ws_stage_modes_hurry_desc": {
+    "_value": [
+      "Mission timer runs at double speed and Character's {[VETERANCY]} is increased."
+    ]
+  },
+  "ws_stage_modes_hyper_desc": {
+    "_value": [
+      "Both enemies and Characters have an increased {[MOVE]} stat. Characters also gain a {[SKILL]} and Coin bonus."
+    ]
+  },
+  "ws_stage_modes_limitless_desc": {
+    "_value": [
+      "Character stats can be improved by maxing out weapons."
+    ]
+  },
+  "ws_stage_modes_purity_desc": {
+    "_value": [
+      "Rigorously enforces Weapon and Passive limits."
+    ]
+  },
+  "ws_40K_stage_modes_arcanum": {
+    "_value": [
+      "Emperor's Tarot"
+    ]
+  },
+  "ws_AOS_stage_modes_arcanum": {
+    "_value": [
+      "Celestial Arcana"
+    ]
+  },
+  "ws_stage_modes_endless_war": {
+    "_value": [
+      "Endless War"
+    ]
+  },
+  "ws_stage_modes_grimdark": {
+    "_value": [
+      "Grim Darkness"
+    ]
+  },
+  "ws_stage_modes_hurry": {
+    "_value": [
+      "Fast Attack"
+    ]
+  },
+  "ws_stage_modes_hyper": {
+    "_value": [
+      "'Eavy Metal"
+    ]
+  },
+  "ws_stage_modes_limitless": {
+    "_value": [
+      "Limitless"
+    ]
+  },
+  "ws_stage_modes_purity": {
+    "_value": [
+      "Purity"
+    ]
+  },
+  "ws_stage_select_modes": {
+    "_value": [
+      "Modifiers"
+    ]
+  },
+  "ws_stage_select_modes_selection": {
+    "_value": [
+      "Modifiers"
+    ]
+  },
+  "ws_stage_select_music": {
+    "_value": [
+      "Music"
+    ]
+  },
+  "ws_stage_select_music_selection": {
+    "_value": [
+      "Music Selection"
+    ]
+  },
+  "ws_stage_select_relics": {
+    "_value": [
+      "Relics:"
+    ]
+  },
+  "ws_stage_select_stage_stats": {
+    "_value": [
+      "Mission Statistics"
+    ]
+  },
+  "ws_stage_select_stage_type_bonus": {
+    "_value": [
+      "Bonus"
+    ]
+  },
+  "ws_stage_select_stage_type_challenge": {
+    "_value": [
+      "Challenge"
+    ]
+  },
+  "ws_stage_select_stage_type_secret": {
+    "_value": [
+      "Secret"
+    ]
+  },
+  "ws_stage_select_undiscovered_description": {
+    "_value": [
+      "Not yet discovered."
+    ]
+  },
+  "ws_stage_select_undiscovered_name": {
+    "_value": [
+      "???"
+    ]
+  },
+  "ws_stage_select_locked": {
+    "_value": [
+      "Locked"
+    ]
+  },
+  "ws_stage_select_modifiers_none": {
+    "_value": [
+      "Select a Modifier to see its description."
+    ]
+  },
+  "ws_treasure_found_level": {
+    "_value": [
+      "Level"
+    ]
+  },
+  "ws_unlocks_loading_achievements": {
+    "_value": [
+      "Loading Objectives..."
+    ]
+  },
+  "ws_unlocks_no_achievement_selected": {
+    "_value": [
+      "No Objectives Selected"
+    ]
+  },
+  "ws_unlocks_recent_unlocks": {
+    "_value": [
+      "Recent Objectives"
+    ]
+  },
+  "ws_unlocks_toggle_completed_hide": {
+    "_value": [
+      "Hide Completed"
+    ]
+  },
+  "ws_unlocks_toggle_completed_show": {
+    "_value": [
+      "Show Completed"
+    ]
+  },
+  "ws_unlocks_total_unlocked": {
+    "_value": [
+      "Completed:"
+    ]
+  },
+  "ws_unlocks_total_unlocked_value": {
+    "_value": [
+      "%0 of %1"
+    ]
+  },
+  "ws_unlocks_selectedObjective_complete": {
+    "_value": [
+      "Complete"
+    ]
+  },
+  "ws_weapon_select_discard": {
+    "_value": [
+      "Discard"
+    ]
+  },
+  "ws_weapon_select_get": {
+    "_value": [
+      "Get"
+    ]
+  },
+  "ws_weapon_select_skip": {
+    "_value": [
+      "Skip"
+    ]
+  },
+  "ws_weapon_select_title": {
+    "_value": [
+      "Select a Weapon"
+    ]
+  },
+  "ws_weapon_evolution": {
+    "_value": [
+      "Evolution"
+    ]
+  },
+  "ws_legal_copyright": {
+    "_value": [
+      "Warhammer Survivors © Copyright Games Workshop Limited 2026. Warhammer Age of Sigmar, the Warhammer Age of Sigmar logo, Warhammer Survivors logo, GW, Games Workshop, Warhammer, Warhammer Age of Sigmar, Stormcast Eternals, Space Marine, 40K, Warhammer, Warhammer 40,000, the ‘Aquila' Double-headed Eagle logo, and all associated logos, illustrations, images, names, creatures, races, vehicles, locations, weapons, characters, and the distinctive likeness thereof, are either ® or TM, and/or © Games Workshop Limited, variably registered around the world, and used under licence. Auroch Digital and its logos are trademarks or registered trademarks of Auroch Digital. Poncle and the Poncle logo are trademarks of Poncle Ltd. All rights reserved to their respective owners."
+    ]
+  },
+  "ws_menu_paint_pot_collection": {
+    "_value": [
+      "Paint Pots"
+    ]
+  },
+  "weaponLevelUp_ability": {
+    "_value": [
+      "Increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} and {[AURA]} by %0%."
+    ]
+  },
+  "weaponLevelUp_all": {
+    "_value": [
+      "[All]"
+    ]
+  },
+  "weaponLevelUp_projectile": {
+    "_value": [
+      "Fires %0 more projectile."
+    ]
+  },
+  "weaponLevelUp_projectiles": {
+    "_value": [
+      "Fires %0 more projectiles."
+    ]
+  },
+  "weaponLevelUp_range": {
+    "_value": [
+      "Pickup range increases by %0%."
+    ]
+  },
+  "weaponLevelUp_charm": {
+    "_value": [
+      "Enemy spawn quantity increases by %0."
+    ]
+  },
+  "weaponLevelUp_luck": {
+    "_value": [
+      "{[CHANCE]} increases by %0%."
+    ]
+  },
+  "weaponLevelUp_curse": {
+    "_value": [
+      "{[CORRUPTION]} increases by %0%."
+    ]
+  },
+  "weaponLevelUp_damageAll": {
+    "_value": [
+      "Base Damage up by %0%."
+    ]
+  },
+  "weaponLevelUp_damage": {
+    "_value": [
+      "Base Damage up by %0%."
+    ]
+  },
+  "weaponLevelUp_movement": {
+    "_value": [
+      "Character moves %0% faster."
+    ]
+  },
+  "weaponLevelUp_enemy": {
+    "_value": [
+      "Passes through %0 more enemy."
+    ]
+  },
+  "weaponLevelUp_enemies": {
+    "_value": [
+      "Passes through %0 more enemies."
+    ]
+  },
+  "weaponLevelUp_area": {
+    "_value": [
+      "Size of attack increases by %0%."
+    ]
+  },
+  "weaponLevelUp_revivals": {
+    "_value": [
+      "Adds %0 {[REDEPLOYMENT]}."
+    ]
+  },
+  "weaponLevelUp_cooldownIncreased": {
+    "_value": [
+      "{[RELOAD]} time increases by %0 seconds."
+    ]
+  },
+  "weaponLevelUp_cooldown": {
+    "_value": [
+      "{[RELOAD]} time reduces by %0 seconds."
+    ]
+  },
+  "weaponLevelUp_cooldownPerc": {
+    "_value": [
+      "{[RELOAD]} time reduces by %0%."
+    ]
+  },
+  "weaponLevelUp_reduceDamage": {
+    "_value": [
+      "Reduces incoming damage by %0."
+    ]
+  },
+  "weaponLevelUp_speed": {
+    "_value": [
+      "Projectile speed increases by %0%."
+    ]
+  },
+  "weaponLevelUp_effect": {
+    "_value": [
+      "Attack and effect time lasts %0 seconds longer."
+    ]
+  },
+  "weaponLevelUp_value": {
+    "_value": [
+      "Coin value increases by %0%."
+    ]
+  },
+  "weaponLevelUp_recovery": {
+    "_value": [
+      "Health recovery increases by %0 Wounds per second."
+    ]
+  },
+  "weaponLevelUp_xp": {
+    "_value": [
+      "Character gains %0% more experience."
+    ]
+  },
+  "weaponLevelUp_health": {
+    "_value": [
+      "Max Health increases by %0%."
+    ]
+  },
+  "weaponLevelUp_invulnerable": {
+    "_value": [
+      "Increases {[INVULNERABILITY]} time after getting damaged by %0 milliseconds."
+    ]
+  },
+  "weaponLevelUp_fever": {
+    "_value": [
+      "Increases the duration of Collectathon by x seconds."
+    ]
+  },
+  "weaponLevelUp_retaliatory": {
+    "_value": [
+      "Increases retaliatory damage by %0%."
+    ]
+  },
+  "weaponLevelUp_knockback": {
+    "_value": [
+      "{[KNOCKBACK]}effect increases."
+    ]
+  },
+  "weaponLevelUp_bleed": {
+    "_value": [
+      "+%0% chance to inflict Bleeding onto enemy."
+    ]
+  },
+  "weaponLevelUp_burn": {
+    "_value": [
+      "+%0% chance to Burn enemy for y seconds."
+    ]
+  },
+  "weaponLevelUp_poison": {
+    "_value": [
+      "+%0% chance to Poison enemies."
+    ]
+  },
+  "weaponLevelUp_disarmed": {
+    "_value": [
+      "+%0% chance to Disarm enemy."
+    ]
+  },
+  "weaponLevelUp_healing": {
+    "_value": [
+      "Healing increases by %0."
+    ]
+  },
+  "weaponLevelUp_instant_kill": {
+    "_value": [
+      "+%0% chance to Instant Kill enemy."
+    ]
+  },
+  "weaponLevelUp_slow": {
+    "_value": [
+      "+%0% chance to Slow enemy."
+    ]
+  },
+  "weaponLevelUp_stunned": {
+    "_value": [
+      "+%0% chance to Stun enemy."
+    ]
+  },
+  "weaponLevelUp_desc_pentagram": {
+    "_value": [
+      "%0 chance to not erase items."
+    ]
+  },
+  "weaponLevelUp_effectPerc_single": {
+    "_value": [
+      "Attack and effect time lasts %0% longer."
+    ]
+  },
+  "weaponLevelUp_effectPerc": {
+    "_value": [
+      "Attack and effect time lasts %0% longer."
+    ]
+  },
+  "weaponLevelUp_invulTimeBonus": {
+    "_value": [
+      "Increases {[INVULNERABILITY]} time after getting damaged by %0 milliseconds."
+    ]
+  },
+  "weaponLevelUp_override_torronasbox1": {
+    "_value": [
+      "Cursed item, but increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, and {[RANGE]} by %0%."
+    ]
+  },
+  "weaponLevelUp_override_torronasbox2": {
+    "_value": [
+      "Increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, and {[RANGE]} by %0%."
+    ]
+  },
+  "weaponLevelUp_xpDecreased": {
+    "_value": [
+      "Character gains %0% less experience."
+    ]
+  },
+  "mortarionTitle_0": {
+    "_value": [
+      "I am Mortarion, Lord of the Death Guard, bringer of plague, I will harvest your soul in the grandfather's name."
+    ]
+  },
+  "mortarionTitle_1": {
+    "_value": [
+      "Pathetic."
+    ]
+  },
+  "mortarionTitle_2": {
+    "_value": [
+      "I expected more of you, %0."
+    ]
+  },
+  "mortarionTitle_3": {
+    "_value": [
+      "Death has come for you, %0."
+    ]
+  },
+  "mortarionTitle_4": {
+    "_value": [
+      "Your tragedy is your faith, %0."
+    ]
+  },
+  "mortarionTitle_5": {
+    "_value": [
+      "You had courage, %0, , but courage alone will not save you from me."
+    ]
+  },
+  "mortarionTitle_6": {
+    "_value": [
+      "My patience cannot be outlasted. I am inevitable."
+    ]
+  },
+  "mortarionButton_0": {
+    "_value": [
+      "For the Emperor!"
+    ]
+  },
+  "mortarionButton_1": {
+    "_value": [
+      "Game Over"
+    ]
+  },
+  "mortarionButton_2": {
+    "_value": [
+      "Game Over"
+    ]
+  },
+  "mortarionButton_3": {
+    "_value": [
+      "Game Over"
+    ]
+  },
+  "mortarionButton_4": {
+    "_value": [
+      "Game Over"
+    ]
+  },
+  "mortarionButton_5": {
+    "_value": [
+      "Game Over"
+    ]
+  },
+  "mortarionButton_6": {
+    "_value": [
+      "Game Over"
+    ]
+  },
+  "mortarionDummyRevive": {
+    "_value": [
+      "ƎΛIΛƎᴚ"
+    ]
+  },
+  "ws_steam_badge_1": {
+    "_value": [
+      "Bronze Survivor"
+    ]
+  },
+  "ws_steam_badge_2": {
+    "_value": [
+      "Silver Survivor"
+    ]
+  },
+  "ws_steam_badge_3": {
+    "_value": [
+      "Gold Survivor"
+    ]
+  },
+  "ws_steam_badge_4": {
+    "_value": [
+      "Platinum Survivor"
+    ]
+  },
+  "ws_steam_badge_5": {
+    "_value": [
+      "Diamond Survivor"
+    ]
+  },
+  "ws_steam_badge_foil": {
+    "_value": [
+      "Warhammer Survivor"
+    ]
+  },
+  "ws_steam_trading_card_1_name": {
+    "_value": [
+      "Norn Emissary"
+    ]
+  },
+  "ws_steam_trading_card_1_desc": {
+    "_value": [
+      "Extremis Boss of the Tyranids."
+    ]
+  },
+  "ws_steam_trading_card_2_name": {
+    "_value": [
+      "Ghazghkull Mag Uruk Thraka"
+    ]
+  },
+  "ws_steam_trading_card_2_desc": {
+    "_value": [
+      "Extremis Boss of the Orks."
+    ]
+  },
+  "ws_steam_trading_card_3_name": {
+    "_value": [
+      "Great Unclean One"
+    ]
+  },
+  "ws_steam_trading_card_3_desc": {
+    "_value": [
+      "Extremis Boss of the Death Guard and Daemons of Nurgle."
+    ]
+  },
+  "ws_steam_trading_card_4_name": {
+    "_value": [
+      "Vizzik Skour, Prophet of the Horned Rat"
+    ]
+  },
+  "ws_steam_trading_card_4_desc": {
+    "_value": [
+      "Extremis Boss of the Skaven."
+    ]
+  },
+  "ws_steam_trading_card_5_name": {
+    "_value": [
+      "Skarbrand"
+    ]
+  },
+  "ws_steam_trading_card_5_desc": {
+    "_value": [
+      "Extremis Boss of the Blades of Khorne."
+    ]
+  },
+  "ws_steam_trading_card_6_name": {
+    "_value": [
+      "Trugg the Troggoth King"
+    ]
+  },
+  "ws_steam_trading_card_6_desc": {
+    "_value": [
+      "Extremis Boss of the Gloomspite Gitz."
+    ]
+  },
+  "ws_emote_nurgling": {
+    "_value": [
+      "Nurgling"
+    ]
+  },
+  "ws_emote_grot": {
+    "_value": [
+      "Grot"
+    ]
+  },
+  "ws_emote_ripper": {
+    "_value": [
+      "Ripper"
+    ]
+  },
+  "ws_emote_squig": {
+    "_value": [
+      "Squig"
+    ]
+  },
+  "ws_emote_boltgun": {
+    "_value": [
+      "Boltgun"
+    ]
+  },
+  "ws_emote_axe": {
+    "_value": [
+      "Axe"
+    ]
+  },
+  "smart": {
+    "STRENGTH": {
+      "_value": [
+        "Strength"
+      ]
+    },
+    "SAVE": {
+      "_value": [
+        "Save"
+      ]
+    },
+    "RELOAD": {
+      "_value": [
+        "Reload"
+      ]
+    },
+    "WOUNDS": {
+      "_value": [
+        "Wounds"
+      ]
+    },
+    "TOUGHNESS": {
+      "_value": [
+        "Toughness"
+      ]
+    },
+    "SUSTAIN": {
+      "_value": [
+        "Sustain"
+      ]
+    },
+    "RANGE": {
+      "_value": [
+        "Range"
+      ]
+    },
+    "ATTACKS": {
+      "_value": [
+        "Attacks"
+      ]
+    },
+    "SKILL": {
+      "_value": [
+        "Skill"
+      ]
+    },
+    "MOVE": {
+      "_value": [
+        "Move"
+      ]
+    },
+    "AURA": {
+      "_value": [
+        "Aura"
+      ]
+    },
+    "CHANCE": {
+      "_value": [
+        "Chance"
+      ]
+    },
+    "VETERANCY": {
+      "_value": [
+        "Veterancy"
+      ]
+    },
+    "TITHE": {
+      "_value": [
+        "Tithe"
+      ]
+    },
+    "CORRUPTION": {
+      "_value": [
+        "Corruption"
+      ]
+    },
+    "REDEPLOYMENT": {
+      "_value": [
+        "Redeployment"
+      ]
+    },
+    "ABILITY": {
+      "_value": [
+        "Ability"
+      ]
+    },
+    "FERVOUR": {
+      "_value": [
+        "Fervour"
+      ]
+    },
+    "REROLL": {
+      "_value": [
+        "Reroll"
+      ]
+    },
+    "SKIP": {
+      "_value": [
+        "Skip"
+      ]
+    },
+    "BANISH": {
+      "_value": [
+        "Banish"
+      ]
+    },
+    "SEAL": {
+      "_value": [
+        "Seal"
+      ]
+    },
+    "PIERCE": {
+      "_value": [
+        "Pierce"
+      ]
+    },
+    "INVULNERABILITY": {
+      "_value": [
+        "Invulnerability"
+      ]
+    },
+    "BAIT": {
+      "_value": [
+        "Bait"
+      ]
+    },
+    "RETRIBUTION": {
+      "_value": [
+        "Retribution"
+      ]
+    },
+    "KNOCKBACK": {
+      "_value": [
+        "Knockback"
+      ]
+    }
+  },
+  "genericPopup_unlocksHyper": {
+    "_value": [
+      "'Eavy Metal mode"
+    ]
+  },
+  "bestiary_weaknesses": {
+    "_value": [
+      "Weaknesses:"
+    ]
+  },
+  "bestiary_immunities": {
+    "_value": [
+      "Immunities:"
+    ]
+  },
+  "powerup_bonusRanksDescription": {
+    "_value": [
+      "Bonus Ranks affect all Universes."
+    ]
+  },
+  "ws_gameover_invulnerable": {
+    "_value": [
+      "YOU WERE NOT PREPARED"
+    ]
+  },
+  "options_enlarge_ui": {
+    "_value": [
+      "Enlarge UI"
+    ]
+  },
+  "ws_Malevolent_scowlin": {
+    "_value": [
+      "SCOWLIN'"
+    ]
+  },
+  "ws_Malevolent_sulkin": {
+    "_value": [
+      "SULKIN'"
+    ]
+  },
+  "ws_Malevolent_cacklin": {
+    "_value": [
+      "CACKLIN'"
+    ]
+  },
+  "ws_Malevolent_grinnin": {
+    "_value": [
+      "GRINNIN'"
+    ]
+  },
+  "ws_splash_start_PC": {
+    "_value": [
+      "Click to Start / Press any button"
+    ]
+  },
+  "ws_splash_start_XB": {
+    "_value": [
+      "Press any button"
+    ]
+  },
+  "ws_splash_start_PS": {
+    "_value": [
+      "Press any button"
+    ]
+  },
+  "ws_splash_start_SW": {
+    "_value": [
+      "Press any button"
+    ]
+  },
+  "demo_ws_silo_selection_40k_description": {
+    "_value": [
+      "Battle against Tyranids in the grim darkness of the Warhammer 40,000 universe."
+    ]
+  },
+  "demo_ws_silo_selection_WH_40K_description": {
+    "_value": [
+      "Battle against Tyranids in the grim darkness of the Warhammer 40,000 universe."
+    ]
+  },
+  "demo_ws_silo_selection_WH_AOS_description": {
+    "_value": [
+      "Fight for Survival in the Mortal Realms against the Skaven."
+    ]
+  },
+  "demo_ws_silo_selection_aos_description": {
+    "_value": [
+      "Fight for Survival in the Mortal Realms against the Skaven."
+    ]
+  },
+  "demo_ws_cta_popup_wishlist": {
+    "_value": [
+      "Wishlist Now!"
+    ]
+  },
+  "demo_ws_cta_popup_ok": {
+    "_value": [
+      "Return to the Fight"
+    ]
+  }
+}

@@ -1,8 +1,113 @@
 {
-  "FRENZIED": {
+  "BATTLE_SHOCKED": {
     "name": {
       "_value": [
-        "Frenzied"
+        "Battle Shocked"
+      ]
+    }
+  },
+  "BERSERK": {
+    "name": {
+      "_value": [
+        "Berserk"
+      ]
+    }
+  },
+  "BLEEDING": {
+    "name": {
+      "_value": [
+        "Bleeding"
+      ]
+    }
+  },
+  "BLESSED": {
+    "name": {
+      "_value": [
+        "Blessed"
+      ]
+    }
+  },
+  "BURNING": {
+    "name": {
+      "_value": [
+        "Burning"
+      ]
+    }
+  },
+  "CURSED": {
+    "name": {
+      "_value": [
+        "Cursed"
+      ]
+    }
+  },
+  "DISARMED": {
+    "name": {
+      "_value": [
+        "Disarmed"
+      ]
+    }
+  },
+  "HASTENED": {
+    "name": {
+      "_value": [
+        "Hastened"
+      ]
+    }
+  },
+  "HEALING": {
+    "name": {
+      "_value": [
+        "Healing"
+      ]
+    }
+  },
+  "OILED": {
+    "name": {
+      "_value": [
+        "Oiled"
+      ]
+    }
+  },
+  "POISONED": {
+    "name": {
+      "_value": [
+        "Poisoned"
+      ]
+    }
+  },
+  "SLOWED": {
+    "name": {
+      "_value": [
+        "Slowed"
+      ]
+    }
+  },
+  "STASIS": {
+    "name": {
+      "_value": [
+        "Stasis"
+      ]
+    }
+  },
+  "STUNNED": {
+    "name": {
+      "_value": [
+        "Stunned"
+      ]
+    }
+  },
+  "VULNERABLE": {
+    "name": {
+      "_value": [
+        "Vulnerable"
+      ]
+    }
+  },
+  "WARDED": {
+    "name": {
+      "_value": [
+        "Warded"
       ]
     }
   }

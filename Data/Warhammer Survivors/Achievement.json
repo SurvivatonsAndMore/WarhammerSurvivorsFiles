@@ -1,9 +1,8 @@
 {
   "WS_40K_Collect_MunitorumDataslate": {
-    "silos": [
-      "WH_40K"
-    ],
     "description": "Find the Munitorum Dataslate on Imperial Bastion",
+	"relicToUnlock": "WS_40K_RELIC_MUNITORUM_DATASLATE",
+    "hasDemoLoc": true,
     "completionRequirements": {
       "category": "COLLECTED",
       "lifetime": true,
@@ -11,14 +10,14 @@
         "WS_40K_RELIC_MUNITORUM_DATASLATE"
       ]
     },
-    "relicToUnlock": "WS_40K_RELIC_MUNITORUM_DATASLATE",
-    "hasDemoLoc": true
-  },
-  "WS_40K_Rescue_Kozlowski": {
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+
+  "WS_40K_Rescue_Kozlowski": {
     "description": "Imperial Bastion Rescue Scenario",
+    "characterToUnlock": "WS_40K_KOZLOWSKI",
     "completionRequirements": {
       "category": "RESCUED",
       "lifetime": true,
@@ -27,13 +26,13 @@
       ],
       "value": 1
     },
-    "characterToUnlock": "WS_40K_KOZLOWSKI"
-  },
-  "WS_40K_Rescue_LegendOfCatachan": {
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_Rescue_LegendOfCatachan": {
     "description": "Imperial Bastion Rescue Scenario",
+    "characterToUnlock": "WS_40K_CATACHAN_LEGEND",
     "completionRequirements": {
       "category": "RESCUED",
       "lifetime": true,
@@ -42,281 +41,329 @@
       ],
       "value": 1
     },
-    "characterToUnlock": "WS_40K_CATACHAN_LEGEND"
-  },
-  "WS_40K_Survive_Med": {
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+
+  "WS_40K_Survive_Med": {
     "description": "Survive 10 minutes with any character (single run)",
     "weaponToUnlock": "WS_SUSTAIN",
     "completionRequirements": {
       "category": "TIME_SURVIVED",
+      "lifetime": false,
       "value": 600
-    }
-  },
-  "WS_40K_Survive_Small": {
+    },
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_Survive_Small": {
     "description": "Survive 1 minute with any character",
     "weaponToUnlock": "WS_RANGE",
     "completionRequirements": {
       "category": "TIME_SURVIVED",
+      "lifetime": false,
       "value": 60
-    }
-  },
-  "WS_40K_Survive_LegendOfCatachan": {
+    },
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_Survive_LegendOfCatachan": {
     "description": "Survive 15 minutes with The Legend of Catachan",
     "weaponToUnlock": "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE",
     "completionRequirements": {
       "category": "TIME_SURVIVED",
+      "lifetime": false,
       "characterType": [
         "WS_40K_CATACHAN_LEGEND"
       ],
       "value": 900
-    }
-  },
-  "WS_40K_Weapon_WhirlwindLauncher": {
+    },
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+
+  "WS_40K_Weapon_WhirlwindLauncher": {
     "description": "Defeat 1000 Enemies",
     "weaponToUnlock": "WS_40K_WHIRLWIND_LAUNCHER",
+    "hasDemoLoc": true,
     "completionRequirements": {
       "category": "ENEMIES_KILLED",
-      "lifetime": true,
       "requireAll": true,
+      "lifetime": true,
       "killCount": 1000
     },
-    "hasDemoLoc": true
-  },
-  "WS_40K_HaveFollowers_Small": {
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  
+  "WS_40K_HaveFollowers_Small": {
     "description": "Have 2 Followers",
     "weaponToUnlock": "WS_TOUGHNESS",
     "completionRequirements": {
       "category": "FOLLOWERS",
       "requireAll": true,
+      "lifetime": false,
       "value": 2
-    }
+    },
+    "silos": [
+      "WH_40K"
+    ]
   },
   "WS_40K_Passive_Move": {
-    "silos": [
-      "WH_40K"
-    ],
     "description": "Reach level 5 with any character",
     "weaponToUnlock": "WS_MOVE",
+    "hasDemoLoc": true,
     "completionRequirements": {
       "category": "REACH_CHARACTER_LEVEL",
-      "level": 5
+      "level": 5,
+      "lifetime": false
     },
-    "hasDemoLoc": true
-  },
-  "WS_40K_ReachLevel": {
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_ReachLevel": {
     "description": "Reach level 10",
     "weaponToUnlock": "WS_VETERANCY",
     "completionRequirements": {
       "category": "REACH_CHARACTER_LEVEL",
-      "level": 10
-    }
-  },
-  "WS_40K_DealDamage": {
+      "level": 10,
+      "lifetime": false
+    },
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_TakeDamage": {
+    "description": "Take 250 damage",
+    "weaponToUnlock": "WS_SAVES",
+    "completionRequirements": {
+      "category": "DAMAGE_TAKEN",
+      "requireAll": true,
+      "lifetime": true,
+      "damageTaken": 250
+    },
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  
+  "WS_40K_DealDamage": {
     "description": "Deal 10000 damage",
     "weaponToUnlock": "WS_SKILL",
     "completionRequirements": {
       "category": "DAMAGE_INFLICTED",
-      "lifetime": true,
-      "damageInflicted": 10000
-    }
-  },
-  "WS_40K_ReachWeaponLevel_Boltgun": {
+      "damageInflicted": 10000,
+      "lifetime": true
+    },
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  
+  "WS_40K_ReachWeaponLevel_Boltgun": {
     "description": "Get the Boltgun to level 4",
-    "weaponToUnlock": "WS_RELOAD",
+	"weaponToUnlock": "WS_RELOAD",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_40K_BOLTGUN"
       ],
       "level": 4
-    }
-  },
-  "WS_40K_ReachWeaponLevel_D6Dice": {
+    },
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_ReachWeaponLevel_D6Dice": {
     "description": "Get the D6 Dice to level 6",
-    "weaponToUnlock": "WS_ATTACKS",
+	"weaponToUnlock": "WS_ATTACKS",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_D6_DICE"
       ],
       "level": 6
-    }
-  },
-  "WS_40K_ReachWeaponLevel_Lasgun": {
+    },
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_ReachWeaponLevel_Lasgun": {
     "description": "Get the Lasgun to Level 6",
-    "weaponToUnlock": "WS_40K_LASGUN",
+	"weaponToUnlock": "WS_40K_LASGUN",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_40K_LASGUN"
       ],
       "level": 6
-    }
-  },
-  "WS_40K_ReachWeaponLevel_TapeMeasure": {
+    },
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_ReachWeaponLevel_TapeMeasure": {
     "description": "Get Tape Measure to Level 5",
+    "pickupToUnlock": "WS_40K_BLAST_TEMPLATE",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_RANGE"
       ],
       "level": 5
     },
-    "pickupToUnlock": "WS_40K_BLAST_TEMPLATE"
-  },
-  "WS_40K_Weapon_PowerFist": {
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_Weapon_PowerFist": {
     "description": "Get Gauntlet to Level 5",
     "weaponToUnlock": "WS_40K_POWER_FIST",
+    "hasDemoLoc": true,
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_STRENGTH"
       ],
       "level": 5
     },
-    "hasDemoLoc": true
-  },
-  "WS_40K_Evolve_Boltgun": {
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+
+  "WS_40K_Evolve_Boltgun": {
     "description": "Evolve the Boltgun",
     "goldPrize": 500,
     "weaponIcon": "WS_40K_HEAVY_BOLTER",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_40K_HEAVY_BOLTER"
-      ]
-    }
-  },
-  "WS_40K_Evolve_Chainsword": {
+      ],
+      "level": 0
+    },
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_Evolve_Chainsword": {
     "description": "Evolve the Chainsword",
     "goldPrize": 500,
     "weaponIcon": "WS_40K_EVISCERATORCHAINSWORD",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_40K_EVISCERATORCHAINSWORD"
-      ]
-    }
-  },
-  "WS_40K_Evolve_Lasgun": {
+      ],
+      "level": 0
+    },
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_Evolve_Lasgun": {
     "description": "Evolve the Lasgun",
+    "requiresAchievement": "WS_40K_Rescue_Kozlowski",
     "goldPrize": 500,
     "weaponIcon": "WS_40K_MELTAGUN",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
       "requireAll": true,
+      "lifetime": false,
       "weaponType": [
         "WS_40K_MELTAGUN"
-      ]
+      ],
+      "level": 0
     },
-    "requiresAchievement": "WS_40K_Rescue_Kozlowski"
-  },
-  "WS_40K_Evolve_FragGrenade": {
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_Evolve_FragGrenade": {
     "description": "Evolve the Frag Grenade",
+    "requiresAchievement": "WS_40K_Rescue_LegendOfCatachan",
     "goldPrize": 500,
     "weaponIcon": "WS_40K_RIPPER_PISTOL",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_40K_RIPPER_PISTOL"
-      ]
+      ],
+      "level": 0
     },
-    "requiresAchievement": "WS_40K_Rescue_LegendOfCatachan"
-  },
-  "WS_40K_Evolve_WhirlwindBattery": {
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_Evolve_WhirlwindBattery": {
     "description": "Evolve the Whirlwind Battery",
     "goldPrize": 500,
     "weaponIcon": "WS_40K_ORBITAL_BOMBARDMENT",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_40K_ORBITAL_BOMBARDMENT"
-      ]
-    }
-  },
-  "WS_40K_Evolve_NulnOil": {
+      ],
+      "level": 0
+    },
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  "WS_40K_Evolve_NulnOil": {
     "description": "Evolve Nuln Oil",
     "goldPrize": 500,
     "weaponIcon": "WS_MORDANT_EARTH",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_MORDANT_EARTH"
-      ]
-    }
-  },
-  "WS_40K_Feature_Bestiary": {
+      ],
+      "level": 0
+    },
     "silos": [
       "WH_40K"
-    ],
+    ]
+  },
+  
+  "WS_40K_Feature_Bestiary": {
+    "description": "Complete 3 runs",
+    "forcedUnlockTips": "achievementLang/{WS_40K_Feature_Bestiary}forcedUnlockTips",
     "forcedTexture": "40K_items",
     "forcedFrameName": "Relic_TomeOfEctolades.png",
-    "forcedUnlockTips": "achievementLang/{WS_40K_Feature_Bestiary}forcedUnlockTips",
-    "description": "Complete 3 runs",
+    "hasDemoLoc": true,
     "completionRequirements": {
+      "category": "MANUAL",
       "value": 3
     },
-    "hasDemoLoc": true
-  },
-  "WS_AOS_Collect_Warscroll": {
     "silos": [
-      "WH_AOS"
-    ],
+      "WH_40K"
+    ]
+  },
+  
+  // ---
+
+  "WS_AOS_Collect_Warscroll": {
     "description": "Find the Warscroll in The Great Parch.",
+    "relicToUnlock": "WS_AOS_RELIC_WARSCROLL",
+    "hasDemoLoc": true,
     "completionRequirements": {
       "category": "COLLECTED",
       "lifetime": true,
@@ -324,14 +371,15 @@
         "WS_AOS_RELIC_WARSCROLL"
       ]
     },
-    "relicToUnlock": "WS_AOS_RELIC_WARSCROLL",
-    "hasDemoLoc": true
-  },
-  "WS_AOS_Rescue_Ulgromthier": {
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+
+  "WS_AOS_Rescue_Ulgromthier": {
     "description": "The Great Parch Rescue Scenario",
+    "characterToUnlock": "WS_AOS_ULGROMTHIER",
+    "hasDemoLoc": true,
     "completionRequirements": {
       "category": "RESCUED",
       "lifetime": true,
@@ -340,14 +388,14 @@
       ],
       "value": 1
     },
-    "characterToUnlock": "WS_AOS_ULGROMTHIER",
-    "hasDemoLoc": true
-  },
-  "WS_AOS_Rescue_Lyssa": {
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  "WS_AOS_Rescue_Lyssa": {
     "description": "The Great Parch Rescue Scenario",
+    "characterToUnlock": "WS_AOS_LYSSA_REVENYA",
+    "hasDemoLoc": true,
     "completionRequirements": {
       "category": "RESCUED",
       "lifetime": true,
@@ -356,269 +404,317 @@
       ],
       "value": 1
     },
-    "characterToUnlock": "WS_AOS_LYSSA_REVENYA",
-    "hasDemoLoc": true
-  },
-  "WS_AOS_Survive_Small": {
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+
+  "WS_AOS_Survive_Small": {
     "description": "Survive 1 minute with any character.",
     "weaponToUnlock": "WS_MOVE",
     "completionRequirements": {
       "category": "TIME_SURVIVED",
+      "lifetime": false,
       "value": 60
-    }
-  },
-  "WS_AOS_Survive_Medium": {
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  "WS_AOS_Survive_Medium": {
     "description": "Survive 10 minutes with any character (single run).",
     "weaponToUnlock": "WS_SUSTAIN",
     "completionRequirements": {
       "category": "TIME_SURVIVED",
+      "lifetime": false,
       "value": 600
-    }
-  },
-  "WS_AOS_Survive_Ulgromthier": {
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  "WS_AOS_Survive_Ulgromthier": {
     "description": "Survive 10 minutes playing as Ulgromthier.",
     "weaponToUnlock": "WS_AOS_BRAZIER_STAFF",
     "completionRequirements": {
       "category": "TIME_SURVIVED",
+      "lifetime": false,
       "characterType": [
         "WS_AOS_ULGROMTHIER"
       ],
       "value": 600
-    }
-  },
-  "WS_AOS_Carry_Weapons_Max": {
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  
+  "WS_AOS_Carry_Weapons_Max": {
     "description": "Hold 4 weapons.",
     "weaponToUnlock": "WS_ATTACKS",
     "completionRequirements": {
+      "category": "MANUAL",
       "value": 4
-    }
-  },
-  "WS_AOS_HaveFollowers_Small": {
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  "WS_AOS_HaveFollowers_Small": {
     "description": "Have 2 followers.",
     "weaponToUnlock": "WS_TOUGHNESS",
     "completionRequirements": {
       "category": "FOLLOWERS",
       "requireAll": true,
+      "lifetime": false,
       "value": 2
-    }
-  },
-  "WS_AOS_ReachLevel": {
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  "WS_AOS_ReachLevel": {
     "description": "Reach level 10.",
     "weaponToUnlock": "WS_VETERANCY",
     "completionRequirements": {
       "category": "REACH_CHARACTER_LEVEL",
-      "level": 10
-    }
-  },
-  "WS_AOS_Destroy_LightSources": {
+      "level": 10,
+      "lifetime": false
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  
+  "WS_AOS_Destroy_LightSources": {
     "description": "Destroy 20 light sources.",
+    "pickupToUnlock": "WS_AOS_PURPLE_SUN_OF_SHYISH",
     "completionRequirements": {
+      "category": "MANUAL",
       "overrideShowProgressBar": true,
       "value": 20
     },
-    "pickupToUnlock": "WS_AOS_PURPLE_SUN_OF_SHYISH"
-  },
-  "WS_AOS_DealDamage": {
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+
+  "WS_AOS_TakeDamage": {
+    "description": "Take 250 damage.",
+    "weaponToUnlock": "WS_SAVES",
+    "completionRequirements": {
+      "category": "DAMAGE_TAKEN",
+      "requireAll": true,
+      "lifetime": true,
+      "damageTaken": 250
+    },
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+
+  
+  "WS_AOS_DealDamage": {
     "description": "Deal 10000 damage",
     "weaponToUnlock": "WS_SKILL",
     "completionRequirements": {
       "category": "DAMAGE_INFLICTED",
-      "lifetime": true,
-      "damageInflicted": 10000
-    }
-  },
-  "WS_AOS_Weapon_Grandblade": {
+      "damageInflicted": 10000,
+      "lifetime": true
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  "WS_AOS_Weapon_Grandblade": {
     "description": "Defeat 500 Vermintide",
     "weaponToUnlock": "WS_AOS_GRANDBLADE",
+    "hasDemoLoc": true,
     "completionRequirements": {
       "category": "ENEMIES_KILLED",
-      "lifetime": true,
       "requireAll": true,
+      "lifetime": true,
       "enemyType": [
         "WS_AOS_SKA_VERMINTIDE"
       ],
       "killCount": 500
     },
-    "hasDemoLoc": true
-  },
-  "WS_AOS_Collect_Chests": {
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  "WS_AOS_Collect_Chests": {
     "description": "Open 2 chests in a single run.",
     "weaponToUnlock": "WS_RANGE",
     "completionRequirements": {
       "category": "PICKUP_AMOUNT",
+      "lifetime": false,
       "itemType": [
         "TREASURE"
       ],
       "value": 2
-    }
-  },
-  "WS_AOS_DragEnemies_Lyssa": {
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  "WS_AOS_DragEnemies_Lyssa": {
     "description": "Drag 100 enemies off screen with Lyssa.",
     "weaponToUnlock": "WS_AOS_ROPE_AND_GRAPNEL",
     "completionRequirements": {
+      "category": "MANUAL",
       "overrideShowProgressBar": true,
       "value": 100
-    }
-  },
-  "WS_AOS_Weapon_NebulousSeafog": {
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+
+  "WS_AOS_Weapon_NebulousSeafog": {
     "description": "Get Sabaton to Level 3",
     "weaponToUnlock": "WS_AOS_NEBULOUS_SEAFOG",
+    "hasDemoLoc": true,
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_MOVE"
       ],
       "level": 3
     },
-    "hasDemoLoc": true
-  },
-  "WS_AOS_ReachWeaponLevel_BoltstormPistol": {
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  "WS_AOS_ReachWeaponLevel_BoltstormPistol": {
     "description": "Get Boltstorm Pistol to Level 4.",
     "weaponToUnlock": "WS_RELOAD",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_AOS_BOLTSTORM_PISTOL"
       ],
       "level": 4
-    }
-  },
-  "WS_AOS_Evolve_TempestAxes": {
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+
+  "WS_AOS_Evolve_TempestAxes": {
     "description": "Evolve the Tempest Axes.",
     "goldPrize": 500,
     "weaponIcon": "WS_AOS_WHIRLWIND_AXES",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_AOS_WHIRLWIND_AXES"
-      ]
-    }
+      ],
+      "level": 0
+    },
+    "silos": [
+      "WH_AOS"
+    ]
   },
   "WS_AOS_Evolve_BoltstormPistol": {
-    "silos": [
-      "WH_AOS"
-    ],
     "description": "Evolve the Boltstorm Pistol.",
-    "goldPrize": 500,
-    "weaponIcon": "WS_AOS_TYPHOON_CROSSBOW",
+	"goldPrize": 500,
+	"weaponIcon": "WS_AOS_TYPHOON_CROSSBOW",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_AOS_TYPHOON_CROSSBOW"
-      ]
-    }
-  },
-  "WS_AOS_Evolve_BrazierStaff": {
+      ],
+      "level": 0
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  "WS_AOS_Evolve_BrazierStaff": {
     "description": "Evolve the Brazier Staff.",
+    "requiresAchievement": "WS_AOS_Rescue_Ulgromthier",
     "goldPrize": 500,
     "weaponIcon": "WS_AOS_MASTER_OF_RUNES",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
       "requireAll": true,
+      "lifetime": false,
       "weaponType": [
         "WS_AOS_MASTER_OF_RUNES"
-      ]
+      ],
+      "level": 0
     },
-    "requiresAchievement": "WS_AOS_Rescue_Ulgromthier"
+    "silos": [
+      "WH_AOS"
+    ]
   },
   "WS_AOS_Evolve_RopeAndGrapnel": {
-    "silos": [
-      "WH_AOS"
-    ],
     "description": "Evolve the Rope & Grapnel.",
-    "goldPrize": 500,
-    "weaponIcon": "WS_AOS_GHOST_OF_RHEA",
+	"goldPrize": 500,
+	"weaponIcon": "WS_AOS_GHOST_OF_RHEA",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_AOS_GHOST_OF_RHEA"
-      ]
-    }
-  },
-  "WS_AOS_Evolve_NebulousSeaFog": {
+      ],
+      "level": 0
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  "WS_AOS_Evolve_NebulousSeaFog": {
     "description": "Evolve the Nebulous Sea Fog.",
     "goldPrize": 500,
     "weaponIcon": "WS_AOS_AQUATIC_ILLUSIONS",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_AOS_AQUATIC_ILLUSIONS"
-      ]
-    }
-  },
-  "WS_AOS_Evolve_NulnOil": {
+      ],
+      "level": 0
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  "WS_AOS_Evolve_NulnOil": {
     "description": "Evolve the Nuln Oil.",
     "goldPrize": 500,
     "weaponIcon": "WS_MORDANT_EARTH",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
+      "lifetime": false,
       "weaponType": [
         "WS_MORDANT_EARTH"
-      ]
-    }
-  },
-  "WS_AOS_Feature_Bestiary": {
+      ],
+      "level": 0
+    },
     "silos": [
       "WH_AOS"
-    ],
+    ]
+  },
+  
+  
+  "WS_AOS_Feature_Bestiary": {
+    "description": "Complete 3 runs",
+    "forcedUnlockTips": "achievementLang/{WS_AOS_Feature_Bestiary}forcedUnlockTips",
     "forcedTexture": "AOS_items",
     "forcedFrameName": "Relic_CreaturaMythologica.png",
-    "forcedUnlockTips": "achievementLang/{WS_AOS_Feature_Bestiary}forcedUnlockTips",
-    "description": "Complete 3 runs",
+    "hasDemoLoc": true,
     "completionRequirements": {
+      "category": "MANUAL",
       "value": 3
     },
-    "hasDemoLoc": true
+    "silos": [
+      "WH_AOS"
+    ]
   }
 }

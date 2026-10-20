@@ -1713,6 +1713,13 @@
       ]
     }
   },
+  "WS_AOS_Secret_CompleteStage_Necropolis": {
+    "unlockName": {
+      "_value": [
+        "Defeat Nagash, Supreme Lord of the Undead."
+      ]
+    }
+  },
   "WS_AOS_Collect_EyeOfTzeentch": {
     "unlockName": {
       "_value": [
@@ -2341,6 +2348,18 @@
       ]
     }
   },
+  "WS_40K_Defeat_Enemy_Mortarion": {
+    "description": {
+      "_value": [
+        "Defeat Mortarion, Daemon Primarch of Nurgle."
+      ]
+    },
+    "unlockName": {
+      "_value": [
+        "Defeat Mortarion, Daemon Primarch of Nurgle."
+      ]
+    }
+  },
   "WS_40K_ReachLevel_OrbitalShipyard": {
     "unlockName": {
       "_value": [
@@ -2793,13 +2812,6 @@
     "unlockName": {
       "_value": [
         "Activate the Astropathic Relay on every stage."
-      ]
-    }
-  },
-  "WS_40K_Defeat_Enemy_Mortarion": {
-    "unlockName": {
-      "_value": [
-        "Defeat Mortarion, Daemon Primarch of Nurgle."
       ]
     }
   },

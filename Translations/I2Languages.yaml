@@ -1655,7 +1655,7 @@ MonoBehaviour:
       - Lay low the one who cannot truly die.
       Flags: 00
       Languages_Touch: []
-    - Term: achivementLang/{WS_AOS_Secret_CompleteStage_Necropolis}unlockName
+    - Term: achievementLang/{WS_AOS_Secret_CompleteStage_Necropolis}unlockName
       TermType: 0
       Languages:
       - Defeat Nagash, Supreme Lord of the Undead.
@@ -7841,7 +7841,7 @@ MonoBehaviour:
       - Disarmed
       Flags: 00
       Languages_Touch: []
-    - Term: statusLAng/{FRENZIED}name
+    - Term: statusLang/{FRENZIED}name
       TermType: 0
       Languages:
       - Frenzied
@@ -14987,7 +14987,7 @@ MonoBehaviour:
       - Banish the Pale King into the Immaterium.
       Flags: 00
       Languages_Touch: []
-    - Term: achivementLang/{WS_40K_Defeat_Enemy_Mortarion}description
+    - Term: achievementLang/{WS_40K_Defeat_Enemy_Mortarion}description
       TermType: 0
       Languages:
       - Defeat Mortarion, Daemon Primarch of Nurgle.

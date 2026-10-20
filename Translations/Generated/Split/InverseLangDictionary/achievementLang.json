@@ -1206,6 +1206,11 @@
         "_value": "Find the Amberbone Relic on Gnarlwood."
       }
     },
+    "WS_AOS_Secret_CompleteStage_Necropolis": {
+      "unlockName": {
+        "_value": "Defeat Nagash, Supreme Lord of the Undead."
+      }
+    },
     "WS_AOS_Collect_EyeOfTzeentch": {
       "unlockName": {
         "_value": "Find the Eye of Tzeentch on Gnarlwood."
@@ -1654,6 +1659,14 @@
         "_value": "Defeat a total of 100,000 Orks."
       }
     },
+    "WS_40K_Defeat_Enemy_Mortarion": {
+      "description": {
+        "_value": "Defeat Mortarion, Daemon Primarch of Nurgle."
+      },
+      "unlockName": {
+        "_value": "Defeat Mortarion, Daemon Primarch of Nurgle."
+      }
+    },
     "WS_40K_ReachLevel_OrbitalShipyard": {
       "unlockName": {
         "_value": "Reach level 60 in Imperial Shipyard."
@@ -1973,11 +1986,6 @@
     "WS_40K_Activate_AstropathicRelay_All": {
       "unlockName": {
         "_value": "Activate the Astropathic Relay on every stage."
-      }
-    },
-    "WS_40K_Defeat_Enemy_Mortarion": {
-      "unlockName": {
-        "_value": "Defeat Mortarion, Daemon Primarch of Nurgle."
       }
     },
     "WS_AOS_CompleteStageWithRetinue_Callis_Toll": {

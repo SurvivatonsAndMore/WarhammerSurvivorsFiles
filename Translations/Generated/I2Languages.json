@@ -2484,7 +2484,7 @@
         "Languages_Touch": []
       },
       {
-        "Term": "achivementLang/{WS_AOS_Secret_CompleteStage_Necropolis}unlockName",
+        "Term": "achievementLang/{WS_AOS_Secret_CompleteStage_Necropolis}unlockName",
         "TermType": 0,
         "Languages": [
           "Defeat Nagash, Supreme Lord of the Undead."
@@ -11763,7 +11763,7 @@
         "Languages_Touch": []
       },
       {
-        "Term": "statusLAng/{FRENZIED}name",
+        "Term": "statusLang/{FRENZIED}name",
         "TermType": 0,
         "Languages": [
           "Frenzied"
@@ -22482,7 +22482,7 @@
         "Languages_Touch": []
       },
       {
-        "Term": "achivementLang/{WS_40K_Defeat_Enemy_Mortarion}description",
+        "Term": "achievementLang/{WS_40K_Defeat_Enemy_Mortarion}description",
         "TermType": 0,
         "Languages": [
           "Defeat Mortarion, Daemon Primarch of Nurgle."

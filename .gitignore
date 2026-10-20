@@ -3,6 +3,7 @@
 
 */Generated*
 Config*.json
+
 !Translations/Generated
 
 test*
@@ -14,4 +15,6 @@ test*
 
 /Audio
 /Config
-/Images
+/Images/*
+
+!Images/WRHS_Logo.png

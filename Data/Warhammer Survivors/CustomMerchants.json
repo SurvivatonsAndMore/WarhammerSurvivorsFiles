@@ -1,3 +1,181 @@
 {
 
+  "WS_40K_DAEDALOSUS": {
+    "merchantCharacter": "WS_40K_DAEDALOSUS",
+    "portraitSprite": "Portrait_Technoarcheologist.png",
+    "portraitSpriteTexture": "character_technoarcheologist",
+    "staticSprite": "C_Technoarcheologist_01",
+    "staticSpriteTexture": "character_technoarcheologist",
+    "textLocKey": "lang/ws_40K_merchant1_title",
+    "merchantInventory": [
+      "WS_40K_BOLTGUN",
+      "WS_40K_ARCHEOTECH"
+    ], //Normal inventory Weapons (post trade agreement (if applic))
+    "merchantInventoryItems": [
+      "WS_40K_RELIC_TELEPORTARIUM_STC",
+      "WS_40K_PROMETHIUM_CANISTER",
+      "WS_40K_MEDICAE_BAG"
+    ],//Normal inventory Items (post trade agreement (if applic))
+    "merchantInventoryLimited": [], //inventory Weapons for limited inventory(pre trade agreement (if applic))
+    "merchantInventoryItemsLimited": [],//inventory Items for limited inventory(pre trade agreement (if applic))
+    "merchantInventoryItemLimits": [
+      {
+        "MerchantInventory": "WS_40K_MEDICAE_BAG",
+        "Amount" : 1
+      },
+      {
+        "MerchantInventory": "WS_40K_PROMETHIUM_CANISTER",
+        "Amount": 1
+      }
+    ], // Limits the amount of an item that can be sold per run
+    "materialType": "Wilson_EnemyOutline",
+    "customMaterialProps": {
+      "outline": {
+        "type": "Merchant",
+        "alpha": 1,
+        "width": 1
+      }
+    }
+  },
+  "WS_40K_TECHPRIEST_MANIPULUS": {
+    "merchantCharacter": "WS_40K_TECHPRIEST_MANIPULUS",
+    "isAnimated": true,
+    "portraitSprite": "Portrait_TechPriestManipulus.png",
+    "portraitSpriteTexture": "character_techpriest_manipulus",
+    "staticSprite": "C_TechPriestManipulus_01",
+    "staticSpriteTexture": "character_techpriest_manipulus",
+    "textLocKey": "lang/ws_40K_merchant2_title",
+    "merchantInventory": [],
+	"merchantInventoryItems": [
+      "DUMMY_SKIP",       // WS_DUMMY_SKIP is override type
+      "DUMMY_BANISH",     // WS_DUMMY_BANISH is override type
+      "DUMMY_REROLL",     // WS_DUMMY_REROLL is override type
+      "DUMMY_ARC",        // WS_40K_DUMMY_ARCANA is override type
+//      "RELIC_GOLDENEGG",  // WS_40K_MUTAGEN is override type
+      "WS_RELIC_BROKEN_SWORD",
+      "WS_RELIC_HUNTING_TRAP"
+    ],
+    "merchantInventoryLimited": [],
+    "merchantInventoryItemsLimited": [],
+    "merchantInventoryItemLimits": [
+      {
+        "MerchantInventory": "DUMMY_SKIP",
+        "Amount" : 3
+      },
+      {
+        "MerchantInventory": "DUMMY_BANISH",
+        "Amount": 3
+      },
+      {
+        "MerchantInventory": "DUMMY_REROLL",
+        "Amount": 3
+      },
+      {
+        "MerchantInventory": "DUMMY_ARC",
+        "Amount": 1
+      },
+//      {
+//        "MerchantInventory": "RELIC_GOLDENEGG",
+//        "Amount": 3
+//      }
+    ], // Limits the amount of an item that can be sold per run
+    "materialType": "Wilson_EnemyOutline",
+    "customMaterialProps": {
+      "outline": {
+        "type": "Merchant",
+        "alpha": 1,
+        "width": 1
+      }
+    }
+  },
+  
+  "WS_AOS_BROKK": {
+    "merchantCharacter": "WS_AOS_BROKK",
+    "isAnimated": true,
+    "portraitSprite": "Portrait_BrokkGrungsson.png",
+    "portraitSpriteTexture": "character_brokk",
+    "staticSprite": "C_BrokkGrungsson_01",
+    "staticSpriteTexture": "character_brokk",
+    "textLocKey": "lang/ws_AOS_merchant1_title",
+    "merchantInventory": [
+      "WS_NULN_OIL",
+      "WS_D6_DICE",
+      "WS_AOS_EXOTIC_WEAPONRY"
+    ],
+    "merchantInventoryItems": [
+      "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR",
+      "WS_AOS_AQUA_GHYRANIS_VESSEL"
+    ],
+    "merchantInventoryLimited": [],
+    "merchantInventoryItemsLimited": [
+      "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR"
+    ],
+    "merchantInventoryItemLimits": [
+      {
+        "MerchantInventory": "WS_AOS_AQUA_GHYRANIS_VESSEL",
+        "Amount" : 1
+      }
+    ],
+    "materialType": "Wilson_EnemyOutline",
+    "customMaterialProps": {
+      "outline": {
+        "type": "Merchant",
+        "alpha": 1,
+        "width": 1
+      }
+    }
+  },
+  "WS_AOS_DREKKI": {
+    "merchantCharacter": "WS_AOS_DREKKI",
+    "portraitSprite": "Portrait_DrekkiFlynt.png",
+    "portraitSpriteTexture": "character_drekki_flynt",
+    "staticSprite": "C_DrekkiFlynt_A_01",
+    "staticSpriteTexture": "character_drekki_flynt",
+    "textLocKey": "lang/ws_AOS_merchant2_title",
+    "merchantInventory": [],
+    "merchantInventoryItems": [
+      "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR",
+      "DUMMY_SKIP",       // WS_DUMMY_SKIP is override type
+      "DUMMY_BANISH",     // WS_DUMMY_BANISH is override type
+      "DUMMY_REROLL",     // WS_DUMMY_REROLL is override type
+      "DUMMY_ARC",        // WS_AOS_DUMMY_ARCANA is override type
+//      "RELIC_GOLDENEGG",  // WS_AOS_VARANITE is override type
+      "WS_RELIC_BROKEN_SWORD",
+      "WS_RELIC_HUNTING_TRAP"
+    ],
+    "merchantInventoryLimited": [],
+    "merchantInventoryItemsLimited": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR"
+    ],
+    "merchantInventoryItemLimits": [
+      {
+        "MerchantInventory": "DUMMY_SKIP",
+        "Amount" : 3
+      },
+      {
+        "MerchantInventory": "DUMMY_BANISH",
+        "Amount": 3
+      },
+      {
+        "MerchantInventory": "DUMMY_REROLL",
+        "Amount": 3
+      },
+      {
+        "MerchantInventory": "DUMMY_ARC",
+        "Amount": 1
+      },
+//      {
+//        "MerchantInventory": "RELIC_GOLDENEGG",
+//        "Amount": 3
+//      }
+    ],
+    "materialType": "Wilson_EnemyOutline",
+    "customMaterialProps": {
+      "outline": {
+        "type": "Merchant",
+        "alpha": 1,
+        "width": 1
+      }
+    }
+  }
 }

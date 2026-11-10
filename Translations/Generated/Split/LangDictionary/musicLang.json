@@ -2,119 +2,323 @@
   "WS_40K_Main": {
     "title": {
       "_value": {
-        "en": "Main Menu - Warhammer 40,000"
+        "en": "Main Menu - Warhammer 40,000",
+        "fr": "Menu principal - Warhammer 40,000",
+        "it": "Menu principale - Warhammer 40.000",
+        "de": "Hauptmenü – Warhammer 40.000",
+        "es": "Menú principal - Warhammer 40,000",
+        "ja": "メインメニュー - ウォーハンマー40,000",
+        "ko": "메인 메뉴 - Warhammer 40,000",
+        "pl": "Menu główne – Warhammer 40 000",
+        "pt-BR": "Menu principal - Warhammer 40.000",
+        "ru": "Главное меню Warhammer 40,000",
+        "zh-CN": "主菜单 —— 战锤40000",
+        "tr": "Ana Menü - Warhammer 40,000",
+        "uk": "Головне меню — Warhammer 40 000"
       }
     }
   },
   "WS_AOS_Main": {
     "title": {
       "_value": {
-        "en": "Main Menu - Warhammer Age of Sigmar"
+        "en": "Main Menu - Warhammer Age of Sigmar",
+        "fr": "Menu principal - Warhammer Age of Sigmar",
+        "it": "Menu principale - Warhammer Age of Sigmar",
+        "de": "Hauptmenü – Warhammer Age of Sigmar",
+        "es": "Menú principal - Warhammer Age of Sigmar",
+        "ja": "メインメニュー - ウォーハンマー：エイジ・オヴ・シグマー",
+        "ko": "메인 메뉴 - Warhammer Age of Sigmar",
+        "pl": "Menu główne – Warhammer Age of Sigmar.",
+        "pt-BR": "Menu principal - Warhammer Era de Sigmar",
+        "ru": "Главное меню Warhammer Age of Sigmar",
+        "zh-CN": "主菜单 —— 战锤西格玛时代",
+        "tr": "Ana Menü - Warhammer Age of Sigmar",
+        "uk": "Головне меню — Warhammer Age of Sigmar"
       }
     }
   },
   "WS_40K_ImperialBastion": {
     "title": {
       "_value": {
-        "en": "Imperial Bastion"
+        "en": "Imperial Bastion",
+        "fr": "Bastion impérial",
+        "it": "Bastione Imperiale",
+        "de": "Imperiale Bastion",
+        "es": "Bastión imperial",
+        "ja": "帝国の掩蔽壕",
+        "ko": "제국 요새",
+        "pl": "Bastion Imperium",
+        "pt-BR": "Bastião Imperial",
+        "ru": "Имперский бастион",
+        "zh-CN": "帝国堡垒",
+        "tr": "İmparatorluk Hisarı",
+        "uk": "Імперський бастіон"
       }
     }
   },
   "WS_40K_Gallowdark": {
     "title": {
       "_value": {
-        "en": "Gallowdark"
+        "en": "Gallowdark",
+        "fr": "Gallowdark",
+        "it": "Patibolo Nero",
+        "de": "Galgenschatten",
+        "es": "Horcasombría",
+        "ja": "ギャロウダーク",
+        "ko": "갤로우다크",
+        "pl": "Wisielczy Mrok",
+        "pt-BR": "Gallowdark",
+        "ru": "Галловдарк",
+        "zh-CN": "绞刑暗渊",
+        "tr": "Gallowdark",
+        "uk": "Шибомряка"
       }
     }
   },
   "WS_40K_OrkStronghold": {
     "title": {
       "_value": {
-        "en": "Ork Stronghold"
+        "en": "Ork Stronghold",
+        "fr": "Forteresse ork",
+        "it": "Fortezza degli Orki",
+        "de": "Orkfestung",
+        "es": "Fortaleza orka",
+        "ja": "オークの砦",
+        "ko": "오크 요새",
+        "pl": "Twierdza Orków",
+        "pt-BR": "Fortaleza Ork",
+        "ru": "Крепость орков",
+        "zh-CN": "欧克蛮人要塞",
+        "tr": "Ork Kalesi",
+        "uk": "Орча твердиня"
       }
     }
   },
   "WS_40K_DeathWorldInvasion": {
     "title": {
       "_value": {
-        "en": "Death World Invasion"
+        "en": "Death World Invasion",
+        "fr": "Invasion du monde hostile",
+        "it": "Invasione del Mondo Assassino",
+        "de": "Invasion der Todeswelt",
+        "es": "Invasión del mundo letal",
+        "ja": "死地惑星への侵攻",
+        "ko": "데스 월드 침공",
+        "pl": "Inwazja Świata Śmierci",
+        "pt-BR": "Invasão do Mundo da Morte",
+        "ru": "Вторжение в мир смерти",
+        "zh-CN": "死亡世界入侵",
+        "tr": "Ölüm Dünyası İstilası",
+        "uk": "Вторгнення на Світ Смерті"
       }
     }
   },
   "WS_40K_DesertWasteland": {
     "title": {
       "_value": {
-        "en": "Desert Wasteland"
+        "en": "Desert Wasteland",
+        "fr": "Wastelands désertiques",
+        "it": "Landa Desolata",
+        "de": "Wüstenödland",
+        "es": "Páramo desértico",
+        "ja": "砂の荒野",
+        "ko": "메마른 황무지",
+        "pl": "Pustynne Rubieże",
+        "pt-BR": "Deserto Árido",
+        "ru": "Песчаные пустоши",
+        "zh-CN": "荒漠废土",
+        "tr": "Çorak Çöl",
+        "uk": "Піщана пустка"
       }
     }
   },
   "WS_40K_HobbyTable": {
     "title": {
       "_value": {
-        "en": "Hobby Table - Warhammer 40,000"
+        "en": "Hobby Table - Warhammer 40,000",
+        "fr": "Table de jeu - Warhammer 40,000",
+        "it": "Tavolino da Hobby - Warhammer 40.000",
+        "de": "Hobbytisch – Warhammer 40.000",
+        "es": "Mesa de hobby - Warhammer 40,000",
+        "ja": "ホビーテーブル - ウォーハンマー40,000",
+        "ko": "취미 작업대 - Warhammer 40,000",
+        "pl": "Stół Modelarski – Warhammer 40 000",
+        "pt-BR": "Mesa de Hobby - Warhammer 40.000",
+        "ru": "Хобби-стол Warhammer 40,000",
+        "zh-CN": "模型桌 —— 战锤40000",
+        "tr": "Hobi Masası - Warhammer 40,000",
+        "uk": "Стіл для хобі — Warhammer 40 000"
       }
     }
   },
   "WS_40K_PerilsWarp": {
     "title": {
       "_value": {
-        "en": "Perils of the Warp"
+        "en": "Perils of the Warp",
+        "fr": "Les Dangers du Warp",
+        "it": "Pericoli del Warp",
+        "de": "Gefahren des Warp",
+        "es": "Peligros de la disformidad",
+        "ja": "歪みの崩壊",
+        "ko": "워프의 위험",
+        "pl": "Niebezpieczeństwa Warpu",
+        "pt-BR": "Perigos da Mutação",
+        "ru": "Опасности варпа",
+        "zh-CN": "亚空间危机",
+        "tr": "Warp Felaketleri",
+        "uk": "Небезпеки Викривлення"
       }
     }
   },
   "WS_AOS_GreatParch": {
     "title": {
       "_value": {
-        "en": "The Great Parch"
+        "en": "The Great Parch",
+        "fr": "Le Vaste Aride",
+        "it": "La Grande Siccità",
+        "de": "Die Große Dörre",
+        "es": "Gran Erial",
+        "ja": "大焦界",
+        "ko": "그레이트 파치",
+        "pl": "Wielka Spieka",
+        "pt-BR": "A Grande Seca",
+        "ru": "Великая Сушь",
+        "zh-CN": "大焦原",
+        "tr": "Büyük Kuraklık",
+        "uk": "Велика Посуха"
       }
     }
   },
   "WS_AOS_SkrappaSpill": {
     "title": {
       "_value": {
-        "en": "Skrappa Spill"
+        "en": "Skrappa Spill",
+        "fr": "Mont d'Ferraille",
+        "it": "Fosso dei Rottami",
+        "de": "Schlägahaufn",
+        "es": "Barranko del Dezparrame",
+        "ja": "スクラッパスピル",
+        "ko": "스크라파 스필",
+        "pl": "Hałda Skrappy",
+        "pt-BR": "Jogos de Razpadinha",
+        "ru": "Скрапп-Разлив",
+        "zh-CN": "万废山",
+        "tr": "Hurda Yığını",
+        "uk": "Брухтосхил"
       }
     }
   },
   "WS_AOS_BloodwindSpoil": {
     "title": {
       "_value": {
-        "en": "Bloodwind Spoil"
+        "en": "Bloodwind Spoil",
+        "fr": "Bloodwind Spoil",
+        "it": "Distesa di Bloodwind",
+        "de": "Blutwindfluch",
+        "es": "Bloodwind Spoil",
+        "ja": "血風の略奪地",
+        "ko": "블러드윈드 스포일",
+        "pl": "Bloodwind Spoil",
+        "pt-BR": "Espólio de Bloodwind",
+        "ru": "Bloodwind Spoil",
+        "zh-CN": "血风掠夺",
+        "tr": "Kanlı Rüzgar Toprakları",
+        "uk": "Кривавовітряна здобич"
       }
     }
   },
   "WS_AOS_TwinTailed": {
     "title": {
       "_value": {
-        "en": "The Twin-Tailed City"
+        "en": "The Twin-Tailed City",
+        "fr": "La Cité à Deux Queues",
+        "it": "La Città a Due Code",
+        "de": "Die Zweischweifige Stadt",
+        "es": "La Ciudad de dos colas",
+        "ja": "双尾の都",
+        "ko": "쌍꼬리 도시",
+        "pl": "Miasto o Dwóch Ogonach",
+        "pt-BR": "A Cidade das Duas Caudas",
+        "ru": "Двухвостый Город",
+        "zh-CN": "双尾之城",
+        "tr": "Çift Kuyruklu Şehir",
+        "uk": "Двохвосте місто"
       }
     }
   },
   "WS_AOS_UnderEmpire": {
     "title": {
       "_value": {
-        "en": "Under-Empire"
+        "en": "Under-Empire",
+        "fr": "Empire Souterrain",
+        "it": "Impero Sotterraneo",
+        "de": "Tiefenreich",
+        "es": "Imperio Subterráneo",
+        "ja": "地下の帝国",
+        "ko": "언더엠파이어",
+        "pl": "Podziemne Imperium",
+        "pt-BR": "Sub-Império",
+        "ru": "Подземная Империя",
+        "zh-CN": "地底帝国",
+        "tr": "Yeraltı İmparatorluğu",
+        "uk": "Підземна імперія"
       }
     }
   },
   "WS_AOS_Gnarlwood": {
     "title": {
       "_value": {
-        "en": "Gnarlwood"
+        "en": "Gnarlwood",
+        "fr": "Bois Noueux",
+        "it": "Bosco Nodoso",
+        "de": "Knarrwald",
+        "es": "Bosque Nudoso",
+        "ja": "唸りの森",
+        "ko": "날우드",
+        "pl": "Sękaty Las",
+        "pt-BR": "Gnarlwood",
+        "ru": "Криволесье",
+        "zh-CN": "瘤木林",
+        "tr": "Boğumlukoru",
+        "uk": "Сучколісся"
       }
     }
   },
   "WS_AOS_HobbyTable": {
     "title": {
       "_value": {
-        "en": "Hobby Table - Warhammer Age of Sigmar"
+        "en": "Hobby Table - Warhammer Age of Sigmar",
+        "fr": "Table de jeu - Warhammer Age of Sigmar",
+        "it": "Tavolino da Hobby - Warhammer Age of Sigmar",
+        "de": "Hobbytisch – Warhammer Age of Sigmar",
+        "es": "Mesa de hobby - Warhammer Age of Sigmar",
+        "ja": "ホビーテーブル - ウォーハンマー：エイジ・オヴ・シグマー",
+        "ko": "취미 작업대 - Warhammer Age of Sigmar",
+        "pl": "Stół Modelarski – Warhammer Age of Sigmar",
+        "pt-BR": "Mesa de hobby - Warhammer: Era de Sigmar",
+        "ru": "Хобби-стол Warhammer Age of Sigmar",
+        "zh-CN": "模型桌 —— 战锤西格玛时代",
+        "tr": "Hobi Masası - Warhammer Age of Sigmar",
+        "uk": "Стіл для хобі — Warhammer Age of Sigmar"
       }
     }
   },
   "WS_AOS_Necropolis": {
     "title": {
       "_value": {
-        "en": "Necropolis"
+        "en": "Necropolis",
+        "fr": "Necropolis",
+        "it": "Necropoli",
+        "de": "Nekropolis",
+        "es": "Necrópolis",
+        "ja": "ネクロポリス",
+        "ko": "네크로폴리스",
+        "pl": "Nekropolia",
+        "pt-BR": "Necrópolis",
+        "ru": "Некрополь",
+        "zh-CN": "亡者之地",
+        "tr": "Nekropol",
+        "uk": "Некрополь"
       }
     }
   }

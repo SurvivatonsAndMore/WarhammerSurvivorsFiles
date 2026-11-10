@@ -2,70 +2,190 @@
   "DEFAULT": {
     "name": {
       "_value": {
-        "en": "Default"
+        "en": "Default",
+        "fr": "Par défaut",
+        "it": "Predefinito",
+        "de": "Standard",
+        "es": "Por defecto",
+        "ja": "デフォルト",
+        "ko": "기본",
+        "pl": "Domyślne",
+        "pt-BR": "Padrão",
+        "ru": "Обычный",
+        "zh-CN": "默认",
+        "tr": "Varsayılan",
+        "uk": "Стандартно"
       }
     }
   },
   "FIRE": {
     "name": {
       "_value": {
-        "en": "Fire"
+        "en": "Fire",
+        "fr": "Feu",
+        "it": "Fuoco",
+        "de": "Feuer",
+        "es": "Fuego",
+        "ja": "炎",
+        "ko": "화염",
+        "pl": "Ogień",
+        "pt-BR": "Fogo",
+        "ru": "Огонь",
+        "zh-CN": "火焰",
+        "tr": "Ateş",
+        "uk": "Вогонь"
       }
     }
   },
   "POISON": {
     "name": {
       "_value": {
-        "en": "Poison"
+        "en": "Poison",
+        "fr": "Poison",
+        "it": "Veleno",
+        "de": "Gift",
+        "es": "Veneno",
+        "ja": "毒",
+        "ko": "독",
+        "pl": "Trucizna",
+        "pt-BR": "Veneno",
+        "ru": "Яд",
+        "zh-CN": "毒素",
+        "tr": "Zehir",
+        "uk": "Отрута"
       }
     }
   },
   "SHOCK": {
     "name": {
       "_value": {
-        "en": "Shock"
+        "en": "Shock",
+        "fr": "Électricité",
+        "it": "Scossa",
+        "de": "Schock",
+        "es": "Descarga",
+        "ja": "電撃",
+        "ko": "감전",
+        "pl": "Porażenie",
+        "pt-BR": "Choque",
+        "ru": "Шок",
+        "zh-CN": "电击",
+        "tr": "Şok",
+        "uk": "Шок"
       }
     }
   },
   "GRAVITY": {
     "name": {
       "_value": {
-        "en": "Gravity"
+        "en": "Gravity",
+        "fr": "Gravité",
+        "it": "Gravità",
+        "de": "Schwerkraft",
+        "es": "Gravedad",
+        "ja": "重力",
+        "ko": "중력",
+        "pl": "Grawitacja",
+        "pt-BR": "Gravidade",
+        "ru": "Гравитация",
+        "zh-CN": "重力",
+        "tr": "Yer Çekimi",
+        "uk": "Гравітація"
       }
     }
   },
   "FROST": {
     "name": {
       "_value": {
-        "en": "Frost"
+        "en": "Frost",
+        "fr": "Gel",
+        "it": "Gelo",
+        "de": "Frost",
+        "es": "Congelación",
+        "ja": "氷結",
+        "ko": "냉기",
+        "pl": "Mróz",
+        "pt-BR": "Gelo",
+        "ru": "Холод",
+        "zh-CN": "冰霜",
+        "tr": "Don",
+        "uk": "Мороз"
       }
     }
   },
   "WARP": {
     "name": {
       "_value": {
-        "en": "Warp"
+        "en": "Warp",
+        "fr": "Warp",
+        "it": "Warp",
+        "de": "Warp",
+        "es": "Disformidad",
+        "ja": "〈歪み〉（ワープ）",
+        "ko": "워프",
+        "pl": "Osnowa",
+        "pt-BR": "Mutação",
+        "ru": "Варп",
+        "zh-CN": "亚空间",
+        "tr": "Warp",
+        "uk": "Викривлення"
       }
     }
   },
   "NULL": {
     "name": {
       "_value": {
-        "en": null
+        "en": null,
+        "fr": "Vide",
+        "it": "Vuoto",
+        "de": "Nullfeld",
+        "es": "Nulo",
+        "ja": "ヌル",
+        "ko": "무효",
+        "pl": "Brak",
+        "pt-BR": "Nulo",
+        "ru": "Пустота",
+        "zh-CN": "虚空",
+        "tr": "Hiçlik",
+        "uk": "Пустота"
       }
     }
   },
   "INSTANT_KILL": {
     "name": {
       "_value": {
-        "en": "Instant Kill"
+        "en": "Instant Kill",
+        "fr": "Mort instantanée",
+        "it": "Uccisione istantanea",
+        "de": "Sofortiger Tod",
+        "es": "Muerte instantánea",
+        "ja": "即死",
+        "ko": "즉사",
+        "pl": "Natychmiastowe zabicie",
+        "pt-BR": "Morte Instantânea",
+        "ru": "Мгновенное убийство",
+        "zh-CN": "瞬杀",
+        "tr": "Anında Öldürme",
+        "uk": "Миттєва смерть"
       }
     }
   },
   "HOLY": {
     "name": {
       "_value": {
-        "en": "Holy"
+        "en": "Holy",
+        "fr": "Sacré",
+        "it": "Sacro",
+        "de": "Heilig",
+        "es": "Sagrado",
+        "ja": "聖",
+        "ko": "신성",
+        "pl": "Świętość",
+        "pt-BR": "Sagrado",
+        "ru": "Святость",
+        "zh-CN": "神圣",
+        "tr": "Kutsal",
+        "uk": "Свята сила"
       }
     }
   }

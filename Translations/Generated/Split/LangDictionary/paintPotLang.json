@@ -2,144 +2,432 @@
   "ABADDON_BLACK": {
     "name": {
       "_value": {
-        "en": "Abaddon Black"
+        "en": "Abaddon Black",
+        "fr": "Abaddon Black",
+        "it": "Abaddon Black",
+        "de": "Abaddon Black",
+        "es": "Abaddon Black",
+        "ja": "Abaddon Black",
+        "ko": "Abaddon Black",
+        "pl": "Abaddon Black",
+        "pt-BR": "Abaddon Black",
+        "ru": "Abaddon Black",
+        "zh-CN": "Abaddon Black",
+        "tr": "Abaddon Black",
+        "uk": "Abaddon Black"
       }
     },
     "description": {
       "_value": {
-        "en": "Collecting the required paint pots can unlock additional characters."
+        "en": "Collecting the required paint pots can unlock additional characters.",
+        "fr": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires.",
+        "it": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi.",
+        "de": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten.",
+        "es": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales.",
+        "ja": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。",
+        "ko": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다.",
+        "pl": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie.",
+        "pt-BR": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais.",
+        "ru": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей.",
+        "zh-CN": "集齐指定颜料罐，即可解锁更多角色。",
+        "tr": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir.",
+        "uk": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
       }
     }
   },
   "LEADBELCHER": {
     "name": {
       "_value": {
-        "en": "Leadbelcher"
+        "en": "Leadbelcher",
+        "fr": "Leadbelcher",
+        "it": "Leadbelcher",
+        "de": "Leadbelcher",
+        "es": "Leadbelcher",
+        "ja": "Leadbelcher",
+        "ko": "Leadbelcher",
+        "pl": "Leadbelcher",
+        "pt-BR": "Leadbelcher",
+        "ru": "Leadbelcher",
+        "zh-CN": "Leadbelcher",
+        "tr": "Leadbelcher",
+        "uk": "Leadbelcher"
       }
     },
     "description": {
       "_value": {
-        "en": "Collecting the required paint pots can unlock additional characters."
+        "en": "Collecting the required paint pots can unlock additional characters.",
+        "fr": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires.",
+        "it": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi.",
+        "de": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten.",
+        "es": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales.",
+        "ja": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。",
+        "ko": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다.",
+        "pl": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie.",
+        "pt-BR": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais.",
+        "ru": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей.",
+        "zh-CN": "集齐指定颜料罐，即可解锁更多角色。",
+        "tr": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir.",
+        "uk": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
       }
     }
   },
   "AGRAX_EARTHSHADE": {
     "name": {
       "_value": {
-        "en": "Agrax Earthshade"
+        "en": "Agrax Earthshade",
+        "fr": "Agrax Earthshade",
+        "it": "Agrax Earthshade",
+        "de": "Agrax Earthshade",
+        "es": "Agrax Earthshade",
+        "ja": "Agrax Earthshade",
+        "ko": "Agrax Earthshade",
+        "pl": "Agrax Earthshade",
+        "pt-BR": "Agrax Earthshade",
+        "ru": "Agrax Earthshade",
+        "zh-CN": "Agrax Earthshade",
+        "tr": "Agrax Earthshade",
+        "uk": "Agrax Earthshade"
       }
     },
     "description": {
       "_value": {
-        "en": "Collecting the required paint pots can unlock additional characters."
+        "en": "Collecting the required paint pots can unlock additional characters.",
+        "fr": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires.",
+        "it": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi.",
+        "de": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten.",
+        "es": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales.",
+        "ja": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。",
+        "ko": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다.",
+        "pl": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie.",
+        "pt-BR": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais.",
+        "ru": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей.",
+        "zh-CN": "集齐指定颜料罐，即可解锁更多角色。",
+        "tr": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir.",
+        "uk": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
       }
     }
   },
   "RETRIBUTOR_ARMOUR": {
     "name": {
       "_value": {
-        "en": "Retributor Armour"
+        "en": "Retributor Armour",
+        "fr": "Retributor Armour",
+        "it": "Retributor Armour",
+        "de": "Retributor Armour",
+        "es": "Retributor Armour",
+        "ja": "Retributor Armour",
+        "ko": "Retributor Armour",
+        "pl": "Retributor Armour",
+        "pt-BR": "Retributor Armour",
+        "ru": "Retributor Armour",
+        "zh-CN": "Retributor Armour",
+        "tr": "Retributor Armour",
+        "uk": "Retributor Armour"
       }
     },
     "description": {
       "_value": {
-        "en": "Collecting the required paint pots can unlock additional characters."
+        "en": "Collecting the required paint pots can unlock additional characters.",
+        "fr": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires.",
+        "it": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi.",
+        "de": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten.",
+        "es": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales.",
+        "ja": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。",
+        "ko": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다.",
+        "pl": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie.",
+        "pt-BR": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais.",
+        "ru": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей.",
+        "zh-CN": "集齐指定颜料罐，即可解锁更多角色。",
+        "tr": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir.",
+        "uk": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
       }
     }
   },
   "CELESTRA_GREY": {
     "name": {
       "_value": {
-        "en": "Celestra Grey"
+        "en": "Celestra Grey",
+        "fr": "Celestra Grey",
+        "it": "Celestra Grey",
+        "de": "Celestra Grey",
+        "es": "Celestra Grey",
+        "ja": "Celestra Grey",
+        "ko": "Celestra Grey",
+        "pl": "Celestra Grey",
+        "pt-BR": "Celestra Grey",
+        "ru": "Celestra Grey",
+        "zh-CN": "Celestra Grey",
+        "tr": "Celestra Grey",
+        "uk": "Celestra Grey"
       }
     },
     "description": {
       "_value": {
-        "en": "Collecting the required paint pots can unlock additional characters."
+        "en": "Collecting the required paint pots can unlock additional characters.",
+        "fr": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires.",
+        "it": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi.",
+        "de": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten.",
+        "es": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales.",
+        "ja": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。",
+        "ko": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다.",
+        "pl": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie.",
+        "pt-BR": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais.",
+        "ru": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей.",
+        "zh-CN": "集齐指定颜料罐，即可解锁更多角色。",
+        "tr": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir.",
+        "uk": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
       }
     }
   },
   "REIKLAND_FLESHSHADE": {
     "name": {
       "_value": {
-        "en": "Reikland Fleshshade"
+        "en": "Reikland Fleshshade",
+        "fr": "Reikland Fleshshade",
+        "it": "Reikland Fleshshade",
+        "de": "Reikland Fleshshade",
+        "es": "Reikland Fleshshade",
+        "ja": "Reikland Fleshshade",
+        "ko": "Reikland Fleshshade",
+        "pl": "Reikland Fleshshade",
+        "pt-BR": "Reikland Fleshshade",
+        "ru": "Reikland Fleshshade",
+        "zh-CN": "Reikland Fleshshade",
+        "tr": "Reikland Fleshshade",
+        "uk": "Reikland Fleshshade"
       }
     },
     "description": {
       "_value": {
-        "en": "Collecting the required paint pots can unlock additional characters."
+        "en": "Collecting the required paint pots can unlock additional characters.",
+        "fr": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires.",
+        "it": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi.",
+        "de": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten.",
+        "es": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales.",
+        "ja": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。",
+        "ko": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다.",
+        "pl": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie.",
+        "pt-BR": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais.",
+        "ru": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей.",
+        "zh-CN": "集齐指定颜料罐，即可解锁更多角色。",
+        "tr": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir.",
+        "uk": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
       }
     }
   },
   "MEPHISTON_RED": {
     "name": {
       "_value": {
-        "en": "Mephiston Red"
+        "en": "Mephiston Red",
+        "fr": "Mephiston Red",
+        "it": "Mephiston Red",
+        "de": "Mephiston Red",
+        "es": "Mephiston Red",
+        "ja": "Mephiston Red",
+        "ko": "Mephiston Red",
+        "pl": "Mephiston Red",
+        "pt-BR": "Mephiston Red",
+        "ru": "Mephiston Red",
+        "zh-CN": "Mephiston Red",
+        "tr": "Mephiston Red",
+        "uk": "Mephiston Red"
       }
     },
     "description": {
       "_value": {
-        "en": "Collecting the required paint pots can unlock additional characters."
+        "en": "Collecting the required paint pots can unlock additional characters.",
+        "fr": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires.",
+        "it": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi.",
+        "de": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten.",
+        "es": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales.",
+        "ja": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。",
+        "ko": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다.",
+        "pl": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie.",
+        "pt-BR": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais.",
+        "ru": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей.",
+        "zh-CN": "集齐指定颜料罐，即可解锁更多角色。",
+        "tr": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir.",
+        "uk": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
       }
     }
   },
   "RUNELORD_BRASS": {
     "name": {
       "_value": {
-        "en": "Runelord Brass"
+        "en": "Runelord Brass",
+        "fr": "Runelord Brass",
+        "it": "Runelord Brass",
+        "de": "Runelord Brass",
+        "es": "Runelord Brass",
+        "ja": "Runelord Brass",
+        "ko": "Runelord Brass",
+        "pl": "Runelord Brass",
+        "pt-BR": "Runelord Brass",
+        "ru": "Runelord Brass",
+        "zh-CN": "Runelord Brass",
+        "tr": "Runelord Brass",
+        "uk": "Runelord Brass"
       }
     },
     "description": {
       "_value": {
-        "en": "Collecting the required paint pots can unlock additional characters."
+        "en": "Collecting the required paint pots can unlock additional characters.",
+        "fr": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires.",
+        "it": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi.",
+        "de": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten.",
+        "es": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales.",
+        "ja": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。",
+        "ko": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다.",
+        "pl": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie.",
+        "pt-BR": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais.",
+        "ru": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей.",
+        "zh-CN": "集齐指定颜料罐，即可解锁更多角色。",
+        "tr": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir.",
+        "uk": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
       }
     }
   },
   "MACRAGGE_BLUE": {
     "name": {
       "_value": {
-        "en": "Macragge Blue"
+        "en": "Macragge Blue",
+        "fr": "Macragge Blue",
+        "it": "Macragge Blue",
+        "de": "Macragge Blue",
+        "es": "Macragge Blue",
+        "ja": "Macragge Blue",
+        "ko": "Macragge Blue",
+        "pl": "Macragge Blue",
+        "pt-BR": "Macragge Blue",
+        "ru": "Macragge Blue",
+        "zh-CN": "Macragge Blue",
+        "tr": "Macragge Blue",
+        "uk": "Macragge Blue"
       }
     },
     "description": {
       "_value": {
-        "en": "Collecting the required paint pots can unlock additional characters."
+        "en": "Collecting the required paint pots can unlock additional characters.",
+        "fr": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires.",
+        "it": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi.",
+        "de": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten.",
+        "es": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales.",
+        "ja": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。",
+        "ko": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다.",
+        "pl": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie.",
+        "pt-BR": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais.",
+        "ru": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей.",
+        "zh-CN": "集齐指定颜料罐，即可解锁更多角色。",
+        "tr": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir.",
+        "uk": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
       }
     }
   },
   "DRAKENHOF_NIGHTSHADE": {
     "name": {
       "_value": {
-        "en": "Drakenhof Nightshade"
+        "en": "Drakenhof Nightshade",
+        "fr": "Drakenhof Nightshade",
+        "it": "Drakenhof Nightshade",
+        "de": "Drakenhof Nightshade",
+        "es": "Drakenhof Nightshade",
+        "ja": "Drakenhof Nightshade",
+        "ko": "Drakenhof Nightshade",
+        "pl": "Drakenhof Nightshade",
+        "pt-BR": "Drakenhof Nightshade",
+        "ru": "Drakenhof Nightshade",
+        "zh-CN": "Drakenhof Nightshade",
+        "tr": "Drakenhof Nightshade",
+        "uk": "Drakenhof Nightshade"
       }
     },
     "description": {
       "_value": {
-        "en": "Collecting the required paint pots can unlock additional characters."
+        "en": "Collecting the required paint pots can unlock additional characters.",
+        "fr": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires.",
+        "it": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi.",
+        "de": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten.",
+        "es": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales.",
+        "ja": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。",
+        "ko": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다.",
+        "pl": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie.",
+        "pt-BR": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais.",
+        "ru": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей.",
+        "zh-CN": "集齐指定颜料罐，即可解锁更多角色。",
+        "tr": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir.",
+        "uk": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
       }
     }
   },
   "RAKARTH_FLESH": {
     "name": {
       "_value": {
-        "en": "Rakarth Flesh"
+        "en": "Rakarth Flesh",
+        "fr": "Rakarth Flesh",
+        "it": "Rakarth Flesh",
+        "de": "Rakarth Flesh",
+        "es": "Rakarth Flesh",
+        "ja": "Rakarth Flesh",
+        "ko": "Rakarth Flesh",
+        "pl": "Rakarth Flesh",
+        "pt-BR": "Rakarth Flesh",
+        "ru": "Rakarth Flesh",
+        "zh-CN": "Rakarth Flesh",
+        "tr": "Rakarth Flesh",
+        "uk": "Rakarth Flesh"
       }
     },
     "description": {
       "_value": {
-        "en": "Collecting the required paint pots can unlock additional characters."
+        "en": "Collecting the required paint pots can unlock additional characters.",
+        "fr": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires.",
+        "it": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi.",
+        "de": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten.",
+        "es": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales.",
+        "ja": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。",
+        "ko": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다.",
+        "pl": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie.",
+        "pt-BR": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais.",
+        "ru": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей.",
+        "zh-CN": "集齐指定颜料罐，即可解锁更多角色。",
+        "tr": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir.",
+        "uk": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
       }
     }
   },
   "MECHANICUS_STANDARD_GREY": {
     "name": {
       "_value": {
-        "en": "Mechanicus Standard Grey"
+        "en": "Mechanicus Standard Grey",
+        "fr": "Mechanicus Standard Grey",
+        "it": "Mechanicus Standard Grey",
+        "de": "Mechanicus Standard Grey",
+        "es": "Mechanicus Standard Grey",
+        "ja": "Mechanicus Standard Grey",
+        "ko": "Mechanicus Standard Grey",
+        "pl": "Mechanicus Standard Grey",
+        "pt-BR": "Mechanicus Standard Grey",
+        "ru": "Mechanicus Standard Grey",
+        "zh-CN": "Mechanicus Standard Grey",
+        "tr": "Mechanicus Standard Grey",
+        "uk": "Mechanicus Standard Grey"
       }
     },
     "description": {
       "_value": {
-        "en": "Collecting the required paint pots can unlock additional characters."
+        "en": "Collecting the required paint pots can unlock additional characters.",
+        "fr": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires.",
+        "it": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi.",
+        "de": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten.",
+        "es": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales.",
+        "ja": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。",
+        "ko": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다.",
+        "pl": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie.",
+        "pt-BR": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais.",
+        "ru": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей.",
+        "zh-CN": "集齐指定颜料罐，即可解锁更多角色。",
+        "tr": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir.",
+        "uk": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
       }
     }
   }

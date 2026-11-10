@@ -2,14 +2,38 @@
   "ws_Complete40K": {
     "description": {
       "_value": [
-        "Complete Warhammer 40,000 Universe."
+        "Complete Warhammer 40,000 Universe.",
+        "Complétez l'univers de Warhammer 40,000.",
+        "Completa l'Universo Warhammer 40.000.",
+        "Schließe das Universum von Warhammer 40.000 ab.",
+        "Completa el universo de Warhammer 40,000.",
+        "ウォーハンマー40,000ユニバースをクリアする。",
+        "Warhammer 40,000 세계관을 완료하세요.",
+        "Ukończ uniwersum Warhammer 40,000.",
+        "Complete o Universo de Warhammer 40.000.",
+        "Пройдите всю вселенную Warhammer 40,000.",
+        "通关《战锤40000》宇宙。",
+        "Warhammer 40,000 Evreni’ni tamamla.",
+        "Завершіть усі рівні всесвіту Warhammer 40 000."
       ]
     }
   },
   "ws_CompleteAOS": {
     "description": {
       "_value": [
-        "Complete Warhammer Age of Sigmar Universe."
+        "Complete Warhammer Age of Sigmar Universe.",
+        "Terminez l’univers de Warhammer Age of Sigmar.",
+        "Completa l'Universo Warhammer Age of Sigmar.",
+        "Schließe das Universum von Warhammer Age of Sigmar ab.",
+        "Completa el universo de Warhammer Age of Sigmar.",
+        "ウォーハンマー：エイジ・オヴ・シグマーをクリアする。",
+        "Warhammer Age of Sigmar 세계관을 완료하세요.",
+        "Ukończ uniwersum Warhammer Age of Sigmar.",
+        "Complete o Universo Warhammer Era de Sigmar.",
+        "Пройдите всю вселенную Warhammer Age of Sigmar.",
+        "通关《战锤西格玛时代》宇宙。",
+        "Warhammer Age of Sigmar Evreni’ni tamamla.",
+        "Завершіть усі рівні Всесвіту Warhammer Age of Sigmar."
       ]
     }
   }

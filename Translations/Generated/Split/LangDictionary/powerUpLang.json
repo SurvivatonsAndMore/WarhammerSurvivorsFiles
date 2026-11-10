@@ -2,336 +2,1008 @@
   "ABILITY": {
     "description": {
       "_value": {
-        "en": "Increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, and {[AURA]} by {[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+        "en": "Increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, and {[AURA]} by {[VALUE]}% per rank (max +{[MAXVALUE]}%).",
+        "fr": "Augmente {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} et {[AURA]} de {[VALUE]} % par rang (max. +{[MAXVALUE]} %).",
+        "it": "Aumenta {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} e {[AURA]} del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Erhöht {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} und {[AURA]} pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %).",
+        "es": "Aumenta la {[STRENGTH]}, la {[SKILL]}, la {[SUSTAIN]} y el {[AURA]} un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %).",
+        "ja": "ランクごとに{[STRENGTH]}、{[SKILL]}、{[SUSTAIN]}、{[AURA]}が{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。",
+        "ko": "등급당 {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, {[AURA]}이(가) {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "{[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} i {[AURA]} wzrastają o +{[VALUE]}% na poziom (maks. +{[MAXVALUE]}%).",
+        "pt-BR": "Aumenta {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} e {[AURA]} em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%).",
+        "ru": "Увеличивает параметры {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} и {[AURA]} на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%).",
+        "zh-CN": "每升一级，{[STRENGTH]}、{[SKILL]}、{[SUSTAIN]}与{[AURA]}均获得{[VALUE]}%加成（最多+{[MAXVALUE]}%）。",
+        "tr": "{[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} ve {[AURA]}, rütbe başına %{[VALUE]} artar (maks. +%{[MAXVALUE]}).",
+        "uk": "Збільшує такі показники на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%): {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} і {[AURA]}."
       }
     },
     "name": {
       "_value": {
-        "en": "Ability"
+        "en": "Ability",
+        "fr": "Capacité",
+        "it": "Padronanza",
+        "de": "Fähigkeit",
+        "es": "Habilidad",
+        "ja": "アビリティ",
+        "ko": "능력",
+        "pl": "Zdolność",
+        "pt-BR": "Perícia",
+        "ru": "Способность",
+        "zh-CN": "能力",
+        "tr": "Yetenek",
+        "uk": "Обдарованість"
       }
     }
   },
   "ATTACKS": {
     "description": {
       "_value": {
-        "en": "Fires {[VALUE]} more projectile per rank for all weapons (max +{[MAXVALUE]})."
+        "en": "Fires {[VALUE]} more projectile per rank for all weapons (max +{[MAXVALUE]}).",
+        "fr": "Tire {[VALUE]} projectile de plus par rang pour toutes les armes (max. +{[MAXVALUE]}).",
+        "it": "Spara {[VALUE]} proiettile in più per grado per tutte le armi (max +{[MAXVALUE]}).",
+        "de": "Feuert für alle Waffen je {[VALUE]} zusätzliches Projektil pro Rang ab (max. +{[MAXVALUE]}).",
+        "es": "Dispara {[VALUE]} proyectil más por rango con todas las armas (máx. +{[MAXVALUE]}).",
+        "ja": "ランクごとにすべての武器の発射弾数が{[VALUE]}増加する。（最大+{[MAXVALUE]}）",
+        "ko": "등급마다 모든 무기의 투사체가 1개 추가됩니다(최대 +{[MAXVALUE]}).",
+        "pl": "Wystrzeliwuje o {[VALUE]} pocisk więcej na poziom ze wszystkich broni (maks. +{[MAXVALUE]}).",
+        "pt-BR": "Dispara mais {[VALUE]} projétil por ranque para todas as armas (máximo +{[MAXVALUE]}).",
+        "ru": "Для всего оружия выпускает на {[VALUE]} снаряд больше за каждый ранг (максимум +{[MAXVALUE]}).",
+        "zh-CN": "所有武器每级额外发射{[VALUE]}枚投射物（最多+{[MAXVALUE]}）。",
+        "tr": "Rütbe başına tüm silahlar {[VALUE]} ek mermi ateşler (en fazla +{[MAXVALUE]}).",
+        "uk": "Будь-яка зброя вистрілює {[VALUE]} додатковий снаряд за ранг (макс. +{[MAXVALUE]})."
       }
     },
     "name": {
       "_value": {
-        "en": "Attacks"
+        "en": "Attacks",
+        "fr": "Attaques",
+        "it": "Attacchi",
+        "de": "Angriffe",
+        "es": "Ataques",
+        "ja": "攻撃回数",
+        "ko": "공격",
+        "pl": "Ataki",
+        "pt-BR": "Ataques",
+        "ru": "Атаки",
+        "zh-CN": "攻击",
+        "tr": "Saldırılar",
+        "uk": "Атаки"
       }
     }
   },
   "AURA": {
     "description": {
       "_value": {
-        "en": "Increases pickup range +{[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+        "en": "Increases pickup range +{[VALUE]}% per rank (max +{[MAXVALUE]}%).",
+        "fr": "Augmente la portée des objets à ramasser de {[VALUE]} % par rang (max. +{[MAXVALUE]} %).",
+        "it": "Aumenta la distanza di raccolta del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Erhöht die Sammelreichweite pro Rang um +{[VALUE]} % (max. +{[MAXVALUE]} %).",
+        "es": "Aumenta el alcance de recogida +{[VALUE]} % por rango (máx. +{[MAXVALUE]} %).",
+        "ja": "ランクごとにピックアップ範囲が+{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。",
+        "ko": "등급당 아이템 획득 사거리가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "Zwiększa zasięg podnoszenia o +{[VALUE]}% na poziom (maks. +{[MAXVALUE]}%).",
+        "pt-BR": "Aumenta o alcance de coleta em +{[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%).",
+        "ru": "Увеличивает дальность подбора предметов на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%).",
+        "zh-CN": "每升一级，拾取范围+{[VALUE]}%（最多+{[MAXVALUE]}%）。",
+        "tr": "Toplanabilirlerin menzilini rütbe başına +%{[VALUE]} artırır (maks. +%{[MAXVALUE]}).",
+        "uk": "Збільшує радіус підбирання на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
       }
     },
     "name": {
       "_value": {
-        "en": "Aura"
+        "en": "Aura",
+        "fr": "Aura",
+        "it": "Aura",
+        "de": "Aura",
+        "es": "Aura",
+        "ja": "オーラ",
+        "ko": "오라",
+        "pl": "Aura",
+        "pt-BR": "Aura",
+        "ru": "Аура",
+        "zh-CN": "灵气",
+        "tr": "Aura",
+        "uk": "Аура"
       }
     }
   },
   "BAIT": {
     "description": {
       "_value": {
-        "en": "Increases enemy spawn quantity by {[VALUE]} per rank (max +{[MAXVALUE]})."
+        "en": "Increases enemy spawn quantity by {[VALUE]} per rank (max +{[MAXVALUE]}).",
+        "fr": "Augmente la quantité d’ennemis générés de {[VALUE]} par rang (max. +{[MAXVALUE]}).",
+        "it": "Aumenta la quantità di nemici generati di {[VALUE]} per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Erhöht die Anzahl gespawnter Gegner pro Rang um {[VALUE]} (max. +{[MAXVALUE]}).",
+        "es": "Aumenta la cantidad de enemigos que aparecen en {[VALUE]} por rango (máx. +{[MAXVALUE]}).",
+        "ja": "ランクごとに敵の出現数が{[VALUE]}増加する（最大+{[MAXVALUE]}）。",
+        "ko": "등급당 스폰되는 적의 수가 {[VALUE]} 증가합니다. 최대 {[MAXVALUE]}까지 증가합니다.",
+        "pl": "Zwiększa liczbę pojawiających się wrogów o {[VALUE]} na poziom (maks. +{[MAXVALUE]}).",
+        "pt-BR": "Aumenta a quantidade de inimigos gerados em {[VALUE]} por ranque (máximo de +{[MAXVALUE]}).",
+        "ru": "Увеличивает количество появляющихся врагов на {[VALUE]} за каждый ранг (максимум +{[MAXVALUE]}).",
+        "zh-CN": "每升一级，敌人生成数量增加{[VALUE]}个（最多+{[MAXVALUE]}）。",
+        "tr": "Düşman doğma sayısını rütbe başına +{[VALUE]} artırır (maks. +{[MAXVALUE]}).",
+        "uk": "Збільшує чисельність ворогів, що з’являються, на {[VALUE]} за ранг (макс. +{[MAXVALUE]})."
       }
     },
     "name": {
       "_value": {
-        "en": "Bait"
+        "en": "Bait",
+        "fr": "Appât",
+        "it": "Esca",
+        "de": "Köder",
+        "es": "Cebo",
+        "ja": "囮",
+        "ko": "미끼",
+        "pl": "Przynęta",
+        "pt-BR": "Isca",
+        "ru": "Приманка",
+        "zh-CN": "诱饵",
+        "tr": "Yem",
+        "uk": "Принадність"
       }
     }
   },
   "CHANCE": {
     "description": {
       "_value": {
-        "en": "Chance to get lucky goes up by {[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+        "en": "Chance to get lucky goes up by {[VALUE]}% per rank (max +{[MAXVALUE]}%).",
+        "fr": "Les chances d’avoir de la chance augmentent de {[VALUE]} % par rang (max. +{[MAXVALUE]} %).",
+        "it": "La probabilità di avere un colpo di fortuna aumenta del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Erhöht die Glückschance pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %).",
+        "es": "La probabilidad de tener suerte aumenta un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %).",
+        "ja": "運が良い状態になる確率がランクごとに{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。",
+        "ko": "등급당 행운이 발동할 확률이 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "Szansa na szczęśliwe trafienie wzrasta o {[VALUE]}% na poziom (maks. +{[MAXVALUE]}%).",
+        "pt-BR": "A chance de ter sorte aumenta em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%).",
+        "ru": "Шанс на удачу увеличивается на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%).",
+        "zh-CN": "每升一级，获得好运的几率提升{[VALUE]}%（最多+{[MAXVALUE]}%）。",
+        "tr": "Şanslı olma ihtimali rütbe başına %{[VALUE]} artar (maks. +%{[MAXVALUE]}).",
+        "uk": "Імовірність того, що вам пощастить, зростає на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
       }
     },
     "name": {
       "_value": {
-        "en": "Chance"
+        "en": "Chance",
+        "fr": "Chance",
+        "it": "Probabilità",
+        "de": "Chance",
+        "es": "Probabilidad",
+        "ja": "好機",
+        "ko": "확률",
+        "pl": "Szansa",
+        "pt-BR": "Chance",
+        "ru": "Шанс",
+        "zh-CN": "几率",
+        "tr": "Şans",
+        "uk": "Шанс"
       }
     }
   },
   "CORRUPTION": {
     "description": {
       "_value": {
-        "en": "Increases enemy speed, health, quantity, and frequency by 5% per rank (max +{[MAXVALUE]}%)."
+        "en": "Increases enemy speed, health, quantity, and frequency by 5% per rank (max +{[MAXVALUE]}%).",
+        "fr": "Augmente la vitesse, le niveau de santé, la quantité et la fréquence des ennemis de {[VALUE]} % par rang (max. +{[MAXVALUE]} %).",
+        "it": "Aumenta velocità, salute, quantità e frequenza dei nemici del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Erhöht Geschwindigkeit, Lebenspunkte, Anzahl und Spawnrate der Gegner pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %).",
+        "es": "Aumenta la velocidad, salud, cantidad y frecuencia de los enemigos un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %).",
+        "ja": "ランクごとに敵の移動速度、体力、出現数、出現頻度が{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。",
+        "ko": "등급당 적의 속도, 체력, 수, 출현 빈도가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "Zwiększa szybkość, punkty życia, liczbę i częstotliwość pojawiania się wrogów o {[VALUE]}% na poziom (maks. +{[MAXVALUE]}%).",
+        "pt-BR": "Aumenta a velocidade, a vida, o número e a frequência dos inimigos em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%).",
+        "ru": "Увеличивает скорость, здоровье, количество и частоту появления врага на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%).",
+        "zh-CN": "每升一级，敌方的速度、生命值、数量和刷新频率提升{[VALUE]}%（最多+{[MAXVALUE]}%）。",
+        "tr": "Düşman hızı, canı, sayısı ve sıklığını rütbe başına %{[VALUE]} artırır (maks. +%{[MAXVALUE]}).",
+        "uk": "Збільшує швидкість, показник здоров’я, чисельність і частоту появи ворогів на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
       }
     },
     "name": {
       "_value": {
-        "en": "Corruption"
+        "en": "Corruption",
+        "fr": "Corruption",
+        "it": "Corruzione",
+        "de": "Verderbnis",
+        "es": "Corrupción",
+        "ja": "汚染",
+        "ko": "타락",
+        "pl": "Zepsucie",
+        "pt-BR": "Corrupção",
+        "ru": "Скверна",
+        "zh-CN": "腐化",
+        "tr": "Yozlaşma",
+        "uk": "Скверна"
       }
     }
   },
   "FERVOUR": {
     "description": {
       "_value": {
-        "en": "Increases duration of Collectathon by {[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+        "en": "Increases duration of Collectathon by {[VALUE]}% per rank (max +{[MAXVALUE]}%).",
+        "fr": "Augmente la durée du Collectathon de {[VALUE]} % par rang (max. +{[MAXVALUE]} %).",
+        "it": "Aumenta la durata del Collectathon del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Erhöht die Dauer des Collectathons pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %).",
+        "es": "Aumenta la duración del Collectathon un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %).",
+        "ja": "ランクごとにコレクタソンの持続時間が{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。",
+        "ko": "등급당 컬렉터톤의 지속 시간이 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "Wydłuża czas trwania Collectathonu o {[VALUE]}% na poziom (maks. +{[MAXVALUE]}%).",
+        "pt-BR": "Aumenta a duração do Collectathon em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%).",
+        "ru": "Увеличивает длительность Коллектатона на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%).",
+        "zh-CN": "每升一级，“收集大作战”的持续时间延长{[VALUE]}%（最多+{[MAXVALUE]}%）。",
+        "tr": "Collectathon süresini rütbe başına %{[VALUE]} artırır (maks. +%{[MAXVALUE]}).",
+        "uk": "Збільшує тривалість колектатону на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
       }
     },
     "name": {
       "_value": {
-        "en": "Fervour"
+        "en": "Fervour",
+        "fr": "Ferveur",
+        "it": "Fervore",
+        "de": "Eifer",
+        "es": "Fervor",
+        "ja": "狂信",
+        "ko": "열의",
+        "pl": "Zapał",
+        "pt-BR": "Fervor",
+        "ru": "Рвение",
+        "zh-CN": "狂热",
+        "tr": "Coşku",
+        "uk": "Запал"
       }
     }
   },
   "INVULNERABLE": {
     "description": {
       "_value": {
-        "en": "Increases {[INVULNERABILITY]} time after getting damaged by 50 milliseconds."
+        "en": "Increases {[INVULNERABILITY]} time after getting damaged by 50 milliseconds.",
+        "fr": "Augmente la durée d'{[INVULNERABILITY]} de 50 millisecondes après avoir subi des dégâts.",
+        "it": "Aumenta di 50 millisecondi la durata dell'{[INVULNERABILITY]} dopo aver subito un danno.",
+        "de": "Erhöht die {[INVULNERABILITY]}-Zeit nach erlittenem Schaden um 50 Millisekunden.",
+        "es": "Aumenta el tiempo de {[INVULNERABILITY]} tras recibir daño en 50 milisegundos.",
+        "ja": "ダメージを受けた後の{[INVULNERABILITY]}時間が50ミリ秒延長される。",
+        "ko": "피해를 받은 후 {[INVULNERABILITY]} 지속 시간이 50밀리초 증가합니다.",
+        "pl": "{[INVULNERABILITY]} wydłuża się o 50 ms po otrzymaniu obrażeń.",
+        "pt-BR": "Aumenta o tempo de {[INVULNERABILITY]} após sofrer dano em 50 milisegundos.",
+        "ru": "После получения урона увеличивает время состояния {[INVULNERABILITY]} на 50 миллисекунд.",
+        "zh-CN": "受到伤害后，{[INVULNERABILITY]}的时间延长50毫秒。",
+        "tr": "Hasar aldıktan sonra {[INVULNERABILITY]} süresini 50 milisaniye artırır.",
+        "uk": "Збільшує на 50 мілісекунд тривалість ефекту {[INVULNERABILITY]} після того, як персонаж зазнає шкоди."
       }
     },
     "name": {
       "_value": {
-        "en": "Invulnerable"
+        "en": "Invulnerable",
+        "fr": "Invulnérable",
+        "it": "Invulnerabilità",
+        "de": "Unverwundbar",
+        "es": "Invulnerable",
+        "ja": "不死身",
+        "ko": "무적",
+        "pl": "Niewrażliwość",
+        "pt-BR": "Invulnerável",
+        "ru": "Неуязвимость",
+        "zh-CN": "无敌",
+        "tr": "Yenilmez",
+        "uk": "Невразливість"
       }
     }
   },
   "MOVE": {
     "description": {
       "_value": {
-        "en": "Character moves {[VALUE]}% faster per rank (max {[MAXVALUE]}%)."
+        "en": "Character moves {[VALUE]}% faster per rank (max {[MAXVALUE]}%).",
+        "fr": "Le personnage se déplace {[VALUE]} % plus vite par rang (max. {[MAXVALUE]} %).",
+        "it": "La velocità di movimento del personaggio aumenta del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Der Charakter bewegt sich pro Rang {[VALUE]} % schneller (max. {[MAXVALUE]} %).",
+        "es": "El personaje se mueve un {[VALUE]} % más rápido por rango (máx. {[MAXVALUE]} %).",
+        "ja": "ランクごとにキャラクターの移動速度が{[VALUE]}%増加する（最大{[MAXVALUE]}%）。",
+        "ko": "등급당 캐릭터의 이동 속도가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "Postać porusza się o {[VALUE]}% szybciej na poziom (maks. {[MAXVALUE]}%).",
+        "pt-BR": "O personagem se move {[VALUE]}% mais rápido por ranque (máximo de {[MAXVALUE]}%).",
+        "ru": "Персонаж передвигается на {[VALUE]}% быстрее за каждый ранг (максимум +{[MAXVALUE]}%).",
+        "zh-CN": "每升一级，角色的移动速度提升{[VALUE]}%（最多{[MAXVALUE]}%）。",
+        "tr": "Karakter rütbe başına %{[VALUE]} daha hızlı hareket eder (maks. +%{[MAXVALUE]}).",
+        "uk": "Персонаж рухається на {[VALUE]}% швидше за кожен ранг (макс. +{[MAXVALUE]}%)."
       }
     },
     "name": {
       "_value": {
-        "en": "Move"
+        "en": "Move",
+        "fr": "Mouvement",
+        "it": "Movimento",
+        "de": "Bewegung",
+        "es": "Movimiento",
+        "ja": "移動力",
+        "ko": "이동",
+        "pl": "Ruch",
+        "pt-BR": "Mover",
+        "ru": "Движение",
+        "zh-CN": "移动",
+        "tr": "Hareket",
+        "uk": "Рухливість"
       }
     }
   },
   "RANGE": {
     "description": {
       "_value": {
-        "en": "Increases size of attacks by {[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+        "en": "Increases size of attacks by {[VALUE]}% per rank (max +{[MAXVALUE]}%).",
+        "fr": "Augmente l’ampleur des attaques de {[VALUE]} % par rang (max. +{[MAXVALUE]} %).",
+        "it": "Aumenta l'ampiezza degli attacchi del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Erhöht die Schlagkraft von Angriffen pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %).",
+        "es": "Aumenta el tamaño de los ataques un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %).",
+        "ja": "ランクごとに攻撃サイズが{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。",
+        "ko": "등급당 공격 크기가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "Zwiększa rozmiar ataków o {[VALUE]}% na poziom (maks. +{[MAXVALUE]}%).",
+        "pt-BR": "Aumenta o tamanho dos ataques em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%).",
+        "ru": "Увеличивает размер атак на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%).",
+        "zh-CN": "每升一级，攻击范围增加{[VALUE]}%（最多+{[MAXVALUE]}%）。",
+        "tr": "Saldırı boyutunu rütbe başına %{[VALUE]} artırır (maks. +%{[MAXVALUE]}).",
+        "uk": "Збільшує радіус атак на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
       }
     },
     "name": {
       "_value": {
-        "en": "Range"
+        "en": "Range",
+        "fr": "Portée",
+        "it": "Distanza",
+        "de": "Reichweite",
+        "es": "Alcance",
+        "ja": "射程",
+        "ko": "사거리",
+        "pl": "Zasięg",
+        "pt-BR": "Alcance",
+        "ru": "Дальность",
+        "zh-CN": "范围",
+        "tr": "Menzil",
+        "uk": "Дальність"
       }
     }
   },
   "REDEPLOYMENT": {
     "description": {
       "_value": {
-        "en": "Revive once per rank with 50% Wounds (max +{[MAXVALUE]})."
+        "en": "Revive once per rank with 50% Wounds (max +{[MAXVALUE]}).",
+        "fr": "Ressuscitez une fois par rang avec 50 % de blessures (max. +{[MAXVALUE]}).",
+        "it": "Rinasci una volta per grado con il 50% delle ferite (max +{[MAXVALUE]}).",
+        "de": "Einmalige Wiederbelebung pro Rang mit 50 % Lebenspunkten (max. +{[MAXVALUE]}).",
+        "es": "Revive una vez por rango con el 50 % de heridas (máx. +{[MAXVALUE]}).",
+        "ja": "ランクごとに負傷限界50%で1回復活する。（最大+{[MAXVALUE]}）",
+        "ko": "등급마다 체력 50%로 1회 되살아납니다(최대 +{[MAXVALUE]}회).",
+        "pl": "Jedno odrodzenie na poziom z 50% punktów życia (maks. +{[MAXVALUE]}).",
+        "pt-BR": "Revive uma vez por ranque com 50% das feridas (máximo +{[MAXVALUE]}).",
+        "ru": "Возрождает один раз за ранг, восстанавливая 50% ран (максимум +{[MAXVALUE]}).",
+        "zh-CN": "每级以50%承伤复活一次（最多+{[MAXVALUE]}）。",
+        "tr": "Rütbe başına %50 yarayla bir kez yeniden canlanır (en fazla +{[MAXVALUE]}).",
+        "uk": "Відроджує один раз за ранг з 50% ран (макс. {[MAXVALUE]} рази)."
       }
     },
     "name": {
       "_value": {
-        "en": "Redeployment"
+        "en": "Redeployment",
+        "fr": "Redéploiement",
+        "it": "Ridistribuzione",
+        "de": "Neuaufstellung",
+        "es": "Redespliegue",
+        "ja": "再配置",
+        "ko": "재배치",
+        "pl": "Odrodzenie",
+        "pt-BR": "Recolocação",
+        "ru": "Передислокация",
+        "zh-CN": "重新部署",
+        "tr": "Yeniden Konuşlanma",
+        "uk": "Передислокація"
       }
     }
   },
   "RELOAD": {
     "description": {
       "_value": {
-        "en": "Uses weapons {[VALUE]}% faster per rank (max {[MAXVALUE]}%)."
+        "en": "Uses weapons {[VALUE]}% faster per rank (max {[MAXVALUE]}%).",
+        "fr": "Utilise des armes {[VALUE]} % plus rapides par rang (max. {[MAXVALUE]} %).",
+        "it": "La velocità di utilizzo delle armi aumenta dell'{[VALUE]}% per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Setzt Waffen pro Rang {[VALUE]} % schneller ein (max. {[MAXVALUE]} %).",
+        "es": "Usa las armas un {[VALUE]} % más rápido por rango (máx. {[MAXVALUE]} %).",
+        "ja": "ランクごとに武器の使用速度が{[VALUE]}%増加する（最大{[MAXVALUE]}%）。",
+        "ko": "등급당 무기 사용 속도가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "Zwiększa szybkość używania broni o {[VALUE]}% na poziom (maks. {[MAXVALUE]}%).",
+        "pt-BR": "Usa armas {[VALUE]}% mais rápido por ranque (máximo de {[MAXVALUE]}%).",
+        "ru": "Использует оружие на {[VALUE]}% быстрее за каждый ранг (максимум +{[MAXVALUE]}%).",
+        "zh-CN": "每升一级，武器的使用速度提升{[VALUE]}%（最多{[MAXVALUE]}%）。",
+        "tr": "Silahları rütbe başına %{[VALUE]} daha hızlı kullanır (maks. +%{[MAXVALUE]}).",
+        "uk": "Використовує зброю на {[VALUE]}% швидше за кожен ранг (макс. +{[MAXVALUE]}%)."
       }
     },
     "name": {
       "_value": {
-        "en": "Reload"
+        "en": "Reload",
+        "fr": "Recharge",
+        "it": "Ricarica",
+        "de": "Nachladen",
+        "es": "Recarga",
+        "ja": "リロード",
+        "ko": "재장전",
+        "pl": "Przeładowanie",
+        "pt-BR": "Recarregar",
+        "ru": "Перезарядка",
+        "zh-CN": "重新装填",
+        "tr": "Yeniden Yükleme",
+        "uk": "Перезаряджання"
       }
     }
   },
   "RETRIBUTION": {
     "description": {
       "_value": {
-        "en": "{[VALUE]}% of enemies per rank spawn unable to deal damage (max {[MAXVALUE]}%)."
+        "en": "{[VALUE]}% of enemies per rank spawn unable to deal damage (max {[MAXVALUE]}%).",
+        "fr": "{[VALUE]} % des ennemis par rang générés sont incapables d’infliger des dégâts (max. {[MAXVALUE]} %).",
+        "it": "L'{[VALUE]}% dei nemici generati per ogni grado è incapace di infliggere danni (max +{[MAXVALUE]}%).",
+        "de": "Pro Rang erscheinen {[VALUE]} % der Gegner ohne die Fähigkeit, Schaden zu verursachen (max. {[MAXVALUE]} %).",
+        "es": "El número de enemigos que aparecen sin poder infligir daño aumenta un {[VALUE]} % por rango (máx. {[MAXVALUE]} %).",
+        "ja": "ランクごとに敵の{[VALUE]}%がダメージを与えられない状態で出現する（最大{[MAXVALUE]}%）。",
+        "ko": "등급당 적의 {[VALUE]}%가 피해를 줄 수 없는 상태로 스폰됩니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "{[VALUE]}% wrogów na poziom pojawia się bez możliwości zadawania obrażeń (maks. {[MAXVALUE]}%).",
+        "pt-BR": "A cada ranque, {[VALUE]}% dos inimigos que aparecem não podem causar dano (máximo de {[MAXVALUE]}%).",
+        "ru": "С каждым рангом {[VALUE]}% появляющихся врагов лишается способности наносить урон (максимум {[MAXVALUE]}%).",
+        "zh-CN": "每升一级，生成的敌人中有{[VALUE]}%无法造成伤害（最多{[MAXVALUE]}%）。",
+        "tr": "Düşmanların %{[VALUE]}’i, rütbe başına hasar veremez şekilde doğar (maks. %{[MAXVALUE]}).",
+        "uk": "{[VALUE]}% ворогів за ранг (макс. +{[MAXVALUE]}%) не можуть завдавати шкоди."
       }
     },
     "name": {
       "_value": {
-        "en": "Retribution"
+        "en": "Retribution",
+        "fr": "Châtiment",
+        "it": "Vendetta",
+        "de": "Vergeltung",
+        "es": "Retribución",
+        "ja": "報復",
+        "ko": "응징",
+        "pl": "Odwet",
+        "pt-BR": "Retribuição",
+        "ru": "Возмездие",
+        "zh-CN": "神罚",
+        "tr": "İlahi Ceza",
+        "uk": "Відплата"
       }
     }
   },
   "SAVES": {
     "description": {
       "_value": {
-        "en": "Reduces incoming damage by {[VALUE]} per rank (max -{[MAXVALUE]})."
+        "en": "Reduces incoming damage by {[VALUE]} per rank (max -{[MAXVALUE]}).",
+        "fr": "Réduit les dégâts à venir de {[COMMA_VALUE]} par rang (max. -{[COMMA_MAXVALUE]}).",
+        "it": "Riduce i danni subiti di {[COMMA_VALUE]} per ogni grado (max -{[COMMA_MAXVALUE]}).",
+        "de": "Verringert erlittenen Schaden pro Rang um {[COMMA_VALUE]} (max. -{[COMMA_MAXVALUE]}).",
+        "es": "Reduce el daño recibido en {[COMMA_VALUE]} por rango (máx. -{[COMMA_MAXVALUE]}).",
+        "ja": "ランクごとに被ダメージを{[VALUE]}軽減する（最大-{[MAXVALUE]}）。",
+        "ko": "등급당 받는 피해가 {[VALUE]} 감소합니다. 최대 {[MAXVALUE]}까지 감소합니다.",
+        "pl": "Zmniejsza otrzymywane obrażenia o {[COMMA_VALUE]} na poziom (maks. -{[COMMA_MAXVALUE]}).",
+        "pt-BR": "Reduz o dano recebido em {[COMMA_VALUE]} por ranque (máximo: -{[COMMA_MAXVALUE]}).",
+        "ru": "Уменьшает входящий урон на {[COMMA_VALUE]} ед. за каждый ранг (максимум -{[COMMA_MAXVALUE]}).",
+        "zh-CN": "每升一级，受到的伤害减少{[VALUE]}（最多-{[MAXVALUE]}）。",
+        "tr": "Gelen hasarı rütbe başına {[COMMA_VALUE]} azaltır (maks. -{[COMMA_MAXVALUE]}).",
+        "uk": "Змешує отримувану шкоду на {[COMMA_VALUE]} за ранг (макс -{[COMMA_MAXVALUE]})."
       }
     },
     "name": {
       "_value": {
-        "en": "Save"
+        "en": "Save",
+        "fr": "Sauvegarde",
+        "it": "Salvezza",
+        "de": "Rettung",
+        "es": "Protección",
+        "ja": "防御力",
+        "ko": "방어",
+        "pl": "Obrona",
+        "pt-BR": "Salvar",
+        "ru": "Спасбросок",
+        "zh-CN": "减伤",
+        "tr": "Kaydet",
+        "uk": "Ряткидок"
       }
     }
   },
   "WS_SEAL2": {
     "description": {
       "_value": {
-        "en": "Seal 2 Items and Weapons so that they do not appear in Missions and level up choices. (Use in Bit Box menu)"
+        "en": "Seal 2 Items and Weapons so that they do not appear in Missions and level up choices. (Use in Bit Box menu)",
+        "fr": "Scellez 2 objets et armes afin qu’ils n’apparaissent pas dans les choix de mission et de passage de niveau. (À utiliser dans le menu Boîte à pièces détachées)",
+        "it": "Blocca 2 Oggetti e Armi in modo che non appaiano nelle Missioni e tra le opzioni di aumento di livello. (Da usare nel menu Scatola di pezzi)",
+        "de": "Versiegle 2 Gegenstände und Waffen, damit sie in Missionen und als Auswahlmöglichkeiten beim Stufenaufstieg nicht erscheinen (im Bit-Box-Menü verwenden).",
+        "es": "Sella 2 objetos y armas para que no aparezcan en las misiones ni en las opciones de subida de nivel (se usa en el menú Caja de piezas).",
+        "ja": "アイテムと武器を2つ封印し、ミッションおよびレベルアップ選択肢に出現しないようにする。（ビットボックスメニューで使用）",
+        "ko": "아이템과 무기 2개를 봉인해 미션과 레벨 상승 선택지에 등장하지 않게 합니다. 공구함 메뉴에서 사용합니다.",
+        "pl": "Zapieczętuj 2 przedmioty i bronie, aby nie pojawiały się w misjach i opcjach dostępnych po zdobyciu nowego poziomu. (Użyj w menu Skrzynki z narzędziami)",
+        "pt-BR": "Bloqueie 2 Itens e Armas para que não apareçam nas Missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)",
+        "ru": "Запечатайте 2 предмета и вида оружия, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)",
+        "zh-CN": "封印2件物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）",
+        "tr": "Görevlerde ve seviye atlama seçimlerinde görünmemesi için 2 Öge ve Silahı mühürle. (Bit Box menüsünde kullan)",
+        "uk": "Запечатує 2 предмета і дві зброї, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)"
       }
     },
     "name": {
       "_value": {
-        "en": "Seal II"
+        "en": "Seal II",
+        "fr": "Sceau II",
+        "it": "Sigillo II",
+        "de": "Siegel II",
+        "es": "Sello II",
+        "ja": "封印II",
+        "ko": "봉인 II",
+        "pl": "Pieczęć I",
+        "pt-BR": "Selo I",
+        "ru": "Печать II",
+        "zh-CN": "封印 II",
+        "tr": "Mühür I",
+        "uk": "Печатка II"
       }
     }
   },
   "WS_SEAL3": {
     "description": {
       "_value": {
-        "en": "WS_SEAL 3 Items and Weapons so that they do not appear in Missions and level up choices. (Use in Bit Box menu)"
+        "en": "WS_SEAL 3 Items and Weapons so that they do not appear in Missions and level up choices. (Use in Bit Box menu)",
+        "fr": "Scellez 3 objets et armes afin qu’ils n’apparaissent pas dans les choix de mission et de passage de niveau. (À utiliser dans le menu Boîte à pièces détachées)",
+        "it": "Blocca 3 Oggetti e Armi in modo che non appaiano nelle Missioni e tra le opzioni di aumento di livello. (Da usare nel menu Scatola di pezzi)",
+        "de": "Versiegle 3 Gegenstände und Waffen, damit sie in Missionen und als Auswahlmöglichkeiten beim Stufenaufstieg nicht erscheinen (im Bit-Box-Menü verwenden).",
+        "es": "Sella 3 objetos y armas para que no aparezcan en las misiones ni en las opciones de subida de nivel (se usa en el menú Caja de piezas).",
+        "ja": "アイテムと武器を3つ封印し、ミッションおよびレベルアップ選択肢に出現しないようにする。（ビットボックスメニューで使用）",
+        "ko": "아이템과 무기 3개를 봉인해 미션과 레벨 상승 선택지에 등장하지 않게 합니다. 공구함 메뉴에서 사용합니다.",
+        "pl": "Zapieczętuj 3 przedmioty i bronie, aby nie pojawiały się w misjach i opcjach dostępnych po zdobyciu nowego poziomu. (Użyj w menu Skrzynki z narzędziami)",
+        "pt-BR": "Bloqueie 3 Itens e Armas para que não apareçam nas Missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)",
+        "ru": "Запечатайте 3 предмета и вида оружия, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)",
+        "zh-CN": "封印3件物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）",
+        "tr": "Görevlerde ve seviye atlama seçimlerinde görünmemesi için 3 Öge ve Silahı mühürle. (Bit Box menüsünde kullan)",
+        "uk": "Запечатує 3 предмета і три зброї, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)"
       }
     },
     "name": {
       "_value": {
-        "en": "WS_SEAL III"
+        "en": "WS_SEAL III",
+        "fr": "Sceau III",
+        "it": "Sigillo III",
+        "de": "Siegel III",
+        "es": "Sello III",
+        "ja": "封印III",
+        "ko": "봉인 III",
+        "pl": "Pieczęć I",
+        "pt-BR": "Selo I",
+        "ru": "Печать III",
+        "zh-CN": "封印 III",
+        "tr": "Mühür I",
+        "uk": "Печатка III"
       }
     }
   },
   "WS_SEAL4": {
     "description": {
       "_value": {
-        "en": "WS_SEAL 4 Items and Weapons so that they do not appear in Missions and level up choices. (Use in Bit Box menu)"
+        "en": "WS_SEAL 4 Items and Weapons so that they do not appear in Missions and level up choices. (Use in Bit Box menu)",
+        "fr": "Scellez 4 objets et armes afin qu’ils n’apparaissent pas dans les choix de mission et de passage de niveau. (À utiliser dans le menu Boîte à pièces détachées)",
+        "it": "Blocca 4 Oggetti e Armi in modo che non appaiano nelle Missioni e tra le opzioni di aumento di livello. (Da usare nel menu Scatola di pezzi)",
+        "de": "Versiegle 4 Gegenstände und Waffen, damit sie in Missionen und als Auswahlmöglichkeiten beim Stufenaufstieg nicht erscheinen (im Bit-Box-Menü verwenden).",
+        "es": "Sella 4 objetos y armas para que no aparezcan en las misiones ni en las opciones de subida de nivel (se usa en el menú Caja de piezas).",
+        "ja": "アイテムと武器を4つ封印し、ミッションおよびレベルアップ選択肢に出現しないようにする。（ビットボックスメニューで使用）",
+        "ko": "아이템과 무기 4개를 봉인해 미션과 레벨 상승 선택지에 등장하지 않게 합니다. 공구함 메뉴에서 사용합니다.",
+        "pl": "Zapieczętuj 4 przedmioty i bronie, aby nie pojawiały się w misjach i opcjach dostępnych po zdobyciu nowego poziomu. (Użyj w menu Skrzynki z narzędziami)",
+        "pt-BR": "Bloqueie 4 Itens e Armas para que não apareçam nas Missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)",
+        "ru": "Запечатайте 4 предмета и вида оружия, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)",
+        "zh-CN": "封印4件物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）",
+        "tr": "Görevlerde ve seviye atlama seçimlerinde görünmemesi için 4 Öge ve Silahı mühürle. (Bit Box menüsünde kullan)",
+        "uk": "Запечатує 4 предмета і чотири зброї, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)"
       }
     },
     "name": {
       "_value": {
-        "en": "Seal All"
+        "en": "Seal All",
+        "fr": "Tout sceller",
+        "it": "Sigillo IV",
+        "de": "Siegel IV",
+        "es": "Sello IV",
+        "ja": "封印IV",
+        "ko": "봉인 IV",
+        "pl": "Pieczęć I",
+        "pt-BR": "Selo I",
+        "ru": "Печать IV",
+        "zh-CN": "全部封印",
+        "tr": "Mühür I",
+        "uk": "Печатка IV"
       }
     }
   },
   "SKILL": {
     "description": {
       "_value": {
-        "en": "Projectiles move {[VALUE]}% faster per rank (max {[MAXVALUE]}%)."
+        "en": "Projectiles move {[VALUE]}% faster per rank (max {[MAXVALUE]}%).",
+        "fr": "Les projectiles se déplacent {[VALUE]} % plus vite par rang (max. {[MAXVALUE]} %).",
+        "it": "La velocità di movimento dei proiettili aumenta del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Projektile fliegen pro Rang {[VALUE]} % schneller (max. {[MAXVALUE]} %).",
+        "es": "Los proyectiles se mueven un {[VALUE]} % más rápido por rango (máx. {[MAXVALUE]} %).",
+        "ja": "ランクごとに投射物の速度が{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。",
+        "ko": "등급당 투사체 속도가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "Zwiększa prędkość pocisków o {[VALUE]}% na poziom (maks. {[MAXVALUE]}%).",
+        "pt-BR": "Os projéteis se movem {[VALUE]}% mais rápido por ranque (máximo de {[MAXVALUE]}%).",
+        "ru": "Снаряды летят на {[VALUE]}% быстрее за каждый ранг (максимум +{[MAXVALUE]}%).",
+        "zh-CN": "每升一级，投射物的移动速度提升{[VALUE]}%（最多{[MAXVALUE]}%）。",
+        "tr": "Mermiler rütbe başına %{[VALUE]} daha hızlı hareket eder (maks. %{[MAXVALUE]}).",
+        "uk": "Снаряди летять на {[VALUE]}% швидше за кожен ранг (макс. +{[MAXVALUE]}%)."
       }
     },
     "name": {
       "_value": {
-        "en": "Skill"
+        "en": "Skill",
+        "fr": "Compétence",
+        "it": "Abilità",
+        "de": "Fähigkeit",
+        "es": "Pericia",
+        "ja": "スキル",
+        "ko": "스킬",
+        "pl": "Umiejętność",
+        "pt-BR": "Destreza",
+        "ru": "Навык",
+        "zh-CN": "技能",
+        "tr": "Yetenek",
+        "uk": "Вправність"
       }
     }
   },
   "STRENGTH": {
     "description": {
       "_value": {
-        "en": "Raises inflicted damage by {[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+        "en": "Raises inflicted damage by {[VALUE]}% per rank (max +{[MAXVALUE]}%).",
+        "fr": "Augmente les dégâts infligés de {[VALUE]} % par rang (max. +{[MAXVALUE]} %).",
+        "it": "I danni inflitti aumentano del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Erhöht verursachten Schaden pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %).",
+        "es": "Aumenta el daño infligido un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %).",
+        "ja": "ランクごとに与ダメージが{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。",
+        "ko": "등급당 주는 피해가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "Zwiększa zadawane obrażenia o {[VALUE]}% na poziom (maks. +{[MAXVALUE]}%).",
+        "pt-BR": "Aumenta o dano causado em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%).",
+        "ru": "Увеличивает исходящий урон на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%).",
+        "zh-CN": "每升一级，造成的伤害提高{[VALUE]}%（最多+{[MAXVALUE]}%）。",
+        "tr": "Verilen hasarı rütbe başına %{[VALUE]} artırır (maks. +%{[MAXVALUE]}).",
+        "uk": "Збільшує завдану шкоду на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
       }
     },
     "name": {
       "_value": {
-        "en": "Strength"
+        "en": "Strength",
+        "fr": "Force",
+        "it": "Forza",
+        "de": "Stärke",
+        "es": "Fuerza",
+        "ja": "攻撃力",
+        "ko": "위력",
+        "pl": "Siła",
+        "pt-BR": "Força",
+        "ru": "Сила",
+        "zh-CN": "力量",
+        "tr": "Güç",
+        "uk": "Сила"
       }
     }
   },
   "SUSTAIN": {
     "description": {
       "_value": {
-        "en": "Increases attack and effect time by {[VALUE]}% (max {[MAXVALUE]}%)."
+        "en": "Increases attack and effect time by {[VALUE]}% (max {[MAXVALUE]}%).",
+        "fr": "Augmente la durée des effets et des attaques de {[VALUE]} % (max. {[MAXVALUE]} %).",
+        "it": "Aumenta la durata degli attacchi e degli effetti del {[VALUE]}% (max +{[MAXVALUE]}%).",
+        "de": "Erhöht Angriffs- und Effektdauer pro Rang um {[VALUE]} % (max. {[MAXVALUE]} %).",
+        "es": "Aumenta el tiempo de ataque y efecto un {[VALUE]} % (máx. {[MAXVALUE]} %).",
+        "ja": "攻撃および効果時間が{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。",
+        "ko": "공격과 효과의 지속 시간이 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "Zwiększa czas trwania ataków i efektów o {[VALUE]}% (maks. {[MAXVALUE]}%).",
+        "pt-BR": "Aumenta o tempo de ataque e de efeitos em {[VALUE]}% (máximo de {[MAXVALUE]}%).",
+        "ru": "Увеличивает атаку и время действия эффекта на {[VALUE]}% (максимум {[MAXVALUE]}%).",
+        "zh-CN": "攻击和效果持续时间延长{[VALUE]}%（最多{[MAXVALUE]}%）。",
+        "tr": "Saldırı ve etki süresini %{[VALUE]} artırır (maks. %{[MAXVALUE]}).",
+        "uk": "Збільшує тривалість атак й тривалість ефектів на {[VALUE]}% (макс. +{[MAXVALUE]}%)."
       }
     },
     "name": {
       "_value": {
-        "en": "Sustain"
+        "en": "Sustain",
+        "fr": "Maintien",
+        "it": "Sostegno",
+        "de": "Aufrechterhaltung",
+        "es": "Duración",
+        "ja": "持続",
+        "ko": "유지력",
+        "pl": "Podtrzymanie",
+        "pt-BR": "Sustentar",
+        "ru": "Длительность",
+        "zh-CN": "持续攻击",
+        "tr": "Dayanıklılık",
+        "uk": "Стійкість"
       }
     }
   },
   "TITHE": {
     "description": {
       "_value": {
-        "en": "Gains {[VALUE]}% more Coins per rank (max +{[MAXVALUE]}%)."
+        "en": "Gains {[VALUE]}% more Coins per rank (max +{[MAXVALUE]}%).",
+        "fr": "Obtient {[VALUE]} % de pièces en plus par rang (max. +{[MAXVALUE]} %).",
+        "it": "Ottieni il {[VALUE]}% di Monete in più per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Gewährt pro Rang {[VALUE]} % mehr Münzen (max. +{[MAXVALUE]} %).",
+        "es": "Obtiene un {[VALUE]} % más de monedas por rango (máx. +{[MAXVALUE]} %).",
+        "ja": "ランクごとに獲得コインが{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。",
+        "ko": "등급당 코인 획득량이 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "Zyskuje o {[VALUE]}% więcej monet na poziom (maks. +{[MAXVALUE]}%).",
+        "pt-BR": "Ganha {[VALUE]}% a mais de Moedas por ranque (máximo de +{[MAXVALUE]}%).",
+        "ru": "Получает на {[VALUE]}% больше монет за каждый ранг (максимум +{[MAXVALUE]}%).",
+        "zh-CN": "每升一级，硬币获取量额外增加{[VALUE]}%（最多+{[MAXVALUE]}%）。",
+        "tr": "Rütbe başına %{[VALUE]} daha fazla Para kazanır (maks. +%{[MAXVALUE]}).",
+        "uk": "Здобуває на {[VALUE]}% більше монет за ранг (макс. +{[MAXVALUE]}%)."
       }
     },
     "name": {
       "_value": {
-        "en": "Tithe"
+        "en": "Tithe",
+        "fr": "Dîme",
+        "it": "Decima",
+        "de": "Zehnt",
+        "es": "Diezmo",
+        "ja": "租税",
+        "ko": "십일조",
+        "pl": "Dziesięcina",
+        "pt-BR": "Dízimo",
+        "ru": "Десятина",
+        "zh-CN": "什一税",
+        "tr": "Haraç",
+        "uk": "Десятина"
       }
     }
   },
   "TOUGHNESS": {
     "description": {
       "_value": {
-        "en": "Recovers {[VALUE]} Wounds per rank (max {[MAXVALUE]}) per second."
+        "en": "Recovers {[VALUE]} Wounds per rank (max {[MAXVALUE]}) per second.",
+        "fr": "Récupère de {[COMMA_VALUE]} blessure par rang (max. {[COMMA_MAXVALUE]}) par seconde.",
+        "it": "Recuperi {[COMMA_VALUE]} punti ferita per ogni grado (max {[COMMA_MAXVALUE]}) al secondo.",
+        "de": "Stellt pro Rang {[COMMA_VALUE]} Lebenspunkt pro Sekunde wieder her (max. {[COMMA_MAXVALUE]}).",
+        "es": "Recupera {[COMMA_VALUE]} heridas por rango (máx. {[COMMA_MAXVALUE]}) por segundo.",
+        "ja": "1秒ごとに、ランクごとに負傷限界を{[VALUE]}回復する（最大{[MAXVALUE]}）。",
+        "ko": "등급당 초당 체력을 {[VALUE]}씩 회복합니다. 초당 최대 {[MAXVALUE]}까지 회복합니다.",
+        "pl": "Przywraca {[COMMA_VALUE]} pkt. życia na poziom (maks. {[COMMA_MAXVALUE]}) na sekundę.",
+        "pt-BR": "Recupera {[COMMA_VALUE]} ferida por ranque (máximo de {[COMMA_MAXVALUE]}) por segundo.",
+        "ru": "Восстанавливает {[COMMA_VALUE]} раны за каждый ранг (максимум {[COMMA_MAXVALUE]}) в секунду.",
+        "zh-CN": "每升一级，每秒恢复{[VALUE]}承伤（最多{[MAXVALUE]}）。",
+        "tr": "Saniyede rütbe başına {[COMMA_VALUE]} yarayı iyileştirir (maks. {[COMMA_MAXVALUE]}).",
+        "uk": "Загоює {[COMMA_VALUE]} рани за секунду за ранг (макс. {[COMMA_MAXVALUE]})."
       }
     },
     "name": {
       "_value": {
-        "en": "Toughness"
+        "en": "Toughness",
+        "fr": "Endurance",
+        "it": "Resistenza",
+        "de": "Widerstand",
+        "es": "Resistencia",
+        "ja": "耐久力",
+        "ko": "내구",
+        "pl": "Wytrzymałość",
+        "pt-BR": "Dureza",
+        "ru": "Стойкость",
+        "zh-CN": "坚韧",
+        "tr": "Sağlamlık",
+        "uk": "Витривалість"
       }
     }
   },
   "VETERANCY": {
     "description": {
       "_value": {
-        "en": "Gains {[VALUE]}% more experience per rank (max {[MAXVALUE]}%)."
+        "en": "Gains {[VALUE]}% more experience per rank (max {[MAXVALUE]}%).",
+        "fr": "Obtient {[VALUE]} % d’expérience en plus par rang (max. +{[MAXVALUE]} %).",
+        "it": "Ottieni il {[VALUE]}% di esperienza in più per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Gewährt pro Rang {[VALUE]} % mehr Erfahrung (max. {[MAXVALUE]} %).",
+        "es": "Obtiene un {[VALUE]} % más de experiencia por rango (máx. {[MAXVALUE]} %).",
+        "ja": "ランクごとに経験値が{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。",
+        "ko": "등급당 경험치 획득량이 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "Zyskuje o {[VALUE]}% więcej doświadczenia na poziom (maks. {[MAXVALUE]}%).",
+        "pt-BR": "Ganha {[VALUE]}% a mais de experiência por ranque (máximo de {[MAXVALUE]}%).",
+        "ru": "Получает на {[VALUE]}% больше опыта за каждый ранг (максимум +{[MAXVALUE]}%).",
+        "zh-CN": "每升一级，经验值获取量额外增加{[VALUE]}%（最多{[MAXVALUE]}%）。",
+        "tr": "Rütbe başına %{[VALUE]} daha fazla deneyim kazanır (maks. %{[MAXVALUE]}).",
+        "uk": "Здобуває на {[VALUE]}% більше досвіду за ранг (макс. +{[MAXVALUE]}%)."
       }
     },
     "name": {
       "_value": {
-        "en": "Veterancy"
+        "en": "Veterancy",
+        "fr": "Vétérance",
+        "it": "Esperienza",
+        "de": "Veteranenstufe",
+        "es": "Veteranía",
+        "ja": "熟練度",
+        "ko": "숙련도",
+        "pl": "Wprawa",
+        "pt-BR": "Experiência",
+        "ru": "Ветеранство",
+        "zh-CN": "熟练度",
+        "tr": "Kıdem",
+        "uk": "Воєнний досвід"
       }
     }
   },
   "WOUNDS": {
     "description": {
       "_value": {
-        "en": "Increases Max Health by {[VALUE]}% per rank (max +{[MAXVALUE]}%)."
+        "en": "Increases Max Health by {[VALUE]}% per rank (max +{[MAXVALUE]}%).",
+        "fr": "Augmente le niveau de santé max. de {[VALUE]} % par rang (max. +{[MAXVALUE]} %).",
+        "it": "Aumenta la Salute Massima del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%).",
+        "de": "Erhöht die Max. Gesundheit pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %).",
+        "es": "Aumenta la salud máxima un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %).",
+        "ja": "最大体力がランクごとに{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。",
+        "ko": "등급당 최대 체력이 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다.",
+        "pl": "Zwiększa maksymalną liczbę punktów życia o {[VALUE]}% na poziom (maks. +{[MAXVALUE]}%).",
+        "pt-BR": "Aumenta a Vida Máxima em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%).",
+        "ru": "Увеличивает макс. здоровье на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%).",
+        "zh-CN": "每升一级，最大生命值增加{[VALUE]}%（最多+{[MAXVALUE]}%）。",
+        "tr": "Maks. Canı rütbe başına %{[VALUE]} artırır (maks. +%{[MAXVALUE]}).",
+        "uk": "Збільшує максимальний показник здоров’я на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
       }
     },
     "name": {
       "_value": {
-        "en": "Wounds"
+        "en": "Wounds",
+        "fr": "Blessures",
+        "it": "Ferite",
+        "de": "Lebenspunkte",
+        "es": "Heridas",
+        "ja": "負傷限界",
+        "ko": "체력",
+        "pl": "Rany",
+        "pt-BR": "Feridas",
+        "ru": "Ранения",
+        "zh-CN": "承伤",
+        "tr": "Yaralar",
+        "uk": "Рани"
       }
     }
   },
   "WS_BANISH": {
     "description": {
       "_value": {
-        "en": "Twice per rank, allows you to remove an item from level up choices, for the rest of the run."
+        "en": "Twice per rank, allows you to remove an item from level up choices, for the rest of the run.",
+        "fr": "Deux fois par rang, vous permet de retirer un objet des choix de passage de niveau pour le reste de la partie.",
+        "it": "Due volte per grado, consente di rimuovere un oggetto dalle scelte di passaggio di livello per il resto della partita.",
+        "de": "Ermöglicht dir zweimal pro Rang, einen Gegenstand für den Rest des Durchlaufs aus den Auswahlmöglichkeiten beim Stufenaufstieg zu entfernen.",
+        "es": "Dos veces por rango, te permite eliminar un objeto de las opciones de subida de nivel durante el resto de la partida.",
+        "ja": "ランクごとに2回、レベルアップ選択肢からアイテムを除外できるようになる（このランの間のみ）。",
+        "ko": "등급마다 2회, 이번 플레이가 끝날 때까지 레벨 상승 선택지에서 아이템 하나를 제외할 수 있습니다.",
+        "pl": "Dwa razy na każdy poziom pozwala usunąć jeden przedmiot z opcji dostępnych po zdobyciu nowego poziomu na resztę rozgrywki.",
+        "pt-BR": "Duas vezes por ranque, permite remover um item das opções para subir de nível pelo resto da sessão.",
+        "ru": "Дважды для одного ранга позволяет исключить предмет из вариантов для повышения уровня до конца текущего прохождения.",
+        "zh-CN": "每升一级，可获得两次机会，用于从升级选项中移除一件物品，该物品在本轮游戏的剩余时间内将不会再次出现。",
+        "tr": "Bir ögeyi, rütbe başına iki kez turun geri kalanı boyunca seviye atlama seçeneklerinden kaldırmanı sağlar.",
+        "uk": "Двічі за ранг дозволяє прибрати предмет з вибірки підвищення рівня до кінця забігу."
       }
     },
     "name": {
       "_value": {
-        "en": "Banish"
+        "en": "Banish",
+        "fr": "Bannir",
+        "it": "Esilio",
+        "de": "Verbannen",
+        "es": "Desterrar",
+        "ja": "追放",
+        "ko": "제외",
+        "pl": "Wygnanie",
+        "pt-BR": "Banir",
+        "ru": "Изгнание",
+        "zh-CN": "影逐",
+        "tr": "Sürgün Et",
+        "uk": "Вилучення"
       }
     }
   },
   "WS_REROLL": {
     "description": {
       "_value": {
-        "en": "Twice per rank, allows you to get different choices when leveling up."
+        "en": "Twice per rank, allows you to get different choices when leveling up.",
+        "fr": "Deux fois par rang, vous permet d’obtenir différents choix lors du passage de niveau.",
+        "it": "Due volte per grado, ti permette di ottenere scelte diverse quando sali di livello.",
+        "de": "Ermöglicht dir zweimal pro Rang, beim Stufenaufstieg neue Auswahlmöglichkeiten zu erhalten.",
+        "es": "Dos veces por rango, te permite obtener opciones diferentes al subir de nivel.",
+        "ja": "ランクごとに2回、レベルアップ時の選択肢を再抽選できるようになる。",
+        "ko": "등급마다 2회, 레벨 상승 선택지를 다시 뽑을 수 있습니다.",
+        "pl": "Dwa razy na poziom pozwala odświeżyć dostępne opcje po zdobyciu nowego poziomu.",
+        "pt-BR": "Duas vezes por ranque, permite ter opções diferentes ao subir de nível.",
+        "ru": "Дважды для одного ранга позволяет получить другие варианты для повышения уровня.",
+        "zh-CN": "每升一级，可获得两次机会，用于在升级时刷新选项。",
+        "tr": "Rütbe başına iki kez, seviye atladığında farklı seçimler almanı sağlar.",
+        "uk": "Двічі за ранг дозволяє замінити вибірки підвищення рівня на інші."
       }
     },
     "name": {
       "_value": {
-        "en": "Reroll"
+        "en": "Reroll",
+        "fr": "Relancer",
+        "it": "Rilancia",
+        "de": "Erneut würfeln",
+        "es": "Repetir tirada",
+        "ja": "リロール",
+        "ko": "다시 굴리기",
+        "pl": "Ponowny rzut",
+        "pt-BR": "Atualização",
+        "ru": "Переброс",
+        "zh-CN": "重掷",
+        "tr": "Tekrar At",
+        "uk": "Повторний кидок"
       }
     }
   },
   "WS_SEAL": {
     "description": {
       "_value": {
-        "en": "Seal Items and Weapons so that they do not appear in Missions and level up choices. (Use in Bit Box menu)"
+        "en": "Seal Items and Weapons so that they do not appear in Missions and level up choices. (Use in Bit Box menu)",
+        "fr": "Scellez des objets et des armes afin qu’ils n’apparaissent pas dans les choix de mission et de passage de niveau. (À utiliser dans le menu Boîte à pièces détachées)",
+        "it": "Blocca Oggetti e Armi in modo che non appaiano nelle Missioni e tra le opzioni di aumento di livello. (Da usare nel menu Scatola di pezzi)",
+        "de": "Versiegle Gegenstände und Waffen, damit sie in Missionen und als Auswahlmöglichkeiten beim Stufenaufstieg nicht erscheinen (im Bit-Box-Menü verwenden).",
+        "es": "Sella objetos y armas para que no aparezcan en las misiones ni en las opciones de subida de nivel. (Se usa en el menú Caja de piezas)",
+        "ja": "アイテムと武器を封印し、ミッションおよびレベルアップ選択肢に出現しないようにする。（ビットボックスメニューで使用）",
+        "ko": "아이템과 무기를 봉인해 미션과 레벨 상승 선택지에 등장하지 않게 합니다. 공구함 메뉴에서 사용합니다.",
+        "pl": "Zapieczętuj przedmioty i bronie, aby nie pojawiały się w misjach i opcjach awansu. (Użyj w menu Skrzynki z narzędziami)",
+        "pt-BR": "Bloqueie itens e armas para que não apareçam nas missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)",
+        "ru": "Запечатайте предметы и оружие, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)",
+        "zh-CN": "封印物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）",
+        "tr": "Görevlerde ve seviye atlama seçimlerinde görünmemesi için Öge ve Silahları mühürle. (Bit Box menüsünde kullan)",
+        "uk": "Запечатує предмети і зброю, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)"
       }
     },
     "name": {
       "_value": {
-        "en": "Seal"
+        "en": "Seal",
+        "fr": "Sceau I",
+        "it": "Sigillo I",
+        "de": "Siegel",
+        "es": "Sello",
+        "ja": "封印I",
+        "ko": "봉인",
+        "pl": "Pieczęć I",
+        "pt-BR": "Selo I",
+        "ru": "Печать I",
+        "zh-CN": "封印 I",
+        "tr": "Mühür I",
+        "uk": "Печатка I"
       }
     }
   },
   "WS_SKIP": {
     "description": {
       "_value": {
-        "en": "Twice per rank, allows you to skip level up choices and get experience instead."
+        "en": "Twice per rank, allows you to skip level up choices and get experience instead.",
+        "fr": "Deux fois par rang, vous permet de passer les choix de passage de niveau et d’obtenir de l’expérience à la place.",
+        "it": "Due volte per grado, ti permette di saltare le scelte di passaggio di livello e ottenere invece dell'esperienza.",
+        "de": "Ermöglicht dir zweimal pro Rang, die Auswahlmöglichkeiten beim Stufenaufstieg zu überspringen und stattdessen Erfahrung zu erhalten.",
+        "es": "Dos veces por rango, te permite omitir las opciones de subida de nivel y obtener experiencia en su lugar.",
+        "ja": "ランクごとに2回、レベルアップの選択肢をスキップし、代わりに経験値を獲得できる。",
+        "ko": "등급마다 2회, 레벨 상승 선택지를 건너뛰고 대신 경험치를 받을 수 있습니다.",
+        "pl": "Dwa razy na każdy poziom pozwala pominąć opcje dostępne po zdobyciu nowego poziomu i zamiast tego otrzymać doświadczenie.",
+        "pt-BR": "Duas vezes por ranque, permite pular as opções para subir de nível e ganhar experiência em vez disso.",
+        "ru": "Дважды для одного ранга позволяет пропустить варианты для повышения уровня и вместо этого получить опыт.",
+        "zh-CN": "每升一级，可获得两次机会，用于跳过升级选项，改为获取经验值。",
+        "tr": "Rütbe başına iki kez, seviye atlama seçimlerini atlayıp bunun yerine deneyim kazanmanı sağlar.",
+        "uk": "Двічі за ранг дозволяє пропустити вибірку підвищення рівня, щоб отримати натомість досвід."
       }
     },
     "name": {
       "_value": {
-        "en": "Skip"
+        "en": "Skip",
+        "fr": "Passer",
+        "it": "Salta",
+        "de": "Überspringen",
+        "es": "Saltar",
+        "ja": "スキップ",
+        "ko": "건너뛰기",
+        "pl": "Pomiń",
+        "pt-BR": "Pular",
+        "ru": "Пропустить",
+        "zh-CN": "跳过",
+        "tr": "Atla",
+        "uk": "Пропуск"
       }
     }
   }

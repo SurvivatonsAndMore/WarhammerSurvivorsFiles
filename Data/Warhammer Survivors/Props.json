@@ -1519,7 +1519,7 @@
     "destroyedAmount": 0,
     "maxHp": -1,
     "destructibleType": "WS_AOS_ROCKS_PLAIN_A",
-    "dynamicZSortOffset": 45
+    "dynamicZSortOffset": 60
   },
     "WS_AOS_ROCKS_PLAIN_B": {
     "textureName": "Props_SkrappaSpill_A_01",
@@ -1528,7 +1528,7 @@
     "destroyedAmount": 0,
     "maxHp": -1,
     "destructibleType": "WS_AOS_ROCKS_PLAIN_B",
-    "dynamicZSortOffset": 45
+    "dynamicZSortOffset": 60
   },
     "WS_AOS_ROCKS_PLAIN_C": {
     "textureName": "Props_SkrappaSpill_A_01",
@@ -1537,7 +1537,7 @@
     "destroyedAmount": 0,
     "maxHp": -1,
     "destructibleType": "WS_AOS_ROCKS_PLAIN_C",
-    "dynamicZSortOffset": 20
+    "dynamicZSortOffset": 60
   },
   "WS_AOS_HAMMERHAL_PORTAL_A": {
     "textureName": "Props_AOS_Hammerhal",

@@ -96,5 +96,1181 @@
         "_value": "Collecting the required paint pots can unlock additional characters."
       }
     }
+  },
+  "fr": {
+    "ABADDON_BLACK": {
+      "name": {
+        "_value": "Abaddon Black"
+      },
+      "description": {
+        "_value": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires."
+      }
+    },
+    "LEADBELCHER": {
+      "name": {
+        "_value": "Leadbelcher"
+      },
+      "description": {
+        "_value": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires."
+      }
+    },
+    "AGRAX_EARTHSHADE": {
+      "name": {
+        "_value": "Agrax Earthshade"
+      },
+      "description": {
+        "_value": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires."
+      }
+    },
+    "RETRIBUTOR_ARMOUR": {
+      "name": {
+        "_value": "Retributor Armour"
+      },
+      "description": {
+        "_value": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires."
+      }
+    },
+    "CELESTRA_GREY": {
+      "name": {
+        "_value": "Celestra Grey"
+      },
+      "description": {
+        "_value": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires."
+      }
+    },
+    "REIKLAND_FLESHSHADE": {
+      "name": {
+        "_value": "Reikland Fleshshade"
+      },
+      "description": {
+        "_value": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires."
+      }
+    },
+    "MEPHISTON_RED": {
+      "name": {
+        "_value": "Mephiston Red"
+      },
+      "description": {
+        "_value": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires."
+      }
+    },
+    "RUNELORD_BRASS": {
+      "name": {
+        "_value": "Runelord Brass"
+      },
+      "description": {
+        "_value": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires."
+      }
+    },
+    "MACRAGGE_BLUE": {
+      "name": {
+        "_value": "Macragge Blue"
+      },
+      "description": {
+        "_value": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires."
+      }
+    },
+    "DRAKENHOF_NIGHTSHADE": {
+      "name": {
+        "_value": "Drakenhof Nightshade"
+      },
+      "description": {
+        "_value": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires."
+      }
+    },
+    "RAKARTH_FLESH": {
+      "name": {
+        "_value": "Rakarth Flesh"
+      },
+      "description": {
+        "_value": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires."
+      }
+    },
+    "MECHANICUS_STANDARD_GREY": {
+      "name": {
+        "_value": "Mechanicus Standard Grey"
+      },
+      "description": {
+        "_value": "Récupérer les pots de peinture nécessaires peut permettre de débloquer des personnages supplémentaires."
+      }
+    }
+  },
+  "it": {
+    "ABADDON_BLACK": {
+      "name": {
+        "_value": "Abaddon Black"
+      },
+      "description": {
+        "_value": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi."
+      }
+    },
+    "LEADBELCHER": {
+      "name": {
+        "_value": "Leadbelcher"
+      },
+      "description": {
+        "_value": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi."
+      }
+    },
+    "AGRAX_EARTHSHADE": {
+      "name": {
+        "_value": "Agrax Earthshade"
+      },
+      "description": {
+        "_value": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi."
+      }
+    },
+    "RETRIBUTOR_ARMOUR": {
+      "name": {
+        "_value": "Retributor Armour"
+      },
+      "description": {
+        "_value": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi."
+      }
+    },
+    "CELESTRA_GREY": {
+      "name": {
+        "_value": "Celestra Grey"
+      },
+      "description": {
+        "_value": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi."
+      }
+    },
+    "REIKLAND_FLESHSHADE": {
+      "name": {
+        "_value": "Reikland Fleshshade"
+      },
+      "description": {
+        "_value": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi."
+      }
+    },
+    "MEPHISTON_RED": {
+      "name": {
+        "_value": "Mephiston Red"
+      },
+      "description": {
+        "_value": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi."
+      }
+    },
+    "RUNELORD_BRASS": {
+      "name": {
+        "_value": "Runelord Brass"
+      },
+      "description": {
+        "_value": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi."
+      }
+    },
+    "MACRAGGE_BLUE": {
+      "name": {
+        "_value": "Macragge Blue"
+      },
+      "description": {
+        "_value": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi."
+      }
+    },
+    "DRAKENHOF_NIGHTSHADE": {
+      "name": {
+        "_value": "Drakenhof Nightshade"
+      },
+      "description": {
+        "_value": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi."
+      }
+    },
+    "RAKARTH_FLESH": {
+      "name": {
+        "_value": "Rakarth Flesh"
+      },
+      "description": {
+        "_value": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi."
+      }
+    },
+    "MECHANICUS_STANDARD_GREY": {
+      "name": {
+        "_value": "Mechanicus Standard Grey"
+      },
+      "description": {
+        "_value": "Collezionando i tubetti di vernice necessari è possibile sbloccare personaggi aggiuntivi."
+      }
+    }
+  },
+  "de": {
+    "ABADDON_BLACK": {
+      "name": {
+        "_value": "Abaddon Black"
+      },
+      "description": {
+        "_value": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten."
+      }
+    },
+    "LEADBELCHER": {
+      "name": {
+        "_value": "Leadbelcher"
+      },
+      "description": {
+        "_value": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten."
+      }
+    },
+    "AGRAX_EARTHSHADE": {
+      "name": {
+        "_value": "Agrax Earthshade"
+      },
+      "description": {
+        "_value": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten."
+      }
+    },
+    "RETRIBUTOR_ARMOUR": {
+      "name": {
+        "_value": "Retributor Armour"
+      },
+      "description": {
+        "_value": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten."
+      }
+    },
+    "CELESTRA_GREY": {
+      "name": {
+        "_value": "Celestra Grey"
+      },
+      "description": {
+        "_value": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten."
+      }
+    },
+    "REIKLAND_FLESHSHADE": {
+      "name": {
+        "_value": "Reikland Fleshshade"
+      },
+      "description": {
+        "_value": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten."
+      }
+    },
+    "MEPHISTON_RED": {
+      "name": {
+        "_value": "Mephiston Red"
+      },
+      "description": {
+        "_value": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten."
+      }
+    },
+    "RUNELORD_BRASS": {
+      "name": {
+        "_value": "Runelord Brass"
+      },
+      "description": {
+        "_value": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten."
+      }
+    },
+    "MACRAGGE_BLUE": {
+      "name": {
+        "_value": "Macragge Blue"
+      },
+      "description": {
+        "_value": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten."
+      }
+    },
+    "DRAKENHOF_NIGHTSHADE": {
+      "name": {
+        "_value": "Drakenhof Nightshade"
+      },
+      "description": {
+        "_value": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten."
+      }
+    },
+    "RAKARTH_FLESH": {
+      "name": {
+        "_value": "Rakarth Flesh"
+      },
+      "description": {
+        "_value": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten."
+      }
+    },
+    "MECHANICUS_STANDARD_GREY": {
+      "name": {
+        "_value": "Mechanicus Standard Grey"
+      },
+      "description": {
+        "_value": "Das Sammeln der erforderlichen Farbtöpfe kann zusätzliche Charaktere freischalten."
+      }
+    }
+  },
+  "es": {
+    "ABADDON_BLACK": {
+      "name": {
+        "_value": "Abaddon Black"
+      },
+      "description": {
+        "_value": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales."
+      }
+    },
+    "LEADBELCHER": {
+      "name": {
+        "_value": "Leadbelcher"
+      },
+      "description": {
+        "_value": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales."
+      }
+    },
+    "AGRAX_EARTHSHADE": {
+      "name": {
+        "_value": "Agrax Earthshade"
+      },
+      "description": {
+        "_value": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales."
+      }
+    },
+    "RETRIBUTOR_ARMOUR": {
+      "name": {
+        "_value": "Retributor Armour"
+      },
+      "description": {
+        "_value": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales."
+      }
+    },
+    "CELESTRA_GREY": {
+      "name": {
+        "_value": "Celestra Grey"
+      },
+      "description": {
+        "_value": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales."
+      }
+    },
+    "REIKLAND_FLESHSHADE": {
+      "name": {
+        "_value": "Reikland Fleshshade"
+      },
+      "description": {
+        "_value": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales."
+      }
+    },
+    "MEPHISTON_RED": {
+      "name": {
+        "_value": "Mephiston Red"
+      },
+      "description": {
+        "_value": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales."
+      }
+    },
+    "RUNELORD_BRASS": {
+      "name": {
+        "_value": "Runelord Brass"
+      },
+      "description": {
+        "_value": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales."
+      }
+    },
+    "MACRAGGE_BLUE": {
+      "name": {
+        "_value": "Macragge Blue"
+      },
+      "description": {
+        "_value": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales."
+      }
+    },
+    "DRAKENHOF_NIGHTSHADE": {
+      "name": {
+        "_value": "Drakenhof Nightshade"
+      },
+      "description": {
+        "_value": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales."
+      }
+    },
+    "RAKARTH_FLESH": {
+      "name": {
+        "_value": "Rakarth Flesh"
+      },
+      "description": {
+        "_value": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales."
+      }
+    },
+    "MECHANICUS_STANDARD_GREY": {
+      "name": {
+        "_value": "Mechanicus Standard Grey"
+      },
+      "description": {
+        "_value": "Recoger los botes de pintura necesarios puede desbloquear personajes adicionales."
+      }
+    }
+  },
+  "ja": {
+    "ABADDON_BLACK": {
+      "name": {
+        "_value": "Abaddon Black"
+      },
+      "description": {
+        "_value": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。"
+      }
+    },
+    "LEADBELCHER": {
+      "name": {
+        "_value": "Leadbelcher"
+      },
+      "description": {
+        "_value": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。"
+      }
+    },
+    "AGRAX_EARTHSHADE": {
+      "name": {
+        "_value": "Agrax Earthshade"
+      },
+      "description": {
+        "_value": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。"
+      }
+    },
+    "RETRIBUTOR_ARMOUR": {
+      "name": {
+        "_value": "Retributor Armour"
+      },
+      "description": {
+        "_value": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。"
+      }
+    },
+    "CELESTRA_GREY": {
+      "name": {
+        "_value": "Celestra Grey"
+      },
+      "description": {
+        "_value": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。"
+      }
+    },
+    "REIKLAND_FLESHSHADE": {
+      "name": {
+        "_value": "Reikland Fleshshade"
+      },
+      "description": {
+        "_value": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。"
+      }
+    },
+    "MEPHISTON_RED": {
+      "name": {
+        "_value": "Mephiston Red"
+      },
+      "description": {
+        "_value": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。"
+      }
+    },
+    "RUNELORD_BRASS": {
+      "name": {
+        "_value": "Runelord Brass"
+      },
+      "description": {
+        "_value": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。"
+      }
+    },
+    "MACRAGGE_BLUE": {
+      "name": {
+        "_value": "Macragge Blue"
+      },
+      "description": {
+        "_value": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。"
+      }
+    },
+    "DRAKENHOF_NIGHTSHADE": {
+      "name": {
+        "_value": "Drakenhof Nightshade"
+      },
+      "description": {
+        "_value": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。"
+      }
+    },
+    "RAKARTH_FLESH": {
+      "name": {
+        "_value": "Rakarth Flesh"
+      },
+      "description": {
+        "_value": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。"
+      }
+    },
+    "MECHANICUS_STANDARD_GREY": {
+      "name": {
+        "_value": "Mechanicus Standard Grey"
+      },
+      "description": {
+        "_value": "必要な数の塗料の小瓶を集めると、追加のキャラクターをアンロックできる。"
+      }
+    }
+  },
+  "ko": {
+    "ABADDON_BLACK": {
+      "name": {
+        "_value": "Abaddon Black"
+      },
+      "description": {
+        "_value": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다."
+      }
+    },
+    "LEADBELCHER": {
+      "name": {
+        "_value": "Leadbelcher"
+      },
+      "description": {
+        "_value": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다."
+      }
+    },
+    "AGRAX_EARTHSHADE": {
+      "name": {
+        "_value": "Agrax Earthshade"
+      },
+      "description": {
+        "_value": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다."
+      }
+    },
+    "RETRIBUTOR_ARMOUR": {
+      "name": {
+        "_value": "Retributor Armour"
+      },
+      "description": {
+        "_value": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다."
+      }
+    },
+    "CELESTRA_GREY": {
+      "name": {
+        "_value": "Celestra Grey"
+      },
+      "description": {
+        "_value": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다."
+      }
+    },
+    "REIKLAND_FLESHSHADE": {
+      "name": {
+        "_value": "Reikland Fleshshade"
+      },
+      "description": {
+        "_value": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다."
+      }
+    },
+    "MEPHISTON_RED": {
+      "name": {
+        "_value": "Mephiston Red"
+      },
+      "description": {
+        "_value": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다."
+      }
+    },
+    "RUNELORD_BRASS": {
+      "name": {
+        "_value": "Runelord Brass"
+      },
+      "description": {
+        "_value": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다."
+      }
+    },
+    "MACRAGGE_BLUE": {
+      "name": {
+        "_value": "Macragge Blue"
+      },
+      "description": {
+        "_value": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다."
+      }
+    },
+    "DRAKENHOF_NIGHTSHADE": {
+      "name": {
+        "_value": "Drakenhof Nightshade"
+      },
+      "description": {
+        "_value": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다."
+      }
+    },
+    "RAKARTH_FLESH": {
+      "name": {
+        "_value": "Rakarth Flesh"
+      },
+      "description": {
+        "_value": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다."
+      }
+    },
+    "MECHANICUS_STANDARD_GREY": {
+      "name": {
+        "_value": "Mechanicus Standard Grey"
+      },
+      "description": {
+        "_value": "필요한 페인트 통을 수집하면 추가 캐릭터를 해금할 수 있습니다."
+      }
+    }
+  },
+  "pl": {
+    "ABADDON_BLACK": {
+      "name": {
+        "_value": "Abaddon Black"
+      },
+      "description": {
+        "_value": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie."
+      }
+    },
+    "LEADBELCHER": {
+      "name": {
+        "_value": "Leadbelcher"
+      },
+      "description": {
+        "_value": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie."
+      }
+    },
+    "AGRAX_EARTHSHADE": {
+      "name": {
+        "_value": "Agrax Earthshade"
+      },
+      "description": {
+        "_value": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie."
+      }
+    },
+    "RETRIBUTOR_ARMOUR": {
+      "name": {
+        "_value": "Retributor Armour"
+      },
+      "description": {
+        "_value": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie."
+      }
+    },
+    "CELESTRA_GREY": {
+      "name": {
+        "_value": "Celestra Grey"
+      },
+      "description": {
+        "_value": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie."
+      }
+    },
+    "REIKLAND_FLESHSHADE": {
+      "name": {
+        "_value": "Reikland Fleshshade"
+      },
+      "description": {
+        "_value": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie."
+      }
+    },
+    "MEPHISTON_RED": {
+      "name": {
+        "_value": "Mephiston Red"
+      },
+      "description": {
+        "_value": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie."
+      }
+    },
+    "RUNELORD_BRASS": {
+      "name": {
+        "_value": "Runelord Brass"
+      },
+      "description": {
+        "_value": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie."
+      }
+    },
+    "MACRAGGE_BLUE": {
+      "name": {
+        "_value": "Macragge Blue"
+      },
+      "description": {
+        "_value": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie."
+      }
+    },
+    "DRAKENHOF_NIGHTSHADE": {
+      "name": {
+        "_value": "Drakenhof Nightshade"
+      },
+      "description": {
+        "_value": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie."
+      }
+    },
+    "RAKARTH_FLESH": {
+      "name": {
+        "_value": "Rakarth Flesh"
+      },
+      "description": {
+        "_value": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie."
+      }
+    },
+    "MECHANICUS_STANDARD_GREY": {
+      "name": {
+        "_value": "Mechanicus Standard Grey"
+      },
+      "description": {
+        "_value": "Zebranie wymaganych pojemników z farbą pozwala odblokować dodatkowe postacie."
+      }
+    }
+  },
+  "pt-BR": {
+    "ABADDON_BLACK": {
+      "name": {
+        "_value": "Abaddon Black"
+      },
+      "description": {
+        "_value": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais."
+      }
+    },
+    "LEADBELCHER": {
+      "name": {
+        "_value": "Leadbelcher"
+      },
+      "description": {
+        "_value": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais."
+      }
+    },
+    "AGRAX_EARTHSHADE": {
+      "name": {
+        "_value": "Agrax Earthshade"
+      },
+      "description": {
+        "_value": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais."
+      }
+    },
+    "RETRIBUTOR_ARMOUR": {
+      "name": {
+        "_value": "Retributor Armour"
+      },
+      "description": {
+        "_value": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais."
+      }
+    },
+    "CELESTRA_GREY": {
+      "name": {
+        "_value": "Celestra Grey"
+      },
+      "description": {
+        "_value": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais."
+      }
+    },
+    "REIKLAND_FLESHSHADE": {
+      "name": {
+        "_value": "Reikland Fleshshade"
+      },
+      "description": {
+        "_value": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais."
+      }
+    },
+    "MEPHISTON_RED": {
+      "name": {
+        "_value": "Mephiston Red"
+      },
+      "description": {
+        "_value": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais."
+      }
+    },
+    "RUNELORD_BRASS": {
+      "name": {
+        "_value": "Runelord Brass"
+      },
+      "description": {
+        "_value": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais."
+      }
+    },
+    "MACRAGGE_BLUE": {
+      "name": {
+        "_value": "Macragge Blue"
+      },
+      "description": {
+        "_value": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais."
+      }
+    },
+    "DRAKENHOF_NIGHTSHADE": {
+      "name": {
+        "_value": "Drakenhof Nightshade"
+      },
+      "description": {
+        "_value": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais."
+      }
+    },
+    "RAKARTH_FLESH": {
+      "name": {
+        "_value": "Rakarth Flesh"
+      },
+      "description": {
+        "_value": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais."
+      }
+    },
+    "MECHANICUS_STANDARD_GREY": {
+      "name": {
+        "_value": "Mechanicus Standard Grey"
+      },
+      "description": {
+        "_value": "Ao coletar os potes de tinta necessários, é possível desbloquear personagens adicionais."
+      }
+    }
+  },
+  "ru": {
+    "ABADDON_BLACK": {
+      "name": {
+        "_value": "Abaddon Black"
+      },
+      "description": {
+        "_value": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей."
+      }
+    },
+    "LEADBELCHER": {
+      "name": {
+        "_value": "Leadbelcher"
+      },
+      "description": {
+        "_value": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей."
+      }
+    },
+    "AGRAX_EARTHSHADE": {
+      "name": {
+        "_value": "Agrax Earthshade"
+      },
+      "description": {
+        "_value": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей."
+      }
+    },
+    "RETRIBUTOR_ARMOUR": {
+      "name": {
+        "_value": "Retributor Armour"
+      },
+      "description": {
+        "_value": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей."
+      }
+    },
+    "CELESTRA_GREY": {
+      "name": {
+        "_value": "Celestra Grey"
+      },
+      "description": {
+        "_value": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей."
+      }
+    },
+    "REIKLAND_FLESHSHADE": {
+      "name": {
+        "_value": "Reikland Fleshshade"
+      },
+      "description": {
+        "_value": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей."
+      }
+    },
+    "MEPHISTON_RED": {
+      "name": {
+        "_value": "Mephiston Red"
+      },
+      "description": {
+        "_value": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей."
+      }
+    },
+    "RUNELORD_BRASS": {
+      "name": {
+        "_value": "Runelord Brass"
+      },
+      "description": {
+        "_value": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей."
+      }
+    },
+    "MACRAGGE_BLUE": {
+      "name": {
+        "_value": "Macragge Blue"
+      },
+      "description": {
+        "_value": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей."
+      }
+    },
+    "DRAKENHOF_NIGHTSHADE": {
+      "name": {
+        "_value": "Drakenhof Nightshade"
+      },
+      "description": {
+        "_value": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей."
+      }
+    },
+    "RAKARTH_FLESH": {
+      "name": {
+        "_value": "Rakarth Flesh"
+      },
+      "description": {
+        "_value": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей."
+      }
+    },
+    "MECHANICUS_STANDARD_GREY": {
+      "name": {
+        "_value": "Mechanicus Standard Grey"
+      },
+      "description": {
+        "_value": "Собрав необходимые баночки с краской, можно разблокировать дополнительных персонажей."
+      }
+    }
+  },
+  "zh-CN": {
+    "ABADDON_BLACK": {
+      "name": {
+        "_value": "Abaddon Black"
+      },
+      "description": {
+        "_value": "集齐指定颜料罐，即可解锁更多角色。"
+      }
+    },
+    "LEADBELCHER": {
+      "name": {
+        "_value": "Leadbelcher"
+      },
+      "description": {
+        "_value": "集齐指定颜料罐，即可解锁更多角色。"
+      }
+    },
+    "AGRAX_EARTHSHADE": {
+      "name": {
+        "_value": "Agrax Earthshade"
+      },
+      "description": {
+        "_value": "集齐指定颜料罐，即可解锁更多角色。"
+      }
+    },
+    "RETRIBUTOR_ARMOUR": {
+      "name": {
+        "_value": "Retributor Armour"
+      },
+      "description": {
+        "_value": "集齐指定颜料罐，即可解锁更多角色。"
+      }
+    },
+    "CELESTRA_GREY": {
+      "name": {
+        "_value": "Celestra Grey"
+      },
+      "description": {
+        "_value": "集齐指定颜料罐，即可解锁更多角色。"
+      }
+    },
+    "REIKLAND_FLESHSHADE": {
+      "name": {
+        "_value": "Reikland Fleshshade"
+      },
+      "description": {
+        "_value": "集齐指定颜料罐，即可解锁更多角色。"
+      }
+    },
+    "MEPHISTON_RED": {
+      "name": {
+        "_value": "Mephiston Red"
+      },
+      "description": {
+        "_value": "集齐指定颜料罐，即可解锁更多角色。"
+      }
+    },
+    "RUNELORD_BRASS": {
+      "name": {
+        "_value": "Runelord Brass"
+      },
+      "description": {
+        "_value": "集齐指定颜料罐，即可解锁更多角色。"
+      }
+    },
+    "MACRAGGE_BLUE": {
+      "name": {
+        "_value": "Macragge Blue"
+      },
+      "description": {
+        "_value": "集齐指定颜料罐，即可解锁更多角色。"
+      }
+    },
+    "DRAKENHOF_NIGHTSHADE": {
+      "name": {
+        "_value": "Drakenhof Nightshade"
+      },
+      "description": {
+        "_value": "集齐指定颜料罐，即可解锁更多角色。"
+      }
+    },
+    "RAKARTH_FLESH": {
+      "name": {
+        "_value": "Rakarth Flesh"
+      },
+      "description": {
+        "_value": "集齐指定颜料罐，即可解锁更多角色。"
+      }
+    },
+    "MECHANICUS_STANDARD_GREY": {
+      "name": {
+        "_value": "Mechanicus Standard Grey"
+      },
+      "description": {
+        "_value": "集齐指定颜料罐，即可解锁更多角色。"
+      }
+    }
+  },
+  "tr": {
+    "ABADDON_BLACK": {
+      "name": {
+        "_value": "Abaddon Black"
+      },
+      "description": {
+        "_value": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir."
+      }
+    },
+    "LEADBELCHER": {
+      "name": {
+        "_value": "Leadbelcher"
+      },
+      "description": {
+        "_value": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir."
+      }
+    },
+    "AGRAX_EARTHSHADE": {
+      "name": {
+        "_value": "Agrax Earthshade"
+      },
+      "description": {
+        "_value": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir."
+      }
+    },
+    "RETRIBUTOR_ARMOUR": {
+      "name": {
+        "_value": "Retributor Armour"
+      },
+      "description": {
+        "_value": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir."
+      }
+    },
+    "CELESTRA_GREY": {
+      "name": {
+        "_value": "Celestra Grey"
+      },
+      "description": {
+        "_value": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir."
+      }
+    },
+    "REIKLAND_FLESHSHADE": {
+      "name": {
+        "_value": "Reikland Fleshshade"
+      },
+      "description": {
+        "_value": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir."
+      }
+    },
+    "MEPHISTON_RED": {
+      "name": {
+        "_value": "Mephiston Red"
+      },
+      "description": {
+        "_value": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir."
+      }
+    },
+    "RUNELORD_BRASS": {
+      "name": {
+        "_value": "Runelord Brass"
+      },
+      "description": {
+        "_value": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir."
+      }
+    },
+    "MACRAGGE_BLUE": {
+      "name": {
+        "_value": "Macragge Blue"
+      },
+      "description": {
+        "_value": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir."
+      }
+    },
+    "DRAKENHOF_NIGHTSHADE": {
+      "name": {
+        "_value": "Drakenhof Nightshade"
+      },
+      "description": {
+        "_value": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir."
+      }
+    },
+    "RAKARTH_FLESH": {
+      "name": {
+        "_value": "Rakarth Flesh"
+      },
+      "description": {
+        "_value": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir."
+      }
+    },
+    "MECHANICUS_STANDARD_GREY": {
+      "name": {
+        "_value": "Mechanicus Standard Grey"
+      },
+      "description": {
+        "_value": "Gerekli boya kutularını toplamak ek karakterlerin kilidini açabilir."
+      }
+    }
+  },
+  "uk": {
+    "ABADDON_BLACK": {
+      "name": {
+        "_value": "Abaddon Black"
+      },
+      "description": {
+        "_value": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
+      }
+    },
+    "LEADBELCHER": {
+      "name": {
+        "_value": "Leadbelcher"
+      },
+      "description": {
+        "_value": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
+      }
+    },
+    "AGRAX_EARTHSHADE": {
+      "name": {
+        "_value": "Agrax Earthshade"
+      },
+      "description": {
+        "_value": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
+      }
+    },
+    "RETRIBUTOR_ARMOUR": {
+      "name": {
+        "_value": "Retributor Armour"
+      },
+      "description": {
+        "_value": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
+      }
+    },
+    "CELESTRA_GREY": {
+      "name": {
+        "_value": "Celestra Grey"
+      },
+      "description": {
+        "_value": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
+      }
+    },
+    "REIKLAND_FLESHSHADE": {
+      "name": {
+        "_value": "Reikland Fleshshade"
+      },
+      "description": {
+        "_value": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
+      }
+    },
+    "MEPHISTON_RED": {
+      "name": {
+        "_value": "Mephiston Red"
+      },
+      "description": {
+        "_value": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
+      }
+    },
+    "RUNELORD_BRASS": {
+      "name": {
+        "_value": "Runelord Brass"
+      },
+      "description": {
+        "_value": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
+      }
+    },
+    "MACRAGGE_BLUE": {
+      "name": {
+        "_value": "Macragge Blue"
+      },
+      "description": {
+        "_value": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
+      }
+    },
+    "DRAKENHOF_NIGHTSHADE": {
+      "name": {
+        "_value": "Drakenhof Nightshade"
+      },
+      "description": {
+        "_value": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
+      }
+    },
+    "RAKARTH_FLESH": {
+      "name": {
+        "_value": "Rakarth Flesh"
+      },
+      "description": {
+        "_value": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
+      }
+    },
+    "MECHANICUS_STANDARD_GREY": {
+      "name": {
+        "_value": "Mechanicus Standard Grey"
+      },
+      "description": {
+        "_value": "Зібравши потрібні баночки з фарбою, можна розблокувати додаткових персонажів."
+      }
+    }
   }
 }

@@ -3,8 +3,8 @@
   //////
   // 40K
   //////
-
-  // Demo Characters
+  
+  // Tier I (visible from start)
   "WS_40K_MALUM": [
     {
       "level": 1,
@@ -18,20 +18,20 @@
       "charSelFrame": "Portrait_MalumCaedo.png",
       "currentSkin": "DEFAULT",
       "walkingFrames": 4,
-      "deathAnim": {
-        "textureName": "character_malum_death",
-        "spriteName": "C_MalumCaedo_1.png",
-        "framesNumber": 17,
-        "frameRate": 16
-      },
+	  "deathAnim": {
+		"textureName": "character_malum_death",
+		"spriteName": "C_MalumCaedo_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
       "spriteOffset": {
         "x": 3,
         "y": 0
       },
-      "description": "Gains 10% more Damage every 10 levels (max +50%).",
+      "description": "Gains 2.5% strength per equipment.",
       "onEveryEquipment":
       {
-        "power": 0.05
+        "power": 0.03
       },
       "extraFollowerDistance": 0.1,
       "price": 0,
@@ -39,7 +39,7 @@
       "survivedMinutes": 0,
       "enemiesKilled": 0,
       "stageData": [],
-
+      
       "maxHp": 120,
       "armor": 1,
       "regen": 0,
@@ -86,11 +86,11 @@
         "WS_RANGE",
         "WS_RANGE",
         "WS_RANGE",
-        "WS_WOUNDS",
-        "WS_WOUNDS",
-        "WS_WOUNDS",
-        "WS_WOUNDS",
-        "WS_WOUNDS"
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
       ],
       "silos": [
         "WH_40K"
@@ -145,12 +145,13 @@
   ],
   "WS_40K_KOZLOWSKI": [
     {
-      "hidden": false,
+      "hidden": true,
       "secret": false,
-      "isRescue": true,
       "level": 1,
       "startingWeapon": "WS_40K_LASGUN",
-      "canBreakLights": true,
+      "hiddenWeapons": [
+        "WS_EXTINGUISH"
+      ],
       "prefix": "",
       "charName": "Trooper",
       "surname": "Kozlowski",
@@ -159,18 +160,18 @@
       "charSelTexture": "character_kozlowski",
       "charSelFrame": "Portrait_TrooperKozlowski.png",
       "walkingFrames": 4,
-      "deathAnim": {
-        "textureName": "character_kozlowski_death",
-        "spriteName": "C_Guardsmen_1.png",
-        "framesNumber": 17,
-        "frameRate": 16
-      },
+	  "deathAnim": {
+		"textureName": "character_kozlowski_death",
+		"spriteName": "C_Guardsmen_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
       "spriteOffset": {
         "x": 2,
         "y": 0
       },
       "description": "Starts with 1 Redeployment. Gains 1 more Redeployment at levels 50 and 100.",
-      "price": 10,
+      "price": 0,
       "completedStages": [],
       "survivedMinutes": 0,
       "currentSkin": "DEFAULT",
@@ -193,9 +194,9 @@
       "rerolls": 0,
       "skips": 0,
       "banish": 0,
-      "onEveryFollowerAdded":
+	  "onEveryFollowerAdded":
       {
-        "modifierStats":{ "growth": 0.05 }
+		"modifierStats":{ "growth": 0.05 }
       },
       "showcase": [
         "WS_40K_LASGUN",
@@ -222,11 +223,11 @@
         "WS_RANGE",
         "WS_RANGE",
         "WS_RANGE",
-        "WS_AURA",
-        "WS_AURA",
-        "WS_AURA",
-        "WS_AURA",
-        "WS_AURA"
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
       ],
       "enemiesKilled": 0,
       "stageData": [],
@@ -248,7 +249,7 @@
         "CHAINSWORD_USER"
       ]
     },
-    {
+	{
       "level": 15,
       "revivals": 1
     },
@@ -273,14 +274,661 @@
       "growth": -1
     }
   ],
-  "WS_40K_CATACHAN_LEGEND": [
+  "WS_40K_LUCA": [
     {
       "hidden": false,
       "secret": false,
-      "isRescue": true,
+      "level": 1,
+      "startingWeapon": "WS_40K_BOLTGUN",
+      "charName": "Brother",
+      "surname": "Luca",
+      "spriteName": "C_BrotherLuca_01.png",
+      "textureName": "character_brotherluca",
+      "charSelTexture": "character_brotherluca",
+      "charSelFrame": "Portrait_BrotherLuca.png",
+      "walkingFrames": 4,
+      "currentSkin": "DEFAULT",
+	  "deathAnim": {
+		"textureName": "character_brotherluca_death",
+		"spriteName": "C_BrotherLuca_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Permanent +1 projectile (all weapons).",
+      "price": 100,
+      "extraFollowerDistance": 0.1,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "maxHp": 120,
+      "armor": 1,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1,
+      "cooldown": 0.8,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "debugTime": 60,
+      "debugEnemies": 400,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTUS_ASTARTES",
+        "ULTRAMARINES"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "BATTLELINE",
+        "GRENADES",
+        "TACTICUS",
+        "INTERCESSOR",
+        "BOLTGUN_USER",
+        "CHAINSWORD_USER",
+        "HEAVYFLAMER_USER"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_40K_SISTER_SUPERIOR": [
+    {
+      "hidden": false,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_SHIELD_OF_FAITH",
+      "charName": "Amalia",
+      "surname": "Novena",
+      "prefix": "Sister Superior",
+      "spriteName": "C_SisterSuperiorNovena_01.png",
+      "textureName": "character_novena",
+      "charSelTexture": "character_novena",
+      "charSelFrame": "Portrait_SisterSuperiorNovena.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_novena_death",
+		"spriteName": "C_SisterSuperiorNovena_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Permanent +40% Pickup range and -5% Move Speed.",
+      "price": 200,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "maxHp": 100,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 0.95,
+      "power": 1,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0.2,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTA_SORORITAS",
+        "ORDER_OF_OUR_MARTYRED_LADY"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "GRENADES",
+        "BATTLELINE",
+        "BOLTGUN_USER",
+        "FAITH_USER",
+        "LAUDHAILER_USER",
+        "CHAINSWORD_USER",
+        "HEAVYFLAMER_USER"
+      ]
+    },
+    {
+      "area": 0.1,
+      "level": 10
+    },
+    {
+      "area": 0.1,
+      "level": 20,
+      "growth": 1
+    },
+    {
+      "area": 0.1,
+      "level": 30
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+
+  // Tier II (WS_40k_Survive_Gallowdark_Short)
+  "WS_40K_VERITAS": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_FLAMER",
+      "charName": "Aurora",
+      "surname": "Veritas",
+      "prefix": "Canoness",
+      "spriteName": "C_CanonessVeyrath_01.png",
+      "textureName": "character_veyrath",
+      "charSelTexture": "character_veyrath",
+      "charSelFrame": "Portrait_CanonessVeyrath.png",
+      "canBreakLights": true,
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_veyrath_death",
+		"spriteName": "C_CanonessVeyrath_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "spriteOffset": {
+        "x": 3,
+        "y": 0
+      },
+      "currentSkin": "DEFAULT",
+      "description": "Weapon cooldown is reduced by 5% every 10 levels (max -15%).",
+      "price": 500,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "maxHp": 100,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1,
+      "cooldown": 1,
+      "area": 1.1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_40K_FLAMER",
+        "WS_40K_FLAMER",
+        "WS_40K_FLAMER",
+        "WS_40K_FLAMER",
+        "WS_40K_FLAMER",
+        "WS_40K_FLAMER",
+        "WS_40K_FLAMER",
+        "WS_40K_FLAMER",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "debugTime": 120,
+      "debugEnemies": 400,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTA_SORORITAS",
+        "ORDER_OF_OUR_MARTYRED_LADY"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "CANONESS",
+        "GRENADES",
+        "FAITH_USER",
+        "BOLTGUN_USER",
+        "LAUDHAILER_USER",
+        "CHAINSWORD_USER",
+        "HEAVYFLAMER_USER"
+      ]
+    },
+    {
+      "duration": 0.1,
+      "level": 10
+    },
+    {
+      "duration": 0.1,
+      "level": 20,
+      "growth": 1
+    },
+    {
+      "duration": 0.1,
+      "level": 30
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_40K_VIGILANT": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_COMBAT_SHOTGUN",
+      "prefix": "",
+      "charName": "",
+      "surname": "",
+      "spriteName": "C_ArbitesVigilant_01.png",
+      "textureName": "character_arbites_vigilant",
+      "charSelTexture": "character_arbites_vigilant",
+      "charSelFrame": "Portrait_ArbitesVigilant.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_arbites_vigilant_death",
+		"spriteName": "C_ArbitesVigilant_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Placeholder. Gains +10ms invuln duration every 10 levels (max +150ms).",
+      "price": 500,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "skins": [
+        {
+          "skinType": "DEFAULT",
+          "name": "Solo",
+          "spriteName": "C_ArbitesVigilant_01.png",
+          "textureName": "character_arbites_vigilant",
+          "walkingFrames": 4,
+		  "deathAnim": {
+			"textureName": "character_arbites_vigilant_death",
+			"spriteName": "C_ArbitesVigilant_1.png",
+			"framesNumber": 17,
+			"frameRate": 16
+		  },
+          "unlocked": true
+        },
+        {
+          "skinType": "SKIN_WS_40K_VIGILANT_WITH_K9",
+          "name": "With K9",
+          "spriteName": "C_ArbitesVigilant_01.png",
+          "textureName": "character_arbites_vigilant",
+          "charSelTexture": "character_arbites_vigilant",
+          "charSelFrame": "Portrait_ArbitesVigilant.png",
+          "charSelFrameSelect": "C_ArbitesVigilant_Duo.png",
+          "walkingFrames": 4,
+		  "deathAnim": {
+			"textureName": "character_arbites_vigilant_death",
+			"spriteName": "C_ArbitesVigilant_1.png",
+			"framesNumber": 17,
+			"frameRate": 16
+		  },
+          "unlocked": false,
+          "exWeapons": [
+            "WS_40K_MECHANICAL_BITE"
+          ],
+          "description": "Vigilant and K9",
+          "speed": 0.2,
+          "luck": 0.1
+        }
+      ],
+      "spriteOffset": {
+        "x": 2,
+        "y": 0
+      },
+      "maxHp": 100,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1.1,
+      "power": 1,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1.1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1.1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_40K_COMBAT_SHOTGUN",
+        "WS_40K_COMBAT_SHOTGUN",
+        "WS_40K_COMBAT_SHOTGUN",
+        "WS_40K_COMBAT_SHOTGUN",
+        "WS_40K_COMBAT_SHOTGUN",
+        "WS_40K_COMBAT_SHOTGUN",
+        "WS_40K_COMBAT_SHOTGUN",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "ADEPTUS_ARBITES",
+        "IMPERIUM",
+        "AGENTS_OF_THE_IMPERIUM"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "BATTLELINE",
+        "GRENADES",
+        "RETINUE",
+        "VIGILANT",
+        "SHOTGUN_USER"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_40K_GARADON": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_WHIRLWIND_LAUNCHER",
+      "prefix": "Captain",
+      "charName": "Tor",
+      "surname": "Garadon",
+      "textureName": "character_garadon",
+      "spriteName": "C_TorGaradon_01.png",
+      "charSelTexture": "character_garadon",
+      "charSelFrame": "Portrait_TorGaradon.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_garadon_death",
+		"spriteName": "C_TorGaradon_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "spriteOffset": {
+        "x": 3,
+        "y": 0
+      },
+      "currentSkin": "DEFAULT",
+      "description": "Gains extra attacks every level ending in 3.",
+      "isBought": false,
+      "price": 500,
+      "canBreakLights": true,
+      "extraFollowerDistance": 0.1,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "maxHp": 140,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 0.9,
+      "power": 1.1,
+      "cooldown": 1,
+      "area": 1.1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "debugTime": 300,
+      "debugEnemies": 200,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTUS_ASTARTES",
+        "IMPERIAL_FISTS"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "EPIC_HERO",
+        "GRAVIS",
+        "CAPTAIN",
+        "BOLTGUN_USER",
+        "HEAVYFLAMER_USER",
+        "STORM_BOLTER_USER"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  
+  // Tier III (WS_40k_Rescue_Any)
+  "WS_40K_CATACHAN_LEGEND": [
+    {
+      "hidden": true,
+      "secret": false,
       "level": 1,
       "startingWeapon": "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE",
-      "canBreakLights": true,
       "prefix": "",
       "charName": "Legend",
       "surname": "Of Catachan",
@@ -326,24 +974,23 @@
       "itemWeightMultipliers":
       {
         "WS_40K_FRAG_GRENADE" : 2,
+        "WS_40K_KRAK_GRENADE" : 2,
+        "WS_40K_MELTA_BOMB": 2,
         "WS_40K_BLAST_TEMPLATE": 2
       },
       "showcase": [
-        "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE",
-        "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE",
-        "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE",
-        "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE",
-        "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE",
-        "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE",
-        "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE",
-        "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
         "WS_STRENGTH",
         "WS_STRENGTH",
         "WS_STRENGTH",
         "WS_STRENGTH",
         "WS_STRENGTH",
-        "WS_STRENGTH",
-        "WS_RELOAD",
         "WS_RELOAD",
         "WS_RELOAD",
         "WS_RELOAD",
@@ -351,13 +998,16 @@
         "WS_RELOAD",
         "WS_ATTACKS",
         "WS_ATTACKS",
-        "WS_ATTACKS",
         "WS_RANGE",
         "WS_RANGE",
         "WS_RANGE",
         "WS_RANGE",
         "WS_RANGE",
-        "WS_RANGE"
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
       ],
       "enemiesKilled": 0,
       "stageData": [],
@@ -397,12 +1047,1706 @@
       "growth": -1
     }
   ],
+  "WS_40K_K9_MASTIFF": [
+    {
+      "placeholder": true,
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_MECHANICAL_BITE",
+      "charName": "K9",
+      "surname": "Cyber Mastiff",
+      "spriteName": "C_K9CyberMastiff_01.png",
+      "textureName": "character_k9",
+      "charSelTexture": "character_k9",
+      "charSelFrame": "Portrait_K9CyberMastiff.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_k9_death",
+		"spriteName": "C_K9CyberMastiff_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Placeholder. Gains +1% Range every level. Has a nasty bite.",
+      "price": 600,
+      "canBreakLights": true,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "skins": [
+        {
+          "skinType": "DEFAULT",
+          "name": "Solo",
+          "textureName": "character_k9",
+          "spriteName": "C_K9CyberMastiff_01.png",
+          "walkingFrames": 4,
+          "spriteAnims": {
+            "idleAnimation": {
+              "textureName": "character_k9",
+              "spriteName": "C_K9CyberMastiff_i01.png",
+              "framesNumber": 1,
+              "frameRate": 8
+            }
+          },
+		  "deathAnim": {
+			"textureName": "character_k9_death",
+			"spriteName": "C_K9CyberMastiff_1.png",
+			"framesNumber": 17,
+			"frameRate": 16
+		  },
+          "unlocked": true
+        },
+        {
+          "skinType": "SKIN_WS_40K_K9_WITH_VIGILANT",
+          "name": "With Arbites Vigilant",
+          "textureName": "character_k9",
+          "spriteName": "C_K9CyberMastiff_01.png",
+          "charSelTexture": "character_k9",
+          "charSelFrame": "Portrait_K9CyberMastiff.png",
+          "charSelFrameSelect": "C_K9CyberMastiff_Duo.png",
+          "walkingFrames": 4,
+          "spriteAnims": {
+            "idleAnimation": {
+              "textureName": "character_k9",
+              "spriteName": "C_K9CyberMastiff_i01.png",
+              "framesNumber": 1,
+              "frameRate": 8
+            }
+          },
+		  "deathAnim": {
+			"textureName": "character_k9_death",
+			"spriteName": "C_K9CyberMastiff_1.png",
+			"framesNumber": 17,
+			"frameRate": 16
+		  },
+          "unlocked": false,
+          "exWeapons": [
+            "WS_40K_COMBAT_SHOTGUN"
+          ],
+          "description": "K9 and Vigilant",
+          "speed": 0.1,
+          "curse": 0.1
+        }
+      ],
+      "spriteOffset": {
+        "x": 2,
+        "y": 0
+      },
+      "maxHp": 100,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1.3,
+      "power": 1,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1.1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_40K_MECHANICAL_BITE",
+        "WS_40K_MECHANICAL_BITE",
+        "WS_40K_MECHANICAL_BITE",
+        "WS_40K_MECHANICAL_BITE",
+        "WS_40K_MECHANICAL_BITE",
+        "WS_40K_MECHANICAL_BITE",
+        "WS_40K_MECHANICAL_BITE",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "AGENTS_OF_THE_IMPERIUM",
+        "ADEPTUS_ARBITES"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "BATTLELINE",
+        "RETINUE",
+        "BITE_USER"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_40K_YARRICK": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_POWER_KLAW",
+      "prefix": "Commissar",
+      "charName": "Yarrick",
+      "surname": "",
+      "spriteName": "C_CommisarYarrick_01.png",
+      "textureName": "character_yarrick",
+      "charSelTexture": "character_yarrick",
+      "charSelFrame": "Portrait_CommisarYarrick.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_yarrick_death",
+		"spriteName": "C_CommisarYarrick_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Placeholder. Ghazghkull's arch-nemesis. Gains Strength, Move Speed, and Corruption at certain levels.",
+      "price": 1200,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "spriteOffset": {
+        "x": 2,
+        "y": 0
+      },
+      "maxHp": 110,
+      "armor": 0,
+      "regen": 0.01,
+      "moveSpeed": 1,
+      "power": 1.1,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1.1,
+      "magnet": 0,
+      "revivals": 1,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_40K_POWER_KLAW",
+        "WS_40K_POWER_KLAW",
+        "WS_40K_POWER_KLAW",
+        "WS_40K_POWER_KLAW",
+        "WS_40K_POWER_KLAW",
+        "WS_40K_POWER_KLAW",
+        "WS_40K_POWER_KLAW",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ASTRA_MILITARUM"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "OFFICER",
+        "COMMISSAR",
+        "COMMISSAR_YARRICK",
+        "LAUDHAILER_USER",
+        "BOLTGUN_USER",
+        "CHAINSWORD_USER",
+        "STORM_BOLTER_USER"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_40K_CALGAR": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_POWER_FIST",
+      "prefix": "Chapter Master",
+      "charName": "Marneus",
+      "surname": "Calgar",
+      "textureName": "character_calgar",
+      "spriteName": "C_MarneusCalgar_01.png",
+      "charSelTexture": "character_calgar",
+      "charSelFrame": "Portrait_MarneusCalgar.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_calgar_death",
+		"spriteName": "C_MarneusCalgar_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "spriteOffset": {
+        "x": 4,
+        "y": 0
+      },
+      "currentSkin": "DEFAULT",
+      "description": "Chapter Master of the Ultramarines. Gains +1% Area every level.",
+      "price": 1200,
+      "extraFollowerDistance": 0.1,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "maxHp": 180,
+      "armor": 1,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1.1,
+      "growth": 1.1,
+      "greed": 1,
+      "curse": 1.1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_40K_CHAINSWORD",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTUS_ASTARTES",
+        "ULTRAMARINES"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "EPIC_HERO",
+        "GRAVIS",
+        "CHAPTER_MASTER",
+        "MARNEUS_CALGAR",
+        "BOLTGUN_USER",
+        "HEAVYFLAMER_USER"
+      ]
+    },
+    {
+      "level": 20,
+      "growth": 1
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 40,
+      "growth": 1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_40K_SAINT_CELESTINE": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_ARDENT_BLADE",
+      "prefix": "Saint",
+      "charName": "Celestine",
+      "surname": "",
+      "spriteName": "C_SaintCelestine_01.png",
+      "textureName": "character_saint_celestine",
+      "charSelTexture": "character_saint_celestine",
+      "charSelFrame": "Portrait_SaintCelestine.png",
+      "walkingFrames": 4,
+      "autoGenIdleAnim": false,
+      "deathAnim": {
+		"textureName": "character_saint_celestine_death",
+		"spriteName": "C_SaintCelestine_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "PLACEHOLDER. Grows in Blessing and Strength every level. Resurrects stronger.",
+      "price": 2400,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "spriteOffset": {
+        "x": 2,
+        "y": 0
+      },
+      "damageTypeResistances": {
+        "POISON": 0.5
+      },
+      "maxHp": 180,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1.4,
+      "power": 1,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1.2,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 2,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "passThroughWalls": true,
+      "extraFollowerDistance": 0.2,
+      "onEveryLevelUp": {
+        "luck": 0.01,
+        "power": 0.01,
+        "growth": 0.01
+      },
+      "showcase": [
+        "WS_40K_ARDENT_BLADE",
+        "WS_40K_ARDENT_BLADE",
+        "WS_40K_ARDENT_BLADE",
+        "WS_40K_ARDENT_BLADE",
+        "WS_40K_ARDENT_BLADE",
+        "WS_40K_ARDENT_BLADE",
+        "WS_40K_ARDENT_BLADE",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTA_SORORITAS"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "JUMP_PACK",
+        "FLY",
+        "GRENADES",
+        "EPIC_HERO",
+        "CHARACTER",
+        "SAINT_CELESTINE",
+        "FAITH_USER",
+        "LAUDHAILER_USER",
+        "HEAVYFLAMER_USER"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
 
+  //Tier IV (WS_40K_Survive_OrkStronghold_Short)
+  "WS_40K_FURAN": [
+    {
+      "placeholder": true,
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_STORM_BOLTER",
+      "prefix": "Sergeant",
+      "charName": "Furan",
+      "surname": "",
+      "spriteName": "C_SergeantFuran_01.png",
+      "textureName": "character_sergeant_furan",
+      "charSelTexture": "character_sergeant_furan",
+      "charSelFrame": "Portrait_SergeantFuran.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_sergeant_furan_death",
+		"spriteName": "C_SergeantFuran_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Placeholder. Imperial Fists Terminator. Every level gains +1% Strength if heavily damaged, otherwise gains +1% Skill.",
+      "price": 1000,
+      "extraFollowerDistance": 0.1,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "spriteOffset": {
+        "x": 2,
+        "y": 0
+      },
+      "maxHp": 150,
+      "armor": 1,
+      "regen": 0,
+      "moveSpeed": 0.9,
+      "power": 1,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "ADEPTUS_ASTARTES",
+        "IMPERIUM",
+        "IMPERIAL_FISTS"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "TERMINATOR",
+        "BOLTGUN_USER",
+        "HEAVYFLAMER_USER",
+        "STORM_BOLTER_USER"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_40K_PASK": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_BATTLE_CANNON",
+      "prefix": "Knight-Commander",
+      "charName": "Pask",
+      "spriteName": "C_KnightCommanderPask_01.png",
+      "textureName": "character_pask",
+      "charSelTexture": "character_pask",
+      "charSelFrame": "Portrait_KnightCommanderPask.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_pask_death",
+		"spriteName": "C_KnightCommanderPask_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "autoGenIdleAnim": false,
+      "spriteOffset": {
+        "x": 6,
+        "y": 0
+      },
+      "occlusionSize": {
+        "x": 150,
+        "y": 90
+      },
+      "description": "Legendary tank commander. Gains +20 wounds every 10 levels. (Max +100 wounds).",
+      "price": 1000,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "maxHp": 350,
+      "armor": 2,
+      "regen": 0,
+      "moveSpeed": 0.75,
+      "power": 1.2,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 0.80,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0.25,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_40K_LASGUN",
+        "WS_40K_LASGUN",
+        "WS_40K_LASGUN",
+        "WS_40K_LASGUN",
+        "WS_40K_LASGUN",
+        "WS_40K_LASGUN",
+        "WS_40K_LASGUN",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ASTRA_MILITARUM",
+        "CADIANS"
+      ],
+      "keywords": [
+        "VEHICLE",
+        "CHARACTER",
+        "SMOKE",
+        "UNIQUE",
+        "SQUADRON",
+        "OFFICER",
+        "LEMAN_RUSS_COMMANDER",
+        "LAUDHAILER_USER",
+        "HEAVYFLAMER_USER",
+        "STORM_BOLTER_USER"
+      ],
+      "extraFollowerDistance": 0.8
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_40K_CELESTIAN_SACRESANT_AVELINE": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_SPEAR_OF_THE_FAITHFUL",
+      "prefix": "Celestian Sacresant",
+      "charName": "Aveline",
+      "surname": "Aboye",
+      "spriteName": "C_CelestiantAveline_01.png",
+      "textureName": "character_celestiant_aveline",
+      "charSelTexture": "character_celestiant_aveline",
+      "charSelFrame": "Portrait_CelestiantAveline.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_celestiant_aveline_death",
+		"spriteName": "C_CelestiantAveline_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Placeholder. Gains +1% Sustain every level.",
+      "price": 1000,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "spriteOffset": {
+        "x": 2,
+        "y": 0
+      },
+      "maxHp": 100,
+      "armor": 1,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1.2,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1.2,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1.1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 1,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "ADEPTA_SORORITAS",
+        "ORDER_OF_THE_SACRED_ROSE",
+        "IMPERIUM"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "GRENADES",
+        "EPIC_HERO",
+        "CELESTIAN_SACRESANT_AVELINE",
+        "LAUDHAILER_USER",
+        "CHAINSWORD_USER",
+        "HEAVYFLAMER_USER"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_40K_FOBARAN": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_CROZIUS_ARCANUM",
+      "charName": "Chaplain",
+      "surname": "Fo'Baran",
+      "spriteName": "C_ChaplainFoBaran_01.png",
+      "textureName": "character_fobaran",
+      "charSelTexture": "character_fobaran",
+      "charSelFrame": "Portrait_ChaplainFoBaran.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_fobaran_death",
+		"spriteName": "C_ChaplainFoBaran_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "",
+      "price": 1000,
+      "extraFollowerDistance": 0.1,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "maxHp": 120,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1.1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 1,
+      "skips": 0,
+      "banish": 1,
+      "onEveryFollowerAdded":
+      {
+        "modifierStats":
+        {
+          "area": 0.05,
+          "regen": 0.05
+        }
+      },
+      "itemWeightMultipliers": 
+      {
+        "WS_40K_HELLFIRE_AMMO": 2
+      },
+      "showcase": [
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_40K_SHIELD_OF_FAITH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "placeholder": true,
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTUS_ASTARTES",
+        "SALAMANDERS"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "GRENADES",
+        "TACTICUS",
+        "CHAPLAIN",
+        "BOLTGUN_USER",
+        "FAITH_USER",
+        "SHOTGUN_USER",
+        "CHAINSWORD_USER",
+        "HEAVYFLAMER_USER"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  
+  // Tier V (WS_40K_Collect_Paint_Tiny)
+  "WS_40K_CASTELLAN": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_BOLTGUN",
+      "charName": "The Castellan",
+      "spriteName": "C_Castellan_01.png",
+      "textureName": "character_castellan",
+      "charSelTexture": "character_castellan",
+      "charSelFrame": "Portrait_Castellan.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_castellan_death",
+		"spriteName": "C_Castellan_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "currentSkin": "DEFAULT",
+      "description": "PLACEHOLDER",
+      "price": 800,
+      "extraFollowerDistance": 0.1,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "maxHp": 120,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1.1,
+      "power": 1,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+	  "onEveryFollowerAdded":
+      {
+		"modifierStats":{ "speed": 0.1 }
+      },
+      "showcase": [
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "debugTime": 60,
+      "debugEnemies": 400,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTUS_ASTARTES",
+        "BLACK_TEMPLARS"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "GRENADES",
+        "TACTICUS",
+        "LIEUTENANT",
+        "CASTELLAN",
+        "BOLTGUN_USER",
+        "CHAINSWORD_USER",
+        "HEAVYFLAMER_USER"
+      ],
+      "smartValues":
+      {
+          "FOLLOWER_BONUS": "+10%"
+      }
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_40K_MEPHISTON": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_SMITE",
+      "prefix": "Chief Librarian",
+      "charName": "Mephiston",
+      "textureName": "character_mephiston",
+      "spriteName": "C_Mephiston_01.png",
+      "charSelTexture": "character_mephiston",
+      "charSelFrame": "Portrait_Mephiston.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_mephiston_death",
+		"spriteName": "C_Mephiston_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "spriteOffset": {
+        "x": 4,
+        "y": 0
+      },
+      "currentSkin": "DEFAULT",
+      "description": "Grows stronger every level, but so does the Black Rage",
+      "price": 1600,
+      "extraFollowerDistance": 0.1,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "maxHp": 150,
+      "cooldown": 1,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0.2,
+      "revivals": 0,
+      "rerolls": 10,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_40K_SMITE",
+        "WS_40K_SMITE",
+        "WS_40K_SMITE",
+        "WS_40K_SMITE",
+        "WS_40K_SMITE",
+        "WS_40K_SMITE",
+        "WS_40K_SMITE",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "debugTime": 60,
+      "debugEnemies": 400,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "placeholder": true,
+      "onEveryLevelUp": {
+        "moveSpeed": 0.01,
+        "power": 0.005,
+        "cooldown": -0.0025,
+        "curse": 0.005
+      },
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTUS_ASTARTES"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "PSYKER",
+        "GRENADES",
+        "HERO",
+        "TACTICUS",
+        "UNIQUE",
+        "BOLTGUN_USER",
+        "CHIEF_LIBRARIAN_MEPHISTON",
+        "CHAINSWORD_USER",
+        "HEAVYFLAMER_USER"
+      ]
+    }
+  ],
+  "WS_40K_TITUS": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_40K_CHAINSWORD",
+      "prefix": "Lieutenant",
+      "charName": "Demetrian",
+      "surname": "Titus",
+      "textureName": "character_titus",
+      "spriteName": "C_LieutenantTitus_01.png",
+      "charSelTexture": "character_titus",
+      "charSelFrame": "Portrait_LieutenantTitus.png",
+      "currentSkin": "DEFAULT",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_titus_death",
+		"spriteName": "C_LieutenantTitus_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "spriteOffset": {
+        "x": 4,
+        "y": 0
+      },
+      "description": "Starts with 1 extra level.",
+      "price": 2400,
+      "extraFollowerDistance": 0.1,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "maxHp": 120,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1.1,
+      "power": 1,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 1,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1.1,
+      "magnet": 0,
+      "revivals": 0,
+      "exLevels": 1,
+      "rerolls": 3,
+      "skips": 0,
+      "banish": 0,
+      "onEveryWeapon":
+      {
+        "curse": 0.05
+      },
+      "showcase": [
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_40K_BOLTGUN",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "debugTime": 60,
+      "debugEnemies": 400,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTUS_ASTARTES",
+        "ULTRAMARINES"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "GRENADES",
+        "EPIC_HERO",
+        "TACTICUS",
+        "LIEUTENANT",
+        "TITUS",
+        "UNIQUE",
+        "BOLTGUN_USER",
+        "CHAINSWORD_USER",
+        "HEAVYFLAMER_USER"
+      ]
+    },
+    {
+      "level": 20,
+      "growth": 1
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 40,
+      "growth": 1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  
+  // Tier VI (WS_40K_Encounter_Merchant)
+  "WS_40K_DAEDALOSUS": [
+    {
+      "hidden": true,
+      "secret": true,
+      "level": 1,
+      "startingWeapon": "WS_40K_ARCHEOTECH",
+      "prefix": "Technoarcheologist",
+      "charName": "Daedalosus",
+      "canBreakLights": true,
+      "surname": "",
+      "spriteName": "C_Technoarcheologist_01.png",
+      "textureName": "character_technoarcheologist",
+      "charSelTexture": "character_technoarcheologist",
+      "charSelFrame": "Portrait_Technoarcheologist.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_technoarcheologist_death",
+		"spriteName": "C_Technoarcheologist_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Seeker of divine mechanical arcana who gains +1% Tithe every level. Collectathon lasts longer.",
+      "price": 2000,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "spriteOffset": {
+        "x": 1,
+        "y": 0
+      },
+      "maxHp": 80,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 0.8,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1.3,
+      "greed": 1.3,
+      "curse": 1,
+      "magnet": 0.1,
+      "revivals": 0,
+      "rerolls": 3,
+      "skips": 3,
+      "banish": 0,
+      "showcase": [
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTUS_MECHANICUS"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "TECH_PRIEST",
+        "TECHNOARCHEOLOGIST"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_40K_TECHPRIEST_MANIPULUS": [
+    {
+      "hidden": true,
+      "secret": true,
+      "level": 1,
+      "startingWeapon": "WS_40K_RELIQUARY",
+      "prefix": "Tech-Priest",
+      "charName": "Manipulus",
+      "canBreakLights": true,
+      "spriteName": "C_TechPriestManipulus_01.png",
+      "textureName": "character_techpriest_manipulus",
+      "charSelTexture": "character_techpriest_manipulus",
+      "charSelFrame": "Portrait_TechPriestManipulus.png",
+      "walkingFrames": 4,
+      "autoGenIdleAnim": false,
+	  "deathAnim": {
+		"textureName": "character_techpriest_manipulus_death",
+		"spriteName": "C_TechPriestManipulus_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Placeholder. Gains +1% Tithe for every Weapon and Passive currently equipped.",
+      "price": 3000,
+      "extraFollowerDistance": 0.1,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "spriteOffset": {
+        "x": 2,
+        "y": 0
+      },
+      "maxHp": 80,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 0.7,
+      "power": 1,
+      "cooldown": 1.5,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0.3,
+      "revivals": 0,
+      "rerolls": 10,
+      "skips": 10,
+      "banish": 0,
+      "onEveryEquipment":
+      {
+        "greed": 0.1
+      },
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTUS_MECHANICUS",
+        "CULT_MECHANICUS"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "TECH_PRIEST",
+        "MANIPULUS"
+      ],
+      "smartValues":
+      {
+        "WEAPON_BONUS": "+10%"
+      }
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_40K_VAHL": [
+    {
+      "hidden": true,
+      "secret": true,
+      "level": 1,
+      "startingWeapon": "WS_40K_FIDELIS",
+      "prefix": "",
+      "charName": "Morvenn",
+      "surname": "Vahl",
+      "spriteName": "C_MorvennVahl_01.png",
+      "textureName": "character_morvenn_vahl",
+      "charSelTexture": "character_morvenn_vahl",
+      "charSelFrame": "Portrait_MorvennVahl.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_morvenn_vahl_death",
+		"spriteName": "C_MorvennVahl_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "",
+      "price": 5000,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "maxHp": 200,
+      "armor": 2,
+      "regen": 0,
+      "moveSpeed": 1.1,
+      "power": 1.1,
+      "cooldown": 0.9,
+      "area": 1.1,
+      "speed": 1.1,
+      "duration": 1.1,
+      "amount": 0,
+      "luck": 1.1,
+      "growth": 1.1,
+      "greed": 1.1,
+      "curse": 1.1,
+      "magnet": 0.1,
+      "revivals": 1,
+      "rerolls": 10,
+      "skips": 0,
+      "banish": 10,
+	  "onEveryFollowerAdded":
+      {
+		"modifierStats":
+		{
+            "maxHp": 20,
+            "armor": 0.5,
+            "regen": 0.05,
+            "moveSpeed": 0.05,
+            "power": 0.1,
+			"cooldown": -0.025,
+			"area": 0.1,
+			"speed": 0.1,
+			"duration": 0.05,
+			"amount": 0.5,
+            "luck": 0.05,
+            "growth": 0.05,
+            "greed": 0.1,
+            "curse": 0.05,
+            "magnet": 0.05,
+            "revivals": 0.5,
+            "rerolls": 1,
+            "skips": 1,
+            "banish": 1
+        },
+		"factionKeywords": [ "ADEPTA_SORORITAS" ]
+      },
+      "showcase": [
+        "WS_40K_PURGATOR_MIRABILIS",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTA_SORORITAS"
+      ],
+      "keywords": [
+        "CHARACTER",
+        "EPIC_HERO",
+        "VEHICLE",
+        "WALKER",
+        "MORVENN_VAHL",
+        "LAUDHAILER_USER",
+        "HEAVYFLAMER_USER"
+      ],
+      "extraFollowerDistance": 0.3
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  
   //////
   // AOS
   //////
-
-  // Demo Characters
+  
+  // Tier I (visible from start)
   "WS_AOS_NEAVE": [
     {
       "level": 1,
@@ -416,18 +2760,18 @@
       "charSelFrame": "Portrait_NeaveBlacktalon.png",
       "currentSkin": "DEFAULT",
       "walkingFrames": 4,
-      "deathAnim": {
-        "isBolt": true,
-        "isLandscape": true,
-        "textureName": "AOS_Characters_VFX",
-        "spriteName": "VFX_Blacktalons_Death_Lightning_1.png",
-        "framesNumber": 8,
-        "frameRate": 16,
-        "sparksSpriteName": "VFX_Blacktalons_Death_CharacterSparks_1.png",
-        "sparksFramesNumber": 8,
-        "sparksFrameRate": 16,
-        "boltSfx": "WS_PlayerDeath_Stormcast"
-      },
+	  "deathAnim": {
+		"isBolt": true,
+		"isLandscape": true,
+		"textureName": "AOS_Characters_VFX",
+		"spriteName": "VFX_Blacktalons_Death_Lightning_1.png",
+		"framesNumber": 8,
+		"frameRate": 16,
+		"sparksSpriteName": "VFX_Blacktalons_Death_CharacterSparks_1.png",
+		"sparksFramesNumber": 8,
+		"sparksFrameRate": 16,
+		"boltSfx": "WS_PlayerDeath_Stormcast"
+	  },
       "description": "Gains 10% more Range every 5 levels (max +30%).",
       "price": 0,
       "completedStages": [],
@@ -477,11 +2821,11 @@
         "WS_RANGE",
         "WS_RANGE",
         "WS_RANGE",
-        "WS_TOUGHNESS",
-        "WS_TOUGHNESS",
-        "WS_TOUGHNESS",
-        "WS_TOUGHNESS",
-        "WS_TOUGHNESS"
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
       ],
       "silos": [
         "WH_AOS"
@@ -497,29 +2841,185 @@
         "INFANTRY",
         "VANGUARD_CHAMBER",
         "THE_BLACKTALONS",
-        "NEAVE_BLACKTALON",
-        "CROSSBOW_USER"
+        "NEAVE_BLACKTALON"
       ]
     },
     {
-      "level": 5,
+	  "level": 5,
       "area": 0.1
     },
-    {
-      "level": 10,
+	{
+	  "level": 10,
       "area": 0.1
     },
-    {
-      "level": 15,
+	{
+	  "level": 15,
       "area": 0.1
     },
     {
       "level": 20,
       "growth": 1
     },
+	{
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 40,
+      "growth": 1
+    },    
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_AOS_CALLIS": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_AOS_BRACE_OF_PISTOLS",
+      "charName": "Armand",
+      "surname": "Callis",
+      "spriteName": "C_ArmandCallis_01.png",
+      "textureName": "character_callis",
+      "charSelTexture": "character_callis",
+      "charSelFrame": "Portrait_ArmandCallis.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_callis_death",
+		"spriteName": "C_ArmandCallis_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "",
+      "currentSkin": "DEFAULT",
+      "skins": [
+        {
+          "skinType": "DEFAULT",
+          "name": "Solo",
+          "spriteName": "C_ArmandCallis_01.png",
+          "textureName": "character_callis",
+          "walkingFrames": 4,
+		  "deathAnim": {
+			"textureName": "character_callis_death",
+			"spriteName": "C_ArmandCallis_1.png",
+			"framesNumber": 17,
+			"frameRate": 16
+		  },
+          "unlocked": true
+        },
+        {
+          "skinType": "SKIN_WS_AOS_CALLIS_WITH_TOLL",
+          "name": "Callis and Toll",
+          "spriteName": "C_ArmandCallis_01.png",
+          "textureName": "character_callis",
+          "charSelTexture": "character_callis",
+          "charSelFrame": "Portrait_ArmandCallis.png",
+          "charSelFrameSelect": "C_ArmandCallis_Duo.png",
+          "walkingFrames": 4,
+          "speed": 0.2,
+          "reroll": 3,
+		  "deathAnim": {
+			"textureName": "character_callis_death",
+			"spriteName": "C_ArmandCallis_1.png",
+			"framesNumber": 17,
+			"frameRate": 16
+		  },
+          "unlocked": false,
+          "exWeapons": [
+            "WS_AOS_FLINTLOCK_PISTOLS"
+          ],
+          "description": "Callis and Toll"
+        }
+      ],
+      "price": 0,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "maxHp": 100,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1.2,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_AOS_BRACE_OF_PISTOLS",
+        "WS_AOS_BRACE_OF_PISTOLS",
+        "WS_AOS_BRACE_OF_PISTOLS",
+        "WS_AOS_BRACE_OF_PISTOLS",
+        "WS_AOS_BRACE_OF_PISTOLS",
+        "WS_AOS_BRACE_OF_PISTOLS",
+        "WS_AOS_BRACE_OF_PISTOLS",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "CITIES_OF_SIGMAR",
+        "HUMAN"
+      ],
+      "keywords": [
+        "UNIQUE",
+        "HERO",
+        "INFANTRY",
+        "WARD",
+        "CALLIS"
+      ]
+    },
+    {
+      "level": 10,
+      "cooldown": -0.05
+    },
+    {
+      "level": 20,
+      "growth": 1,
+      "cooldown": -0.05
+    },
     {
       "level": 21,
       "growth": -1
+    },
+    {
+      "level": 30,
+      "cooldown": -0.05
     },
     {
       "level": 40,
@@ -532,8 +3032,8 @@
   ],
   "WS_AOS_LORAI": [
     {
-      "hidden": true,
-      "secret": true,
+      "hidden": false,
+      "secret": false,
       "level": 1,
       "startingWeapon": "WS_AOS_NEBULOUS_SEAFOG",
       "charName": "Lorai",
@@ -544,14 +3044,14 @@
       "charSelFrame": "Portrait_Lorai.png",
       "walkingFrames": 4,
       "autoGenIdleAnim": false,
-      "deathAnim": {
-        "textureName": "character_lorai_death",
-        "spriteName": "C_Lorai_1.png",
-        "framesNumber": 17,
-        "frameRate": 16
-      },
+	  "deathAnim": {
+		"textureName": "character_lorai_death",
+		"spriteName": "C_Lorai_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
       "description": "",
-      "price": 200,
+      "price": 100,
       "completedStages": [],
       "survivedMinutes": 0,
       "currentSkin": "DEFAULT",
@@ -577,8 +3077,14 @@
       "banish": 0,
       "itemWeightMultipliers":
       {
+        "WS_AOS_EVERBLAZE_COMET" : 2,
         "WS_AOS_PURPLE_SUN_OF_SHYISH" : 2,
-        "WS_AOS_GNASHING_JAWS": 2
+        "WS_AOS_GNASHING_JAWS": 2,
+        "WS_AOS_EMERALD_LIFESWARM": 2,
+        "WS_AOS_PRISMATIC_PALISADE": 2,
+        "WS_AOS_QUICKSILVER_BLADES": 2,
+        "WS_AOS_MALEVOLENT_MAELSTROM": 2,
+        "WS_AOS_SUFFOCATING_GRAVETIDE": 2
       },
       "showcase": [
         "WS_AOS_NEBULOUS_SEAFOG",
@@ -668,11 +3174,963 @@
       "growth": -1
     }
   ],
-  "WS_AOS_ULGROMTHIER": [
+  "WS_AOS_FREEGUILD_FUSILIER": [
     {
       "hidden": false,
       "secret": false,
-      "isRescue": true,
+      "level": 1,
+      "startingWeapon": "WS_AOS_FUSIL_CANNON",
+      "cooldown": 1,
+      "charName": "Freeguild Fusilier",
+      "textureName": "character_freeguild_fusilier",
+      "spriteName": "C_FreeguildFusilier_01.png",
+      "charSelTexture": "character_freeguild_fusilier",
+      "charSelFrame": "Portrait_FreeguildFusilier.png",
+      "currentSkin": "DEFAULT",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_freeguild_fusilier_death",
+		"spriteName": "C_FreeguildFusilier_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Stronger when standing still.",
+      "price": 200,
+      "extraFollowerDistance": 0.2,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "maxHp": 100,
+      "armor": 1,
+      "regen": 0,
+      "moveSpeed": 0.9,
+      "power": 1,
+      "area": 1,
+      "speed": 1.1,
+      "duration": 1.1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "CITIES_OF_SIGMAR"
+      ],
+      "keywords": [
+        "HERO",
+        "INFANTRY",
+        "CHAMPION"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": -1,
+      "level": 21
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "growth": -1,
+      "level": 41
+    }
+  ],
+ 
+  
+  // Tier II (WS_AOS_Survive_SkrappaSpill)
+  "WS_AOS_GOLDENBLADE": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_AOS_BOLTSTORM_PISTOL",
+      "cooldown": 1,
+      "charName": "Shakana",
+      "surname": "Goldenblade",
+      "spriteName": "C_Shakana_01.png",
+      "textureName": "character_shakana",
+      "charSelTexture": "character_shakana",
+      "charSelFrame": "Portrait_Shakana.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"isBolt": true,
+		"isLandscape": true,
+		"textureName": "AOS_Characters_VFX",
+		"spriteName": "VFX_Blacktalons_Death_Lightning_1.png",
+		"framesNumber": 8,
+		"frameRate": 16,
+		"sparksSpriteName": "VFX_Blacktalons_Death_CharacterSparks_1.png",
+		"sparksFramesNumber": 8,
+		"sparksFrameRate": 16,
+		"boltSfx": "WS_PlayerDeath_Stormcast"
+	  },
+      "currentSkin": "DEFAULT",
+      "spriteOffset": {
+        "x": 2,
+        "y": 0
+      }, 
+      "description": "Placeholder. Gains 10% Skill every 5 levels until level 15.",
+      "price": 500,
+      "extraFollowerDistance": 0.1,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "maxHp": 125,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "cooldown": 0.9, 
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "onEveryWeapon":
+      {
+        "growth": 0.05
+      },
+      "showcase": [
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "STORMCAST_ETERNALS"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "UNIQUE",
+        "THE_BLACKTALONS",
+        "CROSSBOW_USER"
+      ]
+    },
+    {
+      "level": 10,
+      "speed": 0.05
+    },
+    {
+      "level": 20,
+      "growth": 1,
+      "speed": 0.05
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 30,
+      "speed": 0.05
+    },
+    {
+      "level": 40,
+      "growth": 1,
+      "speed": 0.05
+    },
+    {
+      "level": 41,
+      "growth": -1
+    },
+    {
+      "level": 50,
+      "speed": 0.05
+    },
+    {
+      "level": 60,
+      "speed": 0.05
+    }
+  ],
+  "WS_AOS_SHARYNN": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_AOS_GRANDBLADE",
+      "cooldown": 1,
+      "charName": "Sharynn",
+      "surname": "Azurwrath",
+      "textureName": "character_stormcaster",
+      "spriteName": "C_FemaleStormcastEternal_01.png",
+      "charSelTexture": "character_stormcaster",
+      "charSelFrame": "Portrait_FemaleStormcasterEnternal.png",
+      "currentSkin": "DEFAULT",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"isBolt": true,
+		"isLandscape": true,
+		"textureName": "AOS_Characters_VFX",
+		"spriteName": "VFX_Blacktalons_Death_Lightning_1.png",
+		"framesNumber": 8,
+		"frameRate": 16,
+		"sparksSpriteName": "VFX_Blacktalons_Death_CharacterSparks_1.png",
+		"sparksFramesNumber": 8,
+		"sparksFrameRate": 16,
+		"boltSfx": "WS_PlayerDeath_Stormcast"
+	  },
+      "description": "Gains 10% Save every 5 levels (max +50%).",
+      "price": 500,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "maxHp": 100,
+      "armor": 1,
+      "regen": 0.2,
+      "moveSpeed": 1,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_AOS_GRANDBLADE",
+        "WS_AOS_GRANDBLADE",
+        "WS_AOS_GRANDBLADE",
+        "WS_AOS_GRANDBLADE",
+        "WS_AOS_GRANDBLADE",
+        "WS_AOS_GRANDBLADE",
+        "WS_AOS_GRANDBLADE",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "STORMCAST_ETERNALS",
+        "HAMMERS_OF_SIGMAR"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "CHAMPION",
+        "MUSICIAN",
+        "STANDARD_BEARER",
+        "WARRIOR_CHAMBER"
+      ]
+    },
+    {
+      "armor": 0.1,
+      "level": 5
+    },
+    {
+      "armor": 0.1,
+      "level": 10
+    },
+    {
+      "armor": 0.1,
+      "level": 15
+    },
+    {
+      "armor": 0.1,
+      "level": 20,
+      "growth": 1
+    },
+    {
+      "armor": 0.1,
+      "level": 25
+    },
+    {
+      "level": 40,
+      "growth": 1
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_AOS_HENDRICK": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_AOS_CYCLONE_SWORD",
+      "cooldown": 0.9,
+      "charName": "Hendrick",
+      "surname": "The Silver Wolf",
+      "textureName": "character_hendrick",
+      "spriteName": "C_HendrickTheSilverWolf_01.png",
+      "charSelTexture": "character_hendrick",
+      "charSelFrame": "Portrait_HendrickTheSilverWolf.png",
+      "currentSkin": "DEFAULT",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"isBolt": true,
+		"isLandscape": true,
+		"textureName": "AOS_Characters_VFX",
+		"spriteName": "VFX_Blacktalons_Death_Lightning_1.png",
+		"framesNumber": 8,
+		"frameRate": 16,
+		"sparksSpriteName": "VFX_Blacktalons_Death_CharacterSparks_1.png",
+		"sparksFramesNumber": 8,
+		"sparksFrameRate": 16,
+		"boltSfx": "WS_PlayerDeath_Stormcast"
+	  },
+      "description": "Gains +4% Sustained Hits every 10 levels (max +24%).",
+      "price": 500,
+      "extraFollowerDistance": 0.1,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "maxHp": 100,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1.0,
+      "power": 1.0,
+      "area": 1.1,
+      "speed": 1,
+      "cooldown": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_AOS_CYCLONE_SWORD",
+        "WS_AOS_CYCLONE_SWORD",
+        "WS_AOS_CYCLONE_SWORD",
+        "WS_AOS_CYCLONE_SWORD",
+        "WS_AOS_CYCLONE_SWORD",
+        "WS_AOS_CYCLONE_SWORD",
+        "WS_AOS_CYCLONE_SWORD",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "STORMCAST_ETERNALS"
+      ],
+      "keywords": [
+        "UNIQUE",
+        "INFANTRY",
+        "VANGUARD_CHAMBER",
+        "THE_BLACKTALONS",
+        "KNIGHT_QUESTOR"
+      ]
+    },
+    {
+      "level": 5,
+      "magnet": 0.05
+    },
+    {
+      "level": 10,
+      "magnet": 0.05
+    },
+    {
+      "level": 15,
+      "magnet": 0.05
+    },
+    {
+      "level": 20,
+      "magnet": 0.05,
+      "growth": 1
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 25,
+      "magnet": 0.05
+    },
+    {
+      "level": 30,
+      "magnet": 0.05
+    },
+    {
+      "level": 40,
+      "growth": 1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  
+  // Tier III (WS_AOS_Rescue_Any)
+  "WS_AOS_TOLL": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_AOS_FLINTLOCK_PISTOLS",
+      "cooldown": 1,
+      "charName": "Hanniver",
+      "surname": "Toll",
+      "spriteName": "C_HanniverToll_01.png",
+      "textureName": "character_toll",
+      "charSelTexture": "character_toll",
+      "charSelFrame": "Portrait_HanniverToll.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_toll_death",
+		"spriteName": "C_HanniverToll_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "",
+      "currentSkin": "DEFAULT",
+      "skins": [
+        {
+          "skinType": "DEFAULT",
+          "name": "Solo",
+          "spriteName": "C_HanniverToll_01.png",
+          "textureName": "character_toll",
+          "walkingFrames": 4,
+		  "deathAnim": {
+			"textureName": "character_toll_death",
+			"spriteName": "C_HanniverToll_1.png",
+			"framesNumber": 17,
+			"frameRate": 16
+		  },
+          "unlocked": true
+        },
+        {
+          "skinType": "SKIN_WS_AOS_TOLL_WITH_CALLIS",
+          "name": "Toll and Callis",
+          "spriteName": "C_HanniverToll_01.png",
+          "textureName": "character_toll",
+          "charSelTexture": "character_toll",
+          "charSelFrame": "Portrait_HanniverToll.png",
+          "charSelFrameSelect": "C_HanniverToll_Duo.png",
+          "walkingFrames": 4,
+          "greed": 0.2,
+		  "deathAnim": {
+			"textureName": "character_toll_death",
+			"spriteName": "C_HanniverToll_1.png",
+			"framesNumber": 17,
+			"frameRate": 16
+		  },
+          "unlocked": false,
+          "exWeapons": [
+            "WS_AOS_BRACE_OF_PISTOLS"
+          ],
+          "description": "Toll and Callis"
+        }
+      ],
+      "price": 600,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "maxHp": 100,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1,
+      "area": 1,
+      "speed": 1.2,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 3,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_AOS_FLINTLOCK_PISTOLS",
+        "WS_AOS_FLINTLOCK_PISTOLS",
+        "WS_AOS_FLINTLOCK_PISTOLS",
+        "WS_AOS_FLINTLOCK_PISTOLS",
+        "WS_AOS_FLINTLOCK_PISTOLS",
+        "WS_AOS_FLINTLOCK_PISTOLS",
+        "WS_AOS_FLINTLOCK_PISTOLS",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "CITIES_OF_SIGMAR",
+        "HUMAN"
+      ],
+      "keywords": [
+        "UNIQUE",
+        "HERO",
+        "INFANTRY",
+        "WARD",
+        "TOLL"
+      ]
+    },
+    {
+      "level": 5,
+      "duration": 0.05
+    },
+    {
+      "level": 10,
+      "duration": 0.05
+    },
+    {
+      "level": 15,
+      "duration": 0.05
+    },
+    {
+      "level": 20,
+      "duration": 0.05,
+      "GROWTH": 1
+    },
+    {
+      "level": 21,
+      "GROWTH": -1
+    },
+    {
+      "level": 25,
+      "duration": 0.05
+    },
+    {
+      "level": 30,
+      "duration": 0.05
+    },
+    {
+      "level": 40,
+      "growth": 1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_AOS_GOTREK": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_AOS_FYRESLAYER_AXE",
+      "charName": "Gotrek",
+      "surname": "Gurnisson",
+      "spriteName": "C_GotrekGurnisson_01.png",
+      "textureName": "character_gotrek",
+      "charSelTexture": "character_gotrek",
+      "charSelFrame": "Portrait_GotrekGurnisson.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_gotrek_death",
+		"spriteName": "C_GotrekGurnisson_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Starts with 1 Redeploy. Gains 1 more Redeploty at level 35 and another at level 71",
+      "price": 1200,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "skins": [
+        {
+          "skinType": "DEFAULT",
+          "name": "Solo",
+          "spriteName": "C_GotrekGurnisson_01.png",
+          "textureName": "character_gotrek",
+          "walkingFrames": 4,
+		  "deathAnim": {
+			"textureName": "character_gotrek_death",
+			"spriteName": "C_GotrekGurnisson_1.png",
+			"framesNumber": 17,
+			"frameRate": 16
+		  },
+          "unlocked": true
+        },
+        {
+          "skinType": "SKIN_WS_AOS_GOTREK_WITH_MALENETH",
+          "name": "With Maleneth",
+          "spriteName": "C_GotrekGurnisson_01.png",
+          "textureName": "character_gotrek",
+          "charSelTexture": "character_gotrek",
+          "charSelFrame": "Portrait_GotrekGurnisson.png",
+          "charSelFrameSelect": "C_GotrekGurnisson_Duo.png",
+          "walkingFrames": 4,
+		  "deathAnim": {
+			"textureName": "character_gotrek_death",
+			"spriteName": "C_GotrekGurnisson_1.png",
+			"framesNumber": 17,
+			"frameRate": 16
+		  },
+          "unlocked": false,
+          "exWeapons": [
+            "WS_AOS_POISONED_THROWING_KNIVES"
+          ],
+          "description": "Gotrek and Maleneth"
+        }
+      ],
+      "maxHp": 100,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1.3,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 0.8,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 3,
+      "banish": 0,
+      "showcase": [
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "spriteOffset": {
+        "x": -8,
+        "y": 0
+      },
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "FYRESLAYERS",
+        "DUARDIN"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "UNIQUE",
+        "HERO",
+        "WARD",
+        "GOTREK_GURNISSON"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_AOS_ROSTUS": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_AOS_STORMCHARGED_HAMMER",
+      "charName": "Rostus",
+      "surname": "Oxenhammer",
+      "textureName": "character_rostus_oxenhammer",
+      "spriteName": "C_RostusOxenhammer_01.png",
+      "charSelTexture": "character_rostus_oxenhammer",
+      "charSelFrame": "Portrait_RostusOxenhammer.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"isBolt": true,
+		"isLandscape": true,
+		"textureName": "AOS_Characters_VFX",
+		"spriteName": "VFX_Blacktalons_Death_Lightning_1.png",
+		"framesNumber": 8,
+		"frameRate": 16,
+		"sparksSpriteName": "VFX_Blacktalons_Death_CharacterSparks_1.png",
+		"sparksFramesNumber": 8,
+		"sparksFrameRate": 16,
+		"boltSfx": "WS_PlayerDeath_Stormcast"
+	  },
+      "description": "",
+      "price": 1200,
+      "extraFollowerDistance": 0.1,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "maxHp": 80,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1,
+      "cooldown": 1.8,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 2,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_AOS_STORMCHARGED_HAMMER",
+        "WS_AOS_STORMCHARGED_HAMMER",
+        "WS_AOS_STORMCHARGED_HAMMER",
+        "WS_AOS_STORMCHARGED_HAMMER",
+        "WS_AOS_STORMCHARGED_HAMMER",
+        "WS_AOS_STORMCHARGED_HAMMER",
+        "WS_AOS_STORMCHARGED_HAMMER",
+        "WS_AOS_STORMCHARGED_HAMMER",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "STORMCAST_ETERNALS"
+      ],
+      "keywords": [
+        "UNIQUE",
+        "INFANTRY",
+        "THE_BLACKTALONS"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_AOS_ULGROMTHIER": [
+    {
+      "hidden": true,
+      "secret": false,
       "level": 1,
       "startingWeapon": "WS_AOS_BRAZIER_STAFF",
       "charName": "Ulgromthier",
@@ -688,15 +4146,13 @@
         "framesNumber": 17,
         "frameRate": 16
       },
-      
-      "description": "Starts with +20 Wounds. Gains Strength, Attacks and Skill with coins collected.",
-      "price": 200,
-      "canBreakLights": true,
+      "description": "Starts with +10 Wounds. Gains Strength, Attacks and Skill with levels.",
+      "price": 600,
       "completedStages": [],
       "survivedMinutes": 0,
       "currentSkin": "DEFAULT",
-      "maxHp": 120,
-      "armor": 1,
+      "maxHp": 110,
+      "armor": 0,
       "regen": 0,
       "moveSpeed": 1,
       "power": 1,
@@ -708,7 +4164,7 @@
       "luck": 1,
       "growth": 1,
       "greed": 1.1,
-      "curse": 1, 
+      "curse": 1.2,
       "magnet": 0,
       "revivals": 0,
       "rerolls": 0,
@@ -719,13 +4175,13 @@
         "WS_AOS_URGOLD" : 2
       },
       "showcase": [
-        "WS_AOS_BRAZIER_STAFF",
-        "WS_AOS_BRAZIER_STAFF",
-        "WS_AOS_BRAZIER_STAFF",
-        "WS_AOS_BRAZIER_STAFF",
-        "WS_AOS_BRAZIER_STAFF",
-        "WS_AOS_BRAZIER_STAFF",
-        "WS_AOS_BRAZIER_STAFF",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
         "WS_STRENGTH",
         "WS_STRENGTH",
         "WS_STRENGTH",
@@ -787,17 +4243,607 @@
       "growth": -1
     }
   ],
+  "WS_AOS_MISTRESS_VERENTIA": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_AOS_TWIN_TAILED_CAT",
+      "cooldown": 1,
+      "charName": "Mistress Verentia",
+      "textureName": "character_mistress_verentia",
+      "spriteName": "C_MistressVerentia_A_01.png",
+      "charSelTexture": "character_mistress_verentia",
+      "charSelFrame": "Portrait_MistressVerentia.png",
+      "currentSkin": "DEFAULT",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_mistress_verentia_death",
+		"spriteName": "C_MistressVerentia_A_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Gains 1% more skill each level.",
+      "price": 2400,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "maxHp": 100,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 0.6,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1.2,
+      "cooldown": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 3,
+      "onEveryLevelUp": {
+        "speed": 0.01
+      },
+      "showcase": [
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "CITIES_OF_SIGMAR",
+        "HUMAN"
+      ],
+      "keywords": [
+        "CINDERFALL",
+        "UNIQUE",
+        "INFANTRY",
+        "MISTRESS_VERENTIA"
+      ]
+    }
+  ],
+  
+  // Tier IV (WS_AOS_Survive_BloodwindSpoil_1)
+  "WS_AOS_MAJOR_DOCHEVAL": [
+    {
+      "hidden": true,
+      "secret": true,
+      "level": 1,
+      "prefix": "Major",
+      "charName": "Docheval",
+      "surname": "on Ogor Warhulk",
+      "startingWeapon": "WS_AOS_LONG_FUSIL",
+      "cooldown": 1,
+      "textureName": "character_major_docheval",
+      "spriteName": "C_MajorDocheval_01.png",
+      "charSelTexture": "character_major_docheval",
+      "charSelFrame": "Portrait_MajorDocheval.png",
+      "currentSkin": "DEFAULT",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_major_docheval_death",
+		"spriteName": "C_MajorDocheval_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Starts with +100 Wounds, -20% Move, +10% Strength , +10% Skill, +1 Save. Gains extra Strength per Save increase.",
+      "price": 1000,
+      "extraFollowerDistance": 0.3,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "maxHp": 300,
+      "armor": 1.5,
+      "regen": 0,
+      "moveSpeed": 0.7,
+      "power": 1,
+      "area": 1,
+      "speed": 1.1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1.4,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 5,
+      "banish": 3,
+      "showcase": [
+        "WS_AOS_LONG_FUSIL",
+        "WS_AOS_LONG_FUSIL",
+        "WS_AOS_LONG_FUSIL",
+        "WS_AOS_LONG_FUSIL",
+        "WS_AOS_LONG_FUSIL",
+        "WS_AOS_LONG_FUSIL",
+        "WS_AOS_LONG_FUSIL",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "CITIES_OF_SIGMAR",
+        "GREYWATER_FASTNESS",
+        "HUMAN"
+      ],
+      "keywords": [
+        "HERO",
+        "INFANTRY",
+        "WARHULK",
+        "UNIQUE"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_AOS_CARTHALOS": [
+    {
+      "hidden": true,
+      "secret": true,
+      "level": 1,
+      "startingWeapon": "WS_AOS_USKAVAR_THE_SUNDERER",
+      "prefix": "Lord-Commander",
+      "charName": "Bastian",
+      "surname": "Carthalos",
+      "spriteName": "C_BastianCarthalos_01.png",
+      "textureName": "character_carthalos",
+      "charSelTexture": "character_carthalos",
+      "charSelFrame": "Portrait_BastianCarthalos.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"isBolt": true,
+		"isLandscape": true,
+		"textureName": "AOS_Characters_VFX",
+		"spriteName": "VFX_Blacktalons_Death_Lightning_1.png",
+		"framesNumber": 8,
+		"frameRate": 16,
+		"sparksSpriteName": "VFX_Blacktalons_Death_CharacterSparks_1.png",
+		"sparksFramesNumber": 8,
+		"sparksFrameRate": 16,
+		"boltSfx": "WS_PlayerDeath_Stormcast"
+	  },
+      "description": "Placeholder. Lord-Commander of the Hammers of Sigmar. Gains +1% Strength every level.",
+      "price": 1000,
+      "extraFollowerDistance": 0.1,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "maxHp": 180,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1.33,
+      "cooldown": 1.2,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "cooldown": 0.8,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1.4,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 20,
+      "skips": 10,
+      "banish": 10,
+      "showcase": [
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "STORMCAST_ETERNALS"
+      ],
+      "keywords": [
+        "UNIQUE",
+        "HERO",
+        "INFANTRY",
+        "WARD",
+        "BASTIAN_CARTHALOS"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_AOS_YNDRASTA": [
+    {
+      "hidden": true,
+      "secret": true,
+      "level": 1,
+      "startingWeapon": "WS_AOS_BLADE_OF_THE_HIGH_HEAVENS",
+      "charName": "Yndrasta",
+      "surname": "The Celestial Spear",
+      "textureName": "character_yndrasta",
+      "spriteName": "C_Yndrasta_A_01.png",
+      "charSelTexture": "character_yndrasta",
+      "charSelFrame": "Portrait_Yndrasta.png",
+      "spriteOffset":
+      {
+        "x":2,
+        "y":0
+      },
+      "walkingFrames": 4,
+      "autoGenIdleAnim": false,
+	  "deathAnim": {
+		"isBolt": true,
+		"isLandscape": true,
+		"textureName": "AOS_Characters_VFX",
+		"spriteName": "VFX_Blacktalons_Death_Lightning_1.png",
+		"framesNumber": 8,
+		"frameRate": 16,
+		"sparksSpriteName": "VFX_Blacktalons_Death_CharacterSparks_1.png",
+		"sparksFramesNumber": 8,
+		"sparksFrameRate": 16,
+		"boltSfx": "WS_PlayerDeath_Stormcast"
+	  },
+      "description": "Yndrasta starts with +30 Max Health, +1 Save, +10% Range, +10% Strength, +10% Move and -10% Reload",
+      "price": 1000,
+      "extraFollowerDistance": 0.2,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "maxHp": 130,
+      "armor": 1,
+      "regen": 0,
+      "moveSpeed": 1.3,
+      "power": 1,
+      "cooldown": 0.7,
+      "area": 1.3,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 0.6,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "passThroughWalls": true,
+      "onEveryLevelUp": {
+        "duration": 0.005,
+        "luck": 0.005
+      },
+      "showcase": [
+        "WS_AOS_BLADE_OF_THE_HIGH_HEAVENS",
+        "WS_AOS_BLADE_OF_THE_HIGH_HEAVENS",
+        "WS_AOS_BLADE_OF_THE_HIGH_HEAVENS",
+        "WS_AOS_BLADE_OF_THE_HIGH_HEAVENS",
+        "WS_AOS_BLADE_OF_THE_HIGH_HEAVENS",
+        "WS_AOS_BLADE_OF_THE_HIGH_HEAVENS",
+        "WS_AOS_BLADE_OF_THE_HIGH_HEAVENS",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "STORMCAST_ETERNALS"
+      ],
+      "keywords": [
+        "UNIQUE",
+        "WARMASTER",
+        "HERO",
+        "INFANTRY",
+        "FLY",
+        "WARD",
+        "YNDRASTA"
+      ],
+      "allowFootstepAudio": false
+    }
+  ],
+  
+  // Tier V (WS_AOS_Collect_Paint_1)
+  "WS_AOS_MALENETH_WITCHBLADE": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_AOS_POISONED_THROWING_KNIVES",
+      "charName": "Maleneth Witchblade",
+      "spriteName": "C_MalenethWitchblade_01.png",
+      "textureName": "character_maleneth_witchblade",
+      "charSelTexture": "character_maleneth_witchblade",
+      "charSelFrame": "Portrait_MalenethWitchblade.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_maleneth_witchblade_death",
+		"spriteName": "C_MalenethWitchblade_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Placeholder.",
+      "price": 800,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "skins": [
+        {
+          "skinType": "DEFAULT",
+          "name": "Solo",
+          "spriteName": "C_MalenethWitchblade_01.png",
+          "textureName": "character_maleneth_witchblade",
+          "walkingFrames": 4,
+          "spriteAnims": {
+            "idleAnimation": {
+              "textureName": "character_maleneth_witchblade",
+              "spriteName": "C_MalenethWitchblade_i01.png",
+              "framesNumber": 1,
+              "frameRate": 8
+            }
+          },
+		  "deathAnim": {
+			"textureName": "character_maleneth_witchblade_death",
+			"spriteName": "C_MalenethWitchblade_1.png",
+			"framesNumber": 17,
+			"frameRate": 16
+		  },
+          "unlocked": true
+        },
+        {
+          "skinType": "SKIN_WS_AOS_MALENETH_WITH_GOTREK",
+          "name": "With Gotrek",
+          "spriteName": "C_MalenethWitchblade_01.png",
+          "textureName": "character_maleneth_witchblade",
+          "charSelTexture": "character_maleneth_witchblade",
+          "charSelFrame": "Portrait_MalenethWitchblade.png",
+          "charSelFrameSelect": "C_MalenethWitchblade_Duo.png",
+          "walkingFrames": 4,
+		  "deathAnim": {
+			"textureName": "character_maleneth_witchblade_death",
+			"spriteName": "C_MalenethWitchblade_1.png",
+			"framesNumber": 17,
+			"frameRate": 16
+		  },
+          "unlocked": false,
+          "exWeapons": [
+            "WS_AOS_FYRESLAYER_AXE"
+          ],
+          "description": "Maleneth and Gotrek"
+        }
+      ],
+      "maxHp": 100,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1.3,
+      "power": 0.9,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1.2,
+      "amount": 0,
+      "luck": 1.0,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_AOS_POISONED_THROWING_KNIVES",
+        "WS_AOS_POISONED_THROWING_KNIVES",
+        "WS_AOS_POISONED_THROWING_KNIVES",
+        "WS_AOS_POISONED_THROWING_KNIVES",
+        "WS_AOS_POISONED_THROWING_KNIVES",
+        "WS_AOS_POISONED_THROWING_KNIVES",
+        "WS_AOS_POISONED_THROWING_KNIVES",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "AELF",
+        "DAUGHTERS_OF_KHAINE"
+      ],
+      "keywords": [
+        "UNIQUE",
+        "HERO",
+        "INFANTRY",
+        "WARD"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
   "WS_AOS_LYSSA_REVENYA":[
     {
-      "hidden": false,
+      "hidden": true,
       "secret": false,
-      "isRescue": true,
       "level": 1,
       "startingWeapon": "WS_AOS_ROPE_AND_GRAPNEL",
       "hiddenWeapons": [
         "WS_EXTINGUISH"
       ],
-      "canBreakLights": true,
       "cooldown": 1,
       "charName": "Lyssa",
       "surname": "Revenya",
@@ -807,14 +4853,14 @@
       "charSelFrame": "Portrait_LyssaRevenya.png",
       "currentSkin": "DEFAULT",
       "walkingFrames": 4,
-      "deathAnim": {
-        "textureName": "character_lysaa_revenya_death",
-        "spriteName": "C_LyssaRevenya_A_1.png",
-        "framesNumber": 17,
-        "frameRate": 16
-      },
+	  "deathAnim": {
+		"textureName": "character_lysaa_revenya_death",
+		"spriteName": "C_LyssaRevenya_A_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
       "description": "Gains a bonus to Chance and Move when surrounded by enemies.",
-      "price": 400,
+      "price": 1600,
       "completedStages": [],
       "survivedMinutes": 0,
       "enemiesKilled": 0,
@@ -882,6 +4928,896 @@
         "INFANTRY",
         "LYSSA_REVENYA"
       ]
+    }
+  ],
+  "WS_AOS_VALIUS":[
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_AOS_MYSTICAL_WARD",
+      "hiddenWeapons": [
+        "WS_EXTINGUISH"
+      ],
+      "cooldown": 1,
+      "charName": "Valius",
+      "surname": "The Keeper Aqshian",
+      "textureName": "character_valius",
+      "spriteName": "C_Valius_01.png",
+      "charSelTexture": "character_valius",
+      "charSelFrame": "Portrait_Valius.png",
+      "currentSkin": "DEFAULT",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"isBolt": true,
+		"isLandscape": true,
+		"textureName": "AOS_Characters_VFX",
+		"spriteName": "VFX_Blacktalons_Death_Lightning_1.png",
+		"framesNumber": 8,
+		"frameRate": 16,
+		"sparksSpriteName": "VFX_Blacktalons_Death_CharacterSparks_1.png",
+		"sparksFramesNumber": 8,
+		"sparksFrameRate": 16,
+		"boltSfx": "WS_PlayerDeath_Stormcast"
+	  },
+      "description": "Gains +1 Save every 5 levels (Max +5).",
+      "price": 2400,
+      "extraFollowerDistance": 0.2,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "maxHp": 150,
+      "armor": 0,
+      "regen": 0.2,
+      "moveSpeed": 1,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 5,
+      "skips": 0,
+      "banish": 0,
+      "exLevels": 1,
+      "showcase": [
+        "WS_AOS_MYSTICAL_WARD",
+        "WS_AOS_MYSTICAL_WARD",
+        "WS_AOS_MYSTICAL_WARD",
+        "WS_AOS_MYSTICAL_WARD",
+        "WS_AOS_MYSTICAL_WARD",
+        "WS_AOS_MYSTICAL_WARD",
+        "WS_AOS_MYSTICAL_WARD",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "STORMCAST_ETERNALS",
+        "HAMMERS_OF_SIGMAR",
+        "ORDER",
+        "CITIES_OF_SIGMAR"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "UNIQUE",
+        "LORD_CASTELLANT"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  
+  // Tier VI (WS_AOS_Encounter_Merchant)
+  "WS_AOS_BROKK": [
+    {
+      "hidden": true,
+      "secret": true,
+      "level": 1,
+      "startingWeapon": "WS_AOS_EXOTIC_WEAPONRY",
+      "charName": "Brokk",
+      "surname": "Grungsson",
+      "spriteName": "C_BrokkGrungsson_01.png",
+      "textureName": "character_brokk",
+      "charSelTexture": "character_brokk",
+      "charSelFrame": "Portrait_BrokkGrungsson.png",
+      "walkingFrames": 4,
+      "canBreakLights": true,
+      "autoGenIdleAnim": false,
+	  "deathAnim": {
+		"textureName": "character_brokk_death",
+		"spriteName": "C_BrokkGrungsson_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "Gains +1% Tithe every level.",
+      "price": 2000,
+      "extraFollowerDistance": 0.3,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "spriteOffset": {
+        "x": 2,
+        "y": 0
+      },
+      "maxHp": 120,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 0.85,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1.5,
+      "curse": 1.2,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 10,
+      "skips": 10,
+      "banish": 0,
+      "passThroughWalls": true,
+      "showcase": [
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "onEveryLevelUp": {
+        "greed": 0.01
+      },
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "KHARADRON_OVERLORDS",
+        "DUARDIN"
+      ],
+      "keywords": [
+        "HERO",
+        "SKYFARER"
+      ],
+      "allowFootstepAudio": false
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_AOS_DREKKI": [
+    {
+      "hidden": true,
+      "secret": true,
+      "level": 1,
+      "startingWeapon": "WS_AOS_ARTEFACTS_OF_POWER",
+      "charName": "Drekki",
+      "surname": "Flynt",
+      "spriteName": "C_DrekkiFlynt_A_01.png",
+      "textureName": "character_drekki_flynt",
+      "charSelTexture": "character_drekki_flynt",
+      "charSelFrame": "Portrait_DrekkiFlynt.png",
+      "walkingFrames": 4,
+      "canBreakLights": true,
+	  "deathAnim": {
+		"textureName": "character_drekki_flynt_death",
+		"spriteName": "C_DrekkiFlynt_A_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "TEMP. TBC.",
+      "price": 3000,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "spriteOffset": {
+        "x": 2,
+        "y": 0
+      },
+      "maxHp": 80,
+      "armor": 1,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1,
+      "cooldown": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 2.5,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 30,
+      "skips": 30,
+      "banish": 30,
+      "showcase": [
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_NULN_OIL",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "KHARADRON_OVERLORDS",
+        "DUARDIN"
+      ],
+      "keywords": [
+        "HERO",
+        "SKYFARER"
+      ]
+    },
+    {
+      "level": 10,
+      "greed": 1
+    },
+    {
+      "greed": 20,
+      "growth": 1
+    },
+    {
+      "greed": 30,
+      "growth": 1
+    },
+    {
+      "greed": 40,
+      "growth": 1
+    },
+    {
+      "greed": 50,
+      "growth": 1
+    }
+  ],
+  "WS_AOS_CELESTANT_PRIME": [
+    {
+      "hidden": true,
+      "secret": true,
+      "level": 1,
+      "startingWeapon": "WS_AOS_GHAL_MARAZ",
+      "charName": "Celestant Prime",
+      "textureName": "character_celestant_prime",
+      "spriteName": "C_CelestantPrime_A_01.png",
+      "charSelTexture": "character_celestant_prime",
+      "charSelFrame": "Portrait_CelestantPrime.png",
+      "spriteOffset":
+      {
+        "x":6,
+        "y":0
+      },
+      "walkingFrames": 4,
+      "autoGenIdleAnim": false,
+	  "deathAnim": {
+		"isBolt": true,
+		"isLandscape": true,
+		"textureName": "AOS_Characters_VFX",
+		"spriteName": "VFX_Blacktalons_Death_Lightning_1.png",
+		"framesNumber": 8,
+		"frameRate": 16,
+		"sparksSpriteName": "VFX_Blacktalons_Death_CharacterSparks_1.png",
+		"sparksFramesNumber": 8,
+		"sparksFrameRate": 16,
+		"boltSfx": "WS_PlayerDeath_Stormcast"
+	  },
+      "currentSkin": "DEFAULT",
+      "description": "All stats increase for every 1000 enemies defeated.",
+      "price": 5000,
+      "extraFollowerDistance": 0.3,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "maxHp": 170,
+      "armor": 2,
+      "regen": 2,
+      "moveSpeed": 1.4,
+      "power": 1.2,
+      "area": 1,
+      "speed": 1,
+      "duration": 1.15,
+      "amount": 0,
+      "luck": 1.3,
+      "growth": 1,
+      "greed": 1.15,
+      "curse": 1.2,
+      "cooldown": 0.9,
+      "magnet": 0.5,
+      "revivals": 1,
+      "rerolls": 20,
+      "skips": 20,
+      "banish": 20,
+      "passThroughWalls": true,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "showcase": [
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_AOS_TEMPEST_AXES",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "STORMCAST_ETERNALS",
+        "HAMMERS_OF_SIGMAR"
+      ],
+      "keywords": [
+        "FLY",
+        "UNIQUE",
+        "WARMASTER",
+        "HERO",
+        "INFANTRY",
+        "WARD",
+        "CELESTANT_PRIME"
+      ],
+      "allowFootstepAudio": false},
+
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }    
+  ],
+
+  // DLC
+  "WS_AOS_THARDUN": [
+    {
+      "placeholder": true,
+      "hidden": true,
+      "secret": false,
+      "alwaysHidden": true,
+      "level": 1,
+      "startingWeapon": "WS_AOS_BOLTSTORM_PISTOL",
+      "charName": "Thardun",
+      "surname": "Eldergrove",
+      "spriteName": "C_FemaleStormcastEternal_01.png",
+      "textureName": "character_stormcaster",
+      "charSelTexture": "character_stormcaster",
+      "charSelFrame": "Portrait_FemaleStormcasterEnternal.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_stormcaster_death",
+		"spriteName": "C_FemaleStormcastEternal_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "currentSkin": "DEFAULT",
+      "description": "Gains 10% more Growth every 5 levels (max +30%).",
+      "price": 0,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "maxHp": 100,
+      "cooldown": 1,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_AOS_BOLTSTORM_PISTOL",
+        "WS_AOS_BOLTSTORM_PISTOL",
+        "WS_AOS_BOLTSTORM_PISTOL",
+        "WS_AOS_BOLTSTORM_PISTOL",
+        "WS_AOS_BOLTSTORM_PISTOL",
+        "WS_AOS_BOLTSTORM_PISTOL",
+        "WS_AOS_BOLTSTORM_PISTOL",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "debugTime": 180,
+      "debugEnemies": 500,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "STORMCAST_ETERNALS",
+        "HAMMERS_OF_SIGMAR"
+      ],
+      "keywords": [
+        "INFANTRY",
+        "CHAMPION",
+        "VANGUARD_CHAMBER"
+      ]
+    },
+    {
+      "growth": 0.1,
+      "level": 5
+    },
+    {
+      "growth": 0.1,
+      "level": 10
+    },
+    {
+      "growth": 0.1,
+      "level": 15
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+
+  "WS_AOS_LUGASH": [
+    {
+      "hidden": true,
+      "secret": false,
+      "level": 1,
+      "startingWeapon": "WS_AOS_FYRESLAYER_AXE",
+      "charName": "Lugash",
+      "surname": "",
+      "spriteName": "C_Lugash_A_01.png",
+      "textureName": "character_lugash",
+      "charSelTexture": "character_lugash",
+      "charSelFrame": "Portrait_Lugash.png",
+      "walkingFrames": 4,
+	  "deathAnim": {
+		"textureName": "character_lugash_death",
+		"spriteName": "C_Lugash_A_1.png",
+		"framesNumber": 17,
+		"frameRate": 16
+	  },
+      "description": "",
+      "price": 1000,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "currentSkin": "DEFAULT",
+      "maxHp": 100,
+      "armor": 0,
+      "regen": 0,
+      "moveSpeed": 1,
+      "power": 1.1,
+      "cooldown": 1,
+      "area": 1.1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1.1,
+      "curse": 1.1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_AOS_FYRESLAYER_AXE",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_STRENGTH",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_RELOAD",
+        "WS_ATTACKS",
+        "WS_ATTACKS",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_RANGE",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL",
+        "WS_SKILL"
+      ],
+      "enemiesKilled": 0,
+      "stageData": [],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "FYRESLAYERS",
+        "DUARDIN"
+      ],
+      "keywords": [
+        "HERO"
+      ]
+    },
+    {
+      "growth": 1,
+      "level": 20
+    },
+    {
+      "growth": 1,
+      "level": 40
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+
+  //////
+  // Debug
+  //////
+  
+  "WS_40K_DEBUG_MALUM": [
+    {
+      "hidden": true,
+      "alwaysHidden": true,
+      "level": 1,
+      "startingWeapon": "WS_REDEPLOYMENT",
+      "cooldown": 1,
+      "charName": "DEBUG",
+      "surname": "Malum",
+      "textureName": "character_malum",
+      "spriteName": "C_MalumCaedo_01.png",
+      "currentSkin": "DEFAULT",
+      "walkingFrames": 4,
+      "spriteOffset": {
+        "x": 3,
+        "y": 0
+      },
+      "description": "Debug 40K Character",
+      "price": 0,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "maxHp": 999,
+      "armor": 1,
+      "regen": 100,
+      "moveSpeed": 1,
+      "power": 1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+      ],
+      "silos": [
+        "WH_40K"
+      ],
+      "factionKeywords": [
+        "IMPERIUM",
+        "ADEPTUS_ASTARTES",
+        "ULTRAMARINES"
+      ],
+      "keywords": [
+        "STERNGUARD_VETERAN",
+        "TACTICUS",
+        "GRENADES",
+        "INFANTRY",
+        "MALUM_CAEDO",
+        "BOLTGUN_USER"
+      ]
+    },
+    {
+      "power": 0.1,
+      "level": 10
+    },
+    {
+      "power": 0.1,
+      "level": 20,
+      "growth": 1
+    },
+    {
+      "power": 0.1,
+      "level": 30
+    },
+    {
+      "power": 0.1,
+      "level": 40,
+      "growth": 1
+    },
+    {
+      "power": 0.1,
+      "level": 50
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 41,
+      "growth": -1
+    }
+  ],
+  "WS_AOS_DEBUG_NEAVE": [
+    {
+      "hidden": true,
+      "alwaysHidden": true,
+      "level": 1,
+      "startingWeapon": "WS_REDEPLOYMENT",
+      "cooldown": 1,
+      "charName": "DEBUG",
+      "surname": "Neave",
+      "textureName": "character_neave",
+      "spriteName": "C_NeaveBlacktalon_01.png",
+      "currentSkin": "DEFAULT",
+      "walkingFrames": 4,
+      "description": "Debug AOS Character",
+      "price": 0,
+      "completedStages": [],
+      "survivedMinutes": 0,
+      "enemiesKilled": 0,
+      "stageData": [],
+      "maxHp": 999,
+      "armor": 1,
+      "regen": 100,
+      "moveSpeed": 1.2,
+      "power": 1.1,
+      "area": 1,
+      "speed": 1,
+      "duration": 1,
+      "amount": 0,
+      "luck": 1,
+      "growth": 1,
+      "greed": 1,
+      "curse": 1,
+      "magnet": 0,
+      "revivals": 0,
+      "rerolls": 0,
+      "skips": 0,
+      "banish": 0,
+      "showcase": [
+      ],
+      "silos": [
+        "WH_AOS"
+      ],
+      "factionKeywords": [
+        "ORDER",
+        "STORMCAST_ETERNALS",
+        "HAMMERS_OF_SIGMAR"
+      ],
+      "keywords": [
+        "HERO",
+        "INFANTRY",
+        "UNIQUE",
+        "VANGUARD_CHAMBER",
+        "THE_BLACKTALONS"
+      ]
+    },
+    {
+      "level": 5,
+      "area": 0.1
+    },
+    {
+      "level": 10,
+      "area": 0.1
+    },
+    {
+      "level": 15,
+      "area": 0.1
+    },
+    {
+      "level": 20,
+      "growth": 1
+    },
+    {
+      "level": 21,
+      "growth": -1
+    },
+    {
+      "level": 40,
+      "growth": 1
+    },
+    {
+      "level": 41,
+      "growth": -1
     }
   ]
 }

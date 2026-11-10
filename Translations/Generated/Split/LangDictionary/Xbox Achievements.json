@@ -2,28 +2,76 @@
   "ws_RedemptionArc": {
     "name": {
       "_value": {
-        "en": "Redemption Arc"
+        "en": "Redemption Arc",
+        "fr": "Arc de rédemption",
+        "it": "Arco di Redenzione",
+        "de": "Erlösungsbogen",
+        "es": "Arco de redención",
+        "ja": "リデンプション・アーク",
+        "ko": "구원의 여정",
+        "pl": "Droga ku odkupieniu",
+        "pt-BR": "Arco da Redenção",
+        "ru": "Арка искупления",
+        "zh-CN": "救赎之路",
+        "tr": "Kefaret Yayı",
+        "uk": "Історія спокути"
       }
     }
   },
   "ws_VampireSurvivor": {
     "name": {
       "_value": {
-        "en": "Vampire Survivor"
+        "en": "Vampire Survivor",
+        "fr": "Vampire Survivor",
+        "it": "Vampire Survivor",
+        "de": "Vampir-Überlebender",
+        "es": "Superviviente vampiro",
+        "ja": "ヴァンパイア・サバイバー",
+        "ko": "뱀파이어 생존자",
+        "pl": "Vampire Survivor",
+        "pt-BR": "Sobrevivente Vampiro",
+        "ru": "Выживший вампир",
+        "zh-CN": "吸血鬼幸存者",
+        "tr": "Vampirden Kurtulan",
+        "uk": "Vampire Survivor"
       }
     }
   },
   "ws_CryptBreaker": {
     "name": {
       "_value": {
-        "en": "Crypt-Breaker"
+        "en": "Crypt-Breaker",
+        "fr": "Briser la crypte",
+        "it": "Spezzacripta",
+        "de": "Gruftstürmer",
+        "es": "Rompecriptas",
+        "ja": "クリプトブレイカー",
+        "ko": "묘실 파괴자",
+        "pl": "Łamacz Krypt",
+        "pt-BR": "Destruidor de Criptas",
+        "ru": "Взломщик склепов",
+        "zh-CN": "掘墓者",
+        "tr": "Mezarkıran",
+        "uk": "Crypt-Breaker"
       }
     }
   },
   "ws_ObtainWarhammerPaint": {
     "description": {
       "_value": {
-        "en": "Obtain the required Warhammer Paint Pots."
+        "en": "Obtain the required Warhammer Paint Pots.",
+        "fr": "Obtenez les pots de peinture Warhammer nécessaires.",
+        "it": "Ottieni i Tubetti di Vernice Warhammer necessari.",
+        "de": "Besorge die erforderlichen Warhammer-Farbtöpfe.",
+        "es": "Obtén los botes de pintura Warhammer necesarios.",
+        "ja": "必要なウォーハンマー塗料の小瓶を集める。",
+        "ko": "필요한 Warhammer 페인트 통을 획득하세요.",
+        "pl": "Zdobądź wymagane pojemniki z farbą Warhammer.",
+        "pt-BR": "Obtenha os Potes de Tinta Warhammer necessários.",
+        "ru": "Соберите необходимые баночки с краской Warhammer.",
+        "zh-CN": "获取所需的战锤颜料罐。",
+        "tr": "Gerekli Warhammer Boya Kutuları’nı elde et.",
+        "uk": "Зберіть необхідні банки з фарбою Warhammer."
       }
     }
   }

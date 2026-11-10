@@ -50,5 +50,629 @@
         "_value": "Holy"
       }
     }
+  },
+  "fr": {
+    "DEFAULT": {
+      "name": {
+        "_value": "Par défaut"
+      }
+    },
+    "FIRE": {
+      "name": {
+        "_value": "Feu"
+      }
+    },
+    "POISON": {
+      "name": {
+        "_value": "Poison"
+      }
+    },
+    "SHOCK": {
+      "name": {
+        "_value": "Électricité"
+      }
+    },
+    "GRAVITY": {
+      "name": {
+        "_value": "Gravité"
+      }
+    },
+    "FROST": {
+      "name": {
+        "_value": "Gel"
+      }
+    },
+    "WARP": {
+      "name": {
+        "_value": "Warp"
+      }
+    },
+    "NULL": {
+      "name": {
+        "_value": "Vide"
+      }
+    },
+    "INSTANT_KILL": {
+      "name": {
+        "_value": "Mort instantanée"
+      }
+    },
+    "HOLY": {
+      "name": {
+        "_value": "Sacré"
+      }
+    }
+  },
+  "it": {
+    "DEFAULT": {
+      "name": {
+        "_value": "Predefinito"
+      }
+    },
+    "FIRE": {
+      "name": {
+        "_value": "Fuoco"
+      }
+    },
+    "POISON": {
+      "name": {
+        "_value": "Veleno"
+      }
+    },
+    "SHOCK": {
+      "name": {
+        "_value": "Scossa"
+      }
+    },
+    "GRAVITY": {
+      "name": {
+        "_value": "Gravità"
+      }
+    },
+    "FROST": {
+      "name": {
+        "_value": "Gelo"
+      }
+    },
+    "WARP": {
+      "name": {
+        "_value": "Warp"
+      }
+    },
+    "NULL": {
+      "name": {
+        "_value": "Vuoto"
+      }
+    },
+    "INSTANT_KILL": {
+      "name": {
+        "_value": "Uccisione istantanea"
+      }
+    },
+    "HOLY": {
+      "name": {
+        "_value": "Sacro"
+      }
+    }
+  },
+  "de": {
+    "DEFAULT": {
+      "name": {
+        "_value": "Standard"
+      }
+    },
+    "FIRE": {
+      "name": {
+        "_value": "Feuer"
+      }
+    },
+    "POISON": {
+      "name": {
+        "_value": "Gift"
+      }
+    },
+    "SHOCK": {
+      "name": {
+        "_value": "Schock"
+      }
+    },
+    "GRAVITY": {
+      "name": {
+        "_value": "Schwerkraft"
+      }
+    },
+    "FROST": {
+      "name": {
+        "_value": "Frost"
+      }
+    },
+    "WARP": {
+      "name": {
+        "_value": "Warp"
+      }
+    },
+    "NULL": {
+      "name": {
+        "_value": "Nullfeld"
+      }
+    },
+    "INSTANT_KILL": {
+      "name": {
+        "_value": "Sofortiger Tod"
+      }
+    },
+    "HOLY": {
+      "name": {
+        "_value": "Heilig"
+      }
+    }
+  },
+  "es": {
+    "DEFAULT": {
+      "name": {
+        "_value": "Por defecto"
+      }
+    },
+    "FIRE": {
+      "name": {
+        "_value": "Fuego"
+      }
+    },
+    "POISON": {
+      "name": {
+        "_value": "Veneno"
+      }
+    },
+    "SHOCK": {
+      "name": {
+        "_value": "Descarga"
+      }
+    },
+    "GRAVITY": {
+      "name": {
+        "_value": "Gravedad"
+      }
+    },
+    "FROST": {
+      "name": {
+        "_value": "Congelación"
+      }
+    },
+    "WARP": {
+      "name": {
+        "_value": "Disformidad"
+      }
+    },
+    "NULL": {
+      "name": {
+        "_value": "Nulo"
+      }
+    },
+    "INSTANT_KILL": {
+      "name": {
+        "_value": "Muerte instantánea"
+      }
+    },
+    "HOLY": {
+      "name": {
+        "_value": "Sagrado"
+      }
+    }
+  },
+  "ja": {
+    "DEFAULT": {
+      "name": {
+        "_value": "デフォルト"
+      }
+    },
+    "FIRE": {
+      "name": {
+        "_value": "炎"
+      }
+    },
+    "POISON": {
+      "name": {
+        "_value": "毒"
+      }
+    },
+    "SHOCK": {
+      "name": {
+        "_value": "電撃"
+      }
+    },
+    "GRAVITY": {
+      "name": {
+        "_value": "重力"
+      }
+    },
+    "FROST": {
+      "name": {
+        "_value": "氷結"
+      }
+    },
+    "WARP": {
+      "name": {
+        "_value": "〈歪み〉（ワープ）"
+      }
+    },
+    "NULL": {
+      "name": {
+        "_value": "ヌル"
+      }
+    },
+    "INSTANT_KILL": {
+      "name": {
+        "_value": "即死"
+      }
+    },
+    "HOLY": {
+      "name": {
+        "_value": "聖"
+      }
+    }
+  },
+  "ko": {
+    "DEFAULT": {
+      "name": {
+        "_value": "기본"
+      }
+    },
+    "FIRE": {
+      "name": {
+        "_value": "화염"
+      }
+    },
+    "POISON": {
+      "name": {
+        "_value": "독"
+      }
+    },
+    "SHOCK": {
+      "name": {
+        "_value": "감전"
+      }
+    },
+    "GRAVITY": {
+      "name": {
+        "_value": "중력"
+      }
+    },
+    "FROST": {
+      "name": {
+        "_value": "냉기"
+      }
+    },
+    "WARP": {
+      "name": {
+        "_value": "워프"
+      }
+    },
+    "NULL": {
+      "name": {
+        "_value": "무효"
+      }
+    },
+    "INSTANT_KILL": {
+      "name": {
+        "_value": "즉사"
+      }
+    },
+    "HOLY": {
+      "name": {
+        "_value": "신성"
+      }
+    }
+  },
+  "pl": {
+    "DEFAULT": {
+      "name": {
+        "_value": "Domyślne"
+      }
+    },
+    "FIRE": {
+      "name": {
+        "_value": "Ogień"
+      }
+    },
+    "POISON": {
+      "name": {
+        "_value": "Trucizna"
+      }
+    },
+    "SHOCK": {
+      "name": {
+        "_value": "Porażenie"
+      }
+    },
+    "GRAVITY": {
+      "name": {
+        "_value": "Grawitacja"
+      }
+    },
+    "FROST": {
+      "name": {
+        "_value": "Mróz"
+      }
+    },
+    "WARP": {
+      "name": {
+        "_value": "Osnowa"
+      }
+    },
+    "NULL": {
+      "name": {
+        "_value": "Brak"
+      }
+    },
+    "INSTANT_KILL": {
+      "name": {
+        "_value": "Natychmiastowe zabicie"
+      }
+    },
+    "HOLY": {
+      "name": {
+        "_value": "Świętość"
+      }
+    }
+  },
+  "pt-BR": {
+    "DEFAULT": {
+      "name": {
+        "_value": "Padrão"
+      }
+    },
+    "FIRE": {
+      "name": {
+        "_value": "Fogo"
+      }
+    },
+    "POISON": {
+      "name": {
+        "_value": "Veneno"
+      }
+    },
+    "SHOCK": {
+      "name": {
+        "_value": "Choque"
+      }
+    },
+    "GRAVITY": {
+      "name": {
+        "_value": "Gravidade"
+      }
+    },
+    "FROST": {
+      "name": {
+        "_value": "Gelo"
+      }
+    },
+    "WARP": {
+      "name": {
+        "_value": "Mutação"
+      }
+    },
+    "NULL": {
+      "name": {
+        "_value": "Nulo"
+      }
+    },
+    "INSTANT_KILL": {
+      "name": {
+        "_value": "Morte Instantânea"
+      }
+    },
+    "HOLY": {
+      "name": {
+        "_value": "Sagrado"
+      }
+    }
+  },
+  "ru": {
+    "DEFAULT": {
+      "name": {
+        "_value": "Обычный"
+      }
+    },
+    "FIRE": {
+      "name": {
+        "_value": "Огонь"
+      }
+    },
+    "POISON": {
+      "name": {
+        "_value": "Яд"
+      }
+    },
+    "SHOCK": {
+      "name": {
+        "_value": "Шок"
+      }
+    },
+    "GRAVITY": {
+      "name": {
+        "_value": "Гравитация"
+      }
+    },
+    "FROST": {
+      "name": {
+        "_value": "Холод"
+      }
+    },
+    "WARP": {
+      "name": {
+        "_value": "Варп"
+      }
+    },
+    "NULL": {
+      "name": {
+        "_value": "Пустота"
+      }
+    },
+    "INSTANT_KILL": {
+      "name": {
+        "_value": "Мгновенное убийство"
+      }
+    },
+    "HOLY": {
+      "name": {
+        "_value": "Святость"
+      }
+    }
+  },
+  "zh-CN": {
+    "DEFAULT": {
+      "name": {
+        "_value": "默认"
+      }
+    },
+    "FIRE": {
+      "name": {
+        "_value": "火焰"
+      }
+    },
+    "POISON": {
+      "name": {
+        "_value": "毒素"
+      }
+    },
+    "SHOCK": {
+      "name": {
+        "_value": "电击"
+      }
+    },
+    "GRAVITY": {
+      "name": {
+        "_value": "重力"
+      }
+    },
+    "FROST": {
+      "name": {
+        "_value": "冰霜"
+      }
+    },
+    "WARP": {
+      "name": {
+        "_value": "亚空间"
+      }
+    },
+    "NULL": {
+      "name": {
+        "_value": "虚空"
+      }
+    },
+    "INSTANT_KILL": {
+      "name": {
+        "_value": "瞬杀"
+      }
+    },
+    "HOLY": {
+      "name": {
+        "_value": "神圣"
+      }
+    }
+  },
+  "tr": {
+    "DEFAULT": {
+      "name": {
+        "_value": "Varsayılan"
+      }
+    },
+    "FIRE": {
+      "name": {
+        "_value": "Ateş"
+      }
+    },
+    "POISON": {
+      "name": {
+        "_value": "Zehir"
+      }
+    },
+    "SHOCK": {
+      "name": {
+        "_value": "Şok"
+      }
+    },
+    "GRAVITY": {
+      "name": {
+        "_value": "Yer Çekimi"
+      }
+    },
+    "FROST": {
+      "name": {
+        "_value": "Don"
+      }
+    },
+    "WARP": {
+      "name": {
+        "_value": "Warp"
+      }
+    },
+    "NULL": {
+      "name": {
+        "_value": "Hiçlik"
+      }
+    },
+    "INSTANT_KILL": {
+      "name": {
+        "_value": "Anında Öldürme"
+      }
+    },
+    "HOLY": {
+      "name": {
+        "_value": "Kutsal"
+      }
+    }
+  },
+  "uk": {
+    "DEFAULT": {
+      "name": {
+        "_value": "Стандартно"
+      }
+    },
+    "FIRE": {
+      "name": {
+        "_value": "Вогонь"
+      }
+    },
+    "POISON": {
+      "name": {
+        "_value": "Отрута"
+      }
+    },
+    "SHOCK": {
+      "name": {
+        "_value": "Шок"
+      }
+    },
+    "GRAVITY": {
+      "name": {
+        "_value": "Гравітація"
+      }
+    },
+    "FROST": {
+      "name": {
+        "_value": "Мороз"
+      }
+    },
+    "WARP": {
+      "name": {
+        "_value": "Викривлення"
+      }
+    },
+    "NULL": {
+      "name": {
+        "_value": "Пустота"
+      }
+    },
+    "INSTANT_KILL": {
+      "name": {
+        "_value": "Миттєва смерть"
+      }
+    },
+    "HOLY": {
+      "name": {
+        "_value": "Свята сила"
+      }
+    }
   }
 }

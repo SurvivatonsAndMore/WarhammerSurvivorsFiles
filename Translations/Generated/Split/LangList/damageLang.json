@@ -2,70 +2,190 @@
   "DEFAULT": {
     "name": {
       "_value": [
-        "Default"
+        "Default",
+        "Par défaut",
+        "Predefinito",
+        "Standard",
+        "Por defecto",
+        "デフォルト",
+        "기본",
+        "Domyślne",
+        "Padrão",
+        "Обычный",
+        "默认",
+        "Varsayılan",
+        "Стандартно"
       ]
     }
   },
   "FIRE": {
     "name": {
       "_value": [
-        "Fire"
+        "Fire",
+        "Feu",
+        "Fuoco",
+        "Feuer",
+        "Fuego",
+        "炎",
+        "화염",
+        "Ogień",
+        "Fogo",
+        "Огонь",
+        "火焰",
+        "Ateş",
+        "Вогонь"
       ]
     }
   },
   "POISON": {
     "name": {
       "_value": [
-        "Poison"
+        "Poison",
+        "Poison",
+        "Veleno",
+        "Gift",
+        "Veneno",
+        "毒",
+        "독",
+        "Trucizna",
+        "Veneno",
+        "Яд",
+        "毒素",
+        "Zehir",
+        "Отрута"
       ]
     }
   },
   "SHOCK": {
     "name": {
       "_value": [
-        "Shock"
+        "Shock",
+        "Électricité",
+        "Scossa",
+        "Schock",
+        "Descarga",
+        "電撃",
+        "감전",
+        "Porażenie",
+        "Choque",
+        "Шок",
+        "电击",
+        "Şok",
+        "Шок"
       ]
     }
   },
   "GRAVITY": {
     "name": {
       "_value": [
-        "Gravity"
+        "Gravity",
+        "Gravité",
+        "Gravità",
+        "Schwerkraft",
+        "Gravedad",
+        "重力",
+        "중력",
+        "Grawitacja",
+        "Gravidade",
+        "Гравитация",
+        "重力",
+        "Yer Çekimi",
+        "Гравітація"
       ]
     }
   },
   "FROST": {
     "name": {
       "_value": [
-        "Frost"
+        "Frost",
+        "Gel",
+        "Gelo",
+        "Frost",
+        "Congelación",
+        "氷結",
+        "냉기",
+        "Mróz",
+        "Gelo",
+        "Холод",
+        "冰霜",
+        "Don",
+        "Мороз"
       ]
     }
   },
   "WARP": {
     "name": {
       "_value": [
-        "Warp"
+        "Warp",
+        "Warp",
+        "Warp",
+        "Warp",
+        "Disformidad",
+        "〈歪み〉（ワープ）",
+        "워프",
+        "Osnowa",
+        "Mutação",
+        "Варп",
+        "亚空间",
+        "Warp",
+        "Викривлення"
       ]
     }
   },
   "NULL": {
     "name": {
       "_value": [
-        null
+        null,
+        "Vide",
+        "Vuoto",
+        "Nullfeld",
+        "Nulo",
+        "ヌル",
+        "무효",
+        "Brak",
+        "Nulo",
+        "Пустота",
+        "虚空",
+        "Hiçlik",
+        "Пустота"
       ]
     }
   },
   "INSTANT_KILL": {
     "name": {
       "_value": [
-        "Instant Kill"
+        "Instant Kill",
+        "Mort instantanée",
+        "Uccisione istantanea",
+        "Sofortiger Tod",
+        "Muerte instantánea",
+        "即死",
+        "즉사",
+        "Natychmiastowe zabicie",
+        "Morte Instantânea",
+        "Мгновенное убийство",
+        "瞬杀",
+        "Anında Öldürme",
+        "Миттєва смерть"
       ]
     }
   },
   "HOLY": {
     "name": {
       "_value": [
-        "Holy"
+        "Holy",
+        "Sacré",
+        "Sacro",
+        "Heilig",
+        "Sagrado",
+        "聖",
+        "신성",
+        "Świętość",
+        "Sagrado",
+        "Святость",
+        "神圣",
+        "Kutsal",
+        "Свята сила"
       ]
     }
   }

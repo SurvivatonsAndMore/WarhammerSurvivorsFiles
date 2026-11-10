@@ -224,5 +224,2717 @@
         "_value": "Skip"
       }
     }
+  },
+  "fr": {
+    "ABILITY": {
+      "description": {
+        "_value": "Augmente {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} et {[AURA]} de {[VALUE]} % par rang (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Capacité"
+      }
+    },
+    "ATTACKS": {
+      "description": {
+        "_value": "Tire {[VALUE]} projectile de plus par rang pour toutes les armes (max. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Attaques"
+      }
+    },
+    "AURA": {
+      "description": {
+        "_value": "Augmente la portée des objets à ramasser de {[VALUE]} % par rang (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Aura"
+      }
+    },
+    "BAIT": {
+      "description": {
+        "_value": "Augmente la quantité d’ennemis générés de {[VALUE]} par rang (max. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Appât"
+      }
+    },
+    "CHANCE": {
+      "description": {
+        "_value": "Les chances d’avoir de la chance augmentent de {[VALUE]} % par rang (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Chance"
+      }
+    },
+    "CORRUPTION": {
+      "description": {
+        "_value": "Augmente la vitesse, le niveau de santé, la quantité et la fréquence des ennemis de {[VALUE]} % par rang (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Corruption"
+      }
+    },
+    "FERVOUR": {
+      "description": {
+        "_value": "Augmente la durée du Collectathon de {[VALUE]} % par rang (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Ferveur"
+      }
+    },
+    "INVULNERABLE": {
+      "description": {
+        "_value": "Augmente la durée d'{[INVULNERABILITY]} de 50 millisecondes après avoir subi des dégâts."
+      },
+      "name": {
+        "_value": "Invulnérable"
+      }
+    },
+    "MOVE": {
+      "description": {
+        "_value": "Le personnage se déplace {[VALUE]} % plus vite par rang (max. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Mouvement"
+      }
+    },
+    "RANGE": {
+      "description": {
+        "_value": "Augmente l’ampleur des attaques de {[VALUE]} % par rang (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Portée"
+      }
+    },
+    "REDEPLOYMENT": {
+      "description": {
+        "_value": "Ressuscitez une fois par rang avec 50 % de blessures (max. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Redéploiement"
+      }
+    },
+    "RELOAD": {
+      "description": {
+        "_value": "Utilise des armes {[VALUE]} % plus rapides par rang (max. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Recharge"
+      }
+    },
+    "RETRIBUTION": {
+      "description": {
+        "_value": "{[VALUE]} % des ennemis par rang générés sont incapables d’infliger des dégâts (max. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Châtiment"
+      }
+    },
+    "SAVES": {
+      "description": {
+        "_value": "Réduit les dégâts à venir de {[COMMA_VALUE]} par rang (max. -{[COMMA_MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Sauvegarde"
+      }
+    },
+    "WS_SEAL2": {
+      "description": {
+        "_value": "Scellez 2 objets et armes afin qu’ils n’apparaissent pas dans les choix de mission et de passage de niveau. (À utiliser dans le menu Boîte à pièces détachées)"
+      },
+      "name": {
+        "_value": "Sceau II"
+      }
+    },
+    "WS_SEAL3": {
+      "description": {
+        "_value": "Scellez 3 objets et armes afin qu’ils n’apparaissent pas dans les choix de mission et de passage de niveau. (À utiliser dans le menu Boîte à pièces détachées)"
+      },
+      "name": {
+        "_value": "Sceau III"
+      }
+    },
+    "WS_SEAL4": {
+      "description": {
+        "_value": "Scellez 4 objets et armes afin qu’ils n’apparaissent pas dans les choix de mission et de passage de niveau. (À utiliser dans le menu Boîte à pièces détachées)"
+      },
+      "name": {
+        "_value": "Tout sceller"
+      }
+    },
+    "SKILL": {
+      "description": {
+        "_value": "Les projectiles se déplacent {[VALUE]} % plus vite par rang (max. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Compétence"
+      }
+    },
+    "STRENGTH": {
+      "description": {
+        "_value": "Augmente les dégâts infligés de {[VALUE]} % par rang (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Force"
+      }
+    },
+    "SUSTAIN": {
+      "description": {
+        "_value": "Augmente la durée des effets et des attaques de {[VALUE]} % (max. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Maintien"
+      }
+    },
+    "TITHE": {
+      "description": {
+        "_value": "Obtient {[VALUE]} % de pièces en plus par rang (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Dîme"
+      }
+    },
+    "TOUGHNESS": {
+      "description": {
+        "_value": "Récupère de {[COMMA_VALUE]} blessure par rang (max. {[COMMA_MAXVALUE]}) par seconde."
+      },
+      "name": {
+        "_value": "Endurance"
+      }
+    },
+    "VETERANCY": {
+      "description": {
+        "_value": "Obtient {[VALUE]} % d’expérience en plus par rang (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Vétérance"
+      }
+    },
+    "WOUNDS": {
+      "description": {
+        "_value": "Augmente le niveau de santé max. de {[VALUE]} % par rang (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Blessures"
+      }
+    },
+    "WS_BANISH": {
+      "description": {
+        "_value": "Deux fois par rang, vous permet de retirer un objet des choix de passage de niveau pour le reste de la partie."
+      },
+      "name": {
+        "_value": "Bannir"
+      }
+    },
+    "WS_REROLL": {
+      "description": {
+        "_value": "Deux fois par rang, vous permet d’obtenir différents choix lors du passage de niveau."
+      },
+      "name": {
+        "_value": "Relancer"
+      }
+    },
+    "WS_SEAL": {
+      "description": {
+        "_value": "Scellez des objets et des armes afin qu’ils n’apparaissent pas dans les choix de mission et de passage de niveau. (À utiliser dans le menu Boîte à pièces détachées)"
+      },
+      "name": {
+        "_value": "Sceau I"
+      }
+    },
+    "WS_SKIP": {
+      "description": {
+        "_value": "Deux fois par rang, vous permet de passer les choix de passage de niveau et d’obtenir de l’expérience à la place."
+      },
+      "name": {
+        "_value": "Passer"
+      }
+    }
+  },
+  "it": {
+    "ABILITY": {
+      "description": {
+        "_value": "Aumenta {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} e {[AURA]} del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Padronanza"
+      }
+    },
+    "ATTACKS": {
+      "description": {
+        "_value": "Spara {[VALUE]} proiettile in più per grado per tutte le armi (max +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Attacchi"
+      }
+    },
+    "AURA": {
+      "description": {
+        "_value": "Aumenta la distanza di raccolta del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Aura"
+      }
+    },
+    "BAIT": {
+      "description": {
+        "_value": "Aumenta la quantità di nemici generati di {[VALUE]} per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Esca"
+      }
+    },
+    "CHANCE": {
+      "description": {
+        "_value": "La probabilità di avere un colpo di fortuna aumenta del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Probabilità"
+      }
+    },
+    "CORRUPTION": {
+      "description": {
+        "_value": "Aumenta velocità, salute, quantità e frequenza dei nemici del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Corruzione"
+      }
+    },
+    "FERVOUR": {
+      "description": {
+        "_value": "Aumenta la durata del Collectathon del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Fervore"
+      }
+    },
+    "INVULNERABLE": {
+      "description": {
+        "_value": "Aumenta di 50 millisecondi la durata dell'{[INVULNERABILITY]} dopo aver subito un danno."
+      },
+      "name": {
+        "_value": "Invulnerabilità"
+      }
+    },
+    "MOVE": {
+      "description": {
+        "_value": "La velocità di movimento del personaggio aumenta del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Movimento"
+      }
+    },
+    "RANGE": {
+      "description": {
+        "_value": "Aumenta l'ampiezza degli attacchi del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Distanza"
+      }
+    },
+    "REDEPLOYMENT": {
+      "description": {
+        "_value": "Rinasci una volta per grado con il 50% delle ferite (max +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Ridistribuzione"
+      }
+    },
+    "RELOAD": {
+      "description": {
+        "_value": "La velocità di utilizzo delle armi aumenta dell'{[VALUE]}% per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Ricarica"
+      }
+    },
+    "RETRIBUTION": {
+      "description": {
+        "_value": "L'{[VALUE]}% dei nemici generati per ogni grado è incapace di infliggere danni (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Vendetta"
+      }
+    },
+    "SAVES": {
+      "description": {
+        "_value": "Riduce i danni subiti di {[COMMA_VALUE]} per ogni grado (max -{[COMMA_MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Salvezza"
+      }
+    },
+    "WS_SEAL2": {
+      "description": {
+        "_value": "Blocca 2 Oggetti e Armi in modo che non appaiano nelle Missioni e tra le opzioni di aumento di livello. (Da usare nel menu Scatola di pezzi)"
+      },
+      "name": {
+        "_value": "Sigillo II"
+      }
+    },
+    "WS_SEAL3": {
+      "description": {
+        "_value": "Blocca 3 Oggetti e Armi in modo che non appaiano nelle Missioni e tra le opzioni di aumento di livello. (Da usare nel menu Scatola di pezzi)"
+      },
+      "name": {
+        "_value": "Sigillo III"
+      }
+    },
+    "WS_SEAL4": {
+      "description": {
+        "_value": "Blocca 4 Oggetti e Armi in modo che non appaiano nelle Missioni e tra le opzioni di aumento di livello. (Da usare nel menu Scatola di pezzi)"
+      },
+      "name": {
+        "_value": "Sigillo IV"
+      }
+    },
+    "SKILL": {
+      "description": {
+        "_value": "La velocità di movimento dei proiettili aumenta del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Abilità"
+      }
+    },
+    "STRENGTH": {
+      "description": {
+        "_value": "I danni inflitti aumentano del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Forza"
+      }
+    },
+    "SUSTAIN": {
+      "description": {
+        "_value": "Aumenta la durata degli attacchi e degli effetti del {[VALUE]}% (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Sostegno"
+      }
+    },
+    "TITHE": {
+      "description": {
+        "_value": "Ottieni il {[VALUE]}% di Monete in più per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Decima"
+      }
+    },
+    "TOUGHNESS": {
+      "description": {
+        "_value": "Recuperi {[COMMA_VALUE]} punti ferita per ogni grado (max {[COMMA_MAXVALUE]}) al secondo."
+      },
+      "name": {
+        "_value": "Resistenza"
+      }
+    },
+    "VETERANCY": {
+      "description": {
+        "_value": "Ottieni il {[VALUE]}% di esperienza in più per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Esperienza"
+      }
+    },
+    "WOUNDS": {
+      "description": {
+        "_value": "Aumenta la Salute Massima del {[VALUE]}% per ogni grado (max +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Ferite"
+      }
+    },
+    "WS_BANISH": {
+      "description": {
+        "_value": "Due volte per grado, consente di rimuovere un oggetto dalle scelte di passaggio di livello per il resto della partita."
+      },
+      "name": {
+        "_value": "Esilio"
+      }
+    },
+    "WS_REROLL": {
+      "description": {
+        "_value": "Due volte per grado, ti permette di ottenere scelte diverse quando sali di livello."
+      },
+      "name": {
+        "_value": "Rilancia"
+      }
+    },
+    "WS_SEAL": {
+      "description": {
+        "_value": "Blocca Oggetti e Armi in modo che non appaiano nelle Missioni e tra le opzioni di aumento di livello. (Da usare nel menu Scatola di pezzi)"
+      },
+      "name": {
+        "_value": "Sigillo I"
+      }
+    },
+    "WS_SKIP": {
+      "description": {
+        "_value": "Due volte per grado, ti permette di saltare le scelte di passaggio di livello e ottenere invece dell'esperienza."
+      },
+      "name": {
+        "_value": "Salta"
+      }
+    }
+  },
+  "de": {
+    "ABILITY": {
+      "description": {
+        "_value": "Erhöht {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} und {[AURA]} pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Fähigkeit"
+      }
+    },
+    "ATTACKS": {
+      "description": {
+        "_value": "Feuert für alle Waffen je {[VALUE]} zusätzliches Projektil pro Rang ab (max. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Angriffe"
+      }
+    },
+    "AURA": {
+      "description": {
+        "_value": "Erhöht die Sammelreichweite pro Rang um +{[VALUE]} % (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Aura"
+      }
+    },
+    "BAIT": {
+      "description": {
+        "_value": "Erhöht die Anzahl gespawnter Gegner pro Rang um {[VALUE]} (max. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Köder"
+      }
+    },
+    "CHANCE": {
+      "description": {
+        "_value": "Erhöht die Glückschance pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Chance"
+      }
+    },
+    "CORRUPTION": {
+      "description": {
+        "_value": "Erhöht Geschwindigkeit, Lebenspunkte, Anzahl und Spawnrate der Gegner pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Verderbnis"
+      }
+    },
+    "FERVOUR": {
+      "description": {
+        "_value": "Erhöht die Dauer des Collectathons pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Eifer"
+      }
+    },
+    "INVULNERABLE": {
+      "description": {
+        "_value": "Erhöht die {[INVULNERABILITY]}-Zeit nach erlittenem Schaden um 50 Millisekunden."
+      },
+      "name": {
+        "_value": "Unverwundbar"
+      }
+    },
+    "MOVE": {
+      "description": {
+        "_value": "Der Charakter bewegt sich pro Rang {[VALUE]} % schneller (max. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Bewegung"
+      }
+    },
+    "RANGE": {
+      "description": {
+        "_value": "Erhöht die Schlagkraft von Angriffen pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Reichweite"
+      }
+    },
+    "REDEPLOYMENT": {
+      "description": {
+        "_value": "Einmalige Wiederbelebung pro Rang mit 50 % Lebenspunkten (max. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Neuaufstellung"
+      }
+    },
+    "RELOAD": {
+      "description": {
+        "_value": "Setzt Waffen pro Rang {[VALUE]} % schneller ein (max. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Nachladen"
+      }
+    },
+    "RETRIBUTION": {
+      "description": {
+        "_value": "Pro Rang erscheinen {[VALUE]} % der Gegner ohne die Fähigkeit, Schaden zu verursachen (max. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Vergeltung"
+      }
+    },
+    "SAVES": {
+      "description": {
+        "_value": "Verringert erlittenen Schaden pro Rang um {[COMMA_VALUE]} (max. -{[COMMA_MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Rettung"
+      }
+    },
+    "WS_SEAL2": {
+      "description": {
+        "_value": "Versiegle 2 Gegenstände und Waffen, damit sie in Missionen und als Auswahlmöglichkeiten beim Stufenaufstieg nicht erscheinen (im Bit-Box-Menü verwenden)."
+      },
+      "name": {
+        "_value": "Siegel II"
+      }
+    },
+    "WS_SEAL3": {
+      "description": {
+        "_value": "Versiegle 3 Gegenstände und Waffen, damit sie in Missionen und als Auswahlmöglichkeiten beim Stufenaufstieg nicht erscheinen (im Bit-Box-Menü verwenden)."
+      },
+      "name": {
+        "_value": "Siegel III"
+      }
+    },
+    "WS_SEAL4": {
+      "description": {
+        "_value": "Versiegle 4 Gegenstände und Waffen, damit sie in Missionen und als Auswahlmöglichkeiten beim Stufenaufstieg nicht erscheinen (im Bit-Box-Menü verwenden)."
+      },
+      "name": {
+        "_value": "Siegel IV"
+      }
+    },
+    "SKILL": {
+      "description": {
+        "_value": "Projektile fliegen pro Rang {[VALUE]} % schneller (max. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Fähigkeit"
+      }
+    },
+    "STRENGTH": {
+      "description": {
+        "_value": "Erhöht verursachten Schaden pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Stärke"
+      }
+    },
+    "SUSTAIN": {
+      "description": {
+        "_value": "Erhöht Angriffs- und Effektdauer pro Rang um {[VALUE]} % (max. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Aufrechterhaltung"
+      }
+    },
+    "TITHE": {
+      "description": {
+        "_value": "Gewährt pro Rang {[VALUE]} % mehr Münzen (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Zehnt"
+      }
+    },
+    "TOUGHNESS": {
+      "description": {
+        "_value": "Stellt pro Rang {[COMMA_VALUE]} Lebenspunkt pro Sekunde wieder her (max. {[COMMA_MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Widerstand"
+      }
+    },
+    "VETERANCY": {
+      "description": {
+        "_value": "Gewährt pro Rang {[VALUE]} % mehr Erfahrung (max. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Veteranenstufe"
+      }
+    },
+    "WOUNDS": {
+      "description": {
+        "_value": "Erhöht die Max. Gesundheit pro Rang um {[VALUE]} % (max. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Lebenspunkte"
+      }
+    },
+    "WS_BANISH": {
+      "description": {
+        "_value": "Ermöglicht dir zweimal pro Rang, einen Gegenstand für den Rest des Durchlaufs aus den Auswahlmöglichkeiten beim Stufenaufstieg zu entfernen."
+      },
+      "name": {
+        "_value": "Verbannen"
+      }
+    },
+    "WS_REROLL": {
+      "description": {
+        "_value": "Ermöglicht dir zweimal pro Rang, beim Stufenaufstieg neue Auswahlmöglichkeiten zu erhalten."
+      },
+      "name": {
+        "_value": "Erneut würfeln"
+      }
+    },
+    "WS_SEAL": {
+      "description": {
+        "_value": "Versiegle Gegenstände und Waffen, damit sie in Missionen und als Auswahlmöglichkeiten beim Stufenaufstieg nicht erscheinen (im Bit-Box-Menü verwenden)."
+      },
+      "name": {
+        "_value": "Siegel"
+      }
+    },
+    "WS_SKIP": {
+      "description": {
+        "_value": "Ermöglicht dir zweimal pro Rang, die Auswahlmöglichkeiten beim Stufenaufstieg zu überspringen und stattdessen Erfahrung zu erhalten."
+      },
+      "name": {
+        "_value": "Überspringen"
+      }
+    }
+  },
+  "es": {
+    "ABILITY": {
+      "description": {
+        "_value": "Aumenta la {[STRENGTH]}, la {[SKILL]}, la {[SUSTAIN]} y el {[AURA]} un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Habilidad"
+      }
+    },
+    "ATTACKS": {
+      "description": {
+        "_value": "Dispara {[VALUE]} proyectil más por rango con todas las armas (máx. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Ataques"
+      }
+    },
+    "AURA": {
+      "description": {
+        "_value": "Aumenta el alcance de recogida +{[VALUE]} % por rango (máx. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Aura"
+      }
+    },
+    "BAIT": {
+      "description": {
+        "_value": "Aumenta la cantidad de enemigos que aparecen en {[VALUE]} por rango (máx. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Cebo"
+      }
+    },
+    "CHANCE": {
+      "description": {
+        "_value": "La probabilidad de tener suerte aumenta un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Probabilidad"
+      }
+    },
+    "CORRUPTION": {
+      "description": {
+        "_value": "Aumenta la velocidad, salud, cantidad y frecuencia de los enemigos un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Corrupción"
+      }
+    },
+    "FERVOUR": {
+      "description": {
+        "_value": "Aumenta la duración del Collectathon un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Fervor"
+      }
+    },
+    "INVULNERABLE": {
+      "description": {
+        "_value": "Aumenta el tiempo de {[INVULNERABILITY]} tras recibir daño en 50 milisegundos."
+      },
+      "name": {
+        "_value": "Invulnerable"
+      }
+    },
+    "MOVE": {
+      "description": {
+        "_value": "El personaje se mueve un {[VALUE]} % más rápido por rango (máx. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Movimiento"
+      }
+    },
+    "RANGE": {
+      "description": {
+        "_value": "Aumenta el tamaño de los ataques un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Alcance"
+      }
+    },
+    "REDEPLOYMENT": {
+      "description": {
+        "_value": "Revive una vez por rango con el 50 % de heridas (máx. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Redespliegue"
+      }
+    },
+    "RELOAD": {
+      "description": {
+        "_value": "Usa las armas un {[VALUE]} % más rápido por rango (máx. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Recarga"
+      }
+    },
+    "RETRIBUTION": {
+      "description": {
+        "_value": "El número de enemigos que aparecen sin poder infligir daño aumenta un {[VALUE]} % por rango (máx. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Retribución"
+      }
+    },
+    "SAVES": {
+      "description": {
+        "_value": "Reduce el daño recibido en {[COMMA_VALUE]} por rango (máx. -{[COMMA_MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Protección"
+      }
+    },
+    "WS_SEAL2": {
+      "description": {
+        "_value": "Sella 2 objetos y armas para que no aparezcan en las misiones ni en las opciones de subida de nivel (se usa en el menú Caja de piezas)."
+      },
+      "name": {
+        "_value": "Sello II"
+      }
+    },
+    "WS_SEAL3": {
+      "description": {
+        "_value": "Sella 3 objetos y armas para que no aparezcan en las misiones ni en las opciones de subida de nivel (se usa en el menú Caja de piezas)."
+      },
+      "name": {
+        "_value": "Sello III"
+      }
+    },
+    "WS_SEAL4": {
+      "description": {
+        "_value": "Sella 4 objetos y armas para que no aparezcan en las misiones ni en las opciones de subida de nivel (se usa en el menú Caja de piezas)."
+      },
+      "name": {
+        "_value": "Sello IV"
+      }
+    },
+    "SKILL": {
+      "description": {
+        "_value": "Los proyectiles se mueven un {[VALUE]} % más rápido por rango (máx. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Pericia"
+      }
+    },
+    "STRENGTH": {
+      "description": {
+        "_value": "Aumenta el daño infligido un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Fuerza"
+      }
+    },
+    "SUSTAIN": {
+      "description": {
+        "_value": "Aumenta el tiempo de ataque y efecto un {[VALUE]} % (máx. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Duración"
+      }
+    },
+    "TITHE": {
+      "description": {
+        "_value": "Obtiene un {[VALUE]} % más de monedas por rango (máx. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Diezmo"
+      }
+    },
+    "TOUGHNESS": {
+      "description": {
+        "_value": "Recupera {[COMMA_VALUE]} heridas por rango (máx. {[COMMA_MAXVALUE]}) por segundo."
+      },
+      "name": {
+        "_value": "Resistencia"
+      }
+    },
+    "VETERANCY": {
+      "description": {
+        "_value": "Obtiene un {[VALUE]} % más de experiencia por rango (máx. {[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Veteranía"
+      }
+    },
+    "WOUNDS": {
+      "description": {
+        "_value": "Aumenta la salud máxima un {[VALUE]} % por rango (máx. +{[MAXVALUE]} %)."
+      },
+      "name": {
+        "_value": "Heridas"
+      }
+    },
+    "WS_BANISH": {
+      "description": {
+        "_value": "Dos veces por rango, te permite eliminar un objeto de las opciones de subida de nivel durante el resto de la partida."
+      },
+      "name": {
+        "_value": "Desterrar"
+      }
+    },
+    "WS_REROLL": {
+      "description": {
+        "_value": "Dos veces por rango, te permite obtener opciones diferentes al subir de nivel."
+      },
+      "name": {
+        "_value": "Repetir tirada"
+      }
+    },
+    "WS_SEAL": {
+      "description": {
+        "_value": "Sella objetos y armas para que no aparezcan en las misiones ni en las opciones de subida de nivel. (Se usa en el menú Caja de piezas)"
+      },
+      "name": {
+        "_value": "Sello"
+      }
+    },
+    "WS_SKIP": {
+      "description": {
+        "_value": "Dos veces por rango, te permite omitir las opciones de subida de nivel y obtener experiencia en su lugar."
+      },
+      "name": {
+        "_value": "Saltar"
+      }
+    }
+  },
+  "ja": {
+    "ABILITY": {
+      "description": {
+        "_value": "ランクごとに{[STRENGTH]}、{[SKILL]}、{[SUSTAIN]}、{[AURA]}が{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "アビリティ"
+      }
+    },
+    "ATTACKS": {
+      "description": {
+        "_value": "ランクごとにすべての武器の発射弾数が{[VALUE]}増加する。（最大+{[MAXVALUE]}）"
+      },
+      "name": {
+        "_value": "攻撃回数"
+      }
+    },
+    "AURA": {
+      "description": {
+        "_value": "ランクごとにピックアップ範囲が+{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "オーラ"
+      }
+    },
+    "BAIT": {
+      "description": {
+        "_value": "ランクごとに敵の出現数が{[VALUE]}増加する（最大+{[MAXVALUE]}）。"
+      },
+      "name": {
+        "_value": "囮"
+      }
+    },
+    "CHANCE": {
+      "description": {
+        "_value": "運が良い状態になる確率がランクごとに{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "好機"
+      }
+    },
+    "CORRUPTION": {
+      "description": {
+        "_value": "ランクごとに敵の移動速度、体力、出現数、出現頻度が{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "汚染"
+      }
+    },
+    "FERVOUR": {
+      "description": {
+        "_value": "ランクごとにコレクタソンの持続時間が{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "狂信"
+      }
+    },
+    "INVULNERABLE": {
+      "description": {
+        "_value": "ダメージを受けた後の{[INVULNERABILITY]}時間が50ミリ秒延長される。"
+      },
+      "name": {
+        "_value": "不死身"
+      }
+    },
+    "MOVE": {
+      "description": {
+        "_value": "ランクごとにキャラクターの移動速度が{[VALUE]}%増加する（最大{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "移動力"
+      }
+    },
+    "RANGE": {
+      "description": {
+        "_value": "ランクごとに攻撃サイズが{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "射程"
+      }
+    },
+    "REDEPLOYMENT": {
+      "description": {
+        "_value": "ランクごとに負傷限界50%で1回復活する。（最大+{[MAXVALUE]}）"
+      },
+      "name": {
+        "_value": "再配置"
+      }
+    },
+    "RELOAD": {
+      "description": {
+        "_value": "ランクごとに武器の使用速度が{[VALUE]}%増加する（最大{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "リロード"
+      }
+    },
+    "RETRIBUTION": {
+      "description": {
+        "_value": "ランクごとに敵の{[VALUE]}%がダメージを与えられない状態で出現する（最大{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "報復"
+      }
+    },
+    "SAVES": {
+      "description": {
+        "_value": "ランクごとに被ダメージを{[VALUE]}軽減する（最大-{[MAXVALUE]}）。"
+      },
+      "name": {
+        "_value": "防御力"
+      }
+    },
+    "WS_SEAL2": {
+      "description": {
+        "_value": "アイテムと武器を2つ封印し、ミッションおよびレベルアップ選択肢に出現しないようにする。（ビットボックスメニューで使用）"
+      },
+      "name": {
+        "_value": "封印II"
+      }
+    },
+    "WS_SEAL3": {
+      "description": {
+        "_value": "アイテムと武器を3つ封印し、ミッションおよびレベルアップ選択肢に出現しないようにする。（ビットボックスメニューで使用）"
+      },
+      "name": {
+        "_value": "封印III"
+      }
+    },
+    "WS_SEAL4": {
+      "description": {
+        "_value": "アイテムと武器を4つ封印し、ミッションおよびレベルアップ選択肢に出現しないようにする。（ビットボックスメニューで使用）"
+      },
+      "name": {
+        "_value": "封印IV"
+      }
+    },
+    "SKILL": {
+      "description": {
+        "_value": "ランクごとに投射物の速度が{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "スキル"
+      }
+    },
+    "STRENGTH": {
+      "description": {
+        "_value": "ランクごとに与ダメージが{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "攻撃力"
+      }
+    },
+    "SUSTAIN": {
+      "description": {
+        "_value": "攻撃および効果時間が{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "持続"
+      }
+    },
+    "TITHE": {
+      "description": {
+        "_value": "ランクごとに獲得コインが{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "租税"
+      }
+    },
+    "TOUGHNESS": {
+      "description": {
+        "_value": "1秒ごとに、ランクごとに負傷限界を{[VALUE]}回復する（最大{[MAXVALUE]}）。"
+      },
+      "name": {
+        "_value": "耐久力"
+      }
+    },
+    "VETERANCY": {
+      "description": {
+        "_value": "ランクごとに経験値が{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "熟練度"
+      }
+    },
+    "WOUNDS": {
+      "description": {
+        "_value": "最大体力がランクごとに{[VALUE]}%増加する（最大+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "負傷限界"
+      }
+    },
+    "WS_BANISH": {
+      "description": {
+        "_value": "ランクごとに2回、レベルアップ選択肢からアイテムを除外できるようになる（このランの間のみ）。"
+      },
+      "name": {
+        "_value": "追放"
+      }
+    },
+    "WS_REROLL": {
+      "description": {
+        "_value": "ランクごとに2回、レベルアップ時の選択肢を再抽選できるようになる。"
+      },
+      "name": {
+        "_value": "リロール"
+      }
+    },
+    "WS_SEAL": {
+      "description": {
+        "_value": "アイテムと武器を封印し、ミッションおよびレベルアップ選択肢に出現しないようにする。（ビットボックスメニューで使用）"
+      },
+      "name": {
+        "_value": "封印I"
+      }
+    },
+    "WS_SKIP": {
+      "description": {
+        "_value": "ランクごとに2回、レベルアップの選択肢をスキップし、代わりに経験値を獲得できる。"
+      },
+      "name": {
+        "_value": "スキップ"
+      }
+    }
+  },
+  "ko": {
+    "ABILITY": {
+      "description": {
+        "_value": "등급당 {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, {[AURA]}이(가) {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "능력"
+      }
+    },
+    "ATTACKS": {
+      "description": {
+        "_value": "등급마다 모든 무기의 투사체가 1개 추가됩니다(최대 +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "공격"
+      }
+    },
+    "AURA": {
+      "description": {
+        "_value": "등급당 아이템 획득 사거리가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "오라"
+      }
+    },
+    "BAIT": {
+      "description": {
+        "_value": "등급당 스폰되는 적의 수가 {[VALUE]} 증가합니다. 최대 {[MAXVALUE]}까지 증가합니다."
+      },
+      "name": {
+        "_value": "미끼"
+      }
+    },
+    "CHANCE": {
+      "description": {
+        "_value": "등급당 행운이 발동할 확률이 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "확률"
+      }
+    },
+    "CORRUPTION": {
+      "description": {
+        "_value": "등급당 적의 속도, 체력, 수, 출현 빈도가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "타락"
+      }
+    },
+    "FERVOUR": {
+      "description": {
+        "_value": "등급당 컬렉터톤의 지속 시간이 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "열의"
+      }
+    },
+    "INVULNERABLE": {
+      "description": {
+        "_value": "피해를 받은 후 {[INVULNERABILITY]} 지속 시간이 50밀리초 증가합니다."
+      },
+      "name": {
+        "_value": "무적"
+      }
+    },
+    "MOVE": {
+      "description": {
+        "_value": "등급당 캐릭터의 이동 속도가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "이동"
+      }
+    },
+    "RANGE": {
+      "description": {
+        "_value": "등급당 공격 크기가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "사거리"
+      }
+    },
+    "REDEPLOYMENT": {
+      "description": {
+        "_value": "등급마다 체력 50%로 1회 되살아납니다(최대 +{[MAXVALUE]}회)."
+      },
+      "name": {
+        "_value": "재배치"
+      }
+    },
+    "RELOAD": {
+      "description": {
+        "_value": "등급당 무기 사용 속도가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "재장전"
+      }
+    },
+    "RETRIBUTION": {
+      "description": {
+        "_value": "등급당 적의 {[VALUE]}%가 피해를 줄 수 없는 상태로 스폰됩니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "응징"
+      }
+    },
+    "SAVES": {
+      "description": {
+        "_value": "등급당 받는 피해가 {[VALUE]} 감소합니다. 최대 {[MAXVALUE]}까지 감소합니다."
+      },
+      "name": {
+        "_value": "방어"
+      }
+    },
+    "WS_SEAL2": {
+      "description": {
+        "_value": "아이템과 무기 2개를 봉인해 미션과 레벨 상승 선택지에 등장하지 않게 합니다. 공구함 메뉴에서 사용합니다."
+      },
+      "name": {
+        "_value": "봉인 II"
+      }
+    },
+    "WS_SEAL3": {
+      "description": {
+        "_value": "아이템과 무기 3개를 봉인해 미션과 레벨 상승 선택지에 등장하지 않게 합니다. 공구함 메뉴에서 사용합니다."
+      },
+      "name": {
+        "_value": "봉인 III"
+      }
+    },
+    "WS_SEAL4": {
+      "description": {
+        "_value": "아이템과 무기 4개를 봉인해 미션과 레벨 상승 선택지에 등장하지 않게 합니다. 공구함 메뉴에서 사용합니다."
+      },
+      "name": {
+        "_value": "봉인 IV"
+      }
+    },
+    "SKILL": {
+      "description": {
+        "_value": "등급당 투사체 속도가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "스킬"
+      }
+    },
+    "STRENGTH": {
+      "description": {
+        "_value": "등급당 주는 피해가 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "위력"
+      }
+    },
+    "SUSTAIN": {
+      "description": {
+        "_value": "공격과 효과의 지속 시간이 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "유지력"
+      }
+    },
+    "TITHE": {
+      "description": {
+        "_value": "등급당 코인 획득량이 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "십일조"
+      }
+    },
+    "TOUGHNESS": {
+      "description": {
+        "_value": "등급당 초당 체력을 {[VALUE]}씩 회복합니다. 초당 최대 {[MAXVALUE]}까지 회복합니다."
+      },
+      "name": {
+        "_value": "내구"
+      }
+    },
+    "VETERANCY": {
+      "description": {
+        "_value": "등급당 경험치 획득량이 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "숙련도"
+      }
+    },
+    "WOUNDS": {
+      "description": {
+        "_value": "등급당 최대 체력이 {[VALUE]}% 증가합니다. 최대 {[MAXVALUE]}%까지 증가합니다."
+      },
+      "name": {
+        "_value": "체력"
+      }
+    },
+    "WS_BANISH": {
+      "description": {
+        "_value": "등급마다 2회, 이번 플레이가 끝날 때까지 레벨 상승 선택지에서 아이템 하나를 제외할 수 있습니다."
+      },
+      "name": {
+        "_value": "제외"
+      }
+    },
+    "WS_REROLL": {
+      "description": {
+        "_value": "등급마다 2회, 레벨 상승 선택지를 다시 뽑을 수 있습니다."
+      },
+      "name": {
+        "_value": "다시 굴리기"
+      }
+    },
+    "WS_SEAL": {
+      "description": {
+        "_value": "아이템과 무기를 봉인해 미션과 레벨 상승 선택지에 등장하지 않게 합니다. 공구함 메뉴에서 사용합니다."
+      },
+      "name": {
+        "_value": "봉인"
+      }
+    },
+    "WS_SKIP": {
+      "description": {
+        "_value": "등급마다 2회, 레벨 상승 선택지를 건너뛰고 대신 경험치를 받을 수 있습니다."
+      },
+      "name": {
+        "_value": "건너뛰기"
+      }
+    }
+  },
+  "pl": {
+    "ABILITY": {
+      "description": {
+        "_value": "{[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} i {[AURA]} wzrastają o +{[VALUE]}% na poziom (maks. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Zdolność"
+      }
+    },
+    "ATTACKS": {
+      "description": {
+        "_value": "Wystrzeliwuje o {[VALUE]} pocisk więcej na poziom ze wszystkich broni (maks. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Ataki"
+      }
+    },
+    "AURA": {
+      "description": {
+        "_value": "Zwiększa zasięg podnoszenia o +{[VALUE]}% na poziom (maks. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Aura"
+      }
+    },
+    "BAIT": {
+      "description": {
+        "_value": "Zwiększa liczbę pojawiających się wrogów o {[VALUE]} na poziom (maks. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Przynęta"
+      }
+    },
+    "CHANCE": {
+      "description": {
+        "_value": "Szansa na szczęśliwe trafienie wzrasta o {[VALUE]}% na poziom (maks. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Szansa"
+      }
+    },
+    "CORRUPTION": {
+      "description": {
+        "_value": "Zwiększa szybkość, punkty życia, liczbę i częstotliwość pojawiania się wrogów o {[VALUE]}% na poziom (maks. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Zepsucie"
+      }
+    },
+    "FERVOUR": {
+      "description": {
+        "_value": "Wydłuża czas trwania Collectathonu o {[VALUE]}% na poziom (maks. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Zapał"
+      }
+    },
+    "INVULNERABLE": {
+      "description": {
+        "_value": "{[INVULNERABILITY]} wydłuża się o 50 ms po otrzymaniu obrażeń."
+      },
+      "name": {
+        "_value": "Niewrażliwość"
+      }
+    },
+    "MOVE": {
+      "description": {
+        "_value": "Postać porusza się o {[VALUE]}% szybciej na poziom (maks. {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Ruch"
+      }
+    },
+    "RANGE": {
+      "description": {
+        "_value": "Zwiększa rozmiar ataków o {[VALUE]}% na poziom (maks. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Zasięg"
+      }
+    },
+    "REDEPLOYMENT": {
+      "description": {
+        "_value": "Jedno odrodzenie na poziom z 50% punktów życia (maks. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Odrodzenie"
+      }
+    },
+    "RELOAD": {
+      "description": {
+        "_value": "Zwiększa szybkość używania broni o {[VALUE]}% na poziom (maks. {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Przeładowanie"
+      }
+    },
+    "RETRIBUTION": {
+      "description": {
+        "_value": "{[VALUE]}% wrogów na poziom pojawia się bez możliwości zadawania obrażeń (maks. {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Odwet"
+      }
+    },
+    "SAVES": {
+      "description": {
+        "_value": "Zmniejsza otrzymywane obrażenia o {[COMMA_VALUE]} na poziom (maks. -{[COMMA_MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Obrona"
+      }
+    },
+    "WS_SEAL2": {
+      "description": {
+        "_value": "Zapieczętuj 2 przedmioty i bronie, aby nie pojawiały się w misjach i opcjach dostępnych po zdobyciu nowego poziomu. (Użyj w menu Skrzynki z narzędziami)"
+      },
+      "name": {
+        "_value": "Pieczęć I"
+      }
+    },
+    "WS_SEAL3": {
+      "description": {
+        "_value": "Zapieczętuj 3 przedmioty i bronie, aby nie pojawiały się w misjach i opcjach dostępnych po zdobyciu nowego poziomu. (Użyj w menu Skrzynki z narzędziami)"
+      },
+      "name": {
+        "_value": "Pieczęć I"
+      }
+    },
+    "WS_SEAL4": {
+      "description": {
+        "_value": "Zapieczętuj 4 przedmioty i bronie, aby nie pojawiały się w misjach i opcjach dostępnych po zdobyciu nowego poziomu. (Użyj w menu Skrzynki z narzędziami)"
+      },
+      "name": {
+        "_value": "Pieczęć I"
+      }
+    },
+    "SKILL": {
+      "description": {
+        "_value": "Zwiększa prędkość pocisków o {[VALUE]}% na poziom (maks. {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Umiejętność"
+      }
+    },
+    "STRENGTH": {
+      "description": {
+        "_value": "Zwiększa zadawane obrażenia o {[VALUE]}% na poziom (maks. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Siła"
+      }
+    },
+    "SUSTAIN": {
+      "description": {
+        "_value": "Zwiększa czas trwania ataków i efektów o {[VALUE]}% (maks. {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Podtrzymanie"
+      }
+    },
+    "TITHE": {
+      "description": {
+        "_value": "Zyskuje o {[VALUE]}% więcej monet na poziom (maks. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Dziesięcina"
+      }
+    },
+    "TOUGHNESS": {
+      "description": {
+        "_value": "Przywraca {[COMMA_VALUE]} pkt. życia na poziom (maks. {[COMMA_MAXVALUE]}) na sekundę."
+      },
+      "name": {
+        "_value": "Wytrzymałość"
+      }
+    },
+    "VETERANCY": {
+      "description": {
+        "_value": "Zyskuje o {[VALUE]}% więcej doświadczenia na poziom (maks. {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Wprawa"
+      }
+    },
+    "WOUNDS": {
+      "description": {
+        "_value": "Zwiększa maksymalną liczbę punktów życia o {[VALUE]}% na poziom (maks. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Rany"
+      }
+    },
+    "WS_BANISH": {
+      "description": {
+        "_value": "Dwa razy na każdy poziom pozwala usunąć jeden przedmiot z opcji dostępnych po zdobyciu nowego poziomu na resztę rozgrywki."
+      },
+      "name": {
+        "_value": "Wygnanie"
+      }
+    },
+    "WS_REROLL": {
+      "description": {
+        "_value": "Dwa razy na poziom pozwala odświeżyć dostępne opcje po zdobyciu nowego poziomu."
+      },
+      "name": {
+        "_value": "Ponowny rzut"
+      }
+    },
+    "WS_SEAL": {
+      "description": {
+        "_value": "Zapieczętuj przedmioty i bronie, aby nie pojawiały się w misjach i opcjach awansu. (Użyj w menu Skrzynki z narzędziami)"
+      },
+      "name": {
+        "_value": "Pieczęć I"
+      }
+    },
+    "WS_SKIP": {
+      "description": {
+        "_value": "Dwa razy na każdy poziom pozwala pominąć opcje dostępne po zdobyciu nowego poziomu i zamiast tego otrzymać doświadczenie."
+      },
+      "name": {
+        "_value": "Pomiń"
+      }
+    }
+  },
+  "pt-BR": {
+    "ABILITY": {
+      "description": {
+        "_value": "Aumenta {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} e {[AURA]} em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Perícia"
+      }
+    },
+    "ATTACKS": {
+      "description": {
+        "_value": "Dispara mais {[VALUE]} projétil por ranque para todas as armas (máximo +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Ataques"
+      }
+    },
+    "AURA": {
+      "description": {
+        "_value": "Aumenta o alcance de coleta em +{[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Aura"
+      }
+    },
+    "BAIT": {
+      "description": {
+        "_value": "Aumenta a quantidade de inimigos gerados em {[VALUE]} por ranque (máximo de +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Isca"
+      }
+    },
+    "CHANCE": {
+      "description": {
+        "_value": "A chance de ter sorte aumenta em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Chance"
+      }
+    },
+    "CORRUPTION": {
+      "description": {
+        "_value": "Aumenta a velocidade, a vida, o número e a frequência dos inimigos em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Corrupção"
+      }
+    },
+    "FERVOUR": {
+      "description": {
+        "_value": "Aumenta a duração do Collectathon em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Fervor"
+      }
+    },
+    "INVULNERABLE": {
+      "description": {
+        "_value": "Aumenta o tempo de {[INVULNERABILITY]} após sofrer dano em 50 milisegundos."
+      },
+      "name": {
+        "_value": "Invulnerável"
+      }
+    },
+    "MOVE": {
+      "description": {
+        "_value": "O personagem se move {[VALUE]}% mais rápido por ranque (máximo de {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Mover"
+      }
+    },
+    "RANGE": {
+      "description": {
+        "_value": "Aumenta o tamanho dos ataques em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Alcance"
+      }
+    },
+    "REDEPLOYMENT": {
+      "description": {
+        "_value": "Revive uma vez por ranque com 50% das feridas (máximo +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Recolocação"
+      }
+    },
+    "RELOAD": {
+      "description": {
+        "_value": "Usa armas {[VALUE]}% mais rápido por ranque (máximo de {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Recarregar"
+      }
+    },
+    "RETRIBUTION": {
+      "description": {
+        "_value": "A cada ranque, {[VALUE]}% dos inimigos que aparecem não podem causar dano (máximo de {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Retribuição"
+      }
+    },
+    "SAVES": {
+      "description": {
+        "_value": "Reduz o dano recebido em {[COMMA_VALUE]} por ranque (máximo: -{[COMMA_MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Salvar"
+      }
+    },
+    "WS_SEAL2": {
+      "description": {
+        "_value": "Bloqueie 2 Itens e Armas para que não apareçam nas Missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)"
+      },
+      "name": {
+        "_value": "Selo I"
+      }
+    },
+    "WS_SEAL3": {
+      "description": {
+        "_value": "Bloqueie 3 Itens e Armas para que não apareçam nas Missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)"
+      },
+      "name": {
+        "_value": "Selo I"
+      }
+    },
+    "WS_SEAL4": {
+      "description": {
+        "_value": "Bloqueie 4 Itens e Armas para que não apareçam nas Missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)"
+      },
+      "name": {
+        "_value": "Selo I"
+      }
+    },
+    "SKILL": {
+      "description": {
+        "_value": "Os projéteis se movem {[VALUE]}% mais rápido por ranque (máximo de {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Destreza"
+      }
+    },
+    "STRENGTH": {
+      "description": {
+        "_value": "Aumenta o dano causado em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Força"
+      }
+    },
+    "SUSTAIN": {
+      "description": {
+        "_value": "Aumenta o tempo de ataque e de efeitos em {[VALUE]}% (máximo de {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Sustentar"
+      }
+    },
+    "TITHE": {
+      "description": {
+        "_value": "Ganha {[VALUE]}% a mais de Moedas por ranque (máximo de +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Dízimo"
+      }
+    },
+    "TOUGHNESS": {
+      "description": {
+        "_value": "Recupera {[COMMA_VALUE]} ferida por ranque (máximo de {[COMMA_MAXVALUE]}) por segundo."
+      },
+      "name": {
+        "_value": "Dureza"
+      }
+    },
+    "VETERANCY": {
+      "description": {
+        "_value": "Ganha {[VALUE]}% a mais de experiência por ranque (máximo de {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Experiência"
+      }
+    },
+    "WOUNDS": {
+      "description": {
+        "_value": "Aumenta a Vida Máxima em {[VALUE]}% por ranque (máximo de +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Feridas"
+      }
+    },
+    "WS_BANISH": {
+      "description": {
+        "_value": "Duas vezes por ranque, permite remover um item das opções para subir de nível pelo resto da sessão."
+      },
+      "name": {
+        "_value": "Banir"
+      }
+    },
+    "WS_REROLL": {
+      "description": {
+        "_value": "Duas vezes por ranque, permite ter opções diferentes ao subir de nível."
+      },
+      "name": {
+        "_value": "Atualização"
+      }
+    },
+    "WS_SEAL": {
+      "description": {
+        "_value": "Bloqueie itens e armas para que não apareçam nas missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)"
+      },
+      "name": {
+        "_value": "Selo I"
+      }
+    },
+    "WS_SKIP": {
+      "description": {
+        "_value": "Duas vezes por ranque, permite pular as opções para subir de nível e ganhar experiência em vez disso."
+      },
+      "name": {
+        "_value": "Pular"
+      }
+    }
+  },
+  "ru": {
+    "ABILITY": {
+      "description": {
+        "_value": "Увеличивает параметры {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} и {[AURA]} на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Способность"
+      }
+    },
+    "ATTACKS": {
+      "description": {
+        "_value": "Для всего оружия выпускает на {[VALUE]} снаряд больше за каждый ранг (максимум +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Атаки"
+      }
+    },
+    "AURA": {
+      "description": {
+        "_value": "Увеличивает дальность подбора предметов на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Аура"
+      }
+    },
+    "BAIT": {
+      "description": {
+        "_value": "Увеличивает количество появляющихся врагов на {[VALUE]} за каждый ранг (максимум +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Приманка"
+      }
+    },
+    "CHANCE": {
+      "description": {
+        "_value": "Шанс на удачу увеличивается на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Шанс"
+      }
+    },
+    "CORRUPTION": {
+      "description": {
+        "_value": "Увеличивает скорость, здоровье, количество и частоту появления врага на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Скверна"
+      }
+    },
+    "FERVOUR": {
+      "description": {
+        "_value": "Увеличивает длительность Коллектатона на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Рвение"
+      }
+    },
+    "INVULNERABLE": {
+      "description": {
+        "_value": "После получения урона увеличивает время состояния {[INVULNERABILITY]} на 50 миллисекунд."
+      },
+      "name": {
+        "_value": "Неуязвимость"
+      }
+    },
+    "MOVE": {
+      "description": {
+        "_value": "Персонаж передвигается на {[VALUE]}% быстрее за каждый ранг (максимум +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Движение"
+      }
+    },
+    "RANGE": {
+      "description": {
+        "_value": "Увеличивает размер атак на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Дальность"
+      }
+    },
+    "REDEPLOYMENT": {
+      "description": {
+        "_value": "Возрождает один раз за ранг, восстанавливая 50% ран (максимум +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Передислокация"
+      }
+    },
+    "RELOAD": {
+      "description": {
+        "_value": "Использует оружие на {[VALUE]}% быстрее за каждый ранг (максимум +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Перезарядка"
+      }
+    },
+    "RETRIBUTION": {
+      "description": {
+        "_value": "С каждым рангом {[VALUE]}% появляющихся врагов лишается способности наносить урон (максимум {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Возмездие"
+      }
+    },
+    "SAVES": {
+      "description": {
+        "_value": "Уменьшает входящий урон на {[COMMA_VALUE]} ед. за каждый ранг (максимум -{[COMMA_MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Спасбросок"
+      }
+    },
+    "WS_SEAL2": {
+      "description": {
+        "_value": "Запечатайте 2 предмета и вида оружия, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)"
+      },
+      "name": {
+        "_value": "Печать II"
+      }
+    },
+    "WS_SEAL3": {
+      "description": {
+        "_value": "Запечатайте 3 предмета и вида оружия, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)"
+      },
+      "name": {
+        "_value": "Печать III"
+      }
+    },
+    "WS_SEAL4": {
+      "description": {
+        "_value": "Запечатайте 4 предмета и вида оружия, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)"
+      },
+      "name": {
+        "_value": "Печать IV"
+      }
+    },
+    "SKILL": {
+      "description": {
+        "_value": "Снаряды летят на {[VALUE]}% быстрее за каждый ранг (максимум +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Навык"
+      }
+    },
+    "STRENGTH": {
+      "description": {
+        "_value": "Увеличивает исходящий урон на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Сила"
+      }
+    },
+    "SUSTAIN": {
+      "description": {
+        "_value": "Увеличивает атаку и время действия эффекта на {[VALUE]}% (максимум {[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Длительность"
+      }
+    },
+    "TITHE": {
+      "description": {
+        "_value": "Получает на {[VALUE]}% больше монет за каждый ранг (максимум +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Десятина"
+      }
+    },
+    "TOUGHNESS": {
+      "description": {
+        "_value": "Восстанавливает {[COMMA_VALUE]} раны за каждый ранг (максимум {[COMMA_MAXVALUE]}) в секунду."
+      },
+      "name": {
+        "_value": "Стойкость"
+      }
+    },
+    "VETERANCY": {
+      "description": {
+        "_value": "Получает на {[VALUE]}% больше опыта за каждый ранг (максимум +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Ветеранство"
+      }
+    },
+    "WOUNDS": {
+      "description": {
+        "_value": "Увеличивает макс. здоровье на {[VALUE]}% за каждый ранг (максимум +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Ранения"
+      }
+    },
+    "WS_BANISH": {
+      "description": {
+        "_value": "Дважды для одного ранга позволяет исключить предмет из вариантов для повышения уровня до конца текущего прохождения."
+      },
+      "name": {
+        "_value": "Изгнание"
+      }
+    },
+    "WS_REROLL": {
+      "description": {
+        "_value": "Дважды для одного ранга позволяет получить другие варианты для повышения уровня."
+      },
+      "name": {
+        "_value": "Переброс"
+      }
+    },
+    "WS_SEAL": {
+      "description": {
+        "_value": "Запечатайте предметы и оружие, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)"
+      },
+      "name": {
+        "_value": "Печать I"
+      }
+    },
+    "WS_SKIP": {
+      "description": {
+        "_value": "Дважды для одного ранга позволяет пропустить варианты для повышения уровня и вместо этого получить опыт."
+      },
+      "name": {
+        "_value": "Пропустить"
+      }
+    }
+  },
+  "zh-CN": {
+    "ABILITY": {
+      "description": {
+        "_value": "每升一级，{[STRENGTH]}、{[SKILL]}、{[SUSTAIN]}与{[AURA]}均获得{[VALUE]}%加成（最多+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "能力"
+      }
+    },
+    "ATTACKS": {
+      "description": {
+        "_value": "所有武器每级额外发射{[VALUE]}枚投射物（最多+{[MAXVALUE]}）。"
+      },
+      "name": {
+        "_value": "攻击"
+      }
+    },
+    "AURA": {
+      "description": {
+        "_value": "每升一级，拾取范围+{[VALUE]}%（最多+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "灵气"
+      }
+    },
+    "BAIT": {
+      "description": {
+        "_value": "每升一级，敌人生成数量增加{[VALUE]}个（最多+{[MAXVALUE]}）。"
+      },
+      "name": {
+        "_value": "诱饵"
+      }
+    },
+    "CHANCE": {
+      "description": {
+        "_value": "每升一级，获得好运的几率提升{[VALUE]}%（最多+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "几率"
+      }
+    },
+    "CORRUPTION": {
+      "description": {
+        "_value": "每升一级，敌方的速度、生命值、数量和刷新频率提升{[VALUE]}%（最多+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "腐化"
+      }
+    },
+    "FERVOUR": {
+      "description": {
+        "_value": "每升一级，“收集大作战”的持续时间延长{[VALUE]}%（最多+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "狂热"
+      }
+    },
+    "INVULNERABLE": {
+      "description": {
+        "_value": "受到伤害后，{[INVULNERABILITY]}的时间延长50毫秒。"
+      },
+      "name": {
+        "_value": "无敌"
+      }
+    },
+    "MOVE": {
+      "description": {
+        "_value": "每升一级，角色的移动速度提升{[VALUE]}%（最多{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "移动"
+      }
+    },
+    "RANGE": {
+      "description": {
+        "_value": "每升一级，攻击范围增加{[VALUE]}%（最多+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "范围"
+      }
+    },
+    "REDEPLOYMENT": {
+      "description": {
+        "_value": "每级以50%承伤复活一次（最多+{[MAXVALUE]}）。"
+      },
+      "name": {
+        "_value": "重新部署"
+      }
+    },
+    "RELOAD": {
+      "description": {
+        "_value": "每升一级，武器的使用速度提升{[VALUE]}%（最多{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "重新装填"
+      }
+    },
+    "RETRIBUTION": {
+      "description": {
+        "_value": "每升一级，生成的敌人中有{[VALUE]}%无法造成伤害（最多{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "神罚"
+      }
+    },
+    "SAVES": {
+      "description": {
+        "_value": "每升一级，受到的伤害减少{[VALUE]}（最多-{[MAXVALUE]}）。"
+      },
+      "name": {
+        "_value": "减伤"
+      }
+    },
+    "WS_SEAL2": {
+      "description": {
+        "_value": "封印2件物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）"
+      },
+      "name": {
+        "_value": "封印 II"
+      }
+    },
+    "WS_SEAL3": {
+      "description": {
+        "_value": "封印3件物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）"
+      },
+      "name": {
+        "_value": "封印 III"
+      }
+    },
+    "WS_SEAL4": {
+      "description": {
+        "_value": "封印4件物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）"
+      },
+      "name": {
+        "_value": "全部封印"
+      }
+    },
+    "SKILL": {
+      "description": {
+        "_value": "每升一级，投射物的移动速度提升{[VALUE]}%（最多{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "技能"
+      }
+    },
+    "STRENGTH": {
+      "description": {
+        "_value": "每升一级，造成的伤害提高{[VALUE]}%（最多+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "力量"
+      }
+    },
+    "SUSTAIN": {
+      "description": {
+        "_value": "攻击和效果持续时间延长{[VALUE]}%（最多{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "持续攻击"
+      }
+    },
+    "TITHE": {
+      "description": {
+        "_value": "每升一级，硬币获取量额外增加{[VALUE]}%（最多+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "什一税"
+      }
+    },
+    "TOUGHNESS": {
+      "description": {
+        "_value": "每升一级，每秒恢复{[VALUE]}承伤（最多{[MAXVALUE]}）。"
+      },
+      "name": {
+        "_value": "坚韧"
+      }
+    },
+    "VETERANCY": {
+      "description": {
+        "_value": "每升一级，经验值获取量额外增加{[VALUE]}%（最多{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "熟练度"
+      }
+    },
+    "WOUNDS": {
+      "description": {
+        "_value": "每升一级，最大生命值增加{[VALUE]}%（最多+{[MAXVALUE]}%）。"
+      },
+      "name": {
+        "_value": "承伤"
+      }
+    },
+    "WS_BANISH": {
+      "description": {
+        "_value": "每升一级，可获得两次机会，用于从升级选项中移除一件物品，该物品在本轮游戏的剩余时间内将不会再次出现。"
+      },
+      "name": {
+        "_value": "影逐"
+      }
+    },
+    "WS_REROLL": {
+      "description": {
+        "_value": "每升一级，可获得两次机会，用于在升级时刷新选项。"
+      },
+      "name": {
+        "_value": "重掷"
+      }
+    },
+    "WS_SEAL": {
+      "description": {
+        "_value": "封印物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）"
+      },
+      "name": {
+        "_value": "封印 I"
+      }
+    },
+    "WS_SKIP": {
+      "description": {
+        "_value": "每升一级，可获得两次机会，用于跳过升级选项，改为获取经验值。"
+      },
+      "name": {
+        "_value": "跳过"
+      }
+    }
+  },
+  "tr": {
+    "ABILITY": {
+      "description": {
+        "_value": "{[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} ve {[AURA]}, rütbe başına %{[VALUE]} artar (maks. +%{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Yetenek"
+      }
+    },
+    "ATTACKS": {
+      "description": {
+        "_value": "Rütbe başına tüm silahlar {[VALUE]} ek mermi ateşler (en fazla +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Saldırılar"
+      }
+    },
+    "AURA": {
+      "description": {
+        "_value": "Toplanabilirlerin menzilini rütbe başına +%{[VALUE]} artırır (maks. +%{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Aura"
+      }
+    },
+    "BAIT": {
+      "description": {
+        "_value": "Düşman doğma sayısını rütbe başına +{[VALUE]} artırır (maks. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Yem"
+      }
+    },
+    "CHANCE": {
+      "description": {
+        "_value": "Şanslı olma ihtimali rütbe başına %{[VALUE]} artar (maks. +%{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Şans"
+      }
+    },
+    "CORRUPTION": {
+      "description": {
+        "_value": "Düşman hızı, canı, sayısı ve sıklığını rütbe başına %{[VALUE]} artırır (maks. +%{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Yozlaşma"
+      }
+    },
+    "FERVOUR": {
+      "description": {
+        "_value": "Collectathon süresini rütbe başına %{[VALUE]} artırır (maks. +%{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Coşku"
+      }
+    },
+    "INVULNERABLE": {
+      "description": {
+        "_value": "Hasar aldıktan sonra {[INVULNERABILITY]} süresini 50 milisaniye artırır."
+      },
+      "name": {
+        "_value": "Yenilmez"
+      }
+    },
+    "MOVE": {
+      "description": {
+        "_value": "Karakter rütbe başına %{[VALUE]} daha hızlı hareket eder (maks. +%{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Hareket"
+      }
+    },
+    "RANGE": {
+      "description": {
+        "_value": "Saldırı boyutunu rütbe başına %{[VALUE]} artırır (maks. +%{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Menzil"
+      }
+    },
+    "REDEPLOYMENT": {
+      "description": {
+        "_value": "Rütbe başına %50 yarayla bir kez yeniden canlanır (en fazla +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Yeniden Konuşlanma"
+      }
+    },
+    "RELOAD": {
+      "description": {
+        "_value": "Silahları rütbe başına %{[VALUE]} daha hızlı kullanır (maks. +%{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Yeniden Yükleme"
+      }
+    },
+    "RETRIBUTION": {
+      "description": {
+        "_value": "Düşmanların %{[VALUE]}’i, rütbe başına hasar veremez şekilde doğar (maks. %{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "İlahi Ceza"
+      }
+    },
+    "SAVES": {
+      "description": {
+        "_value": "Gelen hasarı rütbe başına {[COMMA_VALUE]} azaltır (maks. -{[COMMA_MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Kaydet"
+      }
+    },
+    "WS_SEAL2": {
+      "description": {
+        "_value": "Görevlerde ve seviye atlama seçimlerinde görünmemesi için 2 Öge ve Silahı mühürle. (Bit Box menüsünde kullan)"
+      },
+      "name": {
+        "_value": "Mühür I"
+      }
+    },
+    "WS_SEAL3": {
+      "description": {
+        "_value": "Görevlerde ve seviye atlama seçimlerinde görünmemesi için 3 Öge ve Silahı mühürle. (Bit Box menüsünde kullan)"
+      },
+      "name": {
+        "_value": "Mühür I"
+      }
+    },
+    "WS_SEAL4": {
+      "description": {
+        "_value": "Görevlerde ve seviye atlama seçimlerinde görünmemesi için 4 Öge ve Silahı mühürle. (Bit Box menüsünde kullan)"
+      },
+      "name": {
+        "_value": "Mühür I"
+      }
+    },
+    "SKILL": {
+      "description": {
+        "_value": "Mermiler rütbe başına %{[VALUE]} daha hızlı hareket eder (maks. %{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Yetenek"
+      }
+    },
+    "STRENGTH": {
+      "description": {
+        "_value": "Verilen hasarı rütbe başına %{[VALUE]} artırır (maks. +%{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Güç"
+      }
+    },
+    "SUSTAIN": {
+      "description": {
+        "_value": "Saldırı ve etki süresini %{[VALUE]} artırır (maks. %{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Dayanıklılık"
+      }
+    },
+    "TITHE": {
+      "description": {
+        "_value": "Rütbe başına %{[VALUE]} daha fazla Para kazanır (maks. +%{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Haraç"
+      }
+    },
+    "TOUGHNESS": {
+      "description": {
+        "_value": "Saniyede rütbe başına {[COMMA_VALUE]} yarayı iyileştirir (maks. {[COMMA_MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Sağlamlık"
+      }
+    },
+    "VETERANCY": {
+      "description": {
+        "_value": "Rütbe başına %{[VALUE]} daha fazla deneyim kazanır (maks. %{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Kıdem"
+      }
+    },
+    "WOUNDS": {
+      "description": {
+        "_value": "Maks. Canı rütbe başına %{[VALUE]} artırır (maks. +%{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Yaralar"
+      }
+    },
+    "WS_BANISH": {
+      "description": {
+        "_value": "Bir ögeyi, rütbe başına iki kez turun geri kalanı boyunca seviye atlama seçeneklerinden kaldırmanı sağlar."
+      },
+      "name": {
+        "_value": "Sürgün Et"
+      }
+    },
+    "WS_REROLL": {
+      "description": {
+        "_value": "Rütbe başına iki kez, seviye atladığında farklı seçimler almanı sağlar."
+      },
+      "name": {
+        "_value": "Tekrar At"
+      }
+    },
+    "WS_SEAL": {
+      "description": {
+        "_value": "Görevlerde ve seviye atlama seçimlerinde görünmemesi için Öge ve Silahları mühürle. (Bit Box menüsünde kullan)"
+      },
+      "name": {
+        "_value": "Mühür I"
+      }
+    },
+    "WS_SKIP": {
+      "description": {
+        "_value": "Rütbe başına iki kez, seviye atlama seçimlerini atlayıp bunun yerine deneyim kazanmanı sağlar."
+      },
+      "name": {
+        "_value": "Atla"
+      }
+    }
+  },
+  "uk": {
+    "ABILITY": {
+      "description": {
+        "_value": "Збільшує такі показники на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%): {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} і {[AURA]}."
+      },
+      "name": {
+        "_value": "Обдарованість"
+      }
+    },
+    "ATTACKS": {
+      "description": {
+        "_value": "Будь-яка зброя вистрілює {[VALUE]} додатковий снаряд за ранг (макс. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Атаки"
+      }
+    },
+    "AURA": {
+      "description": {
+        "_value": "Збільшує радіус підбирання на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Аура"
+      }
+    },
+    "BAIT": {
+      "description": {
+        "_value": "Збільшує чисельність ворогів, що з’являються, на {[VALUE]} за ранг (макс. +{[MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Принадність"
+      }
+    },
+    "CHANCE": {
+      "description": {
+        "_value": "Імовірність того, що вам пощастить, зростає на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Шанс"
+      }
+    },
+    "CORRUPTION": {
+      "description": {
+        "_value": "Збільшує швидкість, показник здоров’я, чисельність і частоту появи ворогів на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Скверна"
+      }
+    },
+    "FERVOUR": {
+      "description": {
+        "_value": "Збільшує тривалість колектатону на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Запал"
+      }
+    },
+    "INVULNERABLE": {
+      "description": {
+        "_value": "Збільшує на 50 мілісекунд тривалість ефекту {[INVULNERABILITY]} після того, як персонаж зазнає шкоди."
+      },
+      "name": {
+        "_value": "Невразливість"
+      }
+    },
+    "MOVE": {
+      "description": {
+        "_value": "Персонаж рухається на {[VALUE]}% швидше за кожен ранг (макс. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Рухливість"
+      }
+    },
+    "RANGE": {
+      "description": {
+        "_value": "Збільшує радіус атак на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Дальність"
+      }
+    },
+    "REDEPLOYMENT": {
+      "description": {
+        "_value": "Відроджує один раз за ранг з 50% ран (макс. {[MAXVALUE]} рази)."
+      },
+      "name": {
+        "_value": "Передислокація"
+      }
+    },
+    "RELOAD": {
+      "description": {
+        "_value": "Використовує зброю на {[VALUE]}% швидше за кожен ранг (макс. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Перезаряджання"
+      }
+    },
+    "RETRIBUTION": {
+      "description": {
+        "_value": "{[VALUE]}% ворогів за ранг (макс. +{[MAXVALUE]}%) не можуть завдавати шкоди."
+      },
+      "name": {
+        "_value": "Відплата"
+      }
+    },
+    "SAVES": {
+      "description": {
+        "_value": "Змешує отримувану шкоду на {[COMMA_VALUE]} за ранг (макс -{[COMMA_MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Ряткидок"
+      }
+    },
+    "WS_SEAL2": {
+      "description": {
+        "_value": "Запечатує 2 предмета і дві зброї, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)"
+      },
+      "name": {
+        "_value": "Печатка II"
+      }
+    },
+    "WS_SEAL3": {
+      "description": {
+        "_value": "Запечатує 3 предмета і три зброї, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)"
+      },
+      "name": {
+        "_value": "Печатка III"
+      }
+    },
+    "WS_SEAL4": {
+      "description": {
+        "_value": "Запечатує 4 предмета і чотири зброї, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)"
+      },
+      "name": {
+        "_value": "Печатка IV"
+      }
+    },
+    "SKILL": {
+      "description": {
+        "_value": "Снаряди летять на {[VALUE]}% швидше за кожен ранг (макс. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Вправність"
+      }
+    },
+    "STRENGTH": {
+      "description": {
+        "_value": "Збільшує завдану шкоду на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Сила"
+      }
+    },
+    "SUSTAIN": {
+      "description": {
+        "_value": "Збільшує тривалість атак й тривалість ефектів на {[VALUE]}% (макс. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Стійкість"
+      }
+    },
+    "TITHE": {
+      "description": {
+        "_value": "Здобуває на {[VALUE]}% більше монет за ранг (макс. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Десятина"
+      }
+    },
+    "TOUGHNESS": {
+      "description": {
+        "_value": "Загоює {[COMMA_VALUE]} рани за секунду за ранг (макс. {[COMMA_MAXVALUE]})."
+      },
+      "name": {
+        "_value": "Витривалість"
+      }
+    },
+    "VETERANCY": {
+      "description": {
+        "_value": "Здобуває на {[VALUE]}% більше досвіду за ранг (макс. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Воєнний досвід"
+      }
+    },
+    "WOUNDS": {
+      "description": {
+        "_value": "Збільшує максимальний показник здоров’я на {[VALUE]}% за ранг (макс. +{[MAXVALUE]}%)."
+      },
+      "name": {
+        "_value": "Рани"
+      }
+    },
+    "WS_BANISH": {
+      "description": {
+        "_value": "Двічі за ранг дозволяє прибрати предмет з вибірки підвищення рівня до кінця забігу."
+      },
+      "name": {
+        "_value": "Вилучення"
+      }
+    },
+    "WS_REROLL": {
+      "description": {
+        "_value": "Двічі за ранг дозволяє замінити вибірки підвищення рівня на інші."
+      },
+      "name": {
+        "_value": "Повторний кидок"
+      }
+    },
+    "WS_SEAL": {
+      "description": {
+        "_value": "Запечатує предмети і зброю, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)"
+      },
+      "name": {
+        "_value": "Печатка I"
+      }
+    },
+    "WS_SKIP": {
+      "description": {
+        "_value": "Двічі за ранг дозволяє пропустити вибірку підвищення рівня, щоб отримати натомість досвід."
+      },
+      "name": {
+        "_value": "Пропуск"
+      }
+    }
   }
 }

@@ -2,240 +2,720 @@
   "5001": {
     "description": {
       "_value": [
-        "Gain +1 {[REDEPLOYMENT]} at level 2, 20 and 40. Every time a {[REDEPLOYMENT]} is consumed, you become Frenzied for 10 seconds and the following stats are increased: {[WOUNDS]}, {[STRENGTH]}, {[SKILL]}, {[RELOAD]}, {[AURA]}."
+        "Gain +1 {[REDEPLOYMENT]} at level 2, 20 and 40. Every time a {[REDEPLOYMENT]} is consumed, you become Frenzied for 10 seconds and the following stats are increased: {[WOUNDS]}, {[STRENGTH]}, {[SKILL]}, {[RELOAD]}, {[AURA]}.",
+        "+1 {[REDEPLOYMENT]} aux niveaux 2, 20 et 40. À chaque fois qu’un {[REDEPLOYMENT]} est utilisé, vous obtenez Frénésie pendant 10 secondes et les stats suivantes sont augmentées : {[WOUNDS]}, {[STRENGTH]}, {[SKILL]}, {[RELOAD]}, {[AURA]}.",
+        "Ottieni +1 {[REDEPLOYMENT]} al livello 2, 20 e 40. Ogni volta che consumi una {[REDEPLOYMENT]}, entri nello stato Frenesia per 10 secondi e le seguenti statistiche vengono migliorate: {[WOUNDS]}, {[STRENGTH]}, {[SKILL]}, {[RELOAD]}, {[AURA]}.",
+        "Erhalte auf Stufe 2, 20 und 40 jeweils +1 {[REDEPLOYMENT]}. Mit jedem verbrauchten {[REDEPLOYMENT]} gerätst du für 10 Sekunden in Raserei und die folgenden Werte werden erhöht: {[WOUNDS]}, {[STRENGTH]}, {[SKILL]}, {[RELOAD]}, {[AURA]}.",
+        "Obtén +1 {[REDEPLOYMENT]} en los niveles 2, 20 y 40. Cada vez que se consume un {[REDEPLOYMENT]}, entras en Frenesí durante 10 s y aumentan las siguientes características: {[WOUNDS]}, {[STRENGTH]}, {[SKILL]}, {[RELOAD]}, {[AURA]}.",
+        "レベル2、20、40で{[REDEPLOYMENT]}を+1獲得する。{[REDEPLOYMENT]}が消費されるたびに10秒間フレンジー状態になり、以下のステータスが上昇する：{[WOUNDS]}、{[STRENGTH]}、{[SKILL]}、{[RELOAD]}、{[AURA]}。",
+        "2, 20, 40레벨에 도달할 때마다 {[REDEPLOYMENT]} 1회를 얻습니다. {[REDEPLOYMENT]}을(를) 소모할 때마다 10초 동안 광란 상태가 되며, {[WOUNDS]}, {[STRENGTH]}, {[SKILL]}, {[RELOAD]}, {[AURA]} 능력치가 증가합니다.",
+        "Otrzymaj +1 {[REDEPLOYMENT]} na poziomach 2, 20 i 40. Za każdym razem, gdy {[REDEPLOYMENT]} zostaje zużyte, wpadasz w Szał na 10 sekund, podczas którego zwiększają się następujące statystyki: {[WOUNDS]}, {[STRENGTH]}, {[SKILL]}, {[RELOAD]} i {[AURA]}.",
+        "Ganhe +1 {[REDEPLOYMENT]} nos níveis 2, 20 e 40. Toda vez que {[REDEPLOYMENT]} for consumida, você entra em estado de Frenesi por 10 segundos e os seguintes atributos aumentam: {[WOUNDS]}, {[STRENGTH]}, {[SKILL]}, {[RELOAD]}, {[AURA]}.",
+        "Получите +1 к параметру {[REDEPLOYMENT]} на уровнях 2, 20 и 40. Каждый раз, когда расходуется {[REDEPLOYMENT]}, вы впадаете в неистовство на 10 секунд и увеличиваются следующие параметры: {[WOUNDS]}, {[STRENGTH]}, {[SKILL]}, {[RELOAD]}, {[AURA]}.",
+        "达到2级、20级和40级时，获得+1次{[REDEPLOYMENT]}。每次消耗{[REDEPLOYMENT]}，都会使你进入狂乱状态，持续10秒，并提升以下属性：{[WOUNDS]}、{[STRENGTH]}、{[SKILL]}、{[RELOAD]}、{[AURA]}。",
+        "2., 20. ve 40. seviyede +1 {[REDEPLOYMENT]} kazan. Her {[REDEPLOYMENT]} tüketildiğinde 10 saniye boyunca Gözü dönmüş olursun ve şu istatistikler artar: {[WOUNDS]}, {[STRENGTH]}, {[SKILL]}, {[RELOAD]}, {[AURA]}.",
+        "+1 {[REDEPLOYMENT]} на 2, 20 і 40 рівнях. Щоразу, коли використовується {[REDEPLOYMENT]}, ваш персонаж стає несамовитим на 10 секунд і покращуються такі його показники: {[WOUNDS]}, {[STRENGTH]}, {[SKILL]}, {[RELOAD]}, {[AURA]}."
       ]
     },
     "name": {
       "_value": [
-        "VIII - The God-Emperor"
+        "VIII - The God-Emperor",
+        "VIII - L’Empereur-Dieu",
+        "VIII - Il Dio-Imperatore",
+        "VIII – Der Gottimperator",
+        "VIII - El Dios Emperador",
+        "VIII - 神帝陛下",
+        "VIII - 신황제",
+        "VIII – Bóg-Imperator",
+        "VIII - O Imperador Deus",
+        "VIII – Бог-Император",
+        "VIII - 神皇",
+        "VIII - Tanrı-İmparator",
+        "VIII – Бог-імператор"
       ]
     }
   },
   "5002": {
     "description": {
       "_value": [
-        "Attracts Stage Items, Pickups, and Light Sources toward you when specific amounts of enemies are killed."
+        "Attracts Stage Items, Pickups, and Light Sources toward you when specific amounts of enemies are killed.",
+        "Attire vers vous des objets de niveau, des objets à ramasser et des sources de lumière lorsqu’un certain nombre d’ennemis sont tués.",
+        "Attrae Oggetti livello, Oggetti da raccogliere e Fonti di luce una volta ucciso un determinato numero di nemici.",
+        "Zieht Level-Gegenstände, Sammelobjekte und Lichtquellen zu dir, sobald eine bestimmte Anzahl Gegner besiegt wurde.",
+        "Atrae hacia ti objetos de nivel, objetos para recoger y fuentes de luz cuando se eliminan cantidades determinadas de enemigos.",
+        "一定数の敵を倒すたびに、ステージアイテム、ピックアップ、光源を引き寄せる。",
+        "일정 수의 적을 처치하면 스테이지 아이템, 픽업 아이템, 광원을 자신 쪽으로 끌어당깁니다.",
+        "Przyciąga do ciebie przedmioty na poziomie, zbierane przedmioty i źródła światła po zabiciu określonej liczby wrogów.",
+        "Atrai itens do cenário, Itens Coletáveis e Fontes de Luz em sua direção quando um número específico de inimigos é derrotado.",
+        "Притягивает к вам предметы уровня, подбираемые предметы и источники света, если убито определенное количество врагов.",
+        "击杀特定数量的敌人时，将关卡物品、掉落物和光源吸至你身边。",
+        "Belirli miktarda düşman öldürüldüğünde Bölüm Ögeleri’ni, Toplanabilirler’i ve Işık Kaynakları’nı sana doğru çeker.",
+        "Рівневі предмети, бонуси та джерела світла притягуються до вас, коли помирає необхідна кількість ворогів."
       ]
     },
     "name": {
       "_value": [
-        "XV - The Tides of the Warp"
+        "XV - The Tides of the Warp",
+        "XV - Les Hordes du Warp",
+        "XV - Le Maree del Warp",
+        "XV – Die Gezeiten des Warp",
+        "XV - Las mareas de la Disformidad",
+        "XV - 〈歪み〉（ワープ）の潮流",
+        "XV - 워프의 물결",
+        "XV – Przypływy Osnowy",
+        "XV - As Ondas da Mutação",
+        "XV – Приливы варпа",
+        "XV - 亚空间浪潮",
+        "XV - Warp’ın Gelgitleri",
+        "XV – Потоки Викривлення"
       ]
     }
   },
   "5003": {
     "description": {
       "_value": [
-        "Increases the chance of finding a Collectathon pickup. Triggers a Collectathon on Critical HP once per {[REDEPLOYMENT]}. Any currency collected has a chance to heal or increase {[CORRUPTION]}."
+        "Increases the chance of finding a Collectathon pickup. Triggers a Collectathon on Critical HP once per {[REDEPLOYMENT]}. Any currency collected has a chance to heal or increase {[CORRUPTION]}.",
+        "Augmente les chances de trouver un objet à ramasser du Collectathon. Déclenche un Collectathon en cas de PV critiques une fois par {[REDEPLOYMENT]}. N’importe quelle monnaie récupérée a une chance de soigner ou augmenter {[CORRUPTION]}.",
+        "Aumenta le probabilità di trovare un oggetto da raccogliere Collectathon. Per ogni {[REDEPLOYMENT]}, attiva un Collectathon quando i PF raggiungono il livello critico. Tutte le valute raccolte hanno una probabilità di curarti o di aumentare la {[CORRUPTION]}.",
+        "Erhöht die Chance, ein Collectathon-Sammelobjekt zu finden. Löst bei kritischer Gesundheit einmal pro {[REDEPLOYMENT]} einen Collectathon aus. Gesammelte Währung kann dich heilen oder {[CORRUPTION]} erhöhen.",
+        "Aumenta la probabilidad de encontrar un objeto de Collectathon. Activa un Collectathon con salud crítica una vez por cada {[REDEPLOYMENT]}. Cualquier divisa recogida tiene una probabilidad de curarte o de aumentar {[CORRUPTION]}.",
+        "コレクタソンピックアップが出現する確率を増加させる。{[REDEPLOYMENT]}ごとに1回、クリティカルHP時にコレクタソンを発動する。取得した通貨は、回復または{[CORRUPTION]}上昇のいずれかの効果を発動する可能性がある。",
+        "컬렉터톤 픽업 아이템의 등장 확률이 증가합니다. {[REDEPLOYMENT]} 1회당 한 번, HP가 위험 수준에 도달하면 컬렉터톤이 발동합니다. 화폐를 획득할 때마다 일정 확률로 HP를 회복하거나 {[CORRUPTION]}이(가) 증가합니다.",
+        "Zwiększa szansę na znalezienie przedmiotu do zebrania z Collectathon. Uruchamia Collectathon przy krytycznym poziomie pkt. życia raz na {[REDEPLOYMENT]}. Każde zebranie waluty ma szansę uleczyć Cię lub zwiększyć {[CORRUPTION]}.",
+        "Aumenta a chance de encontrar um item do Collectathon. Aciona um Collectathon quando a vida estiver crítica, uma vez por {[REDEPLOYMENT]}. Qualquer moeda coletada tem chance de curar ou aumentar a {[CORRUPTION]}.",
+        "Повышает шанс найти подбираемый предмет для Коллектатона. Запускает Коллектатон при критическом уровне ОЗ один раз за {[REDEPLOYMENT]}. Любая собранная валюта имеет шанс исцелить или же увеличить параметр {[CORRUPTION]}.",
+        "提高找到“收集大作战”掉落物的几率。当生命值极低时，每次{[REDEPLOYMENT]}可触发一次“收集大作战”。收集的任何货币都有几率恢复生命值或增加{[CORRUPTION]}。",
+        "Collectathon toplanabilir nesnesi bulma şansını artırır. Kritik Can durumunda, her {[REDEPLOYMENT]} başına bir Collectathon’u tetikler. Toplanan herhangi bir para biriminin iyileştirme veya {[CORRUPTION]} artırma şansı vardır.",
+        "Збільшує шанс знайти колектатон. Активує колектатон, коли показник ОЗ падає критично низько ({[REDEPLOYMENT]} дозволяє зробити це повторно). Будь-яка зібрана валюта може зцілити вас або посилиться {[CORRUPTION]}."
       ]
     },
     "name": {
       "_value": [
-        "0 - The Fool"
+        "0 - The Fool",
+        "0 - Le Fou",
+        "0 - Il Pazzo",
+        "0 – Der Narr",
+        "0 - El Loco",
+        "0 - 愚者",
+        "0 - 광대",
+        "0 – Błazen",
+        "0 - O Louco",
+        "0 – Шут",
+        "0 - 愚者",
+        "0 - Budala",
+        "0 – Блазень"
       ]
     }
   },
   "5004": {
     "description": {
       "_value": [
-        "Gives +5 {[REROLL]}s. Gives +10% {[VETERANCY]} and -5% {[RELOAD]} for each follower. Laud Hailers are easier to find."
+        "Gives +5 {[REROLL]}s. Gives +10% {[VETERANCY]} and -5% {[RELOAD]} for each follower. Laud Hailers are easier to find.",
+        "Donne +5 {[REROLL]}. Donne +10 % de {[VETERANCY]} et -5 % de {[RELOAD]} par disciple. Les laudaphones sont plus faciles à trouver.",
+        "Conferisce +5 {[REROLL]}. Conferisce +10% {[VETERANCY]} e -5% {[RELOAD]} per ogni seguace. I Cantori di Lodi sono più facili da trovare.",
+        "Gewährt +5 {[REROLL]}. Verleiht pro Gefolgsmann +10 % {[VETERANCY]} und -5 % {[RELOAD]}. Stimmverstärker sind leichter zu finden.",
+        "Otorga +5 de {[REROLL]}. Otorga +10 % de {[VETERANCY]} y -5 % de {[RELOAD]} por cada seguidor. Es más fácil encontrar Megáfono de las alabanzas.",
+        "{[REROLL]}を+5獲得する。従者1人ごとに{[VETERANCY]}+10%、{[RELOAD]}-5%。大礼讃拡声器が出現しやすくなる。",
+        "{[REROLL]} 5회를 얻습니다. 추종자 한 명당 {[VETERANCY]}이(가) 10% 증가하고 {[RELOAD]}이(가) 5% 감소합니다. 라우드 헤일러의 등장 확률도 증가합니다.",
+        "{[REROLL]} +5. {[VETERANCY]} +10% i {[RELOAD]} -5% za każdego towarzysza. Głośniki Laudacyjne są łatwiejsze do znalezienia.",
+        "Concede +5 {[REROLL]}s. Concede +10% de {[VETERANCY]} e -5% de {[RELOAD]} por cada seguidor. Os Alto Faladores ficam mais fáceis de encontrar.",
+        "Дает +5 навыков {[REROLL]}. Дает +10% к параметру {[VETERANCY]} и отнимает –5% от параметра {[RELOAD]} за каждого последователя. Легче найти громкославители.",
+        "+5次{[REROLL]}。每拥有一名随从，+10%{[VETERANCY]}，同时-5%{[RELOAD]}。更容易找到颂歌。",
+        "+5 {[REROLL]} verir. Her bir takipçi için +%10 {[VETERANCY]} ve -%5 {[RELOAD]} verir. İlahi Hoparlörleri daha kolay bulunur.",
+        "{[REROLL]} +5. {[VETERANCY]} + 10% і {[RELOAD]} -5% за кожного послідовника. Легше знайти гучномовець."
       ]
     },
     "name": {
       "_value": [
-        "XIV - The Young Warrior"
+        "XIV - The Young Warrior",
+        "XIV - Le Jeune Guerrier",
+        "XIV - Il Giovane Guerriero",
+        "XIV – Der Junge Krieger",
+        "XIV - El Joven Guerrero",
+        "XIV - 若きウォリアー",
+        "XIV - 젊은 전사",
+        "XIV – Młody Wojownik",
+        "XIV - O Jovem Guerreiro",
+        "XIV – Юный воин",
+        "XIV - 年轻战士",
+        "XIV - Genç Savaşçı",
+        "XIV – Юний воїн"
       ]
     }
   },
   "5005": {
     "description": {
       "_value": [
-        "Healing is doubled. You are immune to Bleeding, Burning, Cursed, Poisoned, Slowed, Stunned, and Vulnerable status effects. Whenever you Overheal, you are Blessed for Overheal seconds."
+        "Healing is doubled. You are immune to Bleeding, Burning, Cursed, Poisoned, Slowed, Stunned, and Vulnerable status effects. Whenever you Overheal, you are Blessed for Overheal seconds.",
+        "Les soins sont doublés. Vous bénéficiez d’une immunité contre les effets de statut suivants : Saignement, Brûlure, Malédiction, Empoisonnement, Ralentissement, Étourdissement et Vulnérabilité. À chaque fois que vous obtenez des soins en trop, vous bénéficiez d’une Bénédiction pendant les secondes de surguérison.",
+        "La Guarigione viene raddoppiata. Sei immune agli effetti di stato Sanguinamento, Ustione, Maledetto, Avvelenato, Rallentato, Stordito e Vulnerabile. In caso di Sovracura, ottieni lo stato Benedetto per un numero di secondi pari alla Sovracura.",
+        "Heilung ist doppelt so effektiv. Du bist immun gegen die Statuseffekte Blutend, Brennend, Verflucht, Vergiftet, Verlangsamt, Betäubt und Verwundbar. Immer wenn du überheilst, erhältst du für eine Dauer in Höhe der Überheilung den Statuseffekt Gesegnet.",
+        "La curación se duplica. Eres inmune a los efectos de estado Sangrado, Quemadura, Maldición, Veneno, Ralentización, Aturdimiento y Vulnerabilidad. Cada vez que generas Sobrecuración, obtienes Bendición durante tantos segundos como Sobrecuración generes.",
+        "回復量が2倍になる。出血・燃焼・呪い・毒・スロウ・スタン・脆弱状態のすべてに対して耐性を得る。オーバーヒール時、オーバーヒール時間中「祝福」状態になる。",
+        "회복량이 두 배로 증가합니다. 출혈, 화상, 저주, 중독, 둔화, 기절, 취약 상태 효과에 면역이 됩니다. 초과 회복할 때마다 초과 회복한 수치만큼의 시간 동안 축복 상태가 됩니다.",
+        "Leczenie jest podwojone. Zyskujesz odporność na efekty Krwawienia, Podpalenia, Przekleństwa, Zatrucia, Spowolnienia, Ogłuszenia i Wrażliwości. Za każdym razem, gdy wyleczysz nadmiarowe rany, otrzymujesz Błogosławieństwo trwające tyle sekund, ile wynosi liczba wyleczonych nadmiarowych ran.",
+        "A cura é dobrada. Você fica imune aos efeitos de estado Sangramento, Queimadura, Maldição, Envenenamento, Desaceleração, Atordoamento e Vulnerabilidade. Sempre que você se curar em excesso, recebe uma Bênção por segundos proporcionais à cura excedente.",
+        "Исцеление удваивается. Вы становитесь невосприимчивы к статусным эффектам «Кровотечение», «Горение», «Проклятие», «Отравление», «Замедление», «Оглушение» и «Уязвимость». Каждый раз, когда вы переисцеляетесь, вы получаете «Благословение» на количество секунд переисцеления.",
+        "治疗效果翻倍。免疫流血、燃烧、诅咒、中毒、减速、眩晕和脆弱状态效果。每当触发过量治疗时，将获得“赐福”效果，其持续时间与溢出治疗秒数相等。",
+        "İyileştirme iki katına çıkar. Kanama, Yanma, Lanetli, Zehirli, Yavaşlatma, Sersemletme ve Savunmasızlık etkilerine karşı bağışıklık sahibisin. Her Aşırı İyileştirme uyguladığında, Aşırı İyileştirme süresi boyunca Kutsanmış olursun.",
+        "Зцілення подвоєно. Ви отримуєте імунітет від кровотечі, загоряння, прокляття, отруєння, сповільнення, приголомшення і вразливості. При зціленні вище рівня максимального здоров’я ви отримуєте благословення на відповідну кількість секунд."
       ]
     },
     "name": {
       "_value": [
-        "XVI - The Tree of Life"
+        "XVI - The Tree of Life",
+        "XVI - L’Arbre de Vie",
+        "XVI - L'Albero della Vita",
+        "XVI – Der Baum des Lebens",
+        "XVI - El Árbol de la Vida",
+        "XVI - 生命の樹",
+        "XVI - 생명의 나무",
+        "XVI – Drzewo Życia",
+        "XVI - A Árvore da Vida",
+        "XVI – Древо Жизни",
+        "XVI - 生命之树",
+        "XVI - Yaşam Ağacı",
+        "XVI – Дерево життя"
       ]
     }
   },
   "5006": {
     "description": {
       "_value": [
-        "Gives +2 {[SKIP]}, {[BANISH]} and {[REROLL]}. Gain {[CORRUPTION]} every level. {[CORRUPTION]} slightly reduces {[RELOAD]} stat and increases {[SKILL]} and {[MOVE]} stats."
+        "Gives +2 {[SKIP]}, {[BANISH]} and {[REROLL]}. Gain {[CORRUPTION]} every level. {[CORRUPTION]} slightly reduces {[RELOAD]} stat and increases {[SKILL]} and {[MOVE]} stats.",
+        "+2 {[SKIP]}, {[BANISH]} et {[REROLL]}. Obtient {[CORRUPTION]} à chaque niveau. La {[CORRUPTION]} réduit légèrement la stat {[RELOAD]} et augmente les stats {[SKILL]} et {[MOVE]}.",
+        "Conferisce +2 {[SKIP]}, {[BANISH]} e {[REROLL]}. Ottieni {[CORRUPTION]} a ogni livello. {[CORRUPTION]} riduce leggermente le statistiche di {[RELOAD]} e aumenta le statistiche per {[SKILL]} e {[MOVE]}.",
+        "Gewährt +2 {[SKIP]}, {[BANISH]} und {[REROLL]}. Erhalte pro Stufe {[CORRUPTION]}. {[CORRUPTION]} verringert den Wert {[RELOAD]} leicht und erhöht dafür {[SKILL]} und {[MOVE]}.",
+        "Otorga +2 de {[SKIP]}, de {[BANISH]} y de {[REROLL]}. Obtienes {[CORRUPTION]} en cada nivel. {[CORRUPTION]} reduce ligeramente la característica {[RELOAD]} y aumenta las características {[SKILL]} y {[MOVE]}.",
+        "{[SKIP]}、{[BANISH]}、{[REROLL]}を+2獲得する。レベルごとに{[CORRUPTION]}を獲得する。{[CORRUPTION]}は{[RELOAD]}ステータスをわずかに減少させ、{[SKILL]}および{[MOVE]}ステータスを増加させる。",
+        "{[SKIP]}, {[BANISH]}, {[REROLL]} 각각 2회를 얻습니다. 레벨이 오를 때마다 {[CORRUPTION]}을(를) 얻습니다. {[CORRUPTION]}이(가) 높아질수록 {[RELOAD]}이(가) 소폭 감소하고, {[SKILL]} 및 {[MOVE]} 능력치가 증가합니다.",
+        "+2 do {[SKIP]}, {[BANISH]} i {[REROLL]}. Otrzymuje {[CORRUPTION]} co poziom. {[CORRUPTION]} nieznacznie zmniejsza statystykę {[RELOAD]} oraz zwiększa statystyki {[SKILL]} i {[MOVE]}.",
+        "Concede +2 de {[SKIP]}, {[BANISH]} e {[REROLL]}. Ganha {[CORRUPTION]} a cada nível. {[CORRUPTION]} reduz levemente {[RELOAD]} e aumenta {[SKILL]} e {[MOVE]}.",
+        "Дает +2 к навыкам {[SKIP]}, {[BANISH]} и {[REROLL]}. {[CORRUPTION]} увеличивается с каждым новым уровнем. {[CORRUPTION]} незначительно уменьшает характеристику {[RELOAD]} и увеличивает характеристики {[SKILL]} и {[MOVE]}.",
+        "+2{[SKIP]}、{[BANISH]}和{[REROLL]}。每升一级，获得{[CORRUPTION]}。{[CORRUPTION]}会略微降低{[RELOAD]}属性，并提升{[SKILL]}和{[MOVE]}属性。",
+        "+2 {[SKIP]}, {[BANISH]} ve {[REROLL]} verir. Her seviyede {[CORRUPTION]} kazan. {[CORRUPTION]}, {[RELOAD]} istatistiğini bir miktar azaltır ve {[SKILL]} ile {[MOVE]} istatistiklerini artırır.",
+        "{[SKIP]}, {[BANISH]} і {[REROLL]} +2. {[CORRUPTION]} посилюється кожного рівня. {[CORRUPTION]} трохи змешує показник {[RELOAD]} і збільшує показники {[SKILL]} та {[MOVE]}."
       ]
     },
     "name": {
       "_value": [
-        "IX - Daemon"
+        "IX - Daemon",
+        "IX - Démon",
+        "IX - Demone",
+        "IX – Dämon",
+        "IX - Daemon",
+        "IX - ディーモン",
+        "IX - 데몬",
+        "IX – Demon",
+        "IX - Demônio",
+        "IX – Демон",
+        "IX - 恶魔",
+        "IX - İblis",
+        "IX – Демон"
       ]
     }
   },
   "5007": {
     "description": {
       "_value": [
-        "Attacks against Tyranid enemies have a chance to deal double damage. {[RANGE]} and {[SKILL]} increase by 2% every level. {[MOVE]} decreases by 2% every level."
+        "Attacks against Tyranid enemies have a chance to deal double damage. {[RANGE]} and {[SKILL]} increase by 2% every level. {[MOVE]} decreases by 2% every level.",
+        "Les attaques contre les ennemis Tyranides ont une chance d’infliger le double de dégâts. La {[RANGE]} et la {[SKILL]} augmentent de 2 % à chaque niveau. Le {[MOVE]} diminue de 2 % à chaque niveau.",
+        "Gli attacchi contro i nemici Tiranidi hanno una probabilità di infliggere il doppio dei danni. {[RANGE]} e {[SKILL]} aumentano del 2% a ogni livello. {[MOVE]} diminuisce del 2% ogni livello.",
+        "Angriffe gegen Tyraniden haben eine Chance, doppelten Schaden zu verursachen. {[RANGE]} und {[SKILL]} erhöhen sich pro Stufe um 2 %. {[MOVE]} verringert sich pro Stufe um 2 %.",
+        "Los ataques contra enemigos tiránidos tienen una probabilidad de infligir el doble de daño. {[RANGE]} y {[SKILL]} aumentan un 2 % en cada nivel. {[MOVE]} se reduce un 2 % en cada nivel.",
+        "敵のティラニッドへの攻撃は、一定確率でダメージが2倍になる。レベルごとに{[RANGE]}と{[SKILL]}は2%ずつ増加し、{[MOVE]}は2%ずつ減少する。",
+        "티라니드 적을 공격하면 일정 확률로 두 배의 피해를 입힙니다. 레벨이 오를 때마다 {[RANGE]} 및 {[SKILL]}이(가) 2% 증가하고, {[MOVE]}이(가) 2% 감소합니다.",
+        "Ataki przeciwko Tyranidom mają szansę zadać podwójne obrażenia. {[RANGE]} oraz {[SKILL]} rosną o 2% co poziom. {[MOVE]} maleje o 2% co poziom.",
+        "Ataques contra inimigos Tiranídeos têm chance de causar o dobro de dano. {[RANGE]} e {[SKILL]} aumentam 2% a cada nível. {[MOVE]} diminui 2% a cada nível.",
+        "Атаки на врагов-тиранидов имеют шанс нанести двойной урон. Параметры {[RANGE]} и {[SKILL]} увеличиваются на 2% с каждым уровнем. {[MOVE]} уменьшается на 2% с каждым уровнем.",
+        "攻击泰伦虫族敌人时有几率造成双倍伤害。每升一级，{[RANGE]}和{[SKILL]}提升2%，{[MOVE]}降低2%。",
+        "Tiranid düşmanlarına karşı yapılan saldırılar, çift hasar verme şansına sahiptir. {[RANGE]} ve {[SKILL]} her seviyede %2 artar. {[MOVE]} ise, her seviyede %2 azalır.",
+        "Атаки по тиранідах мають шанс завдати подвійної шкоди. {[RANGE]} і {[SKILL]} збільшуються на 2% за кожен рівень. {[MOVE]} зменшується на 2% за кожен рівень."
       ]
     },
     "name": {
       "_value": [
-        "III - The Hulk"
+        "III - The Hulk",
+        "III - Le Hulk",
+        "III - Il Colosso",
+        "III – Der Koloss",
+        "III - El Gigantón",
+        "III - ハルク",
+        "III - 헐크",
+        "III – Wrak",
+        "III - O Hulk",
+        "III – Скиталец",
+        "III - 荒舟",
+        "III - Hulk",
+        "III – Вайло"
       ]
     }
   },
   "5008": {
     "description": {
       "_value": [
-        "Attacks against Ork enemies have a chance to deal double damage. Melee weapons gain +15% {[RANGE]}, +20% Knockback, {[STRENGTH]} and +25% base damage."
+        "Attacks against Ork enemies have a chance to deal double damage. Melee weapons gain +15% {[RANGE]}, +20% Knockback, {[STRENGTH]} and +25% base damage.",
+        "Les attaques contre les ennemis Orks ont une chance d’infliger le double de dégâts. Les armes de corps à corps obtiennent +15 % de {[RANGE]}, +20 % de recul, +20 % de {[STRENGTH]} et +25 % de dégâts de base.",
+        "Gli attacchi contro i nemici Orki hanno una probabilità di infliggere il doppio dei danni. Le armi da mischia guadagnano +15% {[RANGE]}, +20% Contraccolpo, +20% {[STRENGTH]} e +25% danno di base.",
+        "Angriffe gegen Orks haben eine Chance, doppelten Schaden zu verursachen. Nahkampfwaffen erhalten +15 % {[RANGE]}, +20 % Rückstoß, {[STRENGTH]} und +25 % Grundschaden.",
+        "Los ataques contra enemigos orkos tienen una probabilidad de infligir el doble de daño. Las armas cuerpo a cuerpo obtienen +15 % de {[RANGE]}, +20 % de Retroceso, +20 % {[STRENGTH]} y +25 % de daño base.",
+        "敵のオルクへの攻撃は、一定確率でダメージが2倍になる。近接武器は{[RANGE]}+15%、ノックバック+20%、{[STRENGTH]}および基礎ダメージ+25%を得る。",
+        "오크 적을 공격하면 일정 확률로 두 배의 피해를 입힙니다. 근접 무기의 {[RANGE]} 15%, 넉백 20%, {[STRENGTH]} 20%, 기본 피해가 25% 증가합니다.",
+        "Ataki przeciwko Orkom mają szansę zadać podwójne obrażenia. Broń do walki wręcz zyskuje {[RANGE]} +15%, +20 odrzutu, {[STRENGTH]} oraz +25% do podstawowych obrażeń.",
+        "Ataques contra inimigos Orks têm chance de causar o dobro de dano. Armas brancas ganham +15% de {[RANGE]}, +20% de Recuo, +20% de {[STRENGTH]} e +25% de dano básico.",
+        "Атаки на врагов-орков имеют шанс нанести двойной урон. Оружие ближнего боя получает +15% к параметру {[RANGE]}, +20% к отбрасыванию, +20% к параметру {[STRENGTH]} и +25% к базовому урону.",
+        "攻击欧克蛮人敌人时有几率造成双倍伤害。近战武器+15%{[RANGE]}、+20%击退、提升{[STRENGTH]}且+25%基础伤害。",
+        "Ork düşmanlarına karşı yapılan saldırılar, çift hasar verme şansına sahiptir. Yakın dövüş silahları, +%15 {[RANGE]}, +%20 Geri Tepme, {[STRENGTH]} ve +%25 temel hasar kazanır.",
+        "Атаки по орках мають шанс завдати подвійної шкоди. {[RANGE]} +15%, Відкидання +20%, {[STRENGTH]} +20% і базова шкода +25% для зброї ближнього бою."
       ]
     },
     "name": {
       "_value": [
-        "X - Astartes"
+        "X - Astartes",
+        "X - Astartes",
+        "X - Astartes",
+        "X – Astartes",
+        "X - Astartes",
+        "X - アスタルテス",
+        "X - 아스타르테스",
+        "X – Astartes",
+        "X - Astartes",
+        "X – Астартес",
+        "X - 星际战士",
+        "X - Astartes",
+        "X – Астартес"
       ]
     }
   },
   "5009": {
     "description": {
       "_value": [
-        "Emit Warp Rifts within {[AURA]} range. The character starts gaining +1% {[RANGE]} every level."
+        "Emit Warp Rifts within {[AURA]} range. The character starts gaining +1% {[RANGE]} every level.",
+        "Émet des failles du warp dans le périmètre de l’{[AURA]}. Le personnage commence à obtenir +1 % de {[RANGE]} à chaque niveau.",
+        "Emetti Fenditure Warp entro il raggio dell'{[AURA]}. Il personaggio inizia a guadagnare +1% {[RANGE]} per ogni livello.",
+        "Erzeugt Warprisse innerhalb eines Radius von {[AURA]}. Der Charakter erhält pro Stufe +1 % {[RANGE]}.",
+        "Libera brechas de la Disformidad dentro de {[AURA]} de alcance. El personaje empieza a obtener +1 % {[RANGE]} en cada nivel.",
+        "{[AURA]}の範囲内に〈歪み〉の亀裂を発生させる。キャラクターはレベルごとに{[RANGE]}を+1%ずつ獲得し始める。",
+        "{[AURA]} 사거리 안에 워프 균열을 생성합니다. 레벨이 오를 때마다 {[RANGE]}이(가) 1% 증가합니다.",
+        "Tworzy szczeliny w Osnowie w zasięgu {[AURA]}. Postać zaczyna zyskiwać {[RANGE]} +1% co poziom.",
+        "Gera Fendas de Mutação dentro do alcance de {[AURA]}. O personagem começa a ganhar +1% de {[RANGE]} a cada nível.",
+        "Испускает варп-разломы в зоне действия параметра {[AURA]}. Персонаж начинает получать +1% к параметру {[RANGE]} с каждым новым уровнем.",
+        "在{[AURA]}范围内生成亚空间裂隙。角色每升一级，+1%{[RANGE]}。",
+        "{[AURA]} menzil içinde Warp Yarıkları oluşturur. Karakter her seviyede +%1 {[RANGE]} kazanmaya başlar.",
+        "Утворює викривлений розлом в радіусі показника {[AURA]}. {[RANGE]} персонажа зростає на 1% за кожен рівень."
       ]
     },
     "name": {
       "_value": [
-        "I - Galaxy"
+        "I - Galaxy",
+        "I - Galaxie",
+        "I - Galassia",
+        "I – Galaxie",
+        "I - La Galaxia",
+        "I - 銀河",
+        "I - 은하",
+        "I – Galaktyka",
+        "I - Galáxia",
+        "I – Галактика",
+        "I - 银河",
+        "I - Galaksi",
+        "I – Галактика"
       ]
     }
   },
   "5010": {
     "description": {
       "_value": [
-        "Increases the chance of inflicting status effects on enemies, their duration and their damage by 20%. Cycles through the following status effects every 10 seconds: Blessed, Cursed, Frenzied, Warded."
+        "Increases the chance of inflicting status effects on enemies, their duration and their damage by 20%. Cycles through the following status effects every 10 seconds: Blessed, Cursed, Frenzied, Warded.",
+        "Augmente de 20 % les chances d’infliger des effets de statut aux ennemis, ainsi que leur durée et leurs dégâts. Alterne entre les effets de statut suivants toutes les 10 secondes : Bénédiction, Malédiction, Frénésie, Protection.",
+        "Aumenta del 20% la probabilità di infliggere effetti di stato ai nemici, la loro durata e i danni da essi inflitti. Ripete un ciclo di effetti di stato ogni 10 secondi: Benedetto, Maledetto, Frenesia, Protetto.",
+        "Erhöht die Chance, Statuseffekte auf Gegner zu wirken, sowie deren Dauer und Schaden um 20 %. Wechselt alle 10 Sekunden zwischen den Statuseffekten Gesegnet, Verflucht, Rasend und Behütet.",
+        "Aumenta un 20 % la probabilidad de infligir efectos de estado a los enemigos, así como su duración y su daño. Alterna entre los siguientes efectos de estado cada 10 s: Bendición, Maldición, Frenesí y Protección.",
+        "敵に付与する状態異常の発生確率、効果時間、ダメージが20%増加する。10秒ごとに以下の状態異常を順に切り替える：祝福、呪い、フレンジー、ワード。",
+        "적에게 상태 효과를 부여할 확률과 상태 효과의 지속 시간 및 피해량이 20% 증가합니다. 10초마다 축복, 저주, 광란, 보호 상태가 차례대로 적용됩니다.",
+        "Zwiększa szansę na wywołanie efektów statusu na wrogach oraz ich czas trwania i obrażenia o 20%. Co 10 sekund przełącza się między następującymi efektami statusu: Błogosławieństwo, Przekleństwo, Szał i Ochrona.",
+        "Aumenta em 20% a chance de causar efeitos de estado nos inimigos, além da duração e do dano desses efeitos. Alterna entre os seguintes efeitos de estado a cada 10 segundos: Abençoado, Amaldiçoado, Frenesi, Protegido.",
+        "Повышает на 20% шанс наложения на врагов статусных эффектов, их длительность и наносимый урон. Каждые 10 секунд меняет по кругу следующие статусные эффекты: Благословение, Проклятие, Неистовство, Безопасность.",
+        "对敌人施加状态效果的触发几率、持续时间及伤害均提升20%。每10秒在以下状态效果间循环切换：赐福、诅咒、狂乱、庇护。",
+        "Düşmanlara durum etkisi uygulama şansını, sürelerini ve verdikleri hasarı %20 artırır. Her 10 saniyede bir şu durum etkileri arasında döner: Kutsanmış, Lanetli, Gözü Dönmüş, Muhafazalı.",
+        "Збільшує ймовірність накладання ефектів на ворогів, а також тривалість і шкоду цих ефектів на 20%. Кожні 10 секунд чергуються такі ефекти: благословення, прокляття, несамовитість, оберіг."
       ]
     },
     "name": {
       "_value": [
-        "IV - The Silver Key"
+        "IV - The Silver Key",
+        "IV - La Clé d’Argent",
+        "IV - La Chiave d'Argento",
+        "IV – Der Silberschlüssel",
+        "IV - La Llave de Plata",
+        "IV - 銀の鍵",
+        "IV - 은빛 열쇠",
+        "IV – Srebrny Klucz",
+        "IV - A Chave Prateada",
+        "IV – Серебряный ключ",
+        "IV - 银钥",
+        "IV - Gümüş Anahtar",
+        "IV – Срібний ключ"
       ]
     }
   },
   "6001": {
     "description": {
       "_value": [
-        "Increases the chance of finding a Collectathon pickup. +25% {[TITHE]}. Currency heals you. Healing pickups award currency instead of healing. Gain the Bleeding status effect if you do not pick up any currency for 1 minute."
+        "Increases the chance of finding a Collectathon pickup. +25% {[TITHE]}. Currency heals you. Healing pickups award currency instead of healing. Gain the Bleeding status effect if you do not pick up any currency for 1 minute.",
+        "Augmente les chances de trouver un objet à ramasser du Collectathon. +25 % de {[TITHE]}. La monnaie vous soigne. Les objets à ramasser de soin rapportent de la monnaie et non des soins. Vous obtenez l’effet de statut Saignement si vous ne ramassez pas de monnaie pendant 1 minute.",
+        "Aumenta la probabilità di trovare un oggetto da raccogliere Collectathon. +25% {[TITHE]}. Le valute ti curano. Le cure raccolte conferiscono valuta anziché curare. Se non raccogli nessuna valuta per 1 minuto, otterrai lo stato Sanguinamento.",
+        "Erhöht die Chance, ein Collectathon-Sammelobjekt zu finden. +25 % {[TITHE]}. Währung heilt dich. Heilungs-Sammelobjekte gewähren statt Heilung Währung. Wenn du 1 Minute lang keine Währung einsammelst, erhältst du den Statuseffekt Blutend.",
+        "Aumenta la probabilidad de encontrar un objeto Collectathon. +25 % de {[TITHE]}. La divisa te cura. Los objetos de curación otorgan divisa en lugar de curar. Obtienes el efecto de estado Sangrado si no recoges divisa durante 1 minuto.",
+        "コレクタソンピックアップが出現する確率が増加する。{[TITHE]}+25%。通貨には回復効果がある。回復系ピックアップは回復の代わりに通貨を付与する。1分間通貨を拾わなかった場合、出血状態になる。",
+        "컬렉터톤 픽업 아이템이 등장할 확률이 증가하고, {[TITHE]}이(가) 25% 증가합니다. 화폐를 획득하면 HP가 회복됩니다. 회복 아이템을 획득하면 HP를 회복하는 대신 화폐를 얻습니다. 1분 동안 화폐를 획득하지 않으면 출혈 상태가 됩니다.",
+        "Zwiększa szansę na znalezienie przedmiotu do zebrania z Collectathon. {[TITHE]} +25%. Waluta Cię leczy. Przedmioty leczące zamiast leczyć dają walutę. Jeśli przez 1 minutę nie podniesiesz żadnej waluty, otrzymasz efekt statusu Krwawienie.",
+        "Aumenta a chance de encontrar um item do Collectathon. +25% de {[TITHE]}. Moedas curam você. Os itens de cura concedem moedas em vez de cura. Você recebe o efeito de estado “Sangramento” se não coletar nenhuma moeda por 1 minuto.",
+        "Повышает шанс найти предмет для Коллектатона. +25% к параметру {[TITHE]}. Валюта исцеляет вас. Подбираемые предметы для исцеления дают валюту, а не исцеляют. Если в течение 1 минуты вы не найдете никакой валюты, то получите статусный эффект «Кровотечение».",
+        "提高找到“收集大作战”掉落物的几率。+25%{[TITHE]}。货币可恢复生命值。治疗类掉落物将不再提供治疗效果，转而给予货币。如果1分钟内未拾取任何货币，将获得流血状态效果。",
+        "Collectathon toplanabilir nesnesi bulma şansını +%25 {[TITHE]} artırır. Para birimi seni iyileştirir. İyileştirme nesneleri, iyileştirme yerine para birimi verir. 1 dakika boyunca hiç para birimi toplamazsan Kanama durumu etkisi kazanırsın.",
+        "Збільшує шанс знайти колектатон. {[TITHE]} +25%. Валюта зцілює вас. Зцілювальні бонуси приносять валюту замість того, аби зцілити. Ви страждатиме від кровотечі, якщо протягом 1 хвилини не підберете жодної валюти."
       ]
     },
     "name": {
       "_value": [
-        "VI - Glimmerlust"
+        "VI - Glimmerlust",
+        "VI - Fièvre de l’or",
+        "VI - Brama di Lucentezza",
+        "VI – Glitzerrausch",
+        "VI - Glimmerlust",
+        "VI - 黄金狂",
+        "VI - 글리머러스트",
+        "VI – Gorączka Błysku",
+        "VI - Febre de Ouro",
+        "VI – Жажда мерцающей силы",
+        "VI - 流光贪欲",
+        "VI - Parıltı Çılgınlığı",
+        "VI – Блискожага"
       ]
     }
   },
   "6002": {
     "description": {
       "_value": [
-        "Attacks against Chaos enemies have a chance to deal double damage. Gain +1 {[REDEPLOYMENT]} at level 2, 20 and 40. Every time a {[REDEPLOYMENT]} is consumed, you become Blessed and the following stats are increased: {[SAVE]}, {[STRENGTH]}, {[SUSTAIN]} and {[SKILL]}."
+        "Attacks against Chaos enemies have a chance to deal double damage. Gain +1 {[REDEPLOYMENT]} at level 2, 20 and 40. Every time a {[REDEPLOYMENT]} is consumed, you become Blessed and the following stats are increased: {[SAVE]}, {[STRENGTH]}, {[SUSTAIN]} and {[SKILL]}.",
+        "Les attaques contre les ennemis du Chaos ont une chance d’infliger le double de dégâts. +1 {[REDEPLOYMENT]} aux niveaux 2, 20 et 40. À chaque fois qu’un {[REDEPLOYMENT]} est utilisé, vous obtenez l’effet de statut Bénédiction et les stats suivantes sont augmentées : {[SAVE]}, {[STRENGTH]}, {[SUSTAIN]} et {[SKILL]}.",
+        "Gli attacchi contro i nemici del Caos hanno una probabilità di infliggere il doppio dei danni. Ottieni +1 {[REDEPLOYMENT]} al livello 2, 20 e 40. Ogni volta che consumi una {[REDEPLOYMENT]}, entri nello stato Benedetto e le seguenti statistiche vengono migliorate: {[SAVE]}, {[STRENGTH]}, {[SUSTAIN]} e {[SKILL]}.",
+        "Angriffe gegen Chaos-Gegner haben eine Chance, doppelten Schaden zu verursachen. Erhalte auf Stufe 2, 20 und 40 jeweils +1 {[REDEPLOYMENT]}. Mit jedem verbrauchten {[REDEPLOYMENT]} wirst du Gesegnet und die folgenden Werte werden erhöht: {[SAVE]}, {[STRENGTH]}, {[SUSTAIN]} und {[SKILL]}.",
+        "Los ataques contra enemigos del Caos tienen una probabilidad de infligir el doble de daño. Obtienes +1 {[REDEPLOYMENT]} en los niveles 2, 20 y 40. Cada vez que se consume un {[REDEPLOYMENT]}, obtienes Bendición y aumentan las siguientes características: {[SAVE]}, {[STRENGTH]}, {[SUSTAIN]} y {[SKILL]}.",
+        "敵の渾沌（ケイオス）への攻撃は、一定確率でダメージが2倍になる。レベル2、20、40で{[REDEPLOYMENT]}は+1を獲得する。{[REDEPLOYMENT]}が消費されるたびに祝福状態になり、以下のステータスが上昇する：{[SAVE]}、{[STRENGTH]}、{[SUSTAIN]}、{[SKILL]}。",
+        "카오스 적을 공격하면 일정 확률로 두 배의 피해를 입힙니다. 2, 20, 40레벨에 도달할 때마다 {[REDEPLOYMENT]} 1회를 얻습니다. {[REDEPLOYMENT]}을(를) 소모할 때마다 축복 상태가 되며, {[SAVE]}, {[STRENGTH]}, {[SUSTAIN]}, {[SKILL]} 능력치가 증가합니다.",
+        "Ataki przeciwko siłom Chaosu mają szansę zadać podwójne obrażenia. {[REDEPLOYMENT]} +1 na poziomach 2, 20 i 40. Za każdym razem, gdy {[REDEPLOYMENT]} zostaje zużyte, zyskujesz Błogosławieństwo, podczas którego zwiększają się następujące statystyki: {[SAVE]}, {[STRENGTH]}, {[SUSTAIN]} i {[SKILL]}.",
+        "Ataques contra inimigos Caóticos têm chance de causar o dobro de dano. Ganhe +1 {[REDEPLOYMENT]} nos níveis 2, 20 e 40. Toda vez que {[REDEPLOYMENT]} for consumida, você fica Abençoado e os seguintes atributos aumentam: {[SAVE]}, {[STRENGTH]}, {[SUSTAIN]} e {[SKILL]}.",
+        "Атаки на врагов из Хаоса имеют шанс нанести двойной урон. Получите +1 к параметру {[REDEPLOYMENT]} на уровнях 2, 20 и 40. Каждый раз, когда расходуется {[REDEPLOYMENT]}, вы становитесь благословленным и увеличиваются следующие параметры: {[SAVE]}, {[STRENGTH]}, {[SUSTAIN]} и {[SKILL]}.",
+        "攻击混沌敌人时有几率造成双倍伤害。达到2级、20级和40级时，获得1次{[REDEPLOYMENT]}。每次消耗{[REDEPLOYMENT]}，你将获得赐福状态，并提升以下属性：{[SAVE]}、{[STRENGTH]}、{[SUSTAIN]}和{[SKILL]}。",
+        "Kaos düşmanlarına karşı yapılan saldırılar, çift hasar verebilir. 2., 20. Ve 40. seviyede +1 {[REDEPLOYMENT]} kazan. Her {[REDEPLOYMENT]} tüketildiğinde Kutsanmış olursun ve şu istatistikler artar: {[SAVE]}, {[STRENGTH]}, {[SUSTAIN]} ve {[SKILL]}.",
+        "Атаки по представникам фракції Хаосу мають шанс завдати подвійної шкоди. +1 {[REDEPLOYMENT]} на 2, 20 і 40 рівнях. Щоразу, коли використовується {[REDEPLOYMENT]}, ваш персонаж благословляється і покращуються такі його показники: {[SAVE]}, {[STRENGTH]}, {[SUSTAIN]} і {[SKILL]}."
       ]
     },
     "name": {
       "_value": [
-        "X - The Anvil of Apotheosis"
+        "X - The Anvil of Apotheosis",
+        "X - L’Enclume de l’Apothéose",
+        "X - L'Incudine dell'Apoteosi",
+        "X – Amboss der Apotheose",
+        "X - El Yunque de la Apoteosis",
+        "X - 昇化の金床",
+        "X - 신격화의 모루",
+        "X – Kowadło Apoteozy",
+        "X - A Bigorna da Apoteose",
+        "X – Наковальня Апофеоза",
+        "X - 神化铁砧",
+        "X - İlahlaşma Örsü",
+        "X – Ковадло апофеозу"
       ]
     }
   },
   "6003": {
     "description": {
       "_value": [
-        "-120% {[SKILL]}. If you have any Status Effects, you are also Frenzied. {[STRENGTH]}, {[WOUNDS]}, and {[CORRUPTION]} increase every level."
+        "-120% {[SKILL]}. If you have any Status Effects, you are also Frenzied. {[STRENGTH]}, {[WOUNDS]}, and {[CORRUPTION]} increase every level.",
+        "-120 % de {[SKILL]}. Si vous avez n’importe quel effet de statut, vous obtenez également Frénésie. {[STRENGTH]}, {[WOUNDS]} et {[CORRUPTION]} augmentent à chaque niveau.",
+        "-120% {[SKILL]}. Se hai un Effetto di Stato, ricevi anche l'effetto Frenesia. {[STRENGTH]}, {[WOUNDS]} e {[CORRUPTION]} aumentano a ogni livello.",
+        "-120 % {[SKILL]}. Falls du unter einem Statuseffekt stehst, gerätst du zusätzlich in Raserei. {[STRENGTH]}, {[WOUNDS]}, und {[CORRUPTION]} erhöhen sich mit jeder Stufe.",
+        "-120 % de {[SKILL]}. Si tienes algún efecto de estado, también obtienes Frenesí. {[STRENGTH]}, {[WOUNDS]} y {[CORRUPTION]} aumentan en cada nivel.",
+        "{[SKILL]}が120%減少する。いずれかの状態異常を受けている間は、フレンジー状態にもなる。{[STRENGTH]}、{[WOUNDS]}、{[CORRUPTION]}はレベルごとに増加する。",
+        "{[SKILL]}이(가) 120% 감소합니다. 상태 효과가 하나라도 적용되어 있으면 광란 상태도 함께 적용됩니다. 레벨이 오를 때마다 {[STRENGTH]}, {[WOUNDS]}, {[CORRUPTION]}이(가) 증가합니다.",
+        "{[SKILL]} -120%. Jeśli masz na sobie jakiekolwiek efekty statusu, wpadasz również w Szał. {[STRENGTH]}, {[WOUNDS]} i {[CORRUPTION]} zwiększają się co poziom.",
+        "-120% de {[SKILL]}. Se você tiver algum efeito de estado, também ficará em Frenesi. {[STRENGTH]}, {[WOUNDS]} e {[CORRUPTION]} aumentam a cada nível.",
+        "–120% от параметра {[SKILL]}. Если у вас есть статусные эффекты, вы также впадаете в неистовство. Параметры {[STRENGTH]}, {[WOUNDS]} и {[CORRUPTION]} увеличиваются с каждым новым уровнем.",
+        "+120%{[SKILL]}。若你处于任何状态效果影响下，则同时获得狂乱状态。每升一级，{[STRENGTH]}、{[WOUNDS]}和{[CORRUPTION]}相应提升。",
+        "-%120 {[SKILL]}. Herhangi bir Durum Etkisi’ne sahipsen Gözü Dönmüş olursun. {[STRENGTH]}, {[WOUNDS]} ve {[CORRUPTION]} her seviyede artar.",
+        "{[SKILL]} -120%. Якщо на вас діє якийсь ефект, ви також отримуєте несамовитість. {[STRENGTH]}, {[WOUNDS]} і {[CORRUPTION]} посилюються кожен рівень."
       ]
     },
     "name": {
       "_value": [
-        "VIII - The Eightpoints"
+        "VIII - The Eightpoints",
+        "VIII - Les Huit-points",
+        "VIII - Le Ottopunte",
+        "VIII – Die Achtpforten",
+        "VIII - El Ochopartes",
+        "VIII - エイトポイント",
+        "VIII - 에이트포인트",
+        "VIII – Ośmiopunkt",
+        "VIII - Os Oito Pontos",
+        "VIII – Восьмиконечье",
+        "VIII - 八达节点",
+        "VIII - Sekizuç",
+        "VIII – Восьмиточчя"
       ]
     }
   },
   "6004": {
     "description": {
       "_value": [
-        "Attacks against Skaven enemies have a chance to deal double damage. Spawns an Endless Spell and increases {[SUSTAIN]} every minute. Endless Spells are easier to find. Endless Spells may trigger a second time after expiring."
+        "Attacks against Skaven enemies have a chance to deal double damage. Spawns an Endless Spell and increases {[SUSTAIN]} every minute. Endless Spells are easier to find. Endless Spells may trigger a second time after expiring.",
+        "Les attaques contre les ennemis Skavens ont une chance d’infliger le double de dégâts. Génère un sort infini et augmente {[SUSTAIN]} toutes les minutes. Les sorts infinis sont plus faciles à trouver. Ils peuvent se déclencher une deuxième fois après avoir expiré.",
+        "Gli attacchi contro i nemici Skaven hanno una probabilità di infliggere il doppio dei danni. Genera un Incantesimo Infinito e aumenta {[SUSTAIN]} ogni minuto. Gli Incantesimi Infiniti sono più facili da trovare e possono essere attivati una seconda volta una volta esauriti.",
+        "Angriffe gegen Skaven haben eine Chance, doppelten Schaden zu verursachen. Erzeugt jede Minute einen Endloszauber und erhöht {[SUSTAIN]}. Endloszauber sind leichter zu finden und können nach ihrem Auslaufen ein zweites Mal ausgelöst werden.",
+        "Los ataques contra enemigos Skaven tienen una probabilidad de infligir el doble de daño. Genera un hechizo permanente y aumenta {[SUSTAIN]} cada minuto. Es más fácil encontrar Hechizos Permanentes. Los Hechizos Permanentes pueden activarse una segunda vez tras expirar.",
+        "敵のスケイヴンへの攻撃は、一定確率でダメージが2倍になる。エンドレススペルを1つ生成し、毎分{[SUSTAIN]}を増加させる。エンドレススペルが出現しやすくなる。エンドレススペルは効果終了後、一定確率でもう一度発動する。",
+        "스케이븐 적을 공격하면 일정 확률로 두 배의 피해를 입힙니다. 1분마다 영속 주문을 생성하고 {[SUSTAIN]}을(를) 증가시킵니다. 영속 주문이 등장할 확률이 증가하며, 효과가 끝난 뒤 일정 확률로 한 번 더 발동합니다.",
+        "Ataki przeciwko Skavenom mają szansę zadać podwójne obrażenia. Tworzy Nieskończone Zaklęcie i zwiększa {[SUSTAIN]} co minutę. Nieskończone Zaklęcia są łatwiejsze do znalezienia. Nieskończone Zaklęcia mogą aktywować się ponownie po wygaśnięciu.",
+        "Ataques contra inimigos Skaven têm chance de causar o dobro de dano. Gera um Feitiço Infinito e aumenta {[SUSTAIN]} a cada minuto. Feitiços Infinitos ficam mais fáceis de encontrar. Os Feitiços Infinitos podem ser ativados uma segunda vez após expirarem.",
+        "Атаки на врагов-скавенов имеют шанс нанести двойной урон. Создает бесконечное заклинание и увеличивает параметр {[SUSTAIN]} каждую минуту. Легче найти бесконечные заклинания. Бесконечные заклинания могут активироваться во второй раз после истечения срока их действия.",
+        "攻击斯卡文鼠人敌人时有几率造成双倍伤害。生成一个无尽法术并每分钟增加{[SUSTAIN]}。更容易找到无尽法术。无尽法术在失效后有几率再次触发。",
+        "Skaven düşmanlarına karşı yapılan saldırılar, çift hasar verme şansına sahiptir. Her dakika, bir Sonsuz Büyü ortaya çıkar ve {[SUSTAIN]} artırır. Sonsuz Büyü’leri bulmak daha kolaydır. Sonsuz Büyüler’in süresi dolduktan sonra ikinci kez tetiklenebilirler.",
+        "Атаки по скейвенам мають шанс завдати подвійної шкоди. Створює нескінченне закляття й посилює {[SUSTAIN]} кожну хвилину. Полегшує знаходження нескінченних заклять. Після закінчення дії нескінченного закляття є ймовірність, що воно активується знову."
       ]
     },
     "name": {
       "_value": [
-        "XIV - The Necroquake"
+        "XIV - The Necroquake",
+        "XIV - Le Nécroséisme",
+        "XIV - Il Necrosisma",
+        "III – Das Nekrobeben",
+        "XIV - El Necroseísmo",
+        "XIV - 死の激震／死霊震",
+        "XIV - 네크로퀘이크",
+        "XIV – Nekrowstrząs",
+        "XIV - O Necroterremoto",
+        "XIV – Некротрясение",
+        "XIV - 死灵震",
+        "XIV - Nekroçalkantı",
+        "XIV – Некротрус"
       ]
     }
   },
   "6005": {
     "description": {
       "_value": [
-        "Gain +2 {[REROLL]}, {[SKIP]} and {[BANISH]}. {[SUSTAIN]} and {[STRENGTH]} are increased. These increases are reduced for every follower you have. At critical wounds, all enemies become Battle Shocked and you become Hastened for 10 seconds."
+        "Gain +2 {[REROLL]}, {[SKIP]} and {[BANISH]}. {[SUSTAIN]} and {[STRENGTH]} are increased. These increases are reduced for every follower you have. At critical wounds, all enemies become Battle Shocked and you become Hastened for 10 seconds.",
+        "+2 {[REROLL]}, {[SKIP]} et {[BANISH]}. {[SUSTAIN]} et {[STRENGTH]} sont augmentés. Ces augmentations sont réduites selon le nombre de disciples que vous avez. En cas de blessures critiques, tous les ennemis sont Ébranlés et vous obtenez l’effet de statut Précipitation pendant 10 secondes.",
+        "Ottieni +2 {[REROLL]}, {[SKIP]} e {[BANISH]}. {[SUSTAIN]} e {[STRENGTH]} vengono aumentati. Questi potenziamenti vengono ridotti per ogni seguace che hai. In caso di ferite critiche, tutti i nemici entrano nello stato Shock da Combattimento e tu entri nello stato Accelerato per 10 secondi.",
+        "Gewährt +2 {[REROLL]}, {[SKIP]} und {[BANISH]}. {[SUSTAIN]} und {[STRENGTH]} werden erhöht. Diese Boni verringern sich mit jedem Gefolgsmann. Bei kritischer Gesundheit werden alle Gegner „erschüttert“, während du 10 Sekunden lang den Statuseffekt „Beschleunigt“ erhältst.",
+        "Obtienes +2 de {[REROLL]}, {[SKIP]} y {[BANISH]}. {[SUSTAIN]} y {[STRENGTH]} aumentan. Estos aumentos se reducen por cada seguidor que tengas. Al sufrir heridas críticas, todos los enemigos sufren Acobardamiento y tú obtienes Aceleración durante 10 s.",
+        "{[REROLL]}、{[SKIP]}、{[BANISH]}を+2獲得する。{[SUSTAIN]}と{[STRENGTH]}が増加する。これらの増加量は、従者1人ごとに減少する。致命傷を受けると、すべての敵が戦闘ショック状態になり、自身は10秒間ヘイスト状態になる。",
+        "{[REROLL]}, {[SKIP]}, {[BANISH]} 각각 2회를 얻습니다. {[SUSTAIN]} 및 {[STRENGTH]}이(가) 증가하지만, 보유한 추종자가 많을수록 증가량이 줄어듭니다. 체력이 위험 수준에 이르면 모든 적이 전투충격 상태가 되고, 자신은 10초간 가속 상태가 됩니다.",
+        "{[REROLL]}, {[SKIP]} i {[BANISH]} +2. {[SUSTAIN]} i {[STRENGTH]} zwiększają się. Premie te są zmniejszane za każdego posiadanego towarzysza. Przy krytycznym poziomie pkt. życia wszyscy wrogowie wpadają w Szok Bitewny, a Ty zyskujesz efekt statusu Przyspieszenie na 10 s.",
+        "Ganhe +2 {[REROLL]}, {[SKIP]} e {[BANISH]}. Aumenta {[SUSTAIN]} e {[STRENGTH]}. Os aumentos são reduzidos para cada seguidor que você tiver. Com feridas críticas, todos os inimigos ficam em estado de Choque de Batalha e você fica com o efeito Acelerado por 10 segundos.",
+        "Получите +2 к параметрам {[REROLL]}, {[SKIP]} и {[BANISH]}. {[SUSTAIN]} и {[STRENGTH]} повышаются. Уровень повышения снижается за каждого вашего последователя. При критическом уровне ран все враги впадают в состояние боевого шока, а вы ускоряетесь на 10 секунд.",
+        "+2{[REROLL]}、{[SKIP]}和{[BANISH]}。{[SUSTAIN]}和{[STRENGTH]}获得提升。这些增益会因随从数量增加而递减。承伤值低于临界点时，所有敌人陷入战斗休克状态，而你将获得10秒的加速状态。",
+        "+2 {[REROLL]}, {[SKIP]} ve {[BANISH]} kazanırsın. {[SUSTAIN]} ve {[STRENGTH]} artar. Bu artışlar, sahip olduğun her takipçi için azalır. Kritik yaralanma durumunda tüm düşmanlar, Savaş Şokuna Girmiş olur ve sen de 10 saniye boyunca Hızlanmış olursun.",
+        "{[REROLL]}, {[SKIP]} і {[BANISH]} +2. Збільшені {[SUSTAIN]} і {[STRENGTH]}. Ці посилення послаблюються за кожного вашого послідовника. Коли ви зазнаєте критичних ушкоджень, усі вороги навколо впадуть у стан бойового шоку, а ви отримаєте поспіх на 10 секунд."
       ]
     },
     "name": {
       "_value": [
-        "0 - The Realm of Ulgu"
+        "0 - The Realm of Ulgu",
+        "0 - Le Royaume d’Ulgu",
+        "0 - Il Regno di Ulgu",
+        "0 – Das Reich Ulgus",
+        "0 - El Reino de Ulgu",
+        "0 - ウルグの領域",
+        "0 - 울구의 렐름",
+        "0 – Kraina Ulgu",
+        "0 - O Reino de Ulgu",
+        "0 – Владение Улгу",
+        "0 - 噩尔古界域",
+        "0 - Ulgu Diyarı",
+        "0 – Вимір Улґу"
       ]
     }
   },
   "6006": {
     "description": {
       "_value": [
-        "Attracts Stage Items, Pickups, and Light Sources toward you after standing still for a total of 1 minute. If you have the Blessed status effect, you also have the Warded status effect, and vice versa."
+        "Attracts Stage Items, Pickups, and Light Sources toward you after standing still for a total of 1 minute. If you have the Blessed status effect, you also have the Warded status effect, and vice versa.",
+        "Attire vers vous des objets de niveau, des objets à ramasser et des sources de lumière après avoir été immobile pendant 1 minute. Si vous disposez de l’effet de statut Bénédiction, vous avez également Protection, et vice versa.",
+        "Attrae Oggetti del livello, Oggetti da raccogliere e Fonti di Luce se rimani immobile per un totale di 1 minuto. Se sei nell'effetto di stato Benedetto, otterrai anche l'effetto di stato Protetto, e viceversa.",
+        "Zieht Level-Gegenstände, Sammelobjekte und Lichtquellen an, nachdem du insgesamt 1 Minute regungslos geblieben bist. Solange du den Statuseffekt Gesegnet hast, erhältst du zusätzlich Behütet und umgekehrt.",
+        "Atrae hacia ti objetos de nivel, objetos para recoger y fuentes de luz tras permanecer inmóvil un total de 1 minuto. Si tienes el efecto de estado Bendición, también recibes el efecto de estado Protección, y viceversa.",
+        "合計1分間静止すると、ステージアイテム、ピックアップ、光源を引き寄せる。祝福状態の間はワード状態にもなり、ワード状態の間は祝福状態にもなる。",
+        "움직이지 않고 있던 시간이 누적 1분에 도달하면 스테이지 아이템, 픽업 아이템, 광원을 자신 쪽으로 끌어당깁니다. 축복 상태 효과가 적용되면 보호 상태 효과도 함께 적용되며, 그 반대도 마찬가지입니다.",
+        "Przyciąga do Ciebie przedmioty na poziomie, zbierane przedmioty i źródła światła po spędzeniu łącznie 1 minuty w bezruchu. Jeśli masz efekt statusu Błogosławieństwo, otrzymujesz także efekt statusu Ochrona i odwrotnie.",
+        "Atrai Itens do cenário, Coletáveis e Fontes de Luz em sua direção após permanecer parado por um total de 1 minuto. Se você tiver o efeito de estado “Abençoado”, também terá o efeito de estado “Protegido”, e vice-versa.",
+        "Притягивает к вам предметы уровня, подбираемые предметы и источники света, если простоите неподвижно в общей сложности 1 минуту. Если у вас есть статусный эффект «Благословение», вы получаете статусный эффект «Безопасность», и наоборот.",
+        "原地站定累计1分钟后，将关卡物品、掉落物和光源吸至你身边。若你拥有赐福状态效果，则同时获得庇护状态效果，反之亦然。",
+        "Toplamda 1 dakika boyunca hareketsiz kaldıktan sonra Bölüm Ögeleri’ni, Toplanabilirler’i ve Işık Kaynakları’nı sana doğru çeker. Kutsanmış durum etkisine sahipsen, Muhafazalı durum etkisi elde edersin ve Muhafazalı’ya sahipsen Kutsanmış elde edersin.",
+        "Притягуватиме до вас предмети, бонуси й джерела світла, якщо стоятимете нерухомо протягом 1 хвилини. Якщо на вас діє ефект благословення, то також отримаєте оберіг, і навпаки."
       ]
     },
     "name": {
       "_value": [
-        "XV - The Realm of Azyr"
+        "XV - The Realm of Azyr",
+        "XV - Le Royaume d’Azyr",
+        "XV - Il Regno di Azyr",
+        "XV – Das Reich Azyrs",
+        "XV - El Reino de Azyr",
+        "XV - アジールの領域",
+        "XV - 아지르의 렐름",
+        "XV – Kraina Azyru",
+        "XV - O Reino de Azyr",
+        "XV – Владение Азир",
+        "XV - 艾兹尔界域",
+        "XV - Azyr Diyarı",
+        "XV – Вимір Азер"
       ]
     }
   },
   "6007": {
     "description": {
       "_value": [
-        "Healing is doubled. You are immune to Bleeding, Burning, Cursed, Poisoned, Slowed, Stunned, and Vulnerable status effects. Gain additional {[WOUNDS]}, {[TOUGHNESS]} and {[CORRUPTION]} every level. All enemy bosses have the Healing status effect"
+        "Healing is doubled. You are immune to Bleeding, Burning, Cursed, Poisoned, Slowed, Stunned, and Vulnerable status effects. Gain additional {[WOUNDS]}, {[TOUGHNESS]} and {[CORRUPTION]} every level. All enemy bosses have the Healing status effect",
+        "Les soins sont doublés. Vous bénéficiez d’une immunité contre les effets de statut suivants : Saignement, Brûlure, Malédiction, Empoisonnement, Ralentissement, Étourdissement et Vulnérabilité. Vous obtenez {[WOUNDS]}, {[TOUGHNESS]} et {[CORRUPTION]} en supplément à chaque niveau. Tous les boss ennemis disposent de l’effet de statut Guérison.",
+        "La Guarigione viene raddoppiata. Sei immune agli effetti di stato Sanguinamento, Ustione, Maledetto, Avvelenato, Rallentato, Stordito e Vulnerabile. Ricevi {[WOUNDS]}, {[TOUGHNESS]} e {[CORRUPTION]} aggiuntivi a ogni livello. Tutti i boss nemici hanno l'effetto di stato Guarigione.",
+        "Heilung ist doppelt so effektiv. Du bist immun gegen die Statuseffekte Blutend, Brennend, Verflucht, Vergiftet, Verlangsamt, Betäubt und Verwundbar. Erhalte pro Stufe zusätzlich {[WOUNDS]}, {[TOUGHNESS]} und {[CORRUPTION]}. Alle gegnerischen Bosse erhalten den Statuseffekt Heilung.",
+        "La curación se duplica. Eres inmune a los efectos de estado Sangrado, Quemadura, Maldición, Veneno, Ralentización, Aturdimiento y Vulnerabilidad. Obtienes {[WOUNDS]}, {[TOUGHNESS]} y {[CORRUPTION]} adicionales en cada nivel. Todos los jefes enemigos tienen el efecto de estado Curación.",
+        "回復量が2倍になる。出血・燃焼・呪い・毒・スロウ・スタン・脆弱状態のすべてに対して耐性を得る。レベルごとに{[WOUNDS]}、{[TOUGHNESS]}、{[CORRUPTION]}を追加で獲得する。すべての敵ボスは回復状態になる。",
+        "회복량이 두 배로 증가합니다. 출혈, 화상, 저주, 중독, 둔화, 기절, 취약 상태 효과에 면역이 됩니다. 레벨이 오를 때마다 {[WOUNDS]}, {[TOUGHNESS]}, {[CORRUPTION]}이(가) 증가합니다. 모든 적 보스에게 회복 상태 효과가 적용됩니다.",
+        "Leczenie jest podwojone. Zyskujesz odporność na efekty Krwawienia, Podpalenia, Przekleństwa, Zatrucia, Spowolnienia, Ogłuszenia i Wrażliwości. Z każdym poziomem zyskujesz dodatkowo {[WOUNDS]}, {[TOUGHNESS]} i {[CORRUPTION]}. Wszyscy bossowie otrzymują efekt Leczenia.",
+        "A cura é dobrada. Você fica imune aos efeitos de estado Sangramento, Queimadura, Maldição, Envenenamento, Desaceleração, Atordoamento e Vulnerabilidade. Ganhe {[WOUNDS]}, {[TOUGHNESS]} e {[CORRUPTION]} adicionais a cada nível. Todos os chefões inimigos têm o efeito de estado “Cura”",
+        "Исцеление удваивается. Вы становитесь невосприимчивы к статусным эффектам Кровотечение, Горение, Проклятие, Отравление, Замедление, Оглушение и Уязвимость. Дополнительные {[WOUNDS]}, {[TOUGHNESS]} и {[CORRUPTION]} с каждым новым уровнем. Все вражеские боссы имеют статусный эффект Исцеление.",
+        "治疗效果翻倍。免疫流血、燃烧、诅咒、中毒、减速、眩晕和脆弱状态效果。每升一级，获得额外的{[WOUNDS]}、{[TOUGHNESS]}和{[CORRUPTION]}加成。所有敌方首领均获得治疗状态效果。",
+        "İyileştirme iki katına çıkar. Kanama, Yanma, Lanetli, Zehirli, Yavaşlatma, Sersemletme ve Savunmasızlık durum etkilerine karşı bağışıklık sahibisin. Her seviyede ek olarak {[WOUNDS]}, {[TOUGHNESS]} ve {[CORRUPTION]} kazanırsın. Tüm düşman patronları, İyiliştirme durum etkilerine sahiptir",
+        "Зцілення подвоєно. Ви отримуєте імунітет від кровотечі, загоряння, прокляття, отруєння, сповільнення, приголомшення і вразливості. Такі показники зростають кожного рівня: {[WOUNDS]}, {[TOUGHNESS]} і {[CORRUPTION]}. Усі ворожі боси отримують ефект зцілення."
       ]
     },
     "name": {
       "_value": [
-        "XVI - The Realm of Ghyran"
+        "XVI - The Realm of Ghyran",
+        "XVI - Le Royaume de Ghyran",
+        "XVI - Il Regno di Ghyran",
+        "XVI – Das Reich Ghyrans",
+        "XVI - El Reino de Ghyran",
+        "XVI - グューランの領域",
+        "XVI - 기란의 렐름",
+        "XVI – Kraina Ghyranu",
+        "XVI - O Reino de Ghyran",
+        "XVI – Владение Гиран",
+        "XVI - 盖伊岚界域",
+        "XV - Ghyran Diyarı",
+        "XVI – Вимір Ґіран"
       ]
     }
   },
   "6008": {
     "description": {
       "_value": [
-        "Attacks against Gloomspite Gitz enemies have a chance to deal double damage. Double {[TITHE]} and inflicts the Cursed Status Effect while above 50% {[WOUNDS]}. Doubles {[VETERANCY]} and inflicts the Blessed Status Effect while below 50% {[WOUNDS]}."
+        "Attacks against Gloomspite Gitz enemies have a chance to deal double damage. Double {[TITHE]} and inflicts the Cursed Status Effect while above 50% {[WOUNDS]}. Doubles {[VETERANCY]} and inflicts the Blessed Status Effect while below 50% {[WOUNDS]}.",
+        "Les attaques contre les ennemis Vils du Fielobscur ont une chance d’infliger le double de dégâts. Double la {[TITHE]} et inflige l’effet de statut Malédiction lorsque les {[WOUNDS]} sont supérieures à 50 %. Double la {[VETERANCY]} et inflige l’effet de statut Bénédiction lorsque les {[WOUNDS]} sont inférieures à 50 %.",
+        "Gli attacchi contro i nemici Tizi dell'Odiozkuro hanno la possibilità di infliggere il doppio dei danni. Raddoppia {[TITHE]} e infligge l'effetto di stato Maledetto con {[WOUNDS]} superiori al 50%. Raddoppia {[VETERANCY]} e infligge l'effetto di stato Benedetto con {[WOUNDS]} inferiori al 50%.",
+        "Angriffe gegen Mondwahn-Gits haben eine Chance, doppelten Schaden zu verursachen. Verdoppelt {[TITHE]} und fügt den Statuseffekt Verflucht zu, solange {[WOUNDS]} über 50 % liegt. Verdoppelt {[VETERANCY]} und fügt den Statuseffekt Gesegnet zu, solange {[WOUNDS]} unter 50 % liegt.",
+        "Los ataques contra enemigos tipejoz nokturnoz tienen una probabilidad de infligir el doble de daño. Duplica {[TITHE]} e inflige el efecto de estado Maldición mientras estés por encima del 50 % de {[WOUNDS]}. Duplica {[VETERANCY]} e inflige el efecto de estado Bendición mientras estés por debajo del 50 % de {[WOUNDS]}.",
+        "敵のグルームスパイト・ギットへの攻撃は、一定確率でダメージが2倍になる。{[WOUNDS]}が50%を超えている間は{[TITHE]}が2倍になり、呪い状態になる。{[WOUNDS]}が50%未満の間は{[VETERANCY]}が2倍になり、祝福状態になる。",
+        "글룸스파이트 깃츠 적을 공격하면 일정 확률로 두 배의 피해를 입힙니다. {[WOUNDS]}이(가) 50%를 초과하면 {[TITHE]}이(가) 두 배로 증가하고 저주 상태 효과가 적용됩니다. {[WOUNDS]}이(가) 50% 미만이면 {[VETERANCY]}이(가) 두 배로 증가하고 축복 상태 효과가 적용됩니다.",
+        "Ataki przeciwko Gitom Podłego Mroku mają szansę zadać podwójne obrażenia. Podwaja {[TITHE]} i nakłada efekt Przekleństwa, gdy masz ponad 50% {[WOUNDS]}. Podwaja {[VETERANCY]} i nakłada efekt Błogosławieństwa, gdy masz poniżej 50% {[WOUNDS]}.",
+        "Ataques contra inimigos Glomspite Gitz têm chance de causar o dobro de dano. Duplica {[TITHE]} e aplica o efeito de estado “Amaldiçoado” quando estiver acima de 50% de {[WOUNDS]}. Duplica {[VETERANCY]} e aplica o efeito de estado “Abençoado” quando abaixo de 50% de {[WOUNDS]}.",
+        "Атаки на врагов из клана Мракозлобые Поганцы имеют шанс нанести двойной урон. Удваивается {[TITHE]} и накладывается статусный эффект «Проклятие», если {[WOUNDS]} более 50%. Удваивается {[VETERANCY]} и накладывается статусный эффект «Благословение», если {[WOUNDS]} менее 50%.",
+        "攻击暗怨地精敌人时有几率造成双倍伤害。当{[WOUNDS]}高于50%时，{[TITHE]}翻倍并施加诅咒状态效果；当{[WOUNDS]}低于50%时，{[VETERANCY]}翻倍并施加赐福状态效果。",
+        "Kinlikasvet Uşakları düşmanlarına karşı yapılan saldırılar, çift hasar verme şansına sahiptir. %50 {[WOUNDS]} üzerindeyken {[TITHE]} ikiye katlanır ve Lanetli Durum Etkisi uygular. %50 {[WOUNDS]} altındayken {[VETERANCY]} ikiye katlanır ve Kutsanmış Durum Etkisi uygular.",
+        "Атаки по дурникам Пітьмозломби мають шанс завдати подвійної шкоди. {[TITHE]} подвоєна і на вас накладається ефект прокляття, коли показник {[WOUNDS]} вище 50%. {[VETERANCY]} подвоєно і на вас накладається благословення, коли показник {[WOUNDS]} опускається нижче 50%."
       ]
     },
     "name": {
       "_value": [
-        "II - The Twin-Tailed Comet"
+        "II - The Twin-Tailed Comet",
+        "II - La Comète à Deux Queues",
+        "II - La Cometa a Due Code",
+        "II – Der Zweischweifige Komet",
+        "II - El Cometa de Dos Colas",
+        "II - 双尾の都",
+        "II - 쌍꼬리 혜성",
+        "II – Kometa o Dwóch Ogonach",
+        "II - O Cometa de Duas Caudas",
+        "II – Двухвостая комета",
+        "II - 双尾彗星",
+        "II - Çift Kuyruklu Yıldız",
+        "II – Двохвоста комета"
       ]
     }
   },
   "6009": {
     "description": {
       "_value": [
-        "Increases the chance of inflicting status effects on enemies, their duration and their damage by 20%. Level 1 Weapons gain +3 {[ATTACKS]}."
+        "Increases the chance of inflicting status effects on enemies, their duration and their damage by 20%. Level 1 Weapons gain +3 {[ATTACKS]}.",
+        "Augmente de 20 % les chances d’infliger des effets de statut aux ennemis, ainsi que leur durée et leurs dégâts. Les armes de niveau 1 obtiennent +3 {[ATTACKS]}.",
+        "Aumenta del 20% la probabilità di infliggere effetti di stato ai nemici, la loro durata e i danni da essi inflitti. Le Armi di livello 1 ottengono +3 {[ATTACKS]}.",
+        "Erhöht die Chance, Statuseffekte auf Gegner zu wirken, sowie deren Dauer und Schaden um 20 %. Waffen der Stufe 1 erhalten +3 {[ATTACKS]}.",
+        "Aumenta un 20 % la probabilidad de infligir efectos de estado a los enemigos, así como su duración y su daño. Las armas de nivel 1 obtienen +3 {[ATTACKS]}.",
+        "敵に付与する状態異常の発生確率、効果時間、ダメージが20%増加する。レベル1の武器は{[ATTACKS]}を+3獲得する。",
+        "적에게 상태 효과를 부여할 확률과 상태 효과의 지속 시간 및 피해량이 20% 증가합니다. 1레벨 무기의 {[ATTACKS]}이(가) 3 증가합니다.",
+        "Zwiększa szansę na wywołanie efektów statusu na wrogach oraz ich czas trwania i obrażenia o 20%. Bronie 1. poziomu zyskują +3 do {[ATTACKS]}.",
+        "Aumenta em 20% a chance de causar efeitos de estado nos inimigos, bem como a duração e o dano desses efeitos. Armas de nível 1 ganham +3 {[ATTACKS]}.",
+        "Повышает на 20% шанс наложения на врагов статусных эффектов, их длительность и наносимый урон. Оружие уровня 1 получает +3 {[ATTACKS]}.",
+        "对敌人施加状态效果的触发几率、持续时间及伤害均提升20%。1级武器+3{[ATTACKS]}。",
+        "Düşmanlara durum etkisi uygulama şansını, sürelerini ve verdikleri hasarı %20 artırır. 1. Seviye Silahlar, +3 {[ATTACKS]} kazanır.",
+        "Збільшує ймовірність накладання ефектів на ворогів, а також тривалість і шкоду цих ефектів на 20%. Зброя 1 рівня отримує бонус до показника {[ATTACKS]} +3."
       ]
     },
     "name": {
       "_value": [
-        "I - Dracothian"
+        "I - Dracothian",
+        "I - Dracothien",
+        "I - Dracothiano",
+        "I – Dracothion",
+        "I - Dracothian",
+        "I - ドラコシオン",
+        "I - 드라코시안",
+        "I – Drakothian",
+        "I - Dracothiano",
+        "I – Дракотион",
+        "I - 龙兽",
+        "I - Dracothian",
+        "I – Дракот"
       ]
     }
   },
   "6010": {
     "description": {
       "_value": [
-        "You ignore terrain and gain +10% {[MOVE]}. All enemies have a chance to spawn Poisoned. Gain +1% {[CORRUPTION]} every level."
+        "You ignore terrain and gain +10% {[MOVE]}. All enemies have a chance to spawn Poisoned. Gain +1% {[CORRUPTION]} every level.",
+        "Vous ignorez le terrain et obtenez +10 % de {[MOVE]}. Tous les ennemis ont une chance de générer Empoisonnement. Vous obtenez +1 % de {[CORRUPTION]} à chaque niveau.",
+        "Ignori il terreno e guadagni +10% {[MOVE]}. Tutti i nemici hanno una probabilità di venire generati già nello stato Avvelenato. Ottieni +1% {[CORRUPTION]} a ogni livello.",
+        "Du ignorierst Gelände und erhältst +10 % {[MOVE]}. Alle Gegner haben eine Chance, mit dem Statuseffekt Vergiftet zu erscheinen. Erhalte pro Stufe +1 % {[CORRUPTION]}.",
+        "Ignoras el terreno y obtienes +10 % de {[MOVE]}. Todos los enemigos tienen una probabilidad de aparecer con Veneno. Obtienes +1 % {[CORRUPTION]} en cada nivel.",
+        "地形の影響を受けず、{[MOVE]}が+10%増加する。すべての敵は一定確率で毒状態で出現する。レベルごとに{[CORRUPTION]}が+1%増加する。",
+        "지형의 영향을 받지 않고 이동하며, {[MOVE]}이(가) 10% 증가합니다. 모든 적이 일정 확률로 중독 상태인 채 스폰됩니다. 레벨이 오를 때마다 {[CORRUPTION]}이(가) 1% 증가합니다.",
+        "Ignorujesz teren i zyskujesz {[MOVE]} +10%. Wszyscy wrogowie mogą pojawić się Zatruci. {[CORRUPTION]} +1% co poziom.",
+        "Você ignora o terreno e ganha +10% de {[MOVE]}. Todos os inimigos têm uma chance de aparecerem Envenenados. Ganhe +1% de {[CORRUPTION]} a cada nível.",
+        "Вы игнорируете рельеф и получаете +10% к параметру {[MOVE]}. Все враги имеют шанс появиться отравленными. Получите +1% к параметру {[CORRUPTION]} на каждом новом уровне.",
+        "你无视地形且+10%{[MOVE]}。所有敌人有几率陷入中毒状态。每升一级，+1%{[CORRUPTION]}。",
+        "Araziyi yok sayarsın ve +%10 {[MOVE]} kazanırsın. Tüm düşmanların Zehirli durum etkisi oluşturma şansı vardır. Her seviyede, +%1 {[CORRUPTION]} kazanırsın.",
+        "Ви ігноруєте перешкоди і ваш показник {[MOVE]} збільшується на 10%. Усі вороги з певною ймовірністю з’являтимуться отруєними. Показник {[CORRUPTION]} зростатиме на 1% з кожним рівнем."
       ]
     },
     "name": {
       "_value": [
-        "XIII - Cursed Skies"
+        "XIII - Cursed Skies",
+        "XIII - Cieux Maudits",
+        "XIII - Cieli Maledetti",
+        "XIII – Verfluchte Himmel",
+        "XIII - Cielos Malditos",
+        "XIII - 呪われし空",
+        "XIII - 저주받은 하늘",
+        "XIII – Przeklęte Niebiosa",
+        "XIII - Céus Amaldiçoados",
+        "XIII – Проклятые небеса",
+        "XIII - 咒缚苍穹",
+        "XIII - Lanetli Semalar",
+        "XIII – Прокляті небеса"
       ]
     }
   }

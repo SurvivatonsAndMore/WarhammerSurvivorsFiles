@@ -2,119 +2,323 @@
   "WS_40K_Main": {
     "title": {
       "_value": [
-        "Main Menu - Warhammer 40,000"
+        "Main Menu - Warhammer 40,000",
+        "Menu principal - Warhammer 40,000",
+        "Menu principale - Warhammer 40.000",
+        "Hauptmenü – Warhammer 40.000",
+        "Menú principal - Warhammer 40,000",
+        "メインメニュー - ウォーハンマー40,000",
+        "메인 메뉴 - Warhammer 40,000",
+        "Menu główne – Warhammer 40 000",
+        "Menu principal - Warhammer 40.000",
+        "Главное меню Warhammer 40,000",
+        "主菜单 —— 战锤40000",
+        "Ana Menü - Warhammer 40,000",
+        "Головне меню — Warhammer 40 000"
       ]
     }
   },
   "WS_AOS_Main": {
     "title": {
       "_value": [
-        "Main Menu - Warhammer Age of Sigmar"
+        "Main Menu - Warhammer Age of Sigmar",
+        "Menu principal - Warhammer Age of Sigmar",
+        "Menu principale - Warhammer Age of Sigmar",
+        "Hauptmenü – Warhammer Age of Sigmar",
+        "Menú principal - Warhammer Age of Sigmar",
+        "メインメニュー - ウォーハンマー：エイジ・オヴ・シグマー",
+        "메인 메뉴 - Warhammer Age of Sigmar",
+        "Menu główne – Warhammer Age of Sigmar.",
+        "Menu principal - Warhammer Era de Sigmar",
+        "Главное меню Warhammer Age of Sigmar",
+        "主菜单 —— 战锤西格玛时代",
+        "Ana Menü - Warhammer Age of Sigmar",
+        "Головне меню — Warhammer Age of Sigmar"
       ]
     }
   },
   "WS_40K_ImperialBastion": {
     "title": {
       "_value": [
-        "Imperial Bastion"
+        "Imperial Bastion",
+        "Bastion impérial",
+        "Bastione Imperiale",
+        "Imperiale Bastion",
+        "Bastión imperial",
+        "帝国の掩蔽壕",
+        "제국 요새",
+        "Bastion Imperium",
+        "Bastião Imperial",
+        "Имперский бастион",
+        "帝国堡垒",
+        "İmparatorluk Hisarı",
+        "Імперський бастіон"
       ]
     }
   },
   "WS_40K_Gallowdark": {
     "title": {
       "_value": [
-        "Gallowdark"
+        "Gallowdark",
+        "Gallowdark",
+        "Patibolo Nero",
+        "Galgenschatten",
+        "Horcasombría",
+        "ギャロウダーク",
+        "갤로우다크",
+        "Wisielczy Mrok",
+        "Gallowdark",
+        "Галловдарк",
+        "绞刑暗渊",
+        "Gallowdark",
+        "Шибомряка"
       ]
     }
   },
   "WS_40K_OrkStronghold": {
     "title": {
       "_value": [
-        "Ork Stronghold"
+        "Ork Stronghold",
+        "Forteresse ork",
+        "Fortezza degli Orki",
+        "Orkfestung",
+        "Fortaleza orka",
+        "オークの砦",
+        "오크 요새",
+        "Twierdza Orków",
+        "Fortaleza Ork",
+        "Крепость орков",
+        "欧克蛮人要塞",
+        "Ork Kalesi",
+        "Орча твердиня"
       ]
     }
   },
   "WS_40K_DeathWorldInvasion": {
     "title": {
       "_value": [
-        "Death World Invasion"
+        "Death World Invasion",
+        "Invasion du monde hostile",
+        "Invasione del Mondo Assassino",
+        "Invasion der Todeswelt",
+        "Invasión del mundo letal",
+        "死地惑星への侵攻",
+        "데스 월드 침공",
+        "Inwazja Świata Śmierci",
+        "Invasão do Mundo da Morte",
+        "Вторжение в мир смерти",
+        "死亡世界入侵",
+        "Ölüm Dünyası İstilası",
+        "Вторгнення на Світ Смерті"
       ]
     }
   },
   "WS_40K_DesertWasteland": {
     "title": {
       "_value": [
-        "Desert Wasteland"
+        "Desert Wasteland",
+        "Wastelands désertiques",
+        "Landa Desolata",
+        "Wüstenödland",
+        "Páramo desértico",
+        "砂の荒野",
+        "메마른 황무지",
+        "Pustynne Rubieże",
+        "Deserto Árido",
+        "Песчаные пустоши",
+        "荒漠废土",
+        "Çorak Çöl",
+        "Піщана пустка"
       ]
     }
   },
   "WS_40K_HobbyTable": {
     "title": {
       "_value": [
-        "Hobby Table - Warhammer 40,000"
+        "Hobby Table - Warhammer 40,000",
+        "Table de jeu - Warhammer 40,000",
+        "Tavolino da Hobby - Warhammer 40.000",
+        "Hobbytisch – Warhammer 40.000",
+        "Mesa de hobby - Warhammer 40,000",
+        "ホビーテーブル - ウォーハンマー40,000",
+        "취미 작업대 - Warhammer 40,000",
+        "Stół Modelarski – Warhammer 40 000",
+        "Mesa de Hobby - Warhammer 40.000",
+        "Хобби-стол Warhammer 40,000",
+        "模型桌 —— 战锤40000",
+        "Hobi Masası - Warhammer 40,000",
+        "Стіл для хобі — Warhammer 40 000"
       ]
     }
   },
   "WS_40K_PerilsWarp": {
     "title": {
       "_value": [
-        "Perils of the Warp"
+        "Perils of the Warp",
+        "Les Dangers du Warp",
+        "Pericoli del Warp",
+        "Gefahren des Warp",
+        "Peligros de la disformidad",
+        "歪みの崩壊",
+        "워프의 위험",
+        "Niebezpieczeństwa Warpu",
+        "Perigos da Mutação",
+        "Опасности варпа",
+        "亚空间危机",
+        "Warp Felaketleri",
+        "Небезпеки Викривлення"
       ]
     }
   },
   "WS_AOS_GreatParch": {
     "title": {
       "_value": [
-        "The Great Parch"
+        "The Great Parch",
+        "Le Vaste Aride",
+        "La Grande Siccità",
+        "Die Große Dörre",
+        "Gran Erial",
+        "大焦界",
+        "그레이트 파치",
+        "Wielka Spieka",
+        "A Grande Seca",
+        "Великая Сушь",
+        "大焦原",
+        "Büyük Kuraklık",
+        "Велика Посуха"
       ]
     }
   },
   "WS_AOS_SkrappaSpill": {
     "title": {
       "_value": [
-        "Skrappa Spill"
+        "Skrappa Spill",
+        "Mont d'Ferraille",
+        "Fosso dei Rottami",
+        "Schlägahaufn",
+        "Barranko del Dezparrame",
+        "スクラッパスピル",
+        "스크라파 스필",
+        "Hałda Skrappy",
+        "Jogos de Razpadinha",
+        "Скрапп-Разлив",
+        "万废山",
+        "Hurda Yığını",
+        "Брухтосхил"
       ]
     }
   },
   "WS_AOS_BloodwindSpoil": {
     "title": {
       "_value": [
-        "Bloodwind Spoil"
+        "Bloodwind Spoil",
+        "Bloodwind Spoil",
+        "Distesa di Bloodwind",
+        "Blutwindfluch",
+        "Bloodwind Spoil",
+        "血風の略奪地",
+        "블러드윈드 스포일",
+        "Bloodwind Spoil",
+        "Espólio de Bloodwind",
+        "Bloodwind Spoil",
+        "血风掠夺",
+        "Kanlı Rüzgar Toprakları",
+        "Кривавовітряна здобич"
       ]
     }
   },
   "WS_AOS_TwinTailed": {
     "title": {
       "_value": [
-        "The Twin-Tailed City"
+        "The Twin-Tailed City",
+        "La Cité à Deux Queues",
+        "La Città a Due Code",
+        "Die Zweischweifige Stadt",
+        "La Ciudad de dos colas",
+        "双尾の都",
+        "쌍꼬리 도시",
+        "Miasto o Dwóch Ogonach",
+        "A Cidade das Duas Caudas",
+        "Двухвостый Город",
+        "双尾之城",
+        "Çift Kuyruklu Şehir",
+        "Двохвосте місто"
       ]
     }
   },
   "WS_AOS_UnderEmpire": {
     "title": {
       "_value": [
-        "Under-Empire"
+        "Under-Empire",
+        "Empire Souterrain",
+        "Impero Sotterraneo",
+        "Tiefenreich",
+        "Imperio Subterráneo",
+        "地下の帝国",
+        "언더엠파이어",
+        "Podziemne Imperium",
+        "Sub-Império",
+        "Подземная Империя",
+        "地底帝国",
+        "Yeraltı İmparatorluğu",
+        "Підземна імперія"
       ]
     }
   },
   "WS_AOS_Gnarlwood": {
     "title": {
       "_value": [
-        "Gnarlwood"
+        "Gnarlwood",
+        "Bois Noueux",
+        "Bosco Nodoso",
+        "Knarrwald",
+        "Bosque Nudoso",
+        "唸りの森",
+        "날우드",
+        "Sękaty Las",
+        "Gnarlwood",
+        "Криволесье",
+        "瘤木林",
+        "Boğumlukoru",
+        "Сучколісся"
       ]
     }
   },
   "WS_AOS_HobbyTable": {
     "title": {
       "_value": [
-        "Hobby Table - Warhammer Age of Sigmar"
+        "Hobby Table - Warhammer Age of Sigmar",
+        "Table de jeu - Warhammer Age of Sigmar",
+        "Tavolino da Hobby - Warhammer Age of Sigmar",
+        "Hobbytisch – Warhammer Age of Sigmar",
+        "Mesa de hobby - Warhammer Age of Sigmar",
+        "ホビーテーブル - ウォーハンマー：エイジ・オヴ・シグマー",
+        "취미 작업대 - Warhammer Age of Sigmar",
+        "Stół Modelarski – Warhammer Age of Sigmar",
+        "Mesa de hobby - Warhammer: Era de Sigmar",
+        "Хобби-стол Warhammer Age of Sigmar",
+        "模型桌 —— 战锤西格玛时代",
+        "Hobi Masası - Warhammer Age of Sigmar",
+        "Стіл для хобі — Warhammer Age of Sigmar"
       ]
     }
   },
   "WS_AOS_Necropolis": {
     "title": {
       "_value": [
-        "Necropolis"
+        "Necropolis",
+        "Necropolis",
+        "Necropoli",
+        "Nekropolis",
+        "Necrópolis",
+        "ネクロポリス",
+        "네크로폴리스",
+        "Nekropolia",
+        "Necrópolis",
+        "Некрополь",
+        "亡者之地",
+        "Nekropol",
+        "Некрополь"
       ]
     }
   }

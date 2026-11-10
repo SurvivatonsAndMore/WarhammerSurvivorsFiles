@@ -1,4 +1,73 @@
 {  
+  "WS_40K_DesertWasteland": {
+    "title": "Desert Wasteland",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_40K_DESERT_WASTELAND",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "40K_UI_New",
+    "listSprite": "Button_StageSelect_DesertWasteland.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_OrkStronghold": {
+    "title": "Ork Stronghold",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_40K_ORK_STRONGHOLD",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "40K_UI_New",
+    "listSprite": "Button_StageSelect_OrkStronghold.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_ImperialShipyard": {
+    "title": "Imperial Shipyard",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_40K_IMPERIAL_SHIPYARD",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "40K_UI_New",
+    "listSprite": "Button_StageSelect_Placeholder.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_40K"
+    ]
+  },
   "WS_40K_ImperialBastion": {
     "title": "Imperial Bastion",
     "author": "Audio",
@@ -8,6 +77,75 @@
     "isUnlocked": false,
     "listSpriteTexture": "40K_UI_New",
     "listSprite": "Button_StageSelect_ImperialBastion.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_Gallowdark": {
+    "title": "Gallowdark",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_40K_GALLOWDARK",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "40K_UI_New",
+    "listSprite": "Button_StageSelect_Gallowdark.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_DeathWorldInvasion": {
+    "title": "Death World Invasion",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_40K_DEATH_WORLD",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "40K_UI_New",
+    "listSprite": "Button_StageSelect_DeathworldInvasion.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_HobbyTable": {
+    "title": "Hobby Table",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_40K_HOBBY_TABLE",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "40K_UI_New",
+    "listSprite": "Button_StageSelect_Placeholder.png",
     "texture": "NonSilo_UI_New",
     "icon": "Icon_CD.png",
     "hyperMod": {
@@ -32,6 +170,167 @@
     "isUnlocked": false,
     "listSpriteTexture": "AOS_UI_New",
     "listSprite": "Button_StageSelect_GreatParch.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_BloodwindSpoil": {
+    "title": "Bloodwind Spoil",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_AOS_BLOODWIND_SPOIL",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "AOS_UI_New",
+    "listSprite": "Button_StageSelect_BloodwindSpoil.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_SkrappaSpill": {
+    "title": "Skrappa Spill",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_AOS_SKRAPPA_SPILL",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "AOS_UI_New",
+    "listSprite": "Button_StageSelect_SkrappaSpill.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_UnderEmpire": {
+    "title": "Under Empire",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_AOS_UNDER_EMPIRE",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "AOS_UI_New",
+    "listSprite": "Button_StageSelect_UnderEmpire.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_TwinTailedCity": {
+    "title": "Twin Tailed City",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_AOS_HAMMERHAL",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "AOS_UI_New",
+    "listSprite": "Button_StageSelect_Hammerhal.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_Necropolis": {
+    "title": "Citadel of Skulls",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_AOS_CITADEL_OF_SKULLS",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "AOS_UI_New",
+    "listSprite": "Button_StageSelect_Necropolis.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1,
+      "detune": 0
+    },
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_Gnarlwood": {
+    "title": "Gnarlwood",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_AOS_GNARLWOOD",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "AOS_UI_New",
+    "listSprite": "Button_StageSelect_Gnarlwood.png",
+    "texture": "NonSilo_UI_New",
+    "icon": "Icon_CD.png",
+    "hyperMod": {
+      "rate": 1.0625,
+      "detune": 0
+    },
+    "forsakenMod": {
+      "rate": 1.125,
+      "detune": -500
+    },
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_HobbyTable": {
+    "title": "Hobby Table",
+    "author": "Audio",
+    "source": "",
+    "unlockedByStage": "WS_AOS_HOBBY_TABLE",
+    "unlockedByCharacter": null,
+    "isUnlocked": false,
+    "listSpriteTexture": "AOS_UI_New",
+    "listSprite": "Button_StageSelect_Placeholder.png",
     "texture": "NonSilo_UI_New",
     "icon": "Icon_CD.png",
     "hyperMod": {

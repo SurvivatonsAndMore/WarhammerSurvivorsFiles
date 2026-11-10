@@ -10,5 +10,149 @@
         "_value": "Complete Warhammer Age of Sigmar Universe."
       }
     }
+  },
+  "fr": {
+    "ws_Complete40K": {
+      "description": {
+        "_value": "Complétez l'univers de Warhammer 40,000."
+      }
+    },
+    "ws_CompleteAOS": {
+      "description": {
+        "_value": "Terminez l’univers de Warhammer Age of Sigmar."
+      }
+    }
+  },
+  "it": {
+    "ws_Complete40K": {
+      "description": {
+        "_value": "Completa l'Universo Warhammer 40.000."
+      }
+    },
+    "ws_CompleteAOS": {
+      "description": {
+        "_value": "Completa l'Universo Warhammer Age of Sigmar."
+      }
+    }
+  },
+  "de": {
+    "ws_Complete40K": {
+      "description": {
+        "_value": "Schließe das Universum von Warhammer 40.000 ab."
+      }
+    },
+    "ws_CompleteAOS": {
+      "description": {
+        "_value": "Schließe das Universum von Warhammer Age of Sigmar ab."
+      }
+    }
+  },
+  "es": {
+    "ws_Complete40K": {
+      "description": {
+        "_value": "Completa el universo de Warhammer 40,000."
+      }
+    },
+    "ws_CompleteAOS": {
+      "description": {
+        "_value": "Completa el universo de Warhammer Age of Sigmar."
+      }
+    }
+  },
+  "ja": {
+    "ws_Complete40K": {
+      "description": {
+        "_value": "ウォーハンマー40,000ユニバースをクリアする。"
+      }
+    },
+    "ws_CompleteAOS": {
+      "description": {
+        "_value": "ウォーハンマー：エイジ・オヴ・シグマーをクリアする。"
+      }
+    }
+  },
+  "ko": {
+    "ws_Complete40K": {
+      "description": {
+        "_value": "Warhammer 40,000 세계관을 완료하세요."
+      }
+    },
+    "ws_CompleteAOS": {
+      "description": {
+        "_value": "Warhammer Age of Sigmar 세계관을 완료하세요."
+      }
+    }
+  },
+  "pl": {
+    "ws_Complete40K": {
+      "description": {
+        "_value": "Ukończ uniwersum Warhammer 40,000."
+      }
+    },
+    "ws_CompleteAOS": {
+      "description": {
+        "_value": "Ukończ uniwersum Warhammer Age of Sigmar."
+      }
+    }
+  },
+  "pt-BR": {
+    "ws_Complete40K": {
+      "description": {
+        "_value": "Complete o Universo de Warhammer 40.000."
+      }
+    },
+    "ws_CompleteAOS": {
+      "description": {
+        "_value": "Complete o Universo Warhammer Era de Sigmar."
+      }
+    }
+  },
+  "ru": {
+    "ws_Complete40K": {
+      "description": {
+        "_value": "Пройдите всю вселенную Warhammer 40,000."
+      }
+    },
+    "ws_CompleteAOS": {
+      "description": {
+        "_value": "Пройдите всю вселенную Warhammer Age of Sigmar."
+      }
+    }
+  },
+  "zh-CN": {
+    "ws_Complete40K": {
+      "description": {
+        "_value": "通关《战锤40000》宇宙。"
+      }
+    },
+    "ws_CompleteAOS": {
+      "description": {
+        "_value": "通关《战锤西格玛时代》宇宙。"
+      }
+    }
+  },
+  "tr": {
+    "ws_Complete40K": {
+      "description": {
+        "_value": "Warhammer 40,000 Evreni’ni tamamla."
+      }
+    },
+    "ws_CompleteAOS": {
+      "description": {
+        "_value": "Warhammer Age of Sigmar Evreni’ni tamamla."
+      }
+    }
+  },
+  "uk": {
+    "ws_Complete40K": {
+      "description": {
+        "_value": "Завершіть усі рівні всесвіту Warhammer 40 000."
+      }
+    },
+    "ws_CompleteAOS": {
+      "description": {
+        "_value": "Завершіть усі рівні Всесвіту Warhammer Age of Sigmar."
+      }
+    }
   }
 }

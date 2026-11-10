@@ -199,5 +199,2417 @@
     "WS_Bonus_stageType": {
       "_value": "Bonus"
     }
+  },
+  "fr": {
+    "WS_40K_DEATH_WORLD": {
+      "description": {
+        "_value": "Pénétrez dans une jungle dense jusqu’à atteindre son cœur ravagé par la flotte-ruche."
+      },
+      "stageName": {
+        "_value": "Invasion du monde hostile"
+      }
+    },
+    "WS_40K_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_DESERT_WASTELAND": {
+      "description": {
+        "_value": "Des terres désolées et sans vie. La flotte-ruche s’y est abattue et a tout ravagé sans répit, ne laissant derrière elle qu’un monde désert."
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "Wastelands désertiques"
+      },
+      "tips": {
+        "_value": "Aucun largage de santé. Les ennemis deviennent plus forts et plus rapides au fil du temps."
+      }
+    },
+    "WS_40K_GALLOWDARK": {
+      "description": {
+        "_value": "Parcourez le labyrinthe chaotique d’un space hulk abandonné, infesté par la Death Guard."
+      },
+      "stageName": {
+        "_value": "Gallowdark"
+      },
+      "tip": {
+        "_value": "Les ennemis deviennent plus forts et plus rapides au fil du temps."
+      }
+    },
+    "WS_40K_HOBBY_TABLE": {
+      "description": {
+        "_value": "La table de jeu d’un passionné de Warhammer 40,000."
+      },
+      "stageName": {
+        "_value": "Table de jeu"
+      },
+      "tips": {
+        "_value": "Des vagues d’ennemis aléatoires de niveaux normaux."
+      }
+    },
+    "WS_40K_IMPERIAL_BASTION": {
+      "description": {
+        "_value": "Un bastion impérial envahi par des Tyranides sur une terre ravagée."
+      },
+      "stageName": {
+        "_value": "Bastion impérial"
+      }
+    },
+    "WS_40K_IMPERIAL_SHIPYARD": {
+      "description": {
+        "_value": "Affrontez la Death Guard pour prendre le contrôle d’un chantier naval de la Marine Impériale."
+      },
+      "stageName": {
+        "_value": "Chantier naval impérial"
+      },
+      "tips": {
+        "_value": "Les ascenseurs aident à la navigation."
+      }
+    },
+    "WS_40K_ORK_STRONGHOLD": {
+      "description": {
+        "_value": "Frayez-vous un chemin musclé dans une forteresse Goff sans vous faire descendre par les Boyz !"
+      },
+      "stageName": {
+        "_value": "Forteresse ork"
+      }
+    },
+    "WS_40K_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_THE_WARP": {
+      "description": {
+        "_value": "L’Immaterium, un royaume d’énergie psychique ou où la matière, le temps et l’espace n’ont aucune signification."
+      },
+      "stageName": {
+        "_value": "Les Dangers du Warp"
+      }
+    },
+    "WS_AOS_BLOODWIND_SPOIL": {
+      "description": {
+        "_value": "Un camp minier situé dans les Huit-points, dont les rivières de pierres de royaume en fusion ont été revendiquées par les Lames de Khorne."
+      },
+      "stageName": {
+        "_value": "Bloodwind Spoil"
+      }
+    },
+    "WS_AOS_CITADEL_OF_SKULLS": {
+      "description": {
+        "_value": "La dernière citadelle. Le temps presse et la mort approche."
+      },
+      "stageName": {
+        "_value": "Necropolis"
+      }
+    },
+    "WS_AOS_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_GNARLWOOD": {
+      "description": {
+        "_value": "Affrontez les Vils du Fielobscur tout en survivant à la faune et à la flore sans merci du dangereux Royaume des Bêtes."
+      },
+      "stageName": {
+        "_value": "Bois Noueux"
+      },
+      "tips": {
+        "_value": "Aucun largage de santé. Les ennemis deviennent plus forts et plus rapides au fil du temps."
+      }
+    },
+    "WS_AOS_GREAT_PARCH": {
+      "description": {
+        "_value": "Une terre aride et désolée. Recouverte d’une chaleur brûlante, d’émanations sulfureuses et de Skavens."
+      },
+      "stageName": {
+        "_value": "Le Vaste Aride"
+      }
+    },
+    "WS_AOS_HAMMERHAL": {
+      "description": {
+        "_value": "La légendaire Hammerhal, soit deux cités libres reliées par une porte de royaume, sans cesse attaquée par les forces du Chaos."
+      },
+      "stageName": {
+        "_value": "La Cité à Deux Queues"
+      },
+      "tips": {
+        "_value": "Voyagez grâce à une porte de royaume entre Aqshan et Ghyran"
+      }
+    },
+    "WS_AOS_HOBBY_TABLE": {
+      "description": {
+        "_value": "La table de jeu d’un passionné de Warhammer Age of Sigmar."
+      },
+      "stageName": {
+        "_value": "Table de jeu"
+      },
+      "tips": {
+        "_value": "Des vagues d’ennemis aléatoires de niveaux normaux."
+      }
+    },
+    "WS_AOS_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_SKRAPPA_SPILL": {
+      "description": {
+        "_value": "Une plank sombre, froide et humide, où les Vils du Fielobscur amassent de la ferraille volée sous le regard de la Mauvaise Lune."
+      },
+      "stageName": {
+        "_value": "Mont d'Ferraille"
+      }
+    },
+    "WS_AOS_UNDER_EMPIRE": {
+      "description": {
+        "_value": "Descendez dans les galeries infestées par les Skavens de l’Empire Souterrain qui s’étend sous les Royaumes Mortels."
+      },
+      "stageName": {
+        "_value": "Empire Souterrain"
+      }
+    },
+    "WS_Challenge_stageType": {
+      "_value": "Défi"
+    },
+    "WS_Secret_stageType": {
+      "_value": "Secret"
+    },
+    "WS_Bonus_stageType": {
+      "_value": "Bonus"
+    }
+  },
+  "it": {
+    "WS_40K_DEATH_WORLD": {
+      "description": {
+        "_value": "Avventurati attraverso una fitta vegetazione fino al cuore di una giungla invasa dalla Flotta Alveare."
+      },
+      "stageName": {
+        "_value": "Invasione del Mondo Assassino"
+      }
+    },
+    "WS_40K_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_DESERT_WASTELAND": {
+      "description": {
+        "_value": "Lande aride e desolate, praticamente prive di vita. La Flotta Alveare ha invaso e devastato questi luoghi senza tregua, lasciando dietro di sé un mondo ridotto a un guscio vuoto."
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "Landa Desolata"
+      },
+      "tips": {
+        "_value": "Non vengono rilasciati oggetti per curarsi. I nemici diventano progressivamente più forti e veloci."
+      }
+    },
+    "WS_40K_GALLOWDARK": {
+      "description": {
+        "_value": "Affronta il caotico labirinto di un fatiscente colosso spaziale infestato dalla Death Guard."
+      },
+      "stageName": {
+        "_value": "Patibolo Nero"
+      },
+      "tip": {
+        "_value": "I nemici diventano sempre più forti e veloci."
+      }
+    },
+    "WS_40K_HOBBY_TABLE": {
+      "description": {
+        "_value": "Il tavolo da gioco dell'inguaribile fan di Warhammer 40.000."
+      },
+      "stageName": {
+        "_value": "Tavolino da Hobby"
+      },
+      "tips": {
+        "_value": "Ondate casuali di nemici dai livelli normali."
+      }
+    },
+    "WS_40K_IMPERIAL_BASTION": {
+      "description": {
+        "_value": "Un Bastione Imperiale invaso dai Tiranidi in una devastata landa desolata."
+      },
+      "stageName": {
+        "_value": "Bastione Imperiale"
+      }
+    },
+    "WS_40K_IMPERIAL_SHIPYARD": {
+      "description": {
+        "_value": "Affronta la Death Guard per ottenere il controllo del cantiere navale della Marina Imperiale."
+      },
+      "stageName": {
+        "_value": "Cantiere Navale Imperiale"
+      },
+      "tips": {
+        "_value": "Gli ascensori permettono di spostarsi più facilmente."
+      }
+    },
+    "WS_40K_ORK_STRONGHOLD": {
+      "description": {
+        "_value": "Fatti strada attraverso una fortezza Goff senza farti sbriciolare dai Ragazzi!"
+      },
+      "stageName": {
+        "_value": "Fortezza degli Orki"
+      }
+    },
+    "WS_40K_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_THE_WARP": {
+      "description": {
+        "_value": "L'Immaterium, un regno di energia psichica dove materia, tempo e spazio non hanno alcun significato."
+      },
+      "stageName": {
+        "_value": "Pericoli del Warp"
+      }
+    },
+    "WS_AOS_BLOODWIND_SPOIL": {
+      "description": {
+        "_value": "Un accampamento minerario nelle Ottopunte, i cui fiumi di pietra del regno fusa sono stati conquistati dalle Lame di Khorne."
+      },
+      "stageName": {
+        "_value": "Distesa di Bloodwind"
+      }
+    },
+    "WS_AOS_CITADEL_OF_SKULLS": {
+      "description": {
+        "_value": "La roccaforte finale. Il tempo sta per scadere e la morte si avvicina."
+      },
+      "stageName": {
+        "_value": "Necropoli"
+      }
+    },
+    "WS_AOS_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_GNARLWOOD": {
+      "description": {
+        "_value": "Combatti i Tizi dell'Odiozkuro e cerca di sopravvivere alla flora e alla fauna predatrici nel perfido Regno delle Bestie."
+      },
+      "stageName": {
+        "_value": "Bosco Nodoso"
+      },
+      "tips": {
+        "_value": "Non vengono rilasciati oggetti per curarsi. I nemici diventano progressivamente più forti e veloci."
+      }
+    },
+    "WS_AOS_GREAT_PARCH": {
+      "description": {
+        "_value": "Una terra arida e desolata, caratterizzata da un caldo torrido, da fumi sulfurei e brulicante di Skaven."
+      },
+      "stageName": {
+        "_value": "La Grande Siccità"
+      }
+    },
+    "WS_AOS_HAMMERHAL": {
+      "description": {
+        "_value": "La leggendaria Hammerhal, due città libere unite da un Cancello passaregni e incessantemente attaccate dalle forze del Caos."
+      },
+      "stageName": {
+        "_value": "La Città a Due Code"
+      },
+      "tips": {
+        "_value": "Attraversa il cancello passaregni tra Aqshan e Ghyran."
+      }
+    },
+    "WS_AOS_HOBBY_TABLE": {
+      "description": {
+        "_value": "Il tavolo da gioco dell'inguaribile fan di Warhammer Age of Sigmar."
+      },
+      "stageName": {
+        "_value": "Tavolino da Hobby"
+      },
+      "tips": {
+        "_value": "Ondate casuali di nemici dai livelli normali."
+      }
+    },
+    "WS_AOS_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_SKRAPPA_SPILL": {
+      "description": {
+        "_value": "Un tanascondiglio buio e umido dove i Tizi dell'Odiozkuro accumulano rottami saccheggiati sotto lo sguardo della Luna Kattiva."
+      },
+      "stageName": {
+        "_value": "Fosso dei Rottami"
+      }
+    },
+    "WS_AOS_UNDER_EMPIRE": {
+      "description": {
+        "_value": "Scendi nei cunicoli infestati dagli Skaven dell'Impero Sotterraneo che giace sotto i Reami Mortali."
+      },
+      "stageName": {
+        "_value": "Impero Sotterraneo"
+      }
+    },
+    "WS_Challenge_stageType": {
+      "_value": "Sfida"
+    },
+    "WS_Secret_stageType": {
+      "_value": "Segreto"
+    },
+    "WS_Bonus_stageType": {
+      "_value": "Bonus"
+    }
+  },
+  "de": {
+    "WS_40K_DEATH_WORLD": {
+      "description": {
+        "_value": "Eine Reise durch dichtes Gestrüpp mitten in einen von der Schwarmflotte verschlungenen Dschungel."
+      },
+      "stageName": {
+        "_value": "Invasion der Todeswelt"
+      }
+    },
+    "WS_40K_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_DESERT_WASTELAND": {
+      "description": {
+        "_value": "Karges, nahezu unbewohntes Ödland. Die Schwarmflotte ist unaufhörlich ausgeschwärmt und hat alles verschlungen, sodass nur eine leere Hülle dieser Welt zurückblieb."
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "Wüstenödland"
+      },
+      "tips": {
+        "_value": "Keine Heilungsdrops. Gegner werden mit der Zeit stärker und schneller."
+      }
+    },
+    "WS_40K_GALLOWDARK": {
+      "description": {
+        "_value": "Durchquere das chaotische Labyrinth eines verlassenen Space Hulks, der von der Death Guard verseucht ist."
+      },
+      "stageName": {
+        "_value": "Galgenschatten"
+      },
+      "tip": {
+        "_value": "Gegner werden mit der Zeit stärker und schneller."
+      }
+    },
+    "WS_40K_HOBBY_TABLE": {
+      "description": {
+        "_value": "Der Spieltisch eines Liebhabers von Warhammer 40.000."
+      },
+      "stageName": {
+        "_value": "Hobbytisch"
+      },
+      "tips": {
+        "_value": "Zufällige gegnerische Horden aus normalen Levels."
+      }
+    },
+    "WS_40K_IMPERIAL_BASTION": {
+      "description": {
+        "_value": "Eine imperiale Bastion, die in einem ausgezehrten Ödland von Tyraniden überrannt wird."
+      },
+      "stageName": {
+        "_value": "Imperiale Bastion"
+      }
+    },
+    "WS_40K_IMPERIAL_SHIPYARD": {
+      "description": {
+        "_value": "Kämpfe gegen die Death Guard, um die Kontrolle über eine Schiffswerft der Imperialen Kriegsflotte zu erlangen."
+      },
+      "stageName": {
+        "_value": "Imperiale Werft"
+      },
+      "tips": {
+        "_value": "Aufzüge erleichtern die Fortbewegung."
+      }
+    },
+    "WS_40K_ORK_STRONGHOLD": {
+      "description": {
+        "_value": "Kämpfe dich durch eine Goff-Festung, ohne von den Boyz plattgemacht zu werden!"
+      },
+      "stageName": {
+        "_value": "Orkfestung"
+      }
+    },
+    "WS_40K_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_THE_WARP": {
+      "description": {
+        "_value": "Das Immaterium ist ein Reich psionischer Energie, in dem Materie, Zeit und Raum irrelevant sind."
+      },
+      "stageName": {
+        "_value": "Gefahren des Warp"
+      }
+    },
+    "WS_AOS_BLOODWIND_SPOIL": {
+      "description": {
+        "_value": "Ein Minenlager in den Achtpforten, dessen Flüsse aus geschmolzenem Reichstein von den Klingen des Khorne erobert wurden."
+      },
+      "stageName": {
+        "_value": "Blutwindfluch"
+      }
+    },
+    "WS_AOS_CITADEL_OF_SKULLS": {
+      "description": {
+        "_value": "Die letzte Zitadelle. Die Zeit läuft ab und der Tod naht."
+      },
+      "stageName": {
+        "_value": "Nekropolis"
+      }
+    },
+    "WS_AOS_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_GNARLWOOD": {
+      "description": {
+        "_value": "Kämpfe gegen die Mondwahn-Gits und trotze zugleich der räuberischen Flora und Fauna im tückischen Reich der Bestien."
+      },
+      "stageName": {
+        "_value": "Knarrwald"
+      },
+      "tips": {
+        "_value": "Keine Heilungsdrops. Gegner werden mit der Zeit stärker und schneller."
+      }
+    },
+    "WS_AOS_GREAT_PARCH": {
+      "description": {
+        "_value": "Ein trockenes, trostloses Land mit sengender Hitze und schwefligen Dämpfen, in dem es von Skaven nur so wimmelt."
+      },
+      "stageName": {
+        "_value": "Die Große Dörre"
+      }
+    },
+    "WS_AOS_HAMMERHAL": {
+      "description": {
+        "_value": "Das legendäre Hammerhal, zwei durch eine Reichspforte verbundene unabhängige Städte, die unablässig von den Mächten des Chaos angegriffen werden."
+      },
+      "stageName": {
+        "_value": "Die Zweischweifige Stadt"
+      },
+      "tips": {
+        "_value": "Reise über die Reichspforte zwischen Aqshy und Ghyran."
+      }
+    },
+    "WS_AOS_HOBBY_TABLE": {
+      "description": {
+        "_value": "Der Spieltisch eines Liebhabers von Warhammer Age of Sigmar."
+      },
+      "stageName": {
+        "_value": "Hobbytisch"
+      },
+      "tips": {
+        "_value": "Zufällige gegnerische Horden aus normalen Levels."
+      }
+    },
+    "WS_AOS_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_SKRAPPA_SPILL": {
+      "description": {
+        "_value": "Ein dunkler, feuchter Schlupfwinkel, in dem Mondwahn-Gits geplünderten Schrott unter dem Blick des Bös’n Mondes horten."
+      },
+      "stageName": {
+        "_value": "Schlägahaufn"
+      }
+    },
+    "WS_AOS_UNDER_EMPIRE": {
+      "description": {
+        "_value": "Steige hinab in die von Skaven verseuchten Tunnel des Tiefenreichs, das unter den Reichen der Sterblichen liegt."
+      },
+      "stageName": {
+        "_value": "Tiefenreich"
+      }
+    },
+    "WS_Challenge_stageType": {
+      "_value": "Herausforderung"
+    },
+    "WS_Secret_stageType": {
+      "_value": "Geheimnis"
+    },
+    "WS_Bonus_stageType": {
+      "_value": "Bonus"
+    }
+  },
+  "es": {
+    "WS_40K_DEATH_WORLD": {
+      "description": {
+        "_value": "Adéntrate a través de la espesa vegetación hasta el corazón de una jungla consumida por la Flota Enjambre."
+      },
+      "stageName": {
+        "_value": "Invasión del mundo letal"
+      }
+    },
+    "WS_40K_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_DESERT_WASTELAND": {
+      "description": {
+        "_value": "Páramos estériles, casi sin vida. La Flota Enjambre los ha arrasado y consumido sin descanso, dejando un mundo vacío."
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "Páramo desértico"
+      },
+      "tips": {
+        "_value": "No aparecen curaciones. Los enemigos se vuelven más fuertes y rápidos con el tiempo."
+      }
+    },
+    "WS_40K_GALLOWDARK": {
+      "description": {
+        "_value": "Recorre el caótico laberinto de un pecio espacial abandonado infestado por la Guardia de la Muerte."
+      },
+      "stageName": {
+        "_value": "Horcasombría"
+      },
+      "tip": {
+        "_value": "Los enemigos se vuelven más fuertes y rápidos con el tiempo."
+      }
+    },
+    "WS_40K_HOBBY_TABLE": {
+      "description": {
+        "_value": "El tablero de un aficionado a Warhammer 40,000."
+      },
+      "stageName": {
+        "_value": "Mesa de hobby"
+      },
+      "tips": {
+        "_value": "Oleadas de enemigos aleatorias de niveles normales."
+      }
+    },
+    "WS_40K_IMPERIAL_BASTION": {
+      "description": {
+        "_value": "Un bastión Imperial invadido por Tiránidos en un páramo consumido."
+      },
+      "stageName": {
+        "_value": "Bastión imperial"
+      }
+    },
+    "WS_40K_IMPERIAL_SHIPYARD": {
+      "description": {
+        "_value": "Lucha contra daemons de la Guardia de la Muerte por el control de un astillero de la Armada Imperial."
+      },
+      "stageName": {
+        "_value": "Astillero imperial"
+      },
+      "tips": {
+        "_value": "Los ascensores ayudan a orientarse."
+      }
+    },
+    "WS_40K_ORK_STRONGHOLD": {
+      "description": {
+        "_value": "¡Ábrete paso por un fuerte Goff sin que loz chikoz te hagan pikadillo!"
+      },
+      "stageName": {
+        "_value": "Fortaleza orka"
+      }
+    },
+    "WS_40K_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_THE_WARP": {
+      "description": {
+        "_value": "El Inmaterio, un reino de energía psíquica donde la materia, el tiempo y el espacio carecen de significado."
+      },
+      "stageName": {
+        "_value": "Peligros de la disformidad"
+      }
+    },
+    "WS_AOS_BLOODWIND_SPOIL": {
+      "description": {
+        "_value": "Un campamento minero en los Ochopartes cuyos ríos de piedra del reino fundida han sido reclamados por los Filos de Khorne."
+      },
+      "stageName": {
+        "_value": "Bloodwind Spoil"
+      }
+    },
+    "WS_AOS_CITADEL_OF_SKULLS": {
+      "description": {
+        "_value": "La ciudadela final. El tiempo se agota y la muerte se acerca."
+      },
+      "stageName": {
+        "_value": "Necrópolis"
+      }
+    },
+    "WS_AOS_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_GNARLWOOD": {
+      "description": {
+        "_value": "Lucha contra los Tipejoz Nokturnoz mientras sobrevives a la flora y fauna depredadoras del traicionero Reino de las Bestias."
+      },
+      "stageName": {
+        "_value": "Bosque Nudoso"
+      },
+      "tips": {
+        "_value": "No aparecen curaciones. Los enemigos se vuelven más fuertes y rápidos con el tiempo."
+      }
+    },
+    "WS_AOS_GREAT_PARCH": {
+      "description": {
+        "_value": "Una tierra seca y desolada, invadida por un calor abrasador, cubierta de vapores sulfurosos y plagada de skaven."
+      },
+      "stageName": {
+        "_value": "Gran Erial"
+      }
+    },
+    "WS_AOS_HAMMERHAL": {
+      "description": {
+        "_value": "La legendaria Hammerhal, dos ciudades libres unidas por un Portal del Reino y atacadas sin tregua por las fuerzas del Caos."
+      },
+      "stageName": {
+        "_value": "La Ciudad de dos colas"
+      },
+      "tips": {
+        "_value": "Viaja por portales del reino entre Aqshy y Ghyran."
+      }
+    },
+    "WS_AOS_HOBBY_TABLE": {
+      "description": {
+        "_value": "El tablero de un aficionado a Warhammer Age of Sigmar."
+      },
+      "stageName": {
+        "_value": "Mesa de hobby"
+      },
+      "tips": {
+        "_value": "Oleadas de enemigos aleatorias de niveles normales."
+      }
+    },
+    "WS_AOS_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_SKRAPPA_SPILL": {
+      "description": {
+        "_value": "Una guarida oscura y húmeda donde los Tipejoz Nokturnoz acumulan chatarra saqueada bajo la mirada de la Luna Malvada."
+      },
+      "stageName": {
+        "_value": "Barranko del Dezparrame"
+      }
+    },
+    "WS_AOS_UNDER_EMPIRE": {
+      "description": {
+        "_value": "Desciende a las madrigueras infestadas de skaven del Imperio Subterráneo, que se extiende bajo los Reinos Mortales."
+      },
+      "stageName": {
+        "_value": "Imperio Subterráneo"
+      }
+    },
+    "WS_Challenge_stageType": {
+      "_value": "Desafío"
+    },
+    "WS_Secret_stageType": {
+      "_value": "Secreto"
+    },
+    "WS_Bonus_stageType": {
+      "_value": "Bonificación"
+    }
+  },
+  "ja": {
+    "WS_40K_DEATH_WORLD": {
+      "description": {
+        "_value": "群巣艦隊（ハイヴフリート）に喰い尽くされつつある密林の奥深くを目指し、生い茂る木々の間を突き進め。"
+      },
+      "stageName": {
+        "_value": "死地惑星への侵攻"
+      }
+    },
+    "WS_40K_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_DESERT_WASTELAND": {
+      "description": {
+        "_value": "生命が存在せず、荒涼とした不毛の地。群巣艦隊（ハイヴフリート）が容赦なく群がり、喰らい尽くした結果、この惑星は中身のない殻と化してしまった。"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "砂の荒野"
+      },
+      "tips": {
+        "_value": "体力ドロップは発生しない。時間経過とともに敵が強化され、速度も上昇する。"
+      }
+    },
+    "WS_40K_GALLOWDARK": {
+      "description": {
+        "_value": "デスガードが巣食う、遺棄された巨大航宙融合体（スペースハルク）の混沌たる迷宮を突き進め。"
+      },
+      "stageName": {
+        "_value": "ギャロウダーク"
+      },
+      "tip": {
+        "_value": "時間経過とともに敵が強化され、速度も上昇する。"
+      }
+    },
+    "WS_40K_HOBBY_TABLE": {
+      "description": {
+        "_value": "ウォーハンマー40,000のホビーストが使用するテーブルトップ。"
+      },
+      "stageName": {
+        "_value": "ホビーテーブル"
+      },
+      "tips": {
+        "_value": "通常ステージからのランダムな敵ウェーブ。"
+      }
+    },
+    "WS_40K_IMPERIAL_BASTION": {
+      "description": {
+        "_value": "貪り尽くされた荒廃地で、ティラニッドの大群に襲撃される人類の帝国軍の要塞。"
+      },
+      "stageName": {
+        "_value": "帝国の掩蔽壕"
+      }
+    },
+    "WS_40K_IMPERIAL_SHIPYARD": {
+      "description": {
+        "_value": "帝国海軍の造船所の支配権をかけてデスガードと戦え。"
+      },
+      "stageName": {
+        "_value": "帝国の造船所"
+      },
+      "tips": {
+        "_value": "エレベーターが移動を補助する。"
+      }
+    },
+    "WS_40K_ORK_STRONGHOLD": {
+      "description": {
+        "_value": "ボゥイにブチのめされることなく、ゴフの要塞を戦い抜いて突破せよ！"
+      },
+      "stageName": {
+        "_value": "オークの砦"
+      }
+    },
+    "WS_40K_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_THE_WARP": {
+      "description": {
+        "_value": "非物質世界。物質、時間、空間が一切の意味を持たない、サイキックエネルギーの領域。"
+      },
+      "stageName": {
+        "_value": "歪みの崩壊"
+      }
+    },
+    "WS_AOS_BLOODWIND_SPOIL": {
+      "description": {
+        "_value": "エイトポイントにある採掘キャンプ。溶けた領域石の川は、ブレイド・オヴ・コーンに占領されてしまった。"
+      },
+      "stageName": {
+        "_value": "血風の略奪地"
+      }
+    },
+    "WS_AOS_CITADEL_OF_SKULLS": {
+      "description": {
+        "_value": "最後の砦。残された時間はなくなり、死が間近に迫る。"
+      },
+      "stageName": {
+        "_value": "ネクロポリス"
+      }
+    },
+    "WS_AOS_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_GNARLWOOD": {
+      "description": {
+        "_value": "危険極まりない獣の領域で、貪欲に襲い来る動植物から生きて逃れ、グルームスパイト・ギットと戦え。"
+      },
+      "stageName": {
+        "_value": "唸りの森"
+      },
+      "tips": {
+        "_value": "体力ドロップは発生しない。時間経過とともに敵が強化され、速度も上昇する。"
+      }
+    },
+    "WS_AOS_GREAT_PARCH": {
+      "description": {
+        "_value": "乾燥した不毛の土地。燃え盛る熱気と硫黄の煙に包まれ、スケイヴンが大群をなしている。"
+      },
+      "stageName": {
+        "_value": "大焦界"
+      }
+    },
+    "WS_AOS_HAMMERHAL": {
+      "description": {
+        "_value": "伝説のハンマーハル。境界門で結ばれた二つの自由都市は、渾沌（ケイオス）の軍勢による執拗な攻撃にさらされている。"
+      },
+      "stageName": {
+        "_value": "双尾の都"
+      },
+      "tips": {
+        "_value": "アクシャンとグューランの間を境界門で移動する。"
+      }
+    },
+    "WS_AOS_HOBBY_TABLE": {
+      "description": {
+        "_value": "ウォーハンマー：エイジ・オヴ・シグマーのホビーストが使用するテーブルトップ。"
+      },
+      "stageName": {
+        "_value": "ホビーテーブル"
+      },
+      "tips": {
+        "_value": "通常ステージからのランダムな敵ウェーブ。"
+      }
+    },
+    "WS_AOS_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_SKRAPPA_SPILL": {
+      "description": {
+        "_value": "邪月が照らす中、グルームスパイト・ギットが略奪したスクラップをため込んでいる、暗くジメジメとした潜伏アジト。"
+      },
+      "stageName": {
+        "_value": "スクラッパスピル"
+      }
+    },
+    "WS_AOS_UNDER_EMPIRE": {
+      "description": {
+        "_value": "定命の諸領域の地下に広がる、スケイヴンに侵された地下の帝国の巣窟へと降下せよ。"
+      },
+      "stageName": {
+        "_value": "地下の帝国"
+      }
+    },
+    "WS_Challenge_stageType": {
+      "_value": "チャレンジ"
+    },
+    "WS_Secret_stageType": {
+      "_value": "シークレット"
+    },
+    "WS_Bonus_stageType": {
+      "_value": "ボーナス"
+    }
+  },
+  "ko": {
+    "WS_40K_DEATH_WORLD": {
+      "description": {
+        "_value": "무성한 수풀을 뚫고 들어가, 하이브 함대에 집어삼켜진 정글 깊숙한 곳으로 나아가세요."
+      },
+      "stageName": {
+        "_value": "데스 월드 침공"
+      }
+    },
+    "WS_40K_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_DESERT_WASTELAND": {
+      "description": {
+        "_value": "사실상 생명이 전무한 황량한 황무지입니다. 하이브 함대가 끝없이 몰려와 모든 것을 집어삼킨 결과, 텅 빈 껍데기만 남은 행성입니다."
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "메마른 황무지"
+      },
+      "tips": {
+        "_value": "체력 회복 아이템이 등장하지 않습니다. 시간이 지날수록 적이 더 강해지고 빨라집니다."
+      }
+    },
+    "WS_40K_GALLOWDARK": {
+      "description": {
+        "_value": "데스 가드가 들끓는 버려진 스페이스 헐크의 혼돈 가득한 미로 속을 헤쳐 나가세요."
+      },
+      "stageName": {
+        "_value": "갤로우다크"
+      },
+      "tip": {
+        "_value": "시간이 지날수록 적이 더 강해지고 빨라집니다."
+      }
+    },
+    "WS_40K_HOBBY_TABLE": {
+      "description": {
+        "_value": "Warhammer 40,000 수집가의 테이블탑입니다."
+      },
+      "stageName": {
+        "_value": "취미 작업대"
+      },
+      "tips": {
+        "_value": "일반 스테이지의 적 무리가 무작위로 등장합니다."
+      }
+    },
+    "WS_40K_IMPERIAL_BASTION": {
+      "description": {
+        "_value": "모든 것이 집어삼켜진 황무지 속, 티라니드가 들끓는 제국 요새입니다."
+      },
+      "stageName": {
+        "_value": "제국 요새"
+      }
+    },
+    "WS_40K_IMPERIAL_SHIPYARD": {
+      "description": {
+        "_value": "제국 해군 조선소의 지배권을 두고 데스 가드와 맞서 싸우세요."
+      },
+      "stageName": {
+        "_value": "제국 조선소"
+      },
+      "tips": {
+        "_value": "엘리베이터를 이용하면 더 쉽게 이동할 수 있습니다."
+      }
+    },
+    "WS_40K_ORK_STRONGHOLD": {
+      "description": {
+        "_value": "고프 요새를 돌파하되, 보이즈에게 박살 나지 않도록 조심하세요!"
+      },
+      "stageName": {
+        "_value": "오크 요새"
+      }
+    },
+    "WS_40K_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_THE_WARP": {
+      "description": {
+        "_value": "물질과 시간, 공간의 개념이 무의미한 사이킥 에너지의 렐름, 이마테리움입니다."
+      },
+      "stageName": {
+        "_value": "워프의 위험"
+      }
+    },
+    "WS_AOS_BLOODWIND_SPOIL": {
+      "description": {
+        "_value": "에이트포인트의 채굴지입니다. 용암처럼 끓어오르는 렐름스톤 강줄기를 코온의 칼날 진영이 점했습니다."
+      },
+      "stageName": {
+        "_value": "블러드윈드 스포일"
+      }
+    },
+    "WS_AOS_CITADEL_OF_SKULLS": {
+      "description": {
+        "_value": "최후의 성채입니다. 시간이 얼마 남지 않았습니다. 죽음이 코앞으로 다가옵니다."
+      },
+      "stageName": {
+        "_value": "네크로폴리스"
+      }
+    },
+    "WS_AOS_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_GNARLWOOD": {
+      "description": {
+        "_value": "위험천만한 짐승의 렐름에서 포식성 동식물을 피해 살아남으며 글룸스파이트 깃츠와 맞서 싸우세요."
+      },
+      "stageName": {
+        "_value": "날우드"
+      },
+      "tips": {
+        "_value": "체력 회복 아이템이 등장하지 않습니다. 시간이 지날수록 적이 더 강해지고 빨라집니다."
+      }
+    },
+    "WS_AOS_GREAT_PARCH": {
+      "description": {
+        "_value": "메마르고 황량한 땅. 뜨거운 열기와 유황 연기로 가득하며 스케이븐이 들끓습니다."
+      },
+      "stageName": {
+        "_value": "그레이트 파치"
+      }
+    },
+    "WS_AOS_HAMMERHAL": {
+      "description": {
+        "_value": "렐름게이트로 연결된 두 개의 자유 도시이자, 카오스 세력의 끊임없는 공격을 받는 전설의 도시 해머할입니다."
+      },
+      "stageName": {
+        "_value": "쌍꼬리 도시"
+      },
+      "tips": {
+        "_value": "렐름게이트를 이용해 아크샤와 기란 사이를 오갈 수 있습니다."
+      }
+    },
+    "WS_AOS_HOBBY_TABLE": {
+      "description": {
+        "_value": "Warhammer Age of Sigmar 수집가의 테이블탑."
+      },
+      "stageName": {
+        "_value": "취미 작업대"
+      },
+      "tips": {
+        "_value": "일반 스테이지의 적 무리가 무작위로 등장합니다."
+      }
+    },
+    "WS_AOS_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_SKRAPPA_SPILL": {
+      "description": {
+        "_value": "배드 문의 눈길 아래, 글룸스파이트 깃츠가 약탈한 잡동사니를 쌓아두는 어둡고 음침한 잠복소굴입니다."
+      },
+      "stageName": {
+        "_value": "스크라파 스필"
+      }
+    },
+    "WS_AOS_UNDER_EMPIRE": {
+      "description": {
+        "_value": "모탈 렐름 아래 펼쳐진 지하 제국의 스케이븐 소굴 깊숙한 곳으로 내려가세요."
+      },
+      "stageName": {
+        "_value": "지하 제국"
+      }
+    },
+    "WS_Challenge_stageType": {
+      "_value": "도전"
+    },
+    "WS_Secret_stageType": {
+      "_value": "시크릿"
+    },
+    "WS_Bonus_stageType": {
+      "_value": "보너스"
+    }
+  },
+  "pl": {
+    "WS_40K_DEATH_WORLD": {
+      "description": {
+        "_value": "Przedrzyj się przez gęstą dżunglę do jej serca, pochłoniętego przez Flotę-Rój."
+      },
+      "stageName": {
+        "_value": "Inwazja Świata Śmierci"
+      }
+    },
+    "WS_40K_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_DESERT_WASTELAND": {
+      "description": {
+        "_value": "Jałowe pustkowia, niemal całkowicie pozbawione życia. Flota-Rój bezlitośnie pożarła wszystko, pozostawiając po sobie jedynie pustą skorupę planety."
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "Pustynne Rubieże"
+      },
+      "tips": {
+        "_value": "Nie wypadają przedmioty leczące. Wrogowie z czasem stają się silniejsi i szybsi."
+      }
+    },
+    "WS_40K_GALLOWDARK": {
+      "description": {
+        "_value": "Przemierz chaotyczny labirynt opuszczonego wraku kosmicznego opanowanego przez Gwardię Śmierci."
+      },
+      "stageName": {
+        "_value": "Wisielczy Mrok"
+      },
+      "tip": {
+        "_value": "Wrogowie z czasem stają się silniejsi i szybsi."
+      }
+    },
+    "WS_40K_HOBBY_TABLE": {
+      "description": {
+        "_value": "Stół modelarski miłośnika gry Warhammer 40 000."
+      },
+      "stageName": {
+        "_value": "Stół Modelarski"
+      },
+      "tips": {
+        "_value": "Losowe fale wrogów z normalnych poziomów."
+      }
+    },
+    "WS_40K_IMPERIAL_BASTION": {
+      "description": {
+        "_value": "Bastion Imperium opanowany przez tyranidów na pożartym pustkowiu."
+      },
+      "stageName": {
+        "_value": "Bastion Imperium"
+      }
+    },
+    "WS_40K_IMPERIAL_SHIPYARD": {
+      "description": {
+        "_value": "Zmierz się z Gwardią Śmierci w walce o kontrolę nad Stocznią Marynarki Imperialnej."
+      },
+      "stageName": {
+        "_value": "Imperialna Stocznia"
+      },
+      "tips": {
+        "_value": "Windy ułatwiają poruszanie się."
+      }
+    },
+    "WS_40K_ORK_STRONGHOLD": {
+      "description": {
+        "_value": "Przebij się przez fort Goffa, stawiając opór orkowym chłopcom!"
+      },
+      "stageName": {
+        "_value": "Twierdza Orków"
+      }
+    },
+    "WS_40K_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_THE_WARP": {
+      "description": {
+        "_value": "Immaterium to kraina energii psychicznej, w której materia, czas i przestrzeń nie mają żadnego znaczenia."
+      },
+      "stageName": {
+        "_value": "Niebezpieczeństwa Warpu"
+      }
+    },
+    "WS_AOS_BLOODWIND_SPOIL": {
+      "description": {
+        "_value": "Obóz górniczy w regionie Ośmiopunktu, którego rzeki płynącego kamienia krain zostały przejęte przez Ostrza Khorne’a."
+      },
+      "stageName": {
+        "_value": "Bloodwind Spoil"
+      }
+    },
+    "WS_AOS_CITADEL_OF_SKULLS": {
+      "description": {
+        "_value": "Ostatnia twierdza. Czas się kończy, a śmierć zbliża się wielkimi krokami."
+      },
+      "stageName": {
+        "_value": "Nekropolia"
+      }
+    },
+    "WS_AOS_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_GNARLWOOD": {
+      "description": {
+        "_value": "Zmierz się z Gitami Podłego Mroku, jednocześnie unikając drapieżnej flory i fauny w zdradliwym Królestwie Bestii."
+      },
+      "stageName": {
+        "_value": "Sękaty Las"
+      },
+      "tips": {
+        "_value": "Nie wypadają przedmioty leczące. Wrogowie z czasem stają się silniejsi i szybsi."
+      }
+    },
+    "WS_AOS_GREAT_PARCH": {
+      "description": {
+        "_value": "Sucha, opustoszała kraina. Rozpalona upałem, pełna siarkowych oparów i skavenów."
+      },
+      "stageName": {
+        "_value": "Wielka Spieka"
+      }
+    },
+    "WS_AOS_HAMMERHAL": {
+      "description": {
+        "_value": "Legendarny Hammerhal – dwa wolne miasta połączone Bramą Królestwa, nieustannie atakowane przez siły Chaosu."
+      },
+      "stageName": {
+        "_value": "Miasto o Dwóch Ogonach"
+      },
+      "tips": {
+        "_value": "Podróżuj przez wrota krain między światami Aqshan i Ghyran"
+      }
+    },
+    "WS_AOS_HOBBY_TABLE": {
+      "description": {
+        "_value": "Stół modelarski miłośnika gry Warhammer Age of Sigmar."
+      },
+      "stageName": {
+        "_value": "Stół Modelarski"
+      },
+      "tips": {
+        "_value": "Losowe fale wrogów z normalnych poziomów."
+      }
+    },
+    "WS_AOS_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_SKRAPPA_SPILL": {
+      "description": {
+        "_value": "Mroczna, wilgotna kryjówka, w której Gity Podłego Mroku gromadzą zrabowany złom pod okiem Złego Księżyca."
+      },
+      "stageName": {
+        "_value": "Hałda Skrappy"
+      }
+    },
+    "WS_AOS_UNDER_EMPIRE": {
+      "description": {
+        "_value": "Zejdź do zamieszkanych przez skaveny labiryntów Podziemnego Imperium, które rozciąga się pod Krainami Śmiertelników."
+      },
+      "stageName": {
+        "_value": "Podziemne Imperium"
+      }
+    },
+    "WS_Challenge_stageType": {
+      "_value": "Wyzwanie"
+    },
+    "WS_Secret_stageType": {
+      "_value": "Sekret"
+    },
+    "WS_Bonus_stageType": {
+      "_value": "Premia"
+    }
+  },
+  "pt-BR": {
+    "WS_40K_DEATH_WORLD": {
+      "description": {
+        "_value": "Percorra a densa vegetação até o coração de uma selva devastada pela Frota da Colmeia."
+      },
+      "stageName": {
+        "_value": "Invasão do Mundo da Morte"
+      }
+    },
+    "WS_40K_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_DESERT_WASTELAND": {
+      "description": {
+        "_value": "Terras áridas e desoladas, praticamente desprovidas de vida. A Frota da Colmeia invadiu e consumiu tudo implacavelmente, deixando para trás apenas uma casca vazia do que antes era um mundo."
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "Deserto Árido"
+      },
+      "tips": {
+        "_value": "Não há itens de vida. Os inimigos ficam mais fortes e mais rápidos com o passar do tempo."
+      }
+    },
+    "WS_40K_GALLOWDARK": {
+      "description": {
+        "_value": "Navegue pelo caótico labirinto de uma nave espacial abandonada e infestada pela Guarda da Morte."
+      },
+      "stageName": {
+        "_value": "Gallowdark"
+      },
+      "tip": {
+        "_value": "Os inimigos ficam mais fortes e mais rápidos com o passar do tempo."
+      }
+    },
+    "WS_40K_HOBBY_TABLE": {
+      "description": {
+        "_value": "A mesa de um colecionador de Warhammer 40.000."
+      },
+      "stageName": {
+        "_value": "Mesa de Hobby"
+      },
+      "tips": {
+        "_value": "Ondas aleatórias de inimigos das fases normais."
+      }
+    },
+    "WS_40K_IMPERIAL_BASTION": {
+      "description": {
+        "_value": "Um bastião imperial invadido por Tiranídeos em um deserto devastado."
+      },
+      "stageName": {
+        "_value": "Bastião Imperial"
+      }
+    },
+    "WS_40K_IMPERIAL_SHIPYARD": {
+      "description": {
+        "_value": "Lute contra a Guarda da Morte pelo controle de um Estaleiro da Marinha Imperial."
+      },
+      "stageName": {
+        "_value": "Estaleiro Imperial"
+      },
+      "tips": {
+        "_value": "Os elevadores facilitam a locomoção."
+      }
+    },
+    "WS_40K_ORK_STRONGHOLD": {
+      "description": {
+        "_value": "Abra caminho pelo forte dos Goff sem levar um kambau dos rapaziz!"
+      },
+      "stageName": {
+        "_value": "Fortaleza Ork"
+      }
+    },
+    "WS_40K_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_THE_WARP": {
+      "description": {
+        "_value": "O Immaterium, um reino de energia psíquica onde a matéria, o tempo e o espaço não têm significado."
+      },
+      "stageName": {
+        "_value": "Perigos da Mutação"
+      }
+    },
+    "WS_AOS_BLOODWIND_SPOIL": {
+      "description": {
+        "_value": "Um acampamento de mineração em Eightpoints cujos rios de pedra real derretida foram tomados pelas Lâminas de Khorne."
+      },
+      "stageName": {
+        "_value": "Espólio de Bloodwind"
+      }
+    },
+    "WS_AOS_CITADEL_OF_SKULLS": {
+      "description": {
+        "_value": "A cidadela final. O tempo está se esgotando e a morte se aproxima."
+      },
+      "stageName": {
+        "_value": "Necrópolis"
+      }
+    },
+    "WS_AOS_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_GNARLWOOD": {
+      "description": {
+        "_value": "Lute contra os Gloomspite Gitz enquanto sobrevive à flora e fauna predadoras no traiçoeiro Reino das Bestas."
+      },
+      "stageName": {
+        "_value": "Gnarlwood"
+      },
+      "tips": {
+        "_value": "Não há itens de vida. Os inimigos ficam mais fortes e mais rápidos com o passar do tempo."
+      }
+    },
+    "WS_AOS_GREAT_PARCH": {
+      "description": {
+        "_value": "Uma terra árida e desolada. Repleta de calor escaldante, vapores sulfurosos e Skavens."
+      },
+      "stageName": {
+        "_value": "A Grande Seca"
+      }
+    },
+    "WS_AOS_HAMMERHAL": {
+      "description": {
+        "_value": "A lendária Hammerhal, duas cidades livres unidas por um Portal do Reino e atacadas incessantemente pelas forças do Caos."
+      },
+      "stageName": {
+        "_value": "A Cidade das Duas Caudas"
+      },
+      "tips": {
+        "_value": "Viaje pelo portal entre Aqsha e Ghyran"
+      }
+    },
+    "WS_AOS_HOBBY_TABLE": {
+      "description": {
+        "_value": "A mesa de um colecionador de Warhammer Era de Sigmar."
+      },
+      "stageName": {
+        "_value": "Mesa de Hobby"
+      },
+      "tips": {
+        "_value": "Ondas aleatórias de inimigos das fases normais."
+      }
+    },
+    "WS_AOS_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_SKRAPPA_SPILL": {
+      "description": {
+        "_value": "Um esconderijo sombrio e úmido onde os Gloomspite Gitz acumulam sucata saqueada sob o olhar da Lua Maligna."
+      },
+      "stageName": {
+        "_value": "Jogos de Razpadinha"
+      }
+    },
+    "WS_AOS_UNDER_EMPIRE": {
+      "description": {
+        "_value": "Desça até os labirintos infestados de Skaven do Sub-Império, que se estende sob os Reinos Mortais."
+      },
+      "stageName": {
+        "_value": "Sub-Império"
+      }
+    },
+    "WS_Challenge_stageType": {
+      "_value": "Desafio"
+    },
+    "WS_Secret_stageType": {
+      "_value": "Secreto"
+    },
+    "WS_Bonus_stageType": {
+      "_value": "Bônus"
+    }
+  },
+  "ru": {
+    "WS_40K_DEATH_WORLD": {
+      "description": {
+        "_value": "Отправляйтесь сквозь густую зелень в самое сердце джунглей, поглощенных флотом-ульем."
+      },
+      "stageName": {
+        "_value": "Вторжение в мир смерти"
+      }
+    },
+    "WS_40K_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_DESERT_WASTELAND": {
+      "description": {
+        "_value": "Бесплодные земли, практически лишенные жизни. Флот-улей неумолимо разрастался и уничтожил мир, оставив от него только пустую оболочку."
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "Песчаные пустоши"
+      },
+      "tips": {
+        "_value": "Предметы для лечения не выпадают. Со временем враги становятся сильнее и быстрее."
+      }
+    },
+    "WS_40K_GALLOWDARK": {
+      "description": {
+        "_value": "Пройдите по хаотичному лабиринту покинутого космического скитальца, на котором сейчас полно воинов Гвардии Смерти."
+      },
+      "stageName": {
+        "_value": "Галловдарк"
+      },
+      "tip": {
+        "_value": "Со временем враги становятся сильнее и быстрее."
+      }
+    },
+    "WS_40K_HOBBY_TABLE": {
+      "description": {
+        "_value": "Столешница для любителей Warhammer 40,000."
+      },
+      "stageName": {
+        "_value": "Хобби-стол"
+      },
+      "tips": {
+        "_value": "Случайные волны врагов с обычных уровней."
+      }
+    },
+    "WS_40K_IMPERIAL_BASTION": {
+      "description": {
+        "_value": "Имперский бастион в пустошах, захваченный тиранидами."
+      },
+      "stageName": {
+        "_value": "Имперский бастион"
+      }
+    },
+    "WS_40K_IMPERIAL_SHIPYARD": {
+      "description": {
+        "_value": "Сразитесь с воинами Гвардии Смерти за контроль над верфью Имперского Флота."
+      },
+      "stageName": {
+        "_value": "Имперская верфь"
+      },
+      "tips": {
+        "_value": "Лифты помогают передвигаться."
+      }
+    },
+    "WS_40K_ORK_STRONGHOLD": {
+      "description": {
+        "_value": "Проберитесь через форт гоффов, не попав под крушащие кулаки парней!"
+      },
+      "stageName": {
+        "_value": "Крепость орков"
+      }
+    },
+    "WS_40K_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_THE_WARP": {
+      "description": {
+        "_value": "Имматериум – это царство психической энергии, в котором материя, время и пространство теряют всякий смысл."
+      },
+      "stageName": {
+        "_value": "Опасности варпа"
+      }
+    },
+    "WS_AOS_BLOODWIND_SPOIL": {
+      "description": {
+        "_value": "Шахтерский лагерь в Восьмиконечье, где реки расплавленного камня владения были захвачены Клинками Кхорна."
+      },
+      "stageName": {
+        "_value": "Пустоши Кровавого Ветра"
+      }
+    },
+    "WS_AOS_CITADEL_OF_SKULLS": {
+      "description": {
+        "_value": "Последняя цитадель. Время истекает, и смерть всё ближе."
+      },
+      "stageName": {
+        "_value": "Некрополь"
+      }
+    },
+    "WS_AOS_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_GNARLWOOD": {
+      "description": {
+        "_value": "Сразитесь с Мракозлобыми Поганцами, одновременно выживая среди хищной флоры и фауны в обманчивом Владении Зверей."
+      },
+      "stageName": {
+        "_value": "Криволесье"
+      },
+      "tips": {
+        "_value": "Предметы для лечения не выпадают. Со временем враги становятся сильнее и быстрее."
+      }
+    },
+    "WS_AOS_GREAT_PARCH": {
+      "description": {
+        "_value": "Безрадостные засушливые земли. Здесь только палящий зной, сернистые испарения и полчища скавенов."
+      },
+      "stageName": {
+        "_value": "Великая Сушь"
+      }
+    },
+    "WS_AOS_HAMMERHAL": {
+      "description": {
+        "_value": "Легендарный Хаммерхол, – два вольных города, объединенных вратами владений, – на который постоянно нападают силы Хаоса."
+      },
+      "stageName": {
+        "_value": "Двухвостый Город"
+      },
+      "tips": {
+        "_value": "Используйте врата владений для перемещения между Акши и Гираном."
+      }
+    },
+    "WS_AOS_HOBBY_TABLE": {
+      "description": {
+        "_value": "Столешница для любителей Warhammer Age of Sigmar."
+      },
+      "stageName": {
+        "_value": "Хобби-стол"
+      },
+      "tips": {
+        "_value": "Случайные волны врагов с обычных уровней."
+      }
+    },
+    "WS_AOS_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_SKRAPPA_SPILL": {
+      "description": {
+        "_value": "Темное промозглое логово, где Мракозлобые Поганцы хранят награбленное добро под пристальным взглядом Дурной Луны."
+      },
+      "stageName": {
+        "_value": "Скрапп-Разлив"
+      }
+    },
+    "WS_AOS_UNDER_EMPIRE": {
+      "description": {
+        "_value": "Спуститесь в кишащие скавенами туннели Подземной Империи, которая раскинулась под Владениями Смертных."
+      },
+      "stageName": {
+        "_value": "Подземная Империя"
+      }
+    },
+    "WS_Challenge_stageType": {
+      "_value": "Вызов"
+    },
+    "WS_Secret_stageType": {
+      "_value": "Секрет"
+    },
+    "WS_Bonus_stageType": {
+      "_value": "Бонус"
+    }
+  },
+  "zh-CN": {
+    "WS_40K_DEATH_WORLD": {
+      "description": {
+        "_value": "穿越密林，深入被虫巢舰队吞噬的丛林腹地。"
+      },
+      "stageName": {
+        "_value": "死亡世界入侵"
+      }
+    },
+    "WS_40K_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_DESERT_WASTELAND": {
+      "description": {
+        "_value": "荒芜之地，毫无生机。虫巢舰队席卷而过，吞噬万物，唯余死寂的空洞世界。"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "荒漠废土"
+      },
+      "tips": {
+        "_value": "不会掉落治疗物品，且敌人的强度和速度会随着时间的推移不断提升。"
+      }
+    },
+    "WS_40K_GALLOWDARK": {
+      "description": {
+        "_value": "在死亡守卫成群游荡的太空废船迷宫中穿行。"
+      },
+      "stageName": {
+        "_value": "绞刑暗渊"
+      },
+      "tip": {
+        "_value": "且敌人的强度和速度会随着时间的推移不断提升。"
+      }
+    },
+    "WS_40K_HOBBY_TABLE": {
+      "description": {
+        "_value": "《战锤40000》爱好者的桌面战场。"
+      },
+      "stageName": {
+        "_value": "模型桌"
+      },
+      "tips": {
+        "_value": "随机生成普通关卡中的敌人波次。"
+      }
+    },
+    "WS_40K_IMPERIAL_BASTION": {
+      "description": {
+        "_value": "帝国堡垒矗立于被摧毁的荒原之上，遭受泰伦虫族的围攻。"
+      },
+      "stageName": {
+        "_value": "帝国堡垒"
+      }
+    },
+    "WS_40K_IMPERIAL_SHIPYARD": {
+      "description": {
+        "_value": "从死亡守卫手中夺取帝国海军造船厂的控制权。"
+      },
+      "stageName": {
+        "_value": "帝国船坞"
+      },
+      "tips": {
+        "_value": "电梯有助于定位方向。"
+      }
+    },
+    "WS_40K_ORK_STRONGHOLD": {
+      "description": {
+        "_value": "突破戈夫要塞，杀穿敌阵，别让那些大块头把你揍扁了！"
+      },
+      "stageName": {
+        "_value": "欧克蛮人要塞"
+      }
+    },
+    "WS_40K_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_THE_WARP": {
+      "description": {
+        "_value": "亚空间，一个由灵能构成的领域，物质、时间和空间在这里毫无意义。"
+      },
+      "stageName": {
+        "_value": "亚空间危机"
+      }
+    },
+    "WS_AOS_BLOODWIND_SPOIL": {
+      "description": {
+        "_value": "八达节点中一座采矿营地，建在熔岩界石矿脉之上，如今已被恐虐之刃占领。"
+      },
+      "stageName": {
+        "_value": "血风掠夺"
+      }
+    },
+    "WS_AOS_CITADEL_OF_SKULLS": {
+      "description": {
+        "_value": "最后的要塞。时限已至，死神已近。"
+      },
+      "stageName": {
+        "_value": "亡者之地"
+      }
+    },
+    "WS_AOS_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_GNARLWOOD": {
+      "description": {
+        "_value": "在危机四伏的野兽王国迎战暗怨地精，并躲避凶猛动植物的袭击，求取生机。"
+      },
+      "stageName": {
+        "_value": "瘤木林"
+      },
+      "tips": {
+        "_value": "不会掉落治疗物品，且敌人的强度和速度会随着时间的推移不断提升。"
+      }
+    },
+    "WS_AOS_GREAT_PARCH": {
+      "description": {
+        "_value": "干旱荒芜的大地。酷热灼人，空气中弥漫着硫磺味，成群结队的斯卡文鼠人肆虐其间。"
+      },
+      "stageName": {
+        "_value": "大焦原"
+      }
+    },
+    "WS_AOS_HAMMERHAL": {
+      "description": {
+        "_value": "圣锤堡，传说之城，两座自由城市由一道界门相连，遭受混沌势力的无情猛攻。"
+      },
+      "stageName": {
+        "_value": "双尾之城"
+      },
+      "tips": {
+        "_value": "经由界门在阿奎夏与盖伊岚两大界域之间穿梭。"
+      }
+    },
+    "WS_AOS_HOBBY_TABLE": {
+      "description": {
+        "_value": "《战锤西格玛时代》爱好者的桌面战场。"
+      },
+      "stageName": {
+        "_value": "模型桌"
+      },
+      "tips": {
+        "_value": "随机生成普通关卡中的敌人波次。"
+      }
+    },
+    "WS_AOS_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_SKRAPPA_SPILL": {
+      "description": {
+        "_value": "暗怨地精躲在潮湿阴暗的阴潜洞穴，在恶月的注视下堆满抢来的废料。"
+      },
+      "stageName": {
+        "_value": "万废山"
+      }
+    },
+    "WS_AOS_UNDER_EMPIRE": {
+      "description": {
+        "_value": "深入凡世诸域之下的鼠患巢穴，那是一个被斯卡文鼠人盘踞的地底帝国。"
+      },
+      "stageName": {
+        "_value": "地底帝国"
+      }
+    },
+    "WS_Challenge_stageType": {
+      "_value": "挑战"
+    },
+    "WS_Secret_stageType": {
+      "_value": "秘密关卡"
+    },
+    "WS_Bonus_stageType": {
+      "_value": "奖励"
+    }
+  },
+  "tr": {
+    "WS_40K_DEATH_WORLD": {
+      "description": {
+        "_value": "Yoğun bitki örtüsünün arasından ilerleyerek Kovan Filosu tarafından ele geçirilmiş ormanın kalbine ulaş."
+      },
+      "stageName": {
+        "_value": "Ölüm Dünyası İstilası"
+      }
+    },
+    "WS_40K_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_DESERT_WASTELAND": {
+      "description": {
+        "_value": "Neredeyse tamamen yaşamdan yoksun bu çorak topraklar, Kovan Filosu’nun durmaksızın saldırıp tüketmesiyle geride sadece kupkuru bir kaya yığını bırakmıştır."
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "Çorak Çöl"
+      },
+      "tips": {
+        "_value": "Can düşüşü yoktur. Düşmanlar zamanla daha güçlü ve daha hızlı olur."
+      }
+    },
+    "WS_40K_GALLOWDARK": {
+      "description": {
+        "_value": "Ölüm Muhafızı tarafından istila edilen terk edilmiş bir uzay enkazının kaotik labirentinde yolunu bul."
+      },
+      "stageName": {
+        "_value": "Gallowdark"
+      },
+      "tip": {
+        "_value": "Düşmanlar zamanla daha güçlü ve daha hızlı olur."
+      }
+    },
+    "WS_40K_HOBBY_TABLE": {
+      "description": {
+        "_value": "Bir Warhammer 40,000 tutkununun oyun masası."
+      },
+      "stageName": {
+        "_value": "Hobi Masası"
+      },
+      "tips": {
+        "_value": "Normal bölümlerden rastgele düşman dalgaları."
+      }
+    },
+    "WS_40K_IMPERIAL_BASTION": {
+      "description": {
+        "_value": "Tüketilmiş bir çorak arazide Tiranidler tarafından istila edilmiş bir İmparatorluk hisarı."
+      },
+      "stageName": {
+        "_value": "İmparatorluk Hisarı"
+      }
+    },
+    "WS_40K_IMPERIAL_SHIPYARD": {
+      "description": {
+        "_value": "İmparatorluk Donanması tersanesinin kontrolü için Ölüm Muhafızı’yla savaş."
+      },
+      "stageName": {
+        "_value": "İmparatorluk Tersanesi"
+      },
+      "tips": {
+        "_value": "Asansörler yön bulmaya yardımcı olur."
+      }
+    },
+    "WS_40K_ORK_STRONGHOLD": {
+      "description": {
+        "_value": "Erler tarafından gümletilmeden Goff kalesinde yolunu açmak için savaş!"
+      },
+      "stageName": {
+        "_value": "Ork Kalesi"
+      }
+    },
+    "WS_40K_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_THE_WARP": {
+      "description": {
+        "_value": "Madde, zaman ve mekânın hiçbir önem taşımadığı psişik enerji diyarı Immaterium."
+      },
+      "stageName": {
+        "_value": "Warp Felaketleri"
+      }
+    },
+    "WS_AOS_BLOODWIND_SPOIL": {
+      "description": {
+        "_value": "Erimiş diyar taşı nehirleri Khorne Kılıçları’nın eline geçmiş olan bu maden kampı, Sekizuç’ta bulunur."
+      },
+      "stageName": {
+        "_value": "Kanlı Rüzgar Toprakları"
+      }
+    },
+    "WS_AOS_CITADEL_OF_SKULLS": {
+      "description": {
+        "_value": "Son hisar. Zaman tükeniyor ve ölüm yaklaşıyor."
+      },
+      "stageName": {
+        "_value": "Nekropol"
+      }
+    },
+    "WS_AOS_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_GNARLWOOD": {
+      "description": {
+        "_value": "Kinlikasvet Uşakları ile savaşırken, tehlikeli Canavar Diyarı’ndaki yırtıcı bitki ve yaratıklar arasında hayatta kalmaya çalış."
+      },
+      "stageName": {
+        "_value": "Boğumlukoru"
+      },
+      "tips": {
+        "_value": "Can düşüşü yoktur. Düşmanlar zamanla daha güçlü ve daha hızlı olur."
+      }
+    },
+    "WS_AOS_GREAT_PARCH": {
+      "description": {
+        "_value": "Kupkuru, ıssız bir toprak. Kavurucu derecede sıcak, kükürtlü dumanlarla dolu ve Skaven kaynıyor."
+      },
+      "stageName": {
+        "_value": "Büyük Kuraklık"
+      }
+    },
+    "WS_AOS_HAMMERHAL": {
+      "description": {
+        "_value": "Efsanevi Hammerhal. Bir Diyar Geçidi ile birleşen iki özgür şehir ve Kaos güçlerinin bitmek bilmeyen saldırılarının hedefi."
+      },
+      "stageName": {
+        "_value": "Çift Kuyruklu Şehir"
+      },
+      "tips": {
+        "_value": "Aqsham ve Ghyran arasında diyar geçidi ile seyahat et"
+      }
+    },
+    "WS_AOS_HOBBY_TABLE": {
+      "description": {
+        "_value": "Bir Warhammer Age of Sigmar tutkununun oyun masası."
+      },
+      "stageName": {
+        "_value": "Hobi Masası"
+      },
+      "tips": {
+        "_value": "Normal bölümlerden rastgele düşman dalgaları."
+      }
+    },
+    "WS_AOS_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_SKRAPPA_SPILL": {
+      "description": {
+        "_value": "Kinlikasvet Uşakları’nın yağmalanmış hurdaları Kötü Ay’ın bakışları altında istiflediği, karanlık ve nemli bir pusu sığınağı."
+      },
+      "stageName": {
+        "_value": "Hurda Yığını"
+      }
+    },
+    "WS_AOS_UNDER_EMPIRE": {
+      "description": {
+        "_value": "Ölümlü Diyarların altında uzanan Yeraltı İmparatorluğu’nun Skaven istilasındaki dehlizlerine in."
+      },
+      "stageName": {
+        "_value": "Yeraltı İmparatorluğu"
+      }
+    },
+    "WS_Challenge_stageType": {
+      "_value": "Meydan Okuma"
+    },
+    "WS_Secret_stageType": {
+      "_value": "Sır"
+    },
+    "WS_Bonus_stageType": {
+      "_value": "Bonus"
+    }
+  },
+  "uk": {
+    "WS_40K_DEATH_WORLD": {
+      "description": {
+        "_value": "Пробирайтеся крізь густу рослинність у серце джунглів, поглинутих ройовим флотом."
+      },
+      "stageName": {
+        "_value": "Вторгнення на Світ Смерті"
+      }
+    },
+    "WS_40K_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_DESERT_WASTELAND": {
+      "description": {
+        "_value": "Безплідні пустища майже позбавлені життя. Ройовий флот невпинно роївся й пожирав усе довкола, лишивши від світу порожню оболонку."
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "Піщана пустка"
+      },
+      "tips": {
+        "_value": "Без зцілювальних бонусів. Вороги з часом стають сильнішими й швидшими."
+      }
+    },
+    "WS_40K_GALLOWDARK": {
+      "description": {
+        "_value": "Пробирайтеся хаотичним лабіринтом покинутого космічного корабля, що кишить представниками Смертельної гвардії."
+      },
+      "stageName": {
+        "_value": "Шибомряка"
+      },
+      "tip": {
+        "_value": "Вороги з часом стають сильнішими й швидшими."
+      }
+    },
+    "WS_40K_HOBBY_TABLE": {
+      "description": {
+        "_value": "Ігровий стіл шанувальника Warhammer 40 000."
+      },
+      "stageName": {
+        "_value": "Стіл для хобі"
+      },
+      "tips": {
+        "_value": "Хвилі випадкових ворогів на звичайних рівнях."
+      }
+    },
+    "WS_40K_IMPERIAL_BASTION": {
+      "description": {
+        "_value": "Захоплений тиранідами імперський бастіон серед пустки."
+      },
+      "stageName": {
+        "_value": "Імперський бастіон"
+      }
+    },
+    "WS_40K_IMPERIAL_SHIPYARD": {
+      "description": {
+        "_value": "Бийтеся зі Смертельною гвардією за контроль над верф’ю імперського флоту."
+      },
+      "stageName": {
+        "_value": "Імперська верф"
+      },
+      "tips": {
+        "_value": "Підйомники допомагають пересуватися."
+      }
+    },
+    "WS_40K_ORK_STRONGHOLD": {
+      "description": {
+        "_value": "Пробийтеся крізь форт Ґоффів, не отримавши прочухана від парубків!"
+      },
+      "stageName": {
+        "_value": "Орча твердиня"
+      }
+    },
+    "WS_40K_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_40K_THE_WARP": {
+      "description": {
+        "_value": "Імматеріум — вимір духовної енергії, де матерія, час і простір не мають значення."
+      },
+      "stageName": {
+        "_value": "Небезпеки Викривлення"
+      }
+    },
+    "WS_AOS_BLOODWIND_SPOIL": {
+      "description": {
+        "_value": "Шахтарський табір у Восьмиточчі, де є цілі ріки розплавленого царекаменю, які захопили клинки Хорна."
+      },
+      "stageName": {
+        "_value": "Кривавовітряна здобич"
+      }
+    },
+    "WS_AOS_CITADEL_OF_SKULLS": {
+      "description": {
+        "_value": "Остання цитадель. Час спливає — смерть на підході."
+      },
+      "stageName": {
+        "_value": "Некрополь"
+      }
+    },
+    "WS_AOS_DEBUG_TILING": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_GNARLWOOD": {
+      "description": {
+        "_value": "Бийтеся з дурниками Пітьмозлоби й виживайте серед хижої флори та фауни підступного виміру Чудовиськ."
+      },
+      "stageName": {
+        "_value": "Сучколісся"
+      },
+      "tips": {
+        "_value": "Без зцілювальних бонусів. Вороги з часом стають сильнішими й швидшими."
+      }
+    },
+    "WS_AOS_GREAT_PARCH": {
+      "description": {
+        "_value": "Суха, спустошена земля, де дуже спекотно, повно сірчаних випарів і скейвенів."
+      },
+      "stageName": {
+        "_value": "Велика Посуха"
+      }
+    },
+    "WS_AOS_HAMMERHAL": {
+      "description": {
+        "_value": "Легендарний Гаммергол — два вільні міста, з’єднані міжвимірною брамою, які безупинно атакують сили Хаосу."
+      },
+      "stageName": {
+        "_value": "Двохвосте місто"
+      },
+      "tips": {
+        "_value": "Подорожуйте вимірворотами між Акшою і Ґіраном"
+      }
+    },
+    "WS_AOS_HOBBY_TABLE": {
+      "description": {
+        "_value": "Ігровий стіл шанувальника Warhammer Age of Sigmar."
+      },
+      "stageName": {
+        "_value": "Стіл для хобі"
+      },
+      "tips": {
+        "_value": "Хвилі випадкових ворогів на звичайних рівнях."
+      }
+    },
+    "WS_AOS_PLACEHOLDER_LEVEL": {
+      "description": {
+        "_value": "#N/A"
+      },
+      "hyperTips": {
+        "_value": "#N/A"
+      },
+      "stageName": {
+        "_value": "#N/A"
+      }
+    },
+    "WS_AOS_SKRAPPA_SPILL": {
+      "description": {
+        "_value": "Темна вогка хованора, де дурники Пітьмозлоби під наглядом Зловісного Місяця складають награбований брухт."
+      },
+      "stageName": {
+        "_value": "Брухтосхил"
+      }
+    },
+    "WS_AOS_UNDER_EMPIRE": {
+      "description": {
+        "_value": "Спускайтеся до населених скейвенами нір Підземної імперії, що лежить під вимірами смертних."
+      },
+      "stageName": {
+        "_value": "Підземна імперія"
+      }
+    },
+    "WS_Challenge_stageType": {
+      "_value": "Випробування"
+    },
+    "WS_Secret_stageType": {
+      "_value": "Таємниця"
+    },
+    "WS_Bonus_stageType": {
+      "_value": "Бонус"
+    }
   }
 }

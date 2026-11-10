@@ -2,116 +2,356 @@
   "SKIN_WS_40K_TITUS_WITH_HELMET": {
     "suffix": {
       "_value": {
-        "en": "(Helmet On)"
+        "en": "(Helmet On)",
+        "fr": "(Casque porté)",
+        "it": "(con elmo)",
+        "de": "(mit Helm)",
+        "es": "(Casco puesto)",
+        "ja": "（ヘルメット着用）",
+        "ko": "(헬멧 착용)",
+        "pl": "(Hełm założony)",
+        "pt-BR": "(Capacete equipado)",
+        "ru": "(В шлеме)",
+        "zh-CN": "（戴好头盔）",
+        "tr": "(Miğfer Takılı)",
+        "uk": "(У шоломі)"
       }
     },
     "description": {
       "_value": {
-        "en": "Placeholder"
+        "en": "Placeholder",
+        "fr": "#N/A",
+        "it": "#N/A",
+        "de": "#N/A",
+        "es": "#N/A",
+        "ja": "#N/A",
+        "ko": "#N/A",
+        "pl": "#N/A",
+        "pt-BR": "#N/A",
+        "ru": "#N/A",
+        "zh-CN": "#N/A",
+        "tr": "#N/A",
+        "uk": "#N/A"
       }
     }
   },
   "SKIN_WS_40K_CALGAR_WITH_HELMET": {
     "suffix": {
       "_value": {
-        "en": "(Helmet On)"
+        "en": "(Helmet On)",
+        "fr": "(Casque porté)",
+        "it": "(con elmo)",
+        "de": "(mit Helm)",
+        "es": "(Casco puesto)",
+        "ja": "（ヘルメット着用）",
+        "ko": "(헬멧 착용)",
+        "pl": "(Hełm założony)",
+        "pt-BR": "(Capacete equipado)",
+        "ru": "(В шлеме)",
+        "zh-CN": "（戴好头盔）",
+        "tr": "(Miğfer Takılı)",
+        "uk": "(У шоломі)"
       }
     },
     "description": {
       "_value": {
-        "en": "Placeholder"
+        "en": "Placeholder",
+        "fr": "#N/A",
+        "it": "#N/A",
+        "de": "#N/A",
+        "es": "#N/A",
+        "ja": "#N/A",
+        "ko": "#N/A",
+        "pl": "#N/A",
+        "pt-BR": "#N/A",
+        "ru": "#N/A",
+        "zh-CN": "#N/A",
+        "tr": "#N/A",
+        "uk": "#N/A"
       }
     }
   },
   "SKIN_WS_40K_VIGILANT_WITH_K9": {
     "suffix": {
       "_value": {
-        "en": "& K9 Mastiff"
+        "en": "& K9 Mastiff",
+        "fr": "& Mastiff K9",
+        "it": "e Mastino K9",
+        "de": "und K9-Mastiff",
+        "es": "y K9 Mastiff",
+        "ja": "& K9マスティフ",
+        "ko": "& K9 마스티프",
+        "pl": "i K9 Mastiff",
+        "pt-BR": "e K9 Mastiff",
+        "ru": "и мастиф K9",
+        "zh-CN": "和 K9 獒犬",
+        "tr": "ve K9 Mastiff",
+        "uk": "і мастиф K-9"
       }
     },
     "description": {
       "_value": {
-        "en": "Starts with an additional Mechanical Bite."
+        "en": "Starts with an additional Mechanical Bite.",
+        "fr": "Commence avec une Morsure mécanique supplémentaire.",
+        "it": "Inizia con un Morso Meccanico in più.",
+        "de": "Beginnt mit einem zusätzlichen Mechanischen Kiefer.",
+        "es": "Empieza con un Mordisco mecánico adicional.",
+        "ja": "追加のメカニカルバイトを持った状態で開始する。",
+        "ko": "메카니컬 바이트를 하나 더 보유한 상태로 시작합니다.",
+        "pl": "Rozpoczyna z dodatkowym Mechanicznym Ugryzieniem.",
+        "pt-BR": "Inicia com uma Mordida Mecânica adicional.",
+        "ru": "Начинает игру с дополнительной механической челюстью.",
+        "zh-CN": "开局额外获得一把机械啃咬。",
+        "tr": "Ek bir Mekanik Isırık ile başlar.",
+        "uk": "Розпочинає з додатковою механічною щелепою."
       }
     },
     "customCharName": {
       "_value": {
-        "en": "Max & K9"
+        "en": "Max & K9",
+        "fr": "Max & K9",
+        "it": "Max e K9",
+        "de": "Max und K9",
+        "es": "Max y K9",
+        "ja": "マックス& K9",
+        "ko": "맥스 & K9",
+        "pl": "Max i K9",
+        "pt-BR": "Max e K9",
+        "ru": "Макс и K9",
+        "zh-CN": "马克思 和 K9",
+        "tr": "Maksimum ve K9",
+        "uk": "Макс і K-9"
       }
     }
   },
   "SKIN_WS_40K_K9_WITH_VIGILANT": {
     "suffix": {
       "_value": {
-        "en": "& Max Mahon"
+        "en": "& Max Mahon",
+        "fr": "& Max Mahon",
+        "it": "e Max Mahon",
+        "de": "und Max Mahon",
+        "es": "y Max Mahon",
+        "ja": "&マックス・マホン",
+        "ko": "& 맥스 마혼",
+        "pl": "i Max Mahon",
+        "pt-BR": "e Max Mahon",
+        "ru": "и Макс Махон",
+        "zh-CN": "和 马克斯·马洪",
+        "tr": "ve Maksimum Mahon",
+        "uk": "і Макс Магон"
       }
     },
     "description": {
       "_value": {
-        "en": "Starts with an additional Combat Shotgun."
+        "en": "Starts with an additional Combat Shotgun.",
+        "fr": "Commence avec un fusil de combat supplémentaire.",
+        "it": "Inizia con un Fucile a pompa da battaglia in più.",
+        "de": "Beginnt mit einer zusätzlichen Sturmschrotflinte.",
+        "es": "Empieza con una Escopeta de combate adicional.",
+        "ja": "追加のコンバットショットガンを持った状態で開始する。",
+        "ko": "컴뱃 샷건을 하나 더 보유한 상태로 시작합니다.",
+        "pl": "Rozpoczyna z dodatkową Strzelbą Bojową.",
+        "pt-BR": "Inicia com uma Espingarda de combate adicional.",
+        "ru": "Начинает игру с дополнительным боевым дробовиком.",
+        "zh-CN": "开局额外获得一把战斗霰弹枪。",
+        "tr": "Ek bir Savaş Pompalısı ile başlar.",
+        "uk": "Розпочинає з додатковою бойовою рушницею."
       }
     },
     "customCharName": {
       "_value": {
-        "en": "K9 & Max"
+        "en": "K9 & Max",
+        "fr": "K9 & Max",
+        "it": "K9 e Max",
+        "de": "K9 und Max",
+        "es": "K9 y Max",
+        "ja": "K9 &マックス",
+        "ko": "K9 & 맥스",
+        "pl": "K9 i Max",
+        "pt-BR": "K9 e Max",
+        "ru": "K9 и Макс",
+        "zh-CN": "K9 和 马克思",
+        "tr": "K9 ve Maksimum",
+        "uk": "K-9 і Макс"
       }
     }
   },
   "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
     "suffix": {
       "_value": {
-        "en": "& Hanniver Toll"
+        "en": "& Hanniver Toll",
+        "fr": "& Hanniver Toll",
+        "it": "e Hanniver Toll",
+        "de": "und Hanniver Toll",
+        "es": "y Hanniver Toll",
+        "ja": "&ハニヴァー・トール",
+        "ko": "& 해니버 톨",
+        "pl": "i Hanniver Toll",
+        "pt-BR": "e Hanniver Toll",
+        "ru": "и Ханнивер Толл",
+        "zh-CN": "和 汉尼弗·托尔",
+        "tr": "ve Hanniver Toll",
+        "uk": "і Ганнівер Подзін"
       }
     },
     "customCharName": {
       "_value": {
-        "en": "Callis & Toll"
+        "en": "Callis & Toll",
+        "fr": "Callis & Toll",
+        "it": "Callis e Toll",
+        "de": "Callis und Toll",
+        "es": "Callis y Toll",
+        "ja": "カリス&トール",
+        "ko": "칼리스 & 톨",
+        "pl": "Callis i Toll",
+        "pt-BR": "Callis e Toll",
+        "ru": "Каллис и Толл",
+        "zh-CN": "卡里斯 和 托尔",
+        "tr": "Callis ve Toll",
+        "uk": "Калліс і Подзвін"
       }
     },
     "description": {
       "_value": {
-        "en": "Starts with an additional Flintlock Pistol."
+        "en": "Starts with an additional Flintlock Pistol.",
+        "fr": "Commence avec un pistolet à silex supplémentaire.",
+        "it": "Inizia con una Pistola a Pietra Focaia in più.",
+        "de": "Beginnt mit einer zusätzlichen Steinschlosspistole.",
+        "es": "Empieza con una Pistola de chispa adicional.",
+        "ja": "追加のフリントロックピストルを持った状態で開始する。",
+        "ko": "플린트락 피스톨을 하나 더 보유한 상태로 시작합니다.",
+        "pl": "Rozpoczyna z dodatkowym Pistoletem Skałkowym.",
+        "pt-BR": "Inicia com uma Pistola de Pederneira adicional.",
+        "ru": "Начинает игру с дополнительным кремневым пистолетом.",
+        "zh-CN": "开局额外获得一把燧发手枪。",
+        "tr": "Ek bir Çakmaklı Tabanca ile başlar.",
+        "uk": "Розпочинає з додатковим кременевим пістолем."
       }
     }
   },
   "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
     "suffix": {
       "_value": {
-        "en": "& Armand Callis"
+        "en": "& Armand Callis",
+        "fr": "& Armand Callis",
+        "it": "e Armand Callis",
+        "de": "und Armand Callis",
+        "es": "y Armand Callis",
+        "ja": "&アーマンド・カリス",
+        "ko": "& 아르망 칼리스",
+        "pl": "i Armand Callis",
+        "pt-BR": "e Armand Callis",
+        "ru": "и Арманд Каллис",
+        "zh-CN": "和 阿曼德·卡里斯",
+        "tr": "ve Armand Callis",
+        "uk": "і Арманд Калліс"
       }
     },
     "customCharName": {
       "_value": {
-        "en": "Toll & Callis"
+        "en": "Toll & Callis",
+        "fr": "Toll & Callis",
+        "it": "Toll e Callis",
+        "de": "Toll und Callis",
+        "es": "Toll y Callis",
+        "ja": "トール&カリス",
+        "ko": "톨 & 칼리스",
+        "pl": "Toll i Callis",
+        "pt-BR": "Toll e Callis",
+        "ru": "Толл и Каллис",
+        "zh-CN": "托尔 和 卡里斯",
+        "tr": "Toll ve Callis",
+        "uk": "Подзвін і Калліс"
       }
     },
     "description": {
       "_value": {
-        "en": "Starts with an additional Brace of Pistols."
+        "en": "Starts with an additional Brace of Pistols.",
+        "fr": "Commence avec un affût à pistolets supplémentaire.",
+        "it": "Inizia con una Coppia di Pistole in più.",
+        "de": "Beginnt mit einem zusätzlichen Pistolenpaar.",
+        "es": "Empieza con una Pistola doble adicional.",
+        "ja": "追加の二挺拳銃を持った状態で開始する。",
+        "ko": "브레이스 오브 피스톨을 하나 더 보유한 상태로 시작합니다.",
+        "pl": "Rozpoczyna z dodatkową Parą Pistoletów.",
+        "pt-BR": "Inicia com um Par de Pistolas adicional.",
+        "ru": "Начинает игру с дополнительными сдвоенными пистолетами.",
+        "zh-CN": "开局额外获得一把双枪齐发。",
+        "tr": "Ek bir Tabanca Çifti ile başlar.",
+        "uk": "Розпочинає з додатковою парою пістолів."
       }
     }
   },
   "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
     "suffix": {
       "_value": {
-        "en": "& Maleneth Witchblade"
+        "en": "& Maleneth Witchblade",
+        "fr": "et Maleneth Witchblade",
+        "it": "e Lama Stregata Maleneth",
+        "de": "& Maleneth Hexenklinge",
+        "es": "Y Maleneth Filobrujo",
+        "ja": "&マレネス・ウィッチブレード",
+        "ko": "& 말레네스 위치블레이드",
+        "pl": "i Maleneth Witchblade",
+        "pt-BR": "e Maleneth Witchblade",
+        "ru": "и Маленет Ведьмино Лезвие",
+        "zh-CN": "和 玛勒涅斯·巫刃",
+        "tr": "ve Maleneth Witchblade",
+        "uk": "і Маленет Відьомський клинок"
       }
     },
     "description": {
       "_value": {
-        "en": "Starts with an additional Poisoned Throwing Knives."
+        "en": "Starts with an additional Poisoned Throwing Knives.",
+        "fr": "Commence avec un couteau de lancer empoisonné supplémentaire.",
+        "it": "Inizia con un Koltello da lancio avvelenato in più.",
+        "de": "Beginnt mit einem zusätzlichen Vergifteten Wurfmesser.",
+        "es": "Empieza con unos kuchilloz arrojadizoz envenenadoz adicionales.",
+        "ja": "追加の毒投げナイフを持った状態で開始する。",
+        "ko": "독 바른 투척 단검을 하나 더 보유한 상태로 시작합니다.",
+        "pl": "Rozpoczyna z dodatkowymi Zatrutymi Nożami do Rzucania.",
+        "pt-BR": "Inicia com Facas de Arremesso Envenenadas adicionais.",
+        "ru": "Начинает игру с дополнительными отравленными метательными ножами.",
+        "zh-CN": "开局额外获得一把淬毒飞刃。",
+        "tr": "Ek bir Zehirli Fırlatma Bıçağı ile başlar.",
+        "uk": "Розпочинає з отруєними метальними ножами."
       }
     }
   },
   "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
     "suffix": {
       "_value": {
-        "en": "& Gotrek Gurnisson"
+        "en": "& Gotrek Gurnisson",
+        "fr": "et Gotrek Gurnisson",
+        "it": "e Gotrek Gurnisson",
+        "de": "& Gotrek Gurnisson",
+        "es": "y Gotrek Gurnisson",
+        "ja": "&ゴトレック・グルニソン",
+        "ko": "& 고트렉 거니슨",
+        "pl": "i Gortek Gurnisson",
+        "pt-BR": "e Gortek Gurnisson",
+        "ru": "и Готрек Гурниссон",
+        "zh-CN": "和 戈特雷克·古尼森",
+        "tr": "ve Gotrek Gurnisson",
+        "uk": "і Ґотрек Ґурніссон"
       }
     },
     "description": {
       "_value": {
-        "en": "Starts with an additional Fyrestorm Greataxe."
+        "en": "Starts with an additional Fyrestorm Greataxe.",
+        "fr": "Commence avec une Grand-hache Tempête-de-feu supplémentaire.",
+        "it": "Inizia con una Grande Ascia Pyrotempesta in più.",
+        "de": "Beginnt mit einer zusätzlichen Fŷrsturm-Großaxt.",
+        "es": "Empieza con una gran hacha tormenta ígnea adicional.",
+        "ja": "追加の焔嵐の巨斧を持った状態で開始する。",
+        "ko": "파이어스톰 그레이트액스를 하나 더 보유한 상태로 시작합니다.",
+        "pl": "Rozpoczyna z dodatkowym Wielkim Toporem Burzy Ognia.",
+        "pt-BR": "Inicia com um Machado Grandioso da Tempestade de Fogo adicional.",
+        "ru": "Начинает игру с дополнительным двуручным топором Огненного Шторма.",
+        "zh-CN": "开局额外获得一把烈焰风暴巨斧。",
+        "tr": "Ateşfırtınalı Büyük Balta ile başlar.",
+        "uk": "Розпочинає з додатковою великою сокирою Вогнебурі."
       }
     }
   }

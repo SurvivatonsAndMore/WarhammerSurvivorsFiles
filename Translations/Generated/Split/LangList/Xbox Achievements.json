@@ -2,13 +2,37 @@
   "ws_RedemptionArc": {
     "name": {
       "_value": [
-        "Redemption Arc"
+        "Redemption Arc",
+        "Arc de rédemption",
+        "Arco di Redenzione",
+        "Erlösungsbogen",
+        "Arco de redención",
+        "リデンプション・アーク",
+        "구원의 여정",
+        "Droga ku odkupieniu",
+        "Arco da Redenção",
+        "Арка искупления",
+        "救赎之路",
+        "Kefaret Yayı",
+        "Історія спокути"
       ]
     }
   },
   "ws_VampireSurvivor": {
     "name": {
       "_value": [
+        "Vampire Survivor",
+        "Vampire Survivor",
+        "Vampire Survivor",
+        "Vampir-Überlebender",
+        "Superviviente vampiro",
+        "ヴァンパイア・サバイバー",
+        "뱀파이어 생존자",
+        "Vampire Survivor",
+        "Sobrevivente Vampiro",
+        "Выживший вампир",
+        "吸血鬼幸存者",
+        "Vampirden Kurtulan",
         "Vampire Survivor"
       ]
     }
@@ -16,6 +40,18 @@
   "ws_CryptBreaker": {
     "name": {
       "_value": [
+        "Crypt-Breaker",
+        "Briser la crypte",
+        "Spezzacripta",
+        "Gruftstürmer",
+        "Rompecriptas",
+        "クリプトブレイカー",
+        "묘실 파괴자",
+        "Łamacz Krypt",
+        "Destruidor de Criptas",
+        "Взломщик склепов",
+        "掘墓者",
+        "Mezarkıran",
         "Crypt-Breaker"
       ]
     }
@@ -23,7 +59,19 @@
   "ws_ObtainWarhammerPaint": {
     "description": {
       "_value": [
-        "Obtain the required Warhammer Paint Pots."
+        "Obtain the required Warhammer Paint Pots.",
+        "Obtenez les pots de peinture Warhammer nécessaires.",
+        "Ottieni i Tubetti di Vernice Warhammer necessari.",
+        "Besorge die erforderlichen Warhammer-Farbtöpfe.",
+        "Obtén los botes de pintura Warhammer necesarios.",
+        "必要なウォーハンマー塗料の小瓶を集める。",
+        "필요한 Warhammer 페인트 통을 획득하세요.",
+        "Zdobądź wymagane pojemniki z farbą Warhammer.",
+        "Obtenha os Potes de Tinta Warhammer necessários.",
+        "Соберите необходимые баночки с краской Warhammer.",
+        "获取所需的战锤颜料罐。",
+        "Gerekli Warhammer Boya Kutuları’nı elde et.",
+        "Зберіть необхідні банки з фарбою Warhammer."
       ]
     }
   }

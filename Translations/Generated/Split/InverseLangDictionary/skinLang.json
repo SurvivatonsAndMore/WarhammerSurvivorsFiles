@@ -76,5 +76,941 @@
         "_value": "Starts with an additional Fyrestorm Greataxe."
       }
     }
+  },
+  "fr": {
+    "SKIN_WS_40K_TITUS_WITH_HELMET": {
+      "suffix": {
+        "_value": "(Casque porté)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+      "suffix": {
+        "_value": "(Casque porté)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_VIGILANT_WITH_K9": {
+      "suffix": {
+        "_value": "& Mastiff K9"
+      },
+      "description": {
+        "_value": "Commence avec une Morsure mécanique supplémentaire."
+      },
+      "customCharName": {
+        "_value": "Max & K9"
+      }
+    },
+    "SKIN_WS_40K_K9_WITH_VIGILANT": {
+      "suffix": {
+        "_value": "& Max Mahon"
+      },
+      "description": {
+        "_value": "Commence avec un fusil de combat supplémentaire."
+      },
+      "customCharName": {
+        "_value": "K9 & Max"
+      }
+    },
+    "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+      "suffix": {
+        "_value": "& Hanniver Toll"
+      },
+      "customCharName": {
+        "_value": "Callis & Toll"
+      },
+      "description": {
+        "_value": "Commence avec un pistolet à silex supplémentaire."
+      }
+    },
+    "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+      "suffix": {
+        "_value": "& Armand Callis"
+      },
+      "customCharName": {
+        "_value": "Toll & Callis"
+      },
+      "description": {
+        "_value": "Commence avec un affût à pistolets supplémentaire."
+      }
+    },
+    "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+      "suffix": {
+        "_value": "et Maleneth Witchblade"
+      },
+      "description": {
+        "_value": "Commence avec un couteau de lancer empoisonné supplémentaire."
+      }
+    },
+    "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+      "suffix": {
+        "_value": "et Gotrek Gurnisson"
+      },
+      "description": {
+        "_value": "Commence avec une Grand-hache Tempête-de-feu supplémentaire."
+      }
+    }
+  },
+  "it": {
+    "SKIN_WS_40K_TITUS_WITH_HELMET": {
+      "suffix": {
+        "_value": "(con elmo)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+      "suffix": {
+        "_value": "(con elmo)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_VIGILANT_WITH_K9": {
+      "suffix": {
+        "_value": "e Mastino K9"
+      },
+      "description": {
+        "_value": "Inizia con un Morso Meccanico in più."
+      },
+      "customCharName": {
+        "_value": "Max e K9"
+      }
+    },
+    "SKIN_WS_40K_K9_WITH_VIGILANT": {
+      "suffix": {
+        "_value": "e Max Mahon"
+      },
+      "description": {
+        "_value": "Inizia con un Fucile a pompa da battaglia in più."
+      },
+      "customCharName": {
+        "_value": "K9 e Max"
+      }
+    },
+    "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+      "suffix": {
+        "_value": "e Hanniver Toll"
+      },
+      "customCharName": {
+        "_value": "Callis e Toll"
+      },
+      "description": {
+        "_value": "Inizia con una Pistola a Pietra Focaia in più."
+      }
+    },
+    "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+      "suffix": {
+        "_value": "e Armand Callis"
+      },
+      "customCharName": {
+        "_value": "Toll e Callis"
+      },
+      "description": {
+        "_value": "Inizia con una Coppia di Pistole in più."
+      }
+    },
+    "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+      "suffix": {
+        "_value": "e Lama Stregata Maleneth"
+      },
+      "description": {
+        "_value": "Inizia con un Koltello da lancio avvelenato in più."
+      }
+    },
+    "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+      "suffix": {
+        "_value": "e Gotrek Gurnisson"
+      },
+      "description": {
+        "_value": "Inizia con una Grande Ascia Pyrotempesta in più."
+      }
+    }
+  },
+  "de": {
+    "SKIN_WS_40K_TITUS_WITH_HELMET": {
+      "suffix": {
+        "_value": "(mit Helm)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+      "suffix": {
+        "_value": "(mit Helm)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_VIGILANT_WITH_K9": {
+      "suffix": {
+        "_value": "und K9-Mastiff"
+      },
+      "description": {
+        "_value": "Beginnt mit einem zusätzlichen Mechanischen Kiefer."
+      },
+      "customCharName": {
+        "_value": "Max und K9"
+      }
+    },
+    "SKIN_WS_40K_K9_WITH_VIGILANT": {
+      "suffix": {
+        "_value": "und Max Mahon"
+      },
+      "description": {
+        "_value": "Beginnt mit einer zusätzlichen Sturmschrotflinte."
+      },
+      "customCharName": {
+        "_value": "K9 und Max"
+      }
+    },
+    "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+      "suffix": {
+        "_value": "und Hanniver Toll"
+      },
+      "customCharName": {
+        "_value": "Callis und Toll"
+      },
+      "description": {
+        "_value": "Beginnt mit einer zusätzlichen Steinschlosspistole."
+      }
+    },
+    "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+      "suffix": {
+        "_value": "und Armand Callis"
+      },
+      "customCharName": {
+        "_value": "Toll und Callis"
+      },
+      "description": {
+        "_value": "Beginnt mit einem zusätzlichen Pistolenpaar."
+      }
+    },
+    "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+      "suffix": {
+        "_value": "& Maleneth Hexenklinge"
+      },
+      "description": {
+        "_value": "Beginnt mit einem zusätzlichen Vergifteten Wurfmesser."
+      }
+    },
+    "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+      "suffix": {
+        "_value": "& Gotrek Gurnisson"
+      },
+      "description": {
+        "_value": "Beginnt mit einer zusätzlichen Fŷrsturm-Großaxt."
+      }
+    }
+  },
+  "es": {
+    "SKIN_WS_40K_TITUS_WITH_HELMET": {
+      "suffix": {
+        "_value": "(Casco puesto)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+      "suffix": {
+        "_value": "(Casco puesto)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_VIGILANT_WITH_K9": {
+      "suffix": {
+        "_value": "y K9 Mastiff"
+      },
+      "description": {
+        "_value": "Empieza con un Mordisco mecánico adicional."
+      },
+      "customCharName": {
+        "_value": "Max y K9"
+      }
+    },
+    "SKIN_WS_40K_K9_WITH_VIGILANT": {
+      "suffix": {
+        "_value": "y Max Mahon"
+      },
+      "description": {
+        "_value": "Empieza con una Escopeta de combate adicional."
+      },
+      "customCharName": {
+        "_value": "K9 y Max"
+      }
+    },
+    "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+      "suffix": {
+        "_value": "y Hanniver Toll"
+      },
+      "customCharName": {
+        "_value": "Callis y Toll"
+      },
+      "description": {
+        "_value": "Empieza con una Pistola de chispa adicional."
+      }
+    },
+    "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+      "suffix": {
+        "_value": "y Armand Callis"
+      },
+      "customCharName": {
+        "_value": "Toll y Callis"
+      },
+      "description": {
+        "_value": "Empieza con una Pistola doble adicional."
+      }
+    },
+    "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+      "suffix": {
+        "_value": "Y Maleneth Filobrujo"
+      },
+      "description": {
+        "_value": "Empieza con unos kuchilloz arrojadizoz envenenadoz adicionales."
+      }
+    },
+    "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+      "suffix": {
+        "_value": "y Gotrek Gurnisson"
+      },
+      "description": {
+        "_value": "Empieza con una gran hacha tormenta ígnea adicional."
+      }
+    }
+  },
+  "ja": {
+    "SKIN_WS_40K_TITUS_WITH_HELMET": {
+      "suffix": {
+        "_value": "（ヘルメット着用）"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+      "suffix": {
+        "_value": "（ヘルメット着用）"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_VIGILANT_WITH_K9": {
+      "suffix": {
+        "_value": "& K9マスティフ"
+      },
+      "description": {
+        "_value": "追加のメカニカルバイトを持った状態で開始する。"
+      },
+      "customCharName": {
+        "_value": "マックス& K9"
+      }
+    },
+    "SKIN_WS_40K_K9_WITH_VIGILANT": {
+      "suffix": {
+        "_value": "&マックス・マホン"
+      },
+      "description": {
+        "_value": "追加のコンバットショットガンを持った状態で開始する。"
+      },
+      "customCharName": {
+        "_value": "K9 &マックス"
+      }
+    },
+    "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+      "suffix": {
+        "_value": "&ハニヴァー・トール"
+      },
+      "customCharName": {
+        "_value": "カリス&トール"
+      },
+      "description": {
+        "_value": "追加のフリントロックピストルを持った状態で開始する。"
+      }
+    },
+    "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+      "suffix": {
+        "_value": "&アーマンド・カリス"
+      },
+      "customCharName": {
+        "_value": "トール&カリス"
+      },
+      "description": {
+        "_value": "追加の二挺拳銃を持った状態で開始する。"
+      }
+    },
+    "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+      "suffix": {
+        "_value": "&マレネス・ウィッチブレード"
+      },
+      "description": {
+        "_value": "追加の毒投げナイフを持った状態で開始する。"
+      }
+    },
+    "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+      "suffix": {
+        "_value": "&ゴトレック・グルニソン"
+      },
+      "description": {
+        "_value": "追加の焔嵐の巨斧を持った状態で開始する。"
+      }
+    }
+  },
+  "ko": {
+    "SKIN_WS_40K_TITUS_WITH_HELMET": {
+      "suffix": {
+        "_value": "(헬멧 착용)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+      "suffix": {
+        "_value": "(헬멧 착용)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_VIGILANT_WITH_K9": {
+      "suffix": {
+        "_value": "& K9 마스티프"
+      },
+      "description": {
+        "_value": "메카니컬 바이트를 하나 더 보유한 상태로 시작합니다."
+      },
+      "customCharName": {
+        "_value": "맥스 & K9"
+      }
+    },
+    "SKIN_WS_40K_K9_WITH_VIGILANT": {
+      "suffix": {
+        "_value": "& 맥스 마혼"
+      },
+      "description": {
+        "_value": "컴뱃 샷건을 하나 더 보유한 상태로 시작합니다."
+      },
+      "customCharName": {
+        "_value": "K9 & 맥스"
+      }
+    },
+    "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+      "suffix": {
+        "_value": "& 해니버 톨"
+      },
+      "customCharName": {
+        "_value": "칼리스 & 톨"
+      },
+      "description": {
+        "_value": "플린트락 피스톨을 하나 더 보유한 상태로 시작합니다."
+      }
+    },
+    "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+      "suffix": {
+        "_value": "& 아르망 칼리스"
+      },
+      "customCharName": {
+        "_value": "톨 & 칼리스"
+      },
+      "description": {
+        "_value": "브레이스 오브 피스톨을 하나 더 보유한 상태로 시작합니다."
+      }
+    },
+    "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+      "suffix": {
+        "_value": "& 말레네스 위치블레이드"
+      },
+      "description": {
+        "_value": "독 바른 투척 단검을 하나 더 보유한 상태로 시작합니다."
+      }
+    },
+    "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+      "suffix": {
+        "_value": "& 고트렉 거니슨"
+      },
+      "description": {
+        "_value": "파이어스톰 그레이트액스를 하나 더 보유한 상태로 시작합니다."
+      }
+    }
+  },
+  "pl": {
+    "SKIN_WS_40K_TITUS_WITH_HELMET": {
+      "suffix": {
+        "_value": "(Hełm założony)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+      "suffix": {
+        "_value": "(Hełm założony)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_VIGILANT_WITH_K9": {
+      "suffix": {
+        "_value": "i K9 Mastiff"
+      },
+      "description": {
+        "_value": "Rozpoczyna z dodatkowym Mechanicznym Ugryzieniem."
+      },
+      "customCharName": {
+        "_value": "Max i K9"
+      }
+    },
+    "SKIN_WS_40K_K9_WITH_VIGILANT": {
+      "suffix": {
+        "_value": "i Max Mahon"
+      },
+      "description": {
+        "_value": "Rozpoczyna z dodatkową Strzelbą Bojową."
+      },
+      "customCharName": {
+        "_value": "K9 i Max"
+      }
+    },
+    "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+      "suffix": {
+        "_value": "i Hanniver Toll"
+      },
+      "customCharName": {
+        "_value": "Callis i Toll"
+      },
+      "description": {
+        "_value": "Rozpoczyna z dodatkowym Pistoletem Skałkowym."
+      }
+    },
+    "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+      "suffix": {
+        "_value": "i Armand Callis"
+      },
+      "customCharName": {
+        "_value": "Toll i Callis"
+      },
+      "description": {
+        "_value": "Rozpoczyna z dodatkową Parą Pistoletów."
+      }
+    },
+    "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+      "suffix": {
+        "_value": "i Maleneth Witchblade"
+      },
+      "description": {
+        "_value": "Rozpoczyna z dodatkowymi Zatrutymi Nożami do Rzucania."
+      }
+    },
+    "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+      "suffix": {
+        "_value": "i Gortek Gurnisson"
+      },
+      "description": {
+        "_value": "Rozpoczyna z dodatkowym Wielkim Toporem Burzy Ognia."
+      }
+    }
+  },
+  "pt-BR": {
+    "SKIN_WS_40K_TITUS_WITH_HELMET": {
+      "suffix": {
+        "_value": "(Capacete equipado)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+      "suffix": {
+        "_value": "(Capacete equipado)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_VIGILANT_WITH_K9": {
+      "suffix": {
+        "_value": "e K9 Mastiff"
+      },
+      "description": {
+        "_value": "Inicia com uma Mordida Mecânica adicional."
+      },
+      "customCharName": {
+        "_value": "Max e K9"
+      }
+    },
+    "SKIN_WS_40K_K9_WITH_VIGILANT": {
+      "suffix": {
+        "_value": "e Max Mahon"
+      },
+      "description": {
+        "_value": "Inicia com uma Espingarda de combate adicional."
+      },
+      "customCharName": {
+        "_value": "K9 e Max"
+      }
+    },
+    "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+      "suffix": {
+        "_value": "e Hanniver Toll"
+      },
+      "customCharName": {
+        "_value": "Callis e Toll"
+      },
+      "description": {
+        "_value": "Inicia com uma Pistola de Pederneira adicional."
+      }
+    },
+    "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+      "suffix": {
+        "_value": "e Armand Callis"
+      },
+      "customCharName": {
+        "_value": "Toll e Callis"
+      },
+      "description": {
+        "_value": "Inicia com um Par de Pistolas adicional."
+      }
+    },
+    "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+      "suffix": {
+        "_value": "e Maleneth Witchblade"
+      },
+      "description": {
+        "_value": "Inicia com Facas de Arremesso Envenenadas adicionais."
+      }
+    },
+    "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+      "suffix": {
+        "_value": "e Gortek Gurnisson"
+      },
+      "description": {
+        "_value": "Inicia com um Machado Grandioso da Tempestade de Fogo adicional."
+      }
+    }
+  },
+  "ru": {
+    "SKIN_WS_40K_TITUS_WITH_HELMET": {
+      "suffix": {
+        "_value": "(В шлеме)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+      "suffix": {
+        "_value": "(В шлеме)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_VIGILANT_WITH_K9": {
+      "suffix": {
+        "_value": "и мастиф K9"
+      },
+      "description": {
+        "_value": "Начинает игру с дополнительной механической челюстью."
+      },
+      "customCharName": {
+        "_value": "Макс и K9"
+      }
+    },
+    "SKIN_WS_40K_K9_WITH_VIGILANT": {
+      "suffix": {
+        "_value": "и Макс Махон"
+      },
+      "description": {
+        "_value": "Начинает игру с дополнительным боевым дробовиком."
+      },
+      "customCharName": {
+        "_value": "K9 и Макс"
+      }
+    },
+    "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+      "suffix": {
+        "_value": "и Ханнивер Толл"
+      },
+      "customCharName": {
+        "_value": "Каллис и Толл"
+      },
+      "description": {
+        "_value": "Начинает игру с дополнительным кремневым пистолетом."
+      }
+    },
+    "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+      "suffix": {
+        "_value": "и Арманд Каллис"
+      },
+      "customCharName": {
+        "_value": "Толл и Каллис"
+      },
+      "description": {
+        "_value": "Начинает игру с дополнительными сдвоенными пистолетами."
+      }
+    },
+    "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+      "suffix": {
+        "_value": "и Маленет Ведьмино Лезвие"
+      },
+      "description": {
+        "_value": "Начинает игру с дополнительными отравленными метательными ножами."
+      }
+    },
+    "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+      "suffix": {
+        "_value": "и Готрек Гурниссон"
+      },
+      "description": {
+        "_value": "Начинает игру с дополнительным двуручным топором Огненного Шторма."
+      }
+    }
+  },
+  "zh-CN": {
+    "SKIN_WS_40K_TITUS_WITH_HELMET": {
+      "suffix": {
+        "_value": "（戴好头盔）"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+      "suffix": {
+        "_value": "（戴好头盔）"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_VIGILANT_WITH_K9": {
+      "suffix": {
+        "_value": "和 K9 獒犬"
+      },
+      "description": {
+        "_value": "开局额外获得一把机械啃咬。"
+      },
+      "customCharName": {
+        "_value": "马克思 和 K9"
+      }
+    },
+    "SKIN_WS_40K_K9_WITH_VIGILANT": {
+      "suffix": {
+        "_value": "和 马克斯·马洪"
+      },
+      "description": {
+        "_value": "开局额外获得一把战斗霰弹枪。"
+      },
+      "customCharName": {
+        "_value": "K9 和 马克思"
+      }
+    },
+    "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+      "suffix": {
+        "_value": "和 汉尼弗·托尔"
+      },
+      "customCharName": {
+        "_value": "卡里斯 和 托尔"
+      },
+      "description": {
+        "_value": "开局额外获得一把燧发手枪。"
+      }
+    },
+    "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+      "suffix": {
+        "_value": "和 阿曼德·卡里斯"
+      },
+      "customCharName": {
+        "_value": "托尔 和 卡里斯"
+      },
+      "description": {
+        "_value": "开局额外获得一把双枪齐发。"
+      }
+    },
+    "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+      "suffix": {
+        "_value": "和 玛勒涅斯·巫刃"
+      },
+      "description": {
+        "_value": "开局额外获得一把淬毒飞刃。"
+      }
+    },
+    "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+      "suffix": {
+        "_value": "和 戈特雷克·古尼森"
+      },
+      "description": {
+        "_value": "开局额外获得一把烈焰风暴巨斧。"
+      }
+    }
+  },
+  "tr": {
+    "SKIN_WS_40K_TITUS_WITH_HELMET": {
+      "suffix": {
+        "_value": "(Miğfer Takılı)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+      "suffix": {
+        "_value": "(Miğfer Takılı)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_VIGILANT_WITH_K9": {
+      "suffix": {
+        "_value": "ve K9 Mastiff"
+      },
+      "description": {
+        "_value": "Ek bir Mekanik Isırık ile başlar."
+      },
+      "customCharName": {
+        "_value": "Maksimum ve K9"
+      }
+    },
+    "SKIN_WS_40K_K9_WITH_VIGILANT": {
+      "suffix": {
+        "_value": "ve Maksimum Mahon"
+      },
+      "description": {
+        "_value": "Ek bir Savaş Pompalısı ile başlar."
+      },
+      "customCharName": {
+        "_value": "K9 ve Maksimum"
+      }
+    },
+    "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+      "suffix": {
+        "_value": "ve Hanniver Toll"
+      },
+      "customCharName": {
+        "_value": "Callis ve Toll"
+      },
+      "description": {
+        "_value": "Ek bir Çakmaklı Tabanca ile başlar."
+      }
+    },
+    "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+      "suffix": {
+        "_value": "ve Armand Callis"
+      },
+      "customCharName": {
+        "_value": "Toll ve Callis"
+      },
+      "description": {
+        "_value": "Ek bir Tabanca Çifti ile başlar."
+      }
+    },
+    "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+      "suffix": {
+        "_value": "ve Maleneth Witchblade"
+      },
+      "description": {
+        "_value": "Ek bir Zehirli Fırlatma Bıçağı ile başlar."
+      }
+    },
+    "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+      "suffix": {
+        "_value": "ve Gotrek Gurnisson"
+      },
+      "description": {
+        "_value": "Ateşfırtınalı Büyük Balta ile başlar."
+      }
+    }
+  },
+  "uk": {
+    "SKIN_WS_40K_TITUS_WITH_HELMET": {
+      "suffix": {
+        "_value": "(У шоломі)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_CALGAR_WITH_HELMET": {
+      "suffix": {
+        "_value": "(У шоломі)"
+      },
+      "description": {
+        "_value": "#N/A"
+      }
+    },
+    "SKIN_WS_40K_VIGILANT_WITH_K9": {
+      "suffix": {
+        "_value": "і мастиф K-9"
+      },
+      "description": {
+        "_value": "Розпочинає з додатковою механічною щелепою."
+      },
+      "customCharName": {
+        "_value": "Макс і K-9"
+      }
+    },
+    "SKIN_WS_40K_K9_WITH_VIGILANT": {
+      "suffix": {
+        "_value": "і Макс Магон"
+      },
+      "description": {
+        "_value": "Розпочинає з додатковою бойовою рушницею."
+      },
+      "customCharName": {
+        "_value": "K-9 і Макс"
+      }
+    },
+    "SKIN_WS_AOS_CALLIS_WITH_TOLL": {
+      "suffix": {
+        "_value": "і Ганнівер Подзін"
+      },
+      "customCharName": {
+        "_value": "Калліс і Подзвін"
+      },
+      "description": {
+        "_value": "Розпочинає з додатковим кременевим пістолем."
+      }
+    },
+    "SKIN_WS_AOS_TOLL_WITH_CALLIS": {
+      "suffix": {
+        "_value": "і Арманд Калліс"
+      },
+      "customCharName": {
+        "_value": "Подзвін і Калліс"
+      },
+      "description": {
+        "_value": "Розпочинає з додатковою парою пістолів."
+      }
+    },
+    "SKIN_WS_AOS_GOTREK_WITH_MALENETH": {
+      "suffix": {
+        "_value": "і Маленет Відьомський клинок"
+      },
+      "description": {
+        "_value": "Розпочинає з отруєними метальними ножами."
+      }
+    },
+    "SKIN_WS_AOS_MALENETH_WITH_GOTREK": {
+      "suffix": {
+        "_value": "і Ґотрек Ґурніссон"
+      },
+      "description": {
+        "_value": "Розпочинає з додатковою великою сокирою Вогнебурі."
+      }
+    }
   }
 }

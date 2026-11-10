@@ -1,2 +1,141 @@
 {
+  "ABADDON_BLACK": {
+    "name": "Abaddon Black",
+    "description": "",
+    "tips": "",
+    "textureName": "NonSilo_UI_New",
+    "spriteName": "Relic_PaintPot_External.png",
+    "underlayName": "Relic_PaintPot_Internal.png",
+    "hexColor": "#000000",
+    "foundInSilo": "WH_40K"
+  },
+  "CELESTRA_GREY": {
+    "name": "Celestra Grey",
+    "description": "",
+    "tips": "",
+    "textureName": "NonSilo_UI_New",
+    "spriteName": "Relic_PaintPot_External.png",
+    "underlayName": "Relic_PaintPot_Internal.png",
+    "hexColor": "#96A5A9",
+    "foundInSilo": "WH_40K"
+  },
+//  "KHORNE_RED": {
+//    "name": "Khorne Red",
+//    "description": "",
+//    "tips": "",
+//    "textureName": "NonSilo_UI_New",
+//    "spriteName": "Relic_PaintPot_External.png",
+//    "underlayName": "Relic_PaintPot_Internal.png",
+//    "hexColor": "#6A0002"
+//  },
+  "LEADBELCHER": {
+    "name": "Leadbelcher",
+    "description": "",
+    "tips": "",
+    "textureName": "NonSilo_UI_New",
+    "spriteName": "Relic_PaintPot_External.png",
+    "underlayName": "Relic_PaintPot_Internal.png",
+    "hexColor": "#393939",
+    "foundInSilo": "WH_AOS"
+  },
+  "MACRAGGE_BLUE": {
+    "name": "Macragge Blue",
+    "description": "",
+    "tips": "",
+    "textureName": "NonSilo_UI_New",
+    "spriteName": "Relic_PaintPot_External.png",
+    "underlayName": "Relic_PaintPot_Internal.png",
+    "hexColor": "#2D567C",
+    "foundInSilo": "WH_40K"
+  },
+  "MECHANICUS_STANDARD_GREY": {
+    "name": "Mechanicus Standard Grey",
+    "description": "",
+    "tips": "",
+    "textureName": "NonSilo_UI_New",
+    "spriteName": "Relic_PaintPot_External.png",
+    "underlayName": "Relic_PaintPot_Internal.png",
+    "hexColor": "#7C8286",
+    "foundInSilo": "WH_40K"
+  },
+  "MEPHISTON_RED": {
+    "name": "Mephiston Red",
+    "description": "",
+    "tips": "",
+    "textureName": "NonSilo_UI_New",
+    "spriteName": "Relic_PaintPot_External.png",
+    "underlayName": "Relic_PaintPot_Internal.png",
+    "hexColor": "#991115",
+    "foundInSilo": "WH_40K"
+  },
+  "RAKARTH_FLESH": {
+    "name": "Rakarth Flesh",
+    "description": "",
+    "tips": "",
+    "textureName": "NonSilo_UI_New",
+    "spriteName": "Relic_PaintPot_External.png",
+    "underlayName": "Relic_PaintPot_Internal.png",
+    "hexColor": "#B9ADA1",
+    "foundInSilo": "WH_AOS"
+  },
+  "RETRIBUTOR_ARMOUR": {
+    "name": "Retributor Armour",
+    "description": "",
+    "tips": "",
+    "textureName": "NonSilo_UI_New",
+    "spriteName": "Relic_PaintPot_External.png",
+    "underlayName": "Relic_PaintPot_Internal.png",
+    "hexColor": "#E7BD42",
+    "foundInSilo": "WH_AOS"
+  },
+  "RUNELORD_BRASS": {
+    "name": "Runelord Brass",
+    "description": "",
+    "tips": "",
+    "textureName": "NonSilo_UI_New",
+    "spriteName": "Relic_PaintPot_External.png",
+    "underlayName": "Relic_PaintPot_Internal.png",
+    "hexColor": "#735A21",
+    "foundInSilo": "WH_AOS"
+  },
+//  "STORMHOST_SILVER": {
+//    "name": "Stormhost Silver",
+//    "description": "",
+//    "tips": "",
+//    "textureName": "NonSilo_UI_New",
+//    "spriteName": "Relic_PaintPot_External.png",
+//    "underlayName": "Relic_PaintPot_Internal.png",
+//    "hexColor": "#B5B5BD"
+//  },
+  
+  "AGRAX_EARTHSHADE": {
+    "name": "Agrax Earthshade",
+    "description": "",
+    "tips": "",
+    "textureName": "NonSilo_UI_New",
+    "spriteName": "Relic_PaintPot_External.png",
+    "underlayName": "Relic_PaintPot_Internal.png",
+    "hexColor": "#393121",
+    "foundInSilo": "WH_40K"
+  },
+  "DRAKENHOF_NIGHTSHADE": {
+    "name": "Drakenhof Nightshade",
+    "description": "",
+    "tips": "",
+    "textureName": "NonSilo_UI_New",
+    "spriteName": "Relic_PaintPot_External.png",
+    "underlayName": "Relic_PaintPot_Internal.png",
+    "hexColor": "#273E51",
+    "foundInSilo": "WH_AOS"
+  },
+  "REIKLAND_FLESHSHADE": {
+    "name": "Reikland Fleshshade",
+    "description": "",
+    "tips": "",
+    "textureName": "NonSilo_UI_New",
+    "spriteName": "Relic_PaintPot_External.png",
+    "underlayName": "Relic_PaintPot_Internal.png",
+    "hexColor": "#CE8C42",
+    "foundInSilo": "WH_AOS"
+  }
 }

@@ -20,5 +20,269 @@
         "_value": "Obtain the required Warhammer Paint Pots."
       }
     }
+  },
+  "fr": {
+    "ws_RedemptionArc": {
+      "name": {
+        "_value": "Arc de rédemption"
+      }
+    },
+    "ws_VampireSurvivor": {
+      "name": {
+        "_value": "Vampire Survivor"
+      }
+    },
+    "ws_CryptBreaker": {
+      "name": {
+        "_value": "Briser la crypte"
+      }
+    },
+    "ws_ObtainWarhammerPaint": {
+      "description": {
+        "_value": "Obtenez les pots de peinture Warhammer nécessaires."
+      }
+    }
+  },
+  "it": {
+    "ws_RedemptionArc": {
+      "name": {
+        "_value": "Arco di Redenzione"
+      }
+    },
+    "ws_VampireSurvivor": {
+      "name": {
+        "_value": "Vampire Survivor"
+      }
+    },
+    "ws_CryptBreaker": {
+      "name": {
+        "_value": "Spezzacripta"
+      }
+    },
+    "ws_ObtainWarhammerPaint": {
+      "description": {
+        "_value": "Ottieni i Tubetti di Vernice Warhammer necessari."
+      }
+    }
+  },
+  "de": {
+    "ws_RedemptionArc": {
+      "name": {
+        "_value": "Erlösungsbogen"
+      }
+    },
+    "ws_VampireSurvivor": {
+      "name": {
+        "_value": "Vampir-Überlebender"
+      }
+    },
+    "ws_CryptBreaker": {
+      "name": {
+        "_value": "Gruftstürmer"
+      }
+    },
+    "ws_ObtainWarhammerPaint": {
+      "description": {
+        "_value": "Besorge die erforderlichen Warhammer-Farbtöpfe."
+      }
+    }
+  },
+  "es": {
+    "ws_RedemptionArc": {
+      "name": {
+        "_value": "Arco de redención"
+      }
+    },
+    "ws_VampireSurvivor": {
+      "name": {
+        "_value": "Superviviente vampiro"
+      }
+    },
+    "ws_CryptBreaker": {
+      "name": {
+        "_value": "Rompecriptas"
+      }
+    },
+    "ws_ObtainWarhammerPaint": {
+      "description": {
+        "_value": "Obtén los botes de pintura Warhammer necesarios."
+      }
+    }
+  },
+  "ja": {
+    "ws_RedemptionArc": {
+      "name": {
+        "_value": "リデンプション・アーク"
+      }
+    },
+    "ws_VampireSurvivor": {
+      "name": {
+        "_value": "ヴァンパイア・サバイバー"
+      }
+    },
+    "ws_CryptBreaker": {
+      "name": {
+        "_value": "クリプトブレイカー"
+      }
+    },
+    "ws_ObtainWarhammerPaint": {
+      "description": {
+        "_value": "必要なウォーハンマー塗料の小瓶を集める。"
+      }
+    }
+  },
+  "ko": {
+    "ws_RedemptionArc": {
+      "name": {
+        "_value": "구원의 여정"
+      }
+    },
+    "ws_VampireSurvivor": {
+      "name": {
+        "_value": "뱀파이어 생존자"
+      }
+    },
+    "ws_CryptBreaker": {
+      "name": {
+        "_value": "묘실 파괴자"
+      }
+    },
+    "ws_ObtainWarhammerPaint": {
+      "description": {
+        "_value": "필요한 Warhammer 페인트 통을 획득하세요."
+      }
+    }
+  },
+  "pl": {
+    "ws_RedemptionArc": {
+      "name": {
+        "_value": "Droga ku odkupieniu"
+      }
+    },
+    "ws_VampireSurvivor": {
+      "name": {
+        "_value": "Vampire Survivor"
+      }
+    },
+    "ws_CryptBreaker": {
+      "name": {
+        "_value": "Łamacz Krypt"
+      }
+    },
+    "ws_ObtainWarhammerPaint": {
+      "description": {
+        "_value": "Zdobądź wymagane pojemniki z farbą Warhammer."
+      }
+    }
+  },
+  "pt-BR": {
+    "ws_RedemptionArc": {
+      "name": {
+        "_value": "Arco da Redenção"
+      }
+    },
+    "ws_VampireSurvivor": {
+      "name": {
+        "_value": "Sobrevivente Vampiro"
+      }
+    },
+    "ws_CryptBreaker": {
+      "name": {
+        "_value": "Destruidor de Criptas"
+      }
+    },
+    "ws_ObtainWarhammerPaint": {
+      "description": {
+        "_value": "Obtenha os Potes de Tinta Warhammer necessários."
+      }
+    }
+  },
+  "ru": {
+    "ws_RedemptionArc": {
+      "name": {
+        "_value": "Арка искупления"
+      }
+    },
+    "ws_VampireSurvivor": {
+      "name": {
+        "_value": "Выживший вампир"
+      }
+    },
+    "ws_CryptBreaker": {
+      "name": {
+        "_value": "Взломщик склепов"
+      }
+    },
+    "ws_ObtainWarhammerPaint": {
+      "description": {
+        "_value": "Соберите необходимые баночки с краской Warhammer."
+      }
+    }
+  },
+  "zh-CN": {
+    "ws_RedemptionArc": {
+      "name": {
+        "_value": "救赎之路"
+      }
+    },
+    "ws_VampireSurvivor": {
+      "name": {
+        "_value": "吸血鬼幸存者"
+      }
+    },
+    "ws_CryptBreaker": {
+      "name": {
+        "_value": "掘墓者"
+      }
+    },
+    "ws_ObtainWarhammerPaint": {
+      "description": {
+        "_value": "获取所需的战锤颜料罐。"
+      }
+    }
+  },
+  "tr": {
+    "ws_RedemptionArc": {
+      "name": {
+        "_value": "Kefaret Yayı"
+      }
+    },
+    "ws_VampireSurvivor": {
+      "name": {
+        "_value": "Vampirden Kurtulan"
+      }
+    },
+    "ws_CryptBreaker": {
+      "name": {
+        "_value": "Mezarkıran"
+      }
+    },
+    "ws_ObtainWarhammerPaint": {
+      "description": {
+        "_value": "Gerekli Warhammer Boya Kutuları’nı elde et."
+      }
+    }
+  },
+  "uk": {
+    "ws_RedemptionArc": {
+      "name": {
+        "_value": "Історія спокути"
+      }
+    },
+    "ws_VampireSurvivor": {
+      "name": {
+        "_value": "Vampire Survivor"
+      }
+    },
+    "ws_CryptBreaker": {
+      "name": {
+        "_value": "Crypt-Breaker"
+      }
+    },
+    "ws_ObtainWarhammerPaint": {
+      "description": {
+        "_value": "Зберіть необхідні банки з фарбою Warhammer."
+      }
+    }
   }
 }

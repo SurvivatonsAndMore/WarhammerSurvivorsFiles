@@ -85,5 +85,1049 @@
         "_value": "Necropolis"
       }
     }
+  },
+  "fr": {
+    "WS_40K_Main": {
+      "title": {
+        "_value": "Menu principal - Warhammer 40,000"
+      }
+    },
+    "WS_AOS_Main": {
+      "title": {
+        "_value": "Menu principal - Warhammer Age of Sigmar"
+      }
+    },
+    "WS_40K_ImperialBastion": {
+      "title": {
+        "_value": "Bastion impérial"
+      }
+    },
+    "WS_40K_Gallowdark": {
+      "title": {
+        "_value": "Gallowdark"
+      }
+    },
+    "WS_40K_OrkStronghold": {
+      "title": {
+        "_value": "Forteresse ork"
+      }
+    },
+    "WS_40K_DeathWorldInvasion": {
+      "title": {
+        "_value": "Invasion du monde hostile"
+      }
+    },
+    "WS_40K_DesertWasteland": {
+      "title": {
+        "_value": "Wastelands désertiques"
+      }
+    },
+    "WS_40K_HobbyTable": {
+      "title": {
+        "_value": "Table de jeu - Warhammer 40,000"
+      }
+    },
+    "WS_40K_PerilsWarp": {
+      "title": {
+        "_value": "Les Dangers du Warp"
+      }
+    },
+    "WS_AOS_GreatParch": {
+      "title": {
+        "_value": "Le Vaste Aride"
+      }
+    },
+    "WS_AOS_SkrappaSpill": {
+      "title": {
+        "_value": "Mont d'Ferraille"
+      }
+    },
+    "WS_AOS_BloodwindSpoil": {
+      "title": {
+        "_value": "Bloodwind Spoil"
+      }
+    },
+    "WS_AOS_TwinTailed": {
+      "title": {
+        "_value": "La Cité à Deux Queues"
+      }
+    },
+    "WS_AOS_UnderEmpire": {
+      "title": {
+        "_value": "Empire Souterrain"
+      }
+    },
+    "WS_AOS_Gnarlwood": {
+      "title": {
+        "_value": "Bois Noueux"
+      }
+    },
+    "WS_AOS_HobbyTable": {
+      "title": {
+        "_value": "Table de jeu - Warhammer Age of Sigmar"
+      }
+    },
+    "WS_AOS_Necropolis": {
+      "title": {
+        "_value": "Necropolis"
+      }
+    }
+  },
+  "it": {
+    "WS_40K_Main": {
+      "title": {
+        "_value": "Menu principale - Warhammer 40.000"
+      }
+    },
+    "WS_AOS_Main": {
+      "title": {
+        "_value": "Menu principale - Warhammer Age of Sigmar"
+      }
+    },
+    "WS_40K_ImperialBastion": {
+      "title": {
+        "_value": "Bastione Imperiale"
+      }
+    },
+    "WS_40K_Gallowdark": {
+      "title": {
+        "_value": "Patibolo Nero"
+      }
+    },
+    "WS_40K_OrkStronghold": {
+      "title": {
+        "_value": "Fortezza degli Orki"
+      }
+    },
+    "WS_40K_DeathWorldInvasion": {
+      "title": {
+        "_value": "Invasione del Mondo Assassino"
+      }
+    },
+    "WS_40K_DesertWasteland": {
+      "title": {
+        "_value": "Landa Desolata"
+      }
+    },
+    "WS_40K_HobbyTable": {
+      "title": {
+        "_value": "Tavolino da Hobby - Warhammer 40.000"
+      }
+    },
+    "WS_40K_PerilsWarp": {
+      "title": {
+        "_value": "Pericoli del Warp"
+      }
+    },
+    "WS_AOS_GreatParch": {
+      "title": {
+        "_value": "La Grande Siccità"
+      }
+    },
+    "WS_AOS_SkrappaSpill": {
+      "title": {
+        "_value": "Fosso dei Rottami"
+      }
+    },
+    "WS_AOS_BloodwindSpoil": {
+      "title": {
+        "_value": "Distesa di Bloodwind"
+      }
+    },
+    "WS_AOS_TwinTailed": {
+      "title": {
+        "_value": "La Città a Due Code"
+      }
+    },
+    "WS_AOS_UnderEmpire": {
+      "title": {
+        "_value": "Impero Sotterraneo"
+      }
+    },
+    "WS_AOS_Gnarlwood": {
+      "title": {
+        "_value": "Bosco Nodoso"
+      }
+    },
+    "WS_AOS_HobbyTable": {
+      "title": {
+        "_value": "Tavolino da Hobby - Warhammer Age of Sigmar"
+      }
+    },
+    "WS_AOS_Necropolis": {
+      "title": {
+        "_value": "Necropoli"
+      }
+    }
+  },
+  "de": {
+    "WS_40K_Main": {
+      "title": {
+        "_value": "Hauptmenü – Warhammer 40.000"
+      }
+    },
+    "WS_AOS_Main": {
+      "title": {
+        "_value": "Hauptmenü – Warhammer Age of Sigmar"
+      }
+    },
+    "WS_40K_ImperialBastion": {
+      "title": {
+        "_value": "Imperiale Bastion"
+      }
+    },
+    "WS_40K_Gallowdark": {
+      "title": {
+        "_value": "Galgenschatten"
+      }
+    },
+    "WS_40K_OrkStronghold": {
+      "title": {
+        "_value": "Orkfestung"
+      }
+    },
+    "WS_40K_DeathWorldInvasion": {
+      "title": {
+        "_value": "Invasion der Todeswelt"
+      }
+    },
+    "WS_40K_DesertWasteland": {
+      "title": {
+        "_value": "Wüstenödland"
+      }
+    },
+    "WS_40K_HobbyTable": {
+      "title": {
+        "_value": "Hobbytisch – Warhammer 40.000"
+      }
+    },
+    "WS_40K_PerilsWarp": {
+      "title": {
+        "_value": "Gefahren des Warp"
+      }
+    },
+    "WS_AOS_GreatParch": {
+      "title": {
+        "_value": "Die Große Dörre"
+      }
+    },
+    "WS_AOS_SkrappaSpill": {
+      "title": {
+        "_value": "Schlägahaufn"
+      }
+    },
+    "WS_AOS_BloodwindSpoil": {
+      "title": {
+        "_value": "Blutwindfluch"
+      }
+    },
+    "WS_AOS_TwinTailed": {
+      "title": {
+        "_value": "Die Zweischweifige Stadt"
+      }
+    },
+    "WS_AOS_UnderEmpire": {
+      "title": {
+        "_value": "Tiefenreich"
+      }
+    },
+    "WS_AOS_Gnarlwood": {
+      "title": {
+        "_value": "Knarrwald"
+      }
+    },
+    "WS_AOS_HobbyTable": {
+      "title": {
+        "_value": "Hobbytisch – Warhammer Age of Sigmar"
+      }
+    },
+    "WS_AOS_Necropolis": {
+      "title": {
+        "_value": "Nekropolis"
+      }
+    }
+  },
+  "es": {
+    "WS_40K_Main": {
+      "title": {
+        "_value": "Menú principal - Warhammer 40,000"
+      }
+    },
+    "WS_AOS_Main": {
+      "title": {
+        "_value": "Menú principal - Warhammer Age of Sigmar"
+      }
+    },
+    "WS_40K_ImperialBastion": {
+      "title": {
+        "_value": "Bastión imperial"
+      }
+    },
+    "WS_40K_Gallowdark": {
+      "title": {
+        "_value": "Horcasombría"
+      }
+    },
+    "WS_40K_OrkStronghold": {
+      "title": {
+        "_value": "Fortaleza orka"
+      }
+    },
+    "WS_40K_DeathWorldInvasion": {
+      "title": {
+        "_value": "Invasión del mundo letal"
+      }
+    },
+    "WS_40K_DesertWasteland": {
+      "title": {
+        "_value": "Páramo desértico"
+      }
+    },
+    "WS_40K_HobbyTable": {
+      "title": {
+        "_value": "Mesa de hobby - Warhammer 40,000"
+      }
+    },
+    "WS_40K_PerilsWarp": {
+      "title": {
+        "_value": "Peligros de la disformidad"
+      }
+    },
+    "WS_AOS_GreatParch": {
+      "title": {
+        "_value": "Gran Erial"
+      }
+    },
+    "WS_AOS_SkrappaSpill": {
+      "title": {
+        "_value": "Barranko del Dezparrame"
+      }
+    },
+    "WS_AOS_BloodwindSpoil": {
+      "title": {
+        "_value": "Bloodwind Spoil"
+      }
+    },
+    "WS_AOS_TwinTailed": {
+      "title": {
+        "_value": "La Ciudad de dos colas"
+      }
+    },
+    "WS_AOS_UnderEmpire": {
+      "title": {
+        "_value": "Imperio Subterráneo"
+      }
+    },
+    "WS_AOS_Gnarlwood": {
+      "title": {
+        "_value": "Bosque Nudoso"
+      }
+    },
+    "WS_AOS_HobbyTable": {
+      "title": {
+        "_value": "Mesa de hobby - Warhammer Age of Sigmar"
+      }
+    },
+    "WS_AOS_Necropolis": {
+      "title": {
+        "_value": "Necrópolis"
+      }
+    }
+  },
+  "ja": {
+    "WS_40K_Main": {
+      "title": {
+        "_value": "メインメニュー - ウォーハンマー40,000"
+      }
+    },
+    "WS_AOS_Main": {
+      "title": {
+        "_value": "メインメニュー - ウォーハンマー：エイジ・オヴ・シグマー"
+      }
+    },
+    "WS_40K_ImperialBastion": {
+      "title": {
+        "_value": "帝国の掩蔽壕"
+      }
+    },
+    "WS_40K_Gallowdark": {
+      "title": {
+        "_value": "ギャロウダーク"
+      }
+    },
+    "WS_40K_OrkStronghold": {
+      "title": {
+        "_value": "オークの砦"
+      }
+    },
+    "WS_40K_DeathWorldInvasion": {
+      "title": {
+        "_value": "死地惑星への侵攻"
+      }
+    },
+    "WS_40K_DesertWasteland": {
+      "title": {
+        "_value": "砂の荒野"
+      }
+    },
+    "WS_40K_HobbyTable": {
+      "title": {
+        "_value": "ホビーテーブル - ウォーハンマー40,000"
+      }
+    },
+    "WS_40K_PerilsWarp": {
+      "title": {
+        "_value": "歪みの崩壊"
+      }
+    },
+    "WS_AOS_GreatParch": {
+      "title": {
+        "_value": "大焦界"
+      }
+    },
+    "WS_AOS_SkrappaSpill": {
+      "title": {
+        "_value": "スクラッパスピル"
+      }
+    },
+    "WS_AOS_BloodwindSpoil": {
+      "title": {
+        "_value": "血風の略奪地"
+      }
+    },
+    "WS_AOS_TwinTailed": {
+      "title": {
+        "_value": "双尾の都"
+      }
+    },
+    "WS_AOS_UnderEmpire": {
+      "title": {
+        "_value": "地下の帝国"
+      }
+    },
+    "WS_AOS_Gnarlwood": {
+      "title": {
+        "_value": "唸りの森"
+      }
+    },
+    "WS_AOS_HobbyTable": {
+      "title": {
+        "_value": "ホビーテーブル - ウォーハンマー：エイジ・オヴ・シグマー"
+      }
+    },
+    "WS_AOS_Necropolis": {
+      "title": {
+        "_value": "ネクロポリス"
+      }
+    }
+  },
+  "ko": {
+    "WS_40K_Main": {
+      "title": {
+        "_value": "메인 메뉴 - Warhammer 40,000"
+      }
+    },
+    "WS_AOS_Main": {
+      "title": {
+        "_value": "메인 메뉴 - Warhammer Age of Sigmar"
+      }
+    },
+    "WS_40K_ImperialBastion": {
+      "title": {
+        "_value": "제국 요새"
+      }
+    },
+    "WS_40K_Gallowdark": {
+      "title": {
+        "_value": "갤로우다크"
+      }
+    },
+    "WS_40K_OrkStronghold": {
+      "title": {
+        "_value": "오크 요새"
+      }
+    },
+    "WS_40K_DeathWorldInvasion": {
+      "title": {
+        "_value": "데스 월드 침공"
+      }
+    },
+    "WS_40K_DesertWasteland": {
+      "title": {
+        "_value": "메마른 황무지"
+      }
+    },
+    "WS_40K_HobbyTable": {
+      "title": {
+        "_value": "취미 작업대 - Warhammer 40,000"
+      }
+    },
+    "WS_40K_PerilsWarp": {
+      "title": {
+        "_value": "워프의 위험"
+      }
+    },
+    "WS_AOS_GreatParch": {
+      "title": {
+        "_value": "그레이트 파치"
+      }
+    },
+    "WS_AOS_SkrappaSpill": {
+      "title": {
+        "_value": "스크라파 스필"
+      }
+    },
+    "WS_AOS_BloodwindSpoil": {
+      "title": {
+        "_value": "블러드윈드 스포일"
+      }
+    },
+    "WS_AOS_TwinTailed": {
+      "title": {
+        "_value": "쌍꼬리 도시"
+      }
+    },
+    "WS_AOS_UnderEmpire": {
+      "title": {
+        "_value": "언더엠파이어"
+      }
+    },
+    "WS_AOS_Gnarlwood": {
+      "title": {
+        "_value": "날우드"
+      }
+    },
+    "WS_AOS_HobbyTable": {
+      "title": {
+        "_value": "취미 작업대 - Warhammer Age of Sigmar"
+      }
+    },
+    "WS_AOS_Necropolis": {
+      "title": {
+        "_value": "네크로폴리스"
+      }
+    }
+  },
+  "pl": {
+    "WS_40K_Main": {
+      "title": {
+        "_value": "Menu główne – Warhammer 40 000"
+      }
+    },
+    "WS_AOS_Main": {
+      "title": {
+        "_value": "Menu główne – Warhammer Age of Sigmar."
+      }
+    },
+    "WS_40K_ImperialBastion": {
+      "title": {
+        "_value": "Bastion Imperium"
+      }
+    },
+    "WS_40K_Gallowdark": {
+      "title": {
+        "_value": "Wisielczy Mrok"
+      }
+    },
+    "WS_40K_OrkStronghold": {
+      "title": {
+        "_value": "Twierdza Orków"
+      }
+    },
+    "WS_40K_DeathWorldInvasion": {
+      "title": {
+        "_value": "Inwazja Świata Śmierci"
+      }
+    },
+    "WS_40K_DesertWasteland": {
+      "title": {
+        "_value": "Pustynne Rubieże"
+      }
+    },
+    "WS_40K_HobbyTable": {
+      "title": {
+        "_value": "Stół Modelarski – Warhammer 40 000"
+      }
+    },
+    "WS_40K_PerilsWarp": {
+      "title": {
+        "_value": "Niebezpieczeństwa Warpu"
+      }
+    },
+    "WS_AOS_GreatParch": {
+      "title": {
+        "_value": "Wielka Spieka"
+      }
+    },
+    "WS_AOS_SkrappaSpill": {
+      "title": {
+        "_value": "Hałda Skrappy"
+      }
+    },
+    "WS_AOS_BloodwindSpoil": {
+      "title": {
+        "_value": "Bloodwind Spoil"
+      }
+    },
+    "WS_AOS_TwinTailed": {
+      "title": {
+        "_value": "Miasto o Dwóch Ogonach"
+      }
+    },
+    "WS_AOS_UnderEmpire": {
+      "title": {
+        "_value": "Podziemne Imperium"
+      }
+    },
+    "WS_AOS_Gnarlwood": {
+      "title": {
+        "_value": "Sękaty Las"
+      }
+    },
+    "WS_AOS_HobbyTable": {
+      "title": {
+        "_value": "Stół Modelarski – Warhammer Age of Sigmar"
+      }
+    },
+    "WS_AOS_Necropolis": {
+      "title": {
+        "_value": "Nekropolia"
+      }
+    }
+  },
+  "pt-BR": {
+    "WS_40K_Main": {
+      "title": {
+        "_value": "Menu principal - Warhammer 40.000"
+      }
+    },
+    "WS_AOS_Main": {
+      "title": {
+        "_value": "Menu principal - Warhammer Era de Sigmar"
+      }
+    },
+    "WS_40K_ImperialBastion": {
+      "title": {
+        "_value": "Bastião Imperial"
+      }
+    },
+    "WS_40K_Gallowdark": {
+      "title": {
+        "_value": "Gallowdark"
+      }
+    },
+    "WS_40K_OrkStronghold": {
+      "title": {
+        "_value": "Fortaleza Ork"
+      }
+    },
+    "WS_40K_DeathWorldInvasion": {
+      "title": {
+        "_value": "Invasão do Mundo da Morte"
+      }
+    },
+    "WS_40K_DesertWasteland": {
+      "title": {
+        "_value": "Deserto Árido"
+      }
+    },
+    "WS_40K_HobbyTable": {
+      "title": {
+        "_value": "Mesa de Hobby - Warhammer 40.000"
+      }
+    },
+    "WS_40K_PerilsWarp": {
+      "title": {
+        "_value": "Perigos da Mutação"
+      }
+    },
+    "WS_AOS_GreatParch": {
+      "title": {
+        "_value": "A Grande Seca"
+      }
+    },
+    "WS_AOS_SkrappaSpill": {
+      "title": {
+        "_value": "Jogos de Razpadinha"
+      }
+    },
+    "WS_AOS_BloodwindSpoil": {
+      "title": {
+        "_value": "Espólio de Bloodwind"
+      }
+    },
+    "WS_AOS_TwinTailed": {
+      "title": {
+        "_value": "A Cidade das Duas Caudas"
+      }
+    },
+    "WS_AOS_UnderEmpire": {
+      "title": {
+        "_value": "Sub-Império"
+      }
+    },
+    "WS_AOS_Gnarlwood": {
+      "title": {
+        "_value": "Gnarlwood"
+      }
+    },
+    "WS_AOS_HobbyTable": {
+      "title": {
+        "_value": "Mesa de hobby - Warhammer: Era de Sigmar"
+      }
+    },
+    "WS_AOS_Necropolis": {
+      "title": {
+        "_value": "Necrópolis"
+      }
+    }
+  },
+  "ru": {
+    "WS_40K_Main": {
+      "title": {
+        "_value": "Главное меню Warhammer 40,000"
+      }
+    },
+    "WS_AOS_Main": {
+      "title": {
+        "_value": "Главное меню Warhammer Age of Sigmar"
+      }
+    },
+    "WS_40K_ImperialBastion": {
+      "title": {
+        "_value": "Имперский бастион"
+      }
+    },
+    "WS_40K_Gallowdark": {
+      "title": {
+        "_value": "Галловдарк"
+      }
+    },
+    "WS_40K_OrkStronghold": {
+      "title": {
+        "_value": "Крепость орков"
+      }
+    },
+    "WS_40K_DeathWorldInvasion": {
+      "title": {
+        "_value": "Вторжение в мир смерти"
+      }
+    },
+    "WS_40K_DesertWasteland": {
+      "title": {
+        "_value": "Песчаные пустоши"
+      }
+    },
+    "WS_40K_HobbyTable": {
+      "title": {
+        "_value": "Хобби-стол Warhammer 40,000"
+      }
+    },
+    "WS_40K_PerilsWarp": {
+      "title": {
+        "_value": "Опасности варпа"
+      }
+    },
+    "WS_AOS_GreatParch": {
+      "title": {
+        "_value": "Великая Сушь"
+      }
+    },
+    "WS_AOS_SkrappaSpill": {
+      "title": {
+        "_value": "Скрапп-Разлив"
+      }
+    },
+    "WS_AOS_BloodwindSpoil": {
+      "title": {
+        "_value": "Bloodwind Spoil"
+      }
+    },
+    "WS_AOS_TwinTailed": {
+      "title": {
+        "_value": "Двухвостый Город"
+      }
+    },
+    "WS_AOS_UnderEmpire": {
+      "title": {
+        "_value": "Подземная Империя"
+      }
+    },
+    "WS_AOS_Gnarlwood": {
+      "title": {
+        "_value": "Криволесье"
+      }
+    },
+    "WS_AOS_HobbyTable": {
+      "title": {
+        "_value": "Хобби-стол Warhammer Age of Sigmar"
+      }
+    },
+    "WS_AOS_Necropolis": {
+      "title": {
+        "_value": "Некрополь"
+      }
+    }
+  },
+  "zh-CN": {
+    "WS_40K_Main": {
+      "title": {
+        "_value": "主菜单 —— 战锤40000"
+      }
+    },
+    "WS_AOS_Main": {
+      "title": {
+        "_value": "主菜单 —— 战锤西格玛时代"
+      }
+    },
+    "WS_40K_ImperialBastion": {
+      "title": {
+        "_value": "帝国堡垒"
+      }
+    },
+    "WS_40K_Gallowdark": {
+      "title": {
+        "_value": "绞刑暗渊"
+      }
+    },
+    "WS_40K_OrkStronghold": {
+      "title": {
+        "_value": "欧克蛮人要塞"
+      }
+    },
+    "WS_40K_DeathWorldInvasion": {
+      "title": {
+        "_value": "死亡世界入侵"
+      }
+    },
+    "WS_40K_DesertWasteland": {
+      "title": {
+        "_value": "荒漠废土"
+      }
+    },
+    "WS_40K_HobbyTable": {
+      "title": {
+        "_value": "模型桌 —— 战锤40000"
+      }
+    },
+    "WS_40K_PerilsWarp": {
+      "title": {
+        "_value": "亚空间危机"
+      }
+    },
+    "WS_AOS_GreatParch": {
+      "title": {
+        "_value": "大焦原"
+      }
+    },
+    "WS_AOS_SkrappaSpill": {
+      "title": {
+        "_value": "万废山"
+      }
+    },
+    "WS_AOS_BloodwindSpoil": {
+      "title": {
+        "_value": "血风掠夺"
+      }
+    },
+    "WS_AOS_TwinTailed": {
+      "title": {
+        "_value": "双尾之城"
+      }
+    },
+    "WS_AOS_UnderEmpire": {
+      "title": {
+        "_value": "地底帝国"
+      }
+    },
+    "WS_AOS_Gnarlwood": {
+      "title": {
+        "_value": "瘤木林"
+      }
+    },
+    "WS_AOS_HobbyTable": {
+      "title": {
+        "_value": "模型桌 —— 战锤西格玛时代"
+      }
+    },
+    "WS_AOS_Necropolis": {
+      "title": {
+        "_value": "亡者之地"
+      }
+    }
+  },
+  "tr": {
+    "WS_40K_Main": {
+      "title": {
+        "_value": "Ana Menü - Warhammer 40,000"
+      }
+    },
+    "WS_AOS_Main": {
+      "title": {
+        "_value": "Ana Menü - Warhammer Age of Sigmar"
+      }
+    },
+    "WS_40K_ImperialBastion": {
+      "title": {
+        "_value": "İmparatorluk Hisarı"
+      }
+    },
+    "WS_40K_Gallowdark": {
+      "title": {
+        "_value": "Gallowdark"
+      }
+    },
+    "WS_40K_OrkStronghold": {
+      "title": {
+        "_value": "Ork Kalesi"
+      }
+    },
+    "WS_40K_DeathWorldInvasion": {
+      "title": {
+        "_value": "Ölüm Dünyası İstilası"
+      }
+    },
+    "WS_40K_DesertWasteland": {
+      "title": {
+        "_value": "Çorak Çöl"
+      }
+    },
+    "WS_40K_HobbyTable": {
+      "title": {
+        "_value": "Hobi Masası - Warhammer 40,000"
+      }
+    },
+    "WS_40K_PerilsWarp": {
+      "title": {
+        "_value": "Warp Felaketleri"
+      }
+    },
+    "WS_AOS_GreatParch": {
+      "title": {
+        "_value": "Büyük Kuraklık"
+      }
+    },
+    "WS_AOS_SkrappaSpill": {
+      "title": {
+        "_value": "Hurda Yığını"
+      }
+    },
+    "WS_AOS_BloodwindSpoil": {
+      "title": {
+        "_value": "Kanlı Rüzgar Toprakları"
+      }
+    },
+    "WS_AOS_TwinTailed": {
+      "title": {
+        "_value": "Çift Kuyruklu Şehir"
+      }
+    },
+    "WS_AOS_UnderEmpire": {
+      "title": {
+        "_value": "Yeraltı İmparatorluğu"
+      }
+    },
+    "WS_AOS_Gnarlwood": {
+      "title": {
+        "_value": "Boğumlukoru"
+      }
+    },
+    "WS_AOS_HobbyTable": {
+      "title": {
+        "_value": "Hobi Masası - Warhammer Age of Sigmar"
+      }
+    },
+    "WS_AOS_Necropolis": {
+      "title": {
+        "_value": "Nekropol"
+      }
+    }
+  },
+  "uk": {
+    "WS_40K_Main": {
+      "title": {
+        "_value": "Головне меню — Warhammer 40 000"
+      }
+    },
+    "WS_AOS_Main": {
+      "title": {
+        "_value": "Головне меню — Warhammer Age of Sigmar"
+      }
+    },
+    "WS_40K_ImperialBastion": {
+      "title": {
+        "_value": "Імперський бастіон"
+      }
+    },
+    "WS_40K_Gallowdark": {
+      "title": {
+        "_value": "Шибомряка"
+      }
+    },
+    "WS_40K_OrkStronghold": {
+      "title": {
+        "_value": "Орча твердиня"
+      }
+    },
+    "WS_40K_DeathWorldInvasion": {
+      "title": {
+        "_value": "Вторгнення на Світ Смерті"
+      }
+    },
+    "WS_40K_DesertWasteland": {
+      "title": {
+        "_value": "Піщана пустка"
+      }
+    },
+    "WS_40K_HobbyTable": {
+      "title": {
+        "_value": "Стіл для хобі — Warhammer 40 000"
+      }
+    },
+    "WS_40K_PerilsWarp": {
+      "title": {
+        "_value": "Небезпеки Викривлення"
+      }
+    },
+    "WS_AOS_GreatParch": {
+      "title": {
+        "_value": "Велика Посуха"
+      }
+    },
+    "WS_AOS_SkrappaSpill": {
+      "title": {
+        "_value": "Брухтосхил"
+      }
+    },
+    "WS_AOS_BloodwindSpoil": {
+      "title": {
+        "_value": "Кривавовітряна здобич"
+      }
+    },
+    "WS_AOS_TwinTailed": {
+      "title": {
+        "_value": "Двохвосте місто"
+      }
+    },
+    "WS_AOS_UnderEmpire": {
+      "title": {
+        "_value": "Підземна імперія"
+      }
+    },
+    "WS_AOS_Gnarlwood": {
+      "title": {
+        "_value": "Сучколісся"
+      }
+    },
+    "WS_AOS_HobbyTable": {
+      "title": {
+        "_value": "Стіл для хобі — Warhammer Age of Sigmar"
+      }
+    },
+    "WS_AOS_Necropolis": {
+      "title": {
+        "_value": "Некрополь"
+      }
+    }
   }
 }

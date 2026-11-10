@@ -2,132 +2,420 @@
   "WS_40K_TYR_BOSS_NORN_EMISSARY": {
     "description": {
       "_value": [
-        "--- Weakness identified---\n--- Initiate Combat Doctrines ---"
+        "--- Weakness identified---\n--- Initiate Combat Doctrines ---",
+        "--- Faiblesse identifiée ---\n--- Démarrage des doctrines de combat ---",
+        "--- Debolezza identificata---\n--- Avviare Dottrina di Combattimento ---",
+        "--- Schwäche identifiziert---\n--- Kampfdoktrinen initiieren ---",
+        "--- Debilidad identificada---\n--- Iniciar doctrinas de combate ---",
+        "--- 弱点を特定 ---\n--- 戦闘ドクトリンをイニシエイト ---",
+        "--- 약점 확인 ---\n--- 전투 교리 개시 ---",
+        "--- Wykryto słabość ---\n--- Aktywować doktryny bojowe ---",
+        "--- Fraqueza identificada ---\n--- Iniciar doutrinas de combate ---",
+        "--- Обнаружена уязвимость---\n--- Активация боевых доктрин ---",
+        "---发现弱点---\n---启动战斗条令---",
+        "--- Zayıflık tespit edildi ---\n--- Savaş Doktrinlerini Başlat ---",
+        "--- Слабкості виявлено ---\n---Ініціювати бойові доктрини ---"
       ]
     },
     "button": {
       "_value": [
-        "For Ultramar!"
+        "For Ultramar!",
+        "Pour Ultramar !",
+        "Per Ultramar!",
+        "Für Ultramar!",
+        "¡Por Ultramar!",
+        "ウルトラマールの御名において！",
+        "울트라마르를 위하여!",
+        "Za Ultramar!",
+        "Por Ultramar!",
+        "За Ультрамар!",
+        "为了奥特拉玛！",
+        "Ultramar için!",
+        "За Ультрамар!"
       ]
     },
     "descriptionInvulnerable": {
       "_value": [
-        "--- Bio Signature Detected: Xenos ---\n--- Threat level: Extremis ---\n--- Consult Codex Astartes ---"
+        "--- Bio Signature Detected: Xenos ---\n--- Threat level: Extremis ---\n--- Consult Codex Astartes ---",
+        "--- Signature biologique détectée : Xénos ---\n--- Niveau de menace : Extremis ---\n--- Consultation du Codex Astartes ---",
+        "--- Firma biologica rilevata: Xeno ---\n--- Livello minaccia: estremo ---\n--- Consultare il Codex Astartes ---",
+        "--- Biosignatur erkannt: Xenos ---\n--- Gefahrenstufe: Extremis ---\n--- Codex Astartes konsultieren ---",
+        "--- Biofirma detectada: xenos ---\n--- Nivel de amenaza: Extremis ---\n--- Consultar Códex Astartes ---",
+        "--- 生体反応を検知：異種族（ゼノ） ---\n--- 脅威レベル：エクストレミス ---\n--- 〈戦いの聖典〉を参照 ---",
+        "--- 생체 신호 감지: 제노 ---\n--- 위협 수준: 익스트리미스 ---\n--- 코덱스 아스타르테스 참조 ---",
+        "--- Wykryto sygnaturę biologiczną: xenos ---\n--- Poziom zagrożenia: Extremis ---\n--- Sprawdzić w Codex Astartes ---",
+        "--- Assinatura biológica detectada: Xenos ---\n--- Nível de ameaça: Extremis ---\n--- Consulte o Codex Astartes ---",
+        "--- Обнаружена биосигнатура: ксенос ---\n--- Уровень угрозы: экстремис ---\n--- Сверка с Кодексом Астартес ---",
+        "---检测到异形生物信号---\n---威胁等级：极限---\n---查阅《阿斯塔特圣典》---",
+        "--- Biyolojik İmza Tespit Edildi: Xenos ---\n--- Tehdit Seviyesi: Extremis ---\n--- Astartes Kodeksi’ne Başvur ---",
+        "--- Виявлено біологічний зразок: зінас ---\n--- Рівень загрози: надзвичайний ---\n--- Звіритися з Кодекс Астартес ---"
       ]
     },
     "buttonInvulnerable": {
       "_value": [
-        "Attack!"
+        "Attack!",
+        "À l'attaque !",
+        "All'attacco!",
+        "Angriff!",
+        "¡Ataca!",
+        "攻撃！",
+        "공격!",
+        "Do ataku!",
+        "Atacar!",
+        "В атаку!",
+        "攻击！",
+        "Saldır!",
+        "В атаку!"
       ]
     }
   },
   "WS_40K_ORK_BOSS_GHAZGHKULL": {
     "description": {
       "_value": [
-        "Ah… my best enemy returns. Let's 'av a proper skrap! WAAAGH!"
+        "Ah… my best enemy returns. Let's 'av a proper skrap! WAAAGH!",
+        "Ah... Mon meilleur ennemi est de retour. Allez, qu'la baston soit bonne ! WAAAGH !",
+        "Ah... ecco che ritorna il mio miglior nemico. Facciam' una bella rizza come zi deve! WAAAGH!",
+        "Ah … Mein Lieblingsfeind kehrt zurück. Na los, hau’n wir uns richtig die Köpfe ein! WAAAGH!",
+        "Ah… vuelve mi mejor enemigo. ¡Vamoz a formar una buena bronka! ¡WAAAGH!",
+        "おお…我が最良の敵が戻ってきたか。さあ、本気でやり合おうじゃねぇか！いくさだァァァア！",
+        "아… 최고의 숙적이 돌아왔군. 어디 제대로 한판 붙어 보자! 와아아아!",
+        "Mój najlepszy wróg powraca. Czas na porządną rozróbę! WAAAGH!",
+        "Ah… meu melhor inimigo tá de volta. Bora brigar pra valer! WAAAGH!",
+        "А-а… Вернулся мой лучший враг. Погнали, устроим зачетную драку! ВАААГХ!",
+        "哈哈……俺滴老对手回来啦！咱们来好好干一架！WAAAGH！",
+        "Ah… en sevdiğim düşmanım geri döndü. Hadi şöyle güzelce bir kapışalım! WAAAGH!",
+        "О-о... мій найзапекліший ворог повертається. Нумо побрязкаєм металом! Ва-ха-ха!"
       ]
     },
     "button": {
       "_value": [
-        "Ready yourself."
+        "Ready yourself.",
+        "Prépare-toi.",
+        "Preparati.",
+        "Mach dich bereit.",
+        "Prepárate.",
+        "覚悟しろ。",
+        "각오해라.",
+        "Przygotuj się.",
+        "Prepare-se.",
+        "К бою.",
+        "做好准备。",
+        "Hazırlan.",
+        "Приготуйся."
       ]
     },
     "descriptionInvulnerable": {
       "_value": [
-        "You must be feelin' lucky coz you're not ready for da Warboss. Good enemies is hard to find. WAAAGH!"
+        "You must be feelin' lucky coz you're not ready for da Warboss. Good enemies is hard to find. WAAAGH!",
+        "T'as d'la chance. T'es pas prêt pour ce boss de guerre. C'pas facile de trouver d'bons ennemis. WAAAGH !",
+        "Penserai che la fortuna sia dalla vostra parte, perché non sei affatto pronto per un Kapoguerra. I buoni nemici sono difficili da trovare. WAAAGH!",
+        "Hältst dich wohl für einen Glückspilz, was? Denn du bist nicht bereit für den Waaaghboss. Gute Gegner findet man nicht alle Tage. WAAAGH!",
+        "Debez de tener zuerte, porke no eztáz preparado para el Kaudillo. Loz buenos enemigoz zon difízilez de encontrar. ¡WAAAGH!",
+        "運がいいと思ってるようだな。だがいくさ親分（ウォーボス）に挑む覚悟はできてねぇ。いい敵ってのはなかなか見つからねぇんだ。いくさだァァァア！",
+        "운 좋은 줄 알아라. 넌 아직 워보스를 상대할 준비가 안 됐으니까. 제대로 된 상대는 찾기 힘들거든. 와아아아!",
+        "Chyba szczęście ci dopisuje, bo z Bossem Wojny jeszcze nie masz szans. Dobrego wroga trudno znaleźć. WAAAGH!",
+        "Tu deve tá se sentindo com sorte, porque não tá pronto para enfrentar o chefão de guerra. É difícil achar bons inimigos. WAAAGH!",
+        "Тебе, видать, везет, раз ты не готов ко встрече с варбоссом. Хорошего врага нынче фиг найдешь. ВАААГХ!",
+        "你小子肯定觉得自己运气不错，因为你压根没准备好和战争头目开打。想找个像样滴对手可不容易啊。WAAAGH！",
+        "Hadi yine iyisin, daha Savaş Patronu’na hazır değilsin. Dişine göre düşman bulmak zordur. WAAAGH!",
+        "Дума'ш, мабуть, шо тобі повезло, але бойотажок тобі не по зубах. Гідного суперника тяжко знайти. Ва-ха-ха!"
       ]
     },
     "buttonInvulnerable": {
       "_value": [
-        "Attack!"
+        "Attack!",
+        "À l'attaque !",
+        "All'attacco!",
+        "Angriff!",
+        "¡Ataca!",
+        "攻撃！",
+        "공격!",
+        "Do ataku!",
+        "Atacar!",
+        "В атаку!",
+        "攻击！",
+        "Saldır!",
+        "В атаку!"
       ]
     }
   },
   "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
     "description": {
       "_value": [
-        "Heh heh heh… Pathetic tool of the Anathema. You will ROT and be returned to the Plaguefather."
+        "Heh heh heh… Pathetic tool of the Anathema. You will ROT and be returned to the Plaguefather.",
+        "Hé hé hé... Pauvre outil pathétique d'Anathema. Ton corps POURRISSANT retournera auprès du Père des Épidémies.",
+        "Eh eh eh... Patetico strumento dell'Anatema. MARCIRAI e tornerai dal Padre della Peste.",
+        "Hehehe … Erbärmlicher Diener des Anathemas. Du wirst VERROTTEN und dem Seuchenvater heimkehren.",
+        "Je, je, je… Patética herramienta del Anatema. Te PUDRIRÁS y volverás con el Padre de la Plaga.",
+        "へへへ…哀れなアナテマの道具め。お前は腐り果て、〈悪疫の父〉のもとへ還るのだ。",
+        "흐흐흐… 아나테마의 한심한 앞잡이로군. 썩어 문드러져 역병의 아버지께 돌아가리라.",
+        "He, he, he… Żałosne narzędzie Anatemy. ZGNIJESZ i powrócisz do Ojca Zarazy.",
+        "Heh heh heh… Instrumento patético do Anathema. Você vai APODRECER e será devolvido ao Pai da Peste.",
+        "Хе-хе-хе… Жалкое орудие Анафемы. Ты СГНИЕШЬ и вернешься в лоно Отца Чумы.",
+        "呵呵呵……可悲的伪神走狗。你必将溃烂腐朽，回归瘟疫之父的怀抱。",
+        "Heh heh heh… Anathema'nın zavallı oyuncağı. ÇÜRÜYECEK ve Veba Babası’na geri döneceksin.",
+        "Хе-хе-хе... Жалюгідне знаряддя з Анатеми. Ти згниєш і повернешся до Батька Чуми."
       ]
     },
     "button": {
       "_value": [
-        "Despair, foul beast!"
+        "Despair, foul beast!",
+        "Disparais, créature infâme !",
+        "Dispera, sciocca bestia!",
+        "Verzweifle, du widerwärtiges Ungeheuer!",
+        "¡Pierde toda esperanza, bestia inmunda!",
+        "絶望しろ、穢れた獣め！",
+        "절망하라, 추악한 괴물아!",
+        "Niech ogarnie cię rozpacz, plugawa bestio!",
+        "Desespere-se, besta imunda!",
+        "Познай отчаяние, мерзкая тварь!",
+        "绝望吧，肮脏的畜生！",
+        "Kahrol, seni iğrenç yaratık!",
+        "Впадай у відчай, огидна тварюко!"
       ]
     },
     "descriptionInvulnerable": {
       "_value": [
-        "The Grandfather laughs at your feebleness. You cannot cauterise this wound. Give in to the rot…"
+        "The Grandfather laughs at your feebleness. You cannot cauterise this wound. Give in to the rot…",
+        "Le Grand-Père rit de votre faiblesse. Tu ne peux pas soigner cette plaie. Abandonne-toi à la pourriture...",
+        "Il Nonno ride della tua debolezza. Non puoi cauterizzare questa ferita. Arrenditi al marciume...",
+        "Das Väterchen verhöhnt deine Schwäche. Diese Wunde kannst du nicht veröden. Ergib dich der Fäulnis …",
+        "El Abuelo se ríe de tu debilidad. No puedes cauterizar esta herida. Entrégate a la podredumbre…",
+        "尊父は貴様の非力さを笑っておられる。その傷は焼いて塞ぐことなどできん。腐敗に身を委ねよ…",
+        "할아버지께서 네 나약함을 비웃으신다. 이 상처는 불로 지져도 아물지 않는다. 부패에 몸을 맡겨라…",
+        "Dziadek śmieje się z Twojej słabości. Tej rany nie da się wypalić. Poddaj się zgniliźnie…",
+        "O Avô ri da sua fraqueza. Você não consegue cauterizar essa ferida. Entregue-se à podridão…",
+        "Дедушка смеется над твоей слабостью. Тебе не прижечь эту рану. Смирись с гниением…",
+        "慈父在嘲笑你的软弱。你无法治愈这道伤口。屈服于溃烂腐朽的命运吧……",
+        "Büyükbaba senin acizliğine gülüyor. Bu yarayı dağlayamazsın. Kendini çürümeye bırak…",
+        "Дід сміявся би з твоєї немічності. Ти не можеш припекти цю рану. Піддайся гнилі..."
       ]
     },
     "buttonInvulnerable": {
       "_value": [
-        "Attack!"
+        "Attack!",
+        "À l'attaque !",
+        "All'attacco!",
+        "Angriff!",
+        "¡Ataca!",
+        "攻撃！",
+        "공격!",
+        "Do ataku!",
+        "Atacar!",
+        "В атаку!",
+        "攻击！",
+        "Saldır!",
+        "В атаку!"
       ]
     }
   },
   "WS_AOS_SKA_BOSS_VIZZIK": {
     "description": {
       "_value": [
-        "Behold Vizzik's gaze... Vizzik's screech... we Kill Kill Yes Yes!"
+        "Behold Vizzik's gaze... Vizzik's screech... we Kill Kill Yes Yes!",
+        "Contemple le regard de Vizzik... le crissement de Vizzik... On tue, tue ! Oui, oui !",
+        "Ammira lo sguardo di Vizzik... L'urlo di Vizzik... noi Uccidiamo uccidiamo sì sì!",
+        "Fürchte Vizziks Blick … sein Kreischen … wir Töten Töten Ja Ja!",
+        "Contempla la mirada de Vizzik..., el chillido de Vizzik... ¡Matamos, matamos! ¡Sí, sí!",
+        "見よ、ヴィジックの眼差しを…ヴィジックの叫びを…殺す、殺す！そう、そうだ！",
+        "비직의 시선을 보라… 비직의 비명을 들어라… 우리 죽인다, 죽인다! 그래, 그래!",
+        "Spójrzcie w oczy Vizzika… słuchajcie wrzasku Vizzika… Zabij-zabij, tak-tak!",
+        "Contemplem o olhar de Vizzik... O guincho de Vizzik... Vamos matar, matar! Sim, vamos!",
+        "Узрите взор Виззика... визг Виззика... мы убивать-убивать, да-да!",
+        "看那维兹克的目光……听那维兹克的尖啸……我们要杀杀杀！没错！没错！",
+        "Gör Vizzik'in bakışını... Duy Vizzik'in çığlığını... Öldür öldür, Evet Evet!",
+        "Поглянь в очі Віззіку... Почуй його скрегіт... ми вбивати, вбивати, так-так!"
       ]
     },
     "button": {
       "_value": [
-        "Return to the darkness, Witch!"
+        "Return to the darkness, Witch!",
+        "Retourne dans les ténèbres, sorcière !",
+        "Torna nell'ombra, Stregone!",
+        "Zurück in die Dunkelheit mir dir, Hexe!",
+        "¡Vuelve a la oscuridad, Bruja!",
+        "闇へ還れ、魔法ネズミめ！",
+        "어둠으로 돌아가라, 마녀야!",
+        "Wracaj do ciemności, Wiedźmo!",
+        "Volte para as trevas, bruxo!",
+        "Вернись во тьму, колдун!",
+        "滚回你的黑暗里去吧，女巫！",
+        "Karanlığa dön, Cadı!",
+        "Повертайся в темряву, чаклуне!"
       ]
     },
     "descriptionInvulnerable": {
       "_value": [
-        "You are vulnerable mortals… no match for Vizzik… you will Die Die!"
+        "You are vulnerable mortals… no match for Vizzik… you will Die Die!",
+        "Tu n'es qu'un vulnérable mortel... Aucune chance contre Vizzik... Tu vas mourir, mourir !",
+        "Siete solo dei vulnerabili mortali... Non potete nulla contro Vizzik... Morirete Morirete!",
+        "Ihr seid verwundbare Sterbliche … Vizzik nicht gewachsen … Ihr werdet Sterben Sterben!",
+        "Sois mortales vulnerables… no sois rival para Vizzik… ¡Morid, morid!",
+        "お前たちのような脆弱な命の者では…ヴィジックには敵わぬ…死ね、死ぬのだ！",
+        "너희는 나약한 필멸자들… 비직의 상대가 못 된다… 죽는다, 죽는다!",
+        "Bezbronni śmiertelnicy… nie macie szans z Vizzikiem… Umrzecie-umrzecie!",
+        "Vocês são mortais vulneráveis… Não são páreo para o Vizzik… Vocês vão morrer, morrer!",
+        "Вы уязвимые смертные… Виззику не ровня… вы умирать-умирать!",
+        "你们这些脆弱的凡人……根本不是维兹克的对手……你们死定了！",
+        "Siz savunmasız ölümlülersiniz… Vizzik'in dengi değilsiniz… Ölecek... Öleceksiniz!",
+        "Ви — звичайні смертні... не рівня Віззіку... ви помрете, помрете!"
       ]
     },
     "buttonInvulnerable": {
       "_value": [
-        "Attack!"
+        "Attack!",
+        "À l'attaque !",
+        "All'attacco!",
+        "Angriff!",
+        "¡Ataca!",
+        "攻撃！",
+        "공격!",
+        "Do ataku!",
+        "Atacar!",
+        "В атаку!",
+        "攻击！",
+        "Saldır!",
+        "В атаку!"
       ]
     }
   },
   "WS_AOS_BOK_BOSS_SKARBRAND": {
     "description": {
       "_value": [
-        "BLOOD FOR THE BLOOD GOD! SKULLS FOR THE SKULL THRONE!"
+        "BLOOD FOR THE BLOOD GOD! SKULLS FOR THE SKULL THRONE!",
+        "DU SANG POUR LE DIEU DU SANG ! DES CRÂNES POUR LE TRÔNE DE CRÂNES !",
+        "SANGUE PER IL DIO DEL SANGUE! TESCHI PER IL TRONO DI TESCHI!",
+        "BLUT FÜR DEN BLUTGOTT! SCHÄDEL FÜR DEN SCHÄDELTHRON!",
+        "¡SANGRE PARA EL DIOS DE LA SANGRE! ¡CRÁNEOS PARA EL TRONO DE CRÁNEOS!",
+        "〈血の神〉にさらなる血を！頭蓋骨の玉座に頭蓋骨を！",
+        "피의 신께 피를! 해골 옥좌에 해골을!",
+        "KREW DLA BOGA KRWI! CZASZKI DLA TRONU CZASZEK!",
+        "SANGUE PARA O DEUS DO SANGUE! CRÂNIOS PARA O TRONO DE CRÂNIOS!",
+        "КРОВЬ ДЛЯ БОГА КРОВИ! ЧЕРЕПА ДЛЯ ТРОНА ЧЕРЕПОВ!",
+        "血祭血神！颅献颅座！",
+        "KAN TANRISINA KAN! KAFATASI TAHTINA KAFATASI!",
+        "КРОВ ДЛЯ БОГА КРОВІ! ЧЕРЕПИ ДЛЯ ЧЕРЕПНОГО ТРОНУ!"
       ]
     },
     "button": {
       "_value": [
-        "For Sigmar!"
+        "For Sigmar!",
+        "Pour Sigmar !",
+        "Per Sigmar!",
+        "Für Sigmar!",
+        "¡Por Sigmar!",
+        "シグマーの御名において！",
+        "시그마를 위하여!",
+        "W imię Sigmara!",
+        "Por Sigmar!",
+        "За Сигмара!",
+        "为了西格玛！",
+        "Sigmar için!",
+        "За Сігмара!"
       ]
     },
     "descriptionInvulnerable": {
       "_value": [
-        "SLAUGHTER! CARNAGE! WRATH!!!"
+        "SLAUGHTER! CARNAGE! WRATH!!!",
+        "MASSACRE ! CARNAGE ! COURROUX !!!",
+        "MASSACRO! CARNEFICINA! IRA!!!",
+        "GEMETZEL! BLUTBAD! ZORN!!!",
+        "¡¡¡MATANZA!!! ¡CARNICERÍA! ¡¡¡IRA!!!",
+        "虐殺！殺戮！怒り！！",
+        "학살! 살육! 분노!!!",
+        "RZEŹ! MASAKRA! GNIEW!!!",
+        "MASSACRE! CARNIFICINA! IRA!!!",
+        "РЕЗНЯ! БОЙНЯ! ГНЕВ!!!",
+        "杀戮！屠杀！狂怒！",
+        "KATLİAM! VAHŞET! GAZAP!!!",
+        "РІЗАНИНА! БІЙНЯ! ЛЮТЬ!"
       ]
     },
     "buttonInvulnerable": {
       "_value": [
-        "Attack!"
+        "Attack!",
+        "À l'attaque !",
+        "All'attacco!",
+        "Angriff!",
+        "¡Ataca!",
+        "攻撃！",
+        "공격!",
+        "Do ataku!",
+        "Atacar!",
+        "В атаку!",
+        "攻击！",
+        "Saldır!",
+        "В атаку!"
       ]
     }
   },
   "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
     "description": {
       "_value": [
-        "The light! It hurts… I. Will. Make. It. STOP!!!"
+        "The light! It hurts… I. Will. Make. It. STOP!!!",
+        "La lumière ! Elle brûle... Je. Vais. En. FINIR !!!",
+        "La luce! Fa male... Devo. assolutamente. SPEGNERLA!!!",
+        "Das Licht! Es tut weh … Ich. Werde. Es. Auslöschen!!!",
+        "¡La luz! Duele… ¡¡¡Yo. Haré. Que. Pare!!!",
+        "光だ！痛い…私は…止める…必ず止める！！！",
+        "빛이! 아프다… 내. 가. 반드시. 멈. 춘. 다!!!",
+        "Światło! Boli… Ja. To. POWSTRZYMAM!!!",
+        "A luz! Está doendo... Eu. Vou Fazer. Isso. PARAR!!!",
+        "Свет! Он жжется… Я. Заставлю. Его. ПОГАСНУТЬ!!!",
+        "这光！要刺眼……我……要……让它……熄灭！",
+        "Işık! Canımı yakıyor… Ben. Bunu. DURDURACAĞIM!!!",
+        "Світло! Пече... Я. Це. ЗУПИНЮ!"
       ]
     },
     "button": {
       "_value": [
-        "For Sigmar!"
+        "For Sigmar!",
+        "Pour Sigmar !",
+        "Per Sigmar!",
+        "Für Sigmar!",
+        "¡Por Sigmar!",
+        "シグマーの御名において！",
+        "시그마를 위하여!",
+        "W imię Sigmara!",
+        "Por Sigmar!",
+        "За Сигмара!",
+        "为了西格玛！",
+        "Sigmar için!",
+        "За Сігмара!"
       ]
     },
     "descriptionInvulnerable": {
       "_value": [
-        "Haha your club don't hurt Trugg… Trugg will crush you!"
+        "Haha your club don't hurt Trugg… Trugg will crush you!",
+        "Ha ha ha. Bâton pas faire mal à Trugg... Trugg t'écraser !",
+        "Ah ah, tua mazza non fa male a Trugg... Trugg ti schiaccia!",
+        "Haha! Deine Keule kann Trugg nichts anhaben … Trugg wird dich zermalmen!",
+        "Ja, ja, tu garrote no hace daño a Trugg… ¡Trugg te aplastará!",
+        "ハハ！そんな棍棒じゃトラグは痛くもない…トラグがお前を叩き潰してやる！",
+        "하하! 네 몽둥이 따윈 트러그한테 안 아프다… 트러그가 널 짓뭉개 주마!",
+        "Ha, ha! Twoja pałka nie boli Trugga… Trugg Cię zmiażdży!",
+        "Haha, sua clava não faz nem cócegas no Trugg... Trugg vai te esmagar!",
+        "Ха-ха, твоя дубина не делает Траггу больно… Трагг тебя раздавит!",
+        "哈哈，你的棒子伤不了特鲁格……而特鲁格会把你碾碎！",
+        "Haha, senin sopan Trugg’ın canını yakmaz… Trugg seni ezecek!",
+        "Ха-ха, твоя палиця не робить боляче Труґґу... Труґґ тебе розчавить!"
       ]
     },
     "buttonInvulnerable": {
       "_value": [
-        "Attack!"
+        "Attack!",
+        "À l'attaque !",
+        "All'attacco!",
+        "Angriff!",
+        "¡Ataca!",
+        "攻撃！",
+        "공격!",
+        "Do ataku!",
+        "Atacar!",
+        "В атаку!",
+        "攻击！",
+        "Saldır!",
+        "В атаку!"
       ]
     }
   }

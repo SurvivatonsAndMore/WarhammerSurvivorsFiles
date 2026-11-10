@@ -2,306 +2,942 @@
   "WS_40K_DEATH_WORLD": {
     "description": {
       "_value": [
-        "Journey through thick foliage into the heart of a jungle consumed by the Hive Fleet."
+        "Journey through thick foliage into the heart of a jungle consumed by the Hive Fleet.",
+        "Pénétrez dans une jungle dense jusqu’à atteindre son cœur ravagé par la flotte-ruche.",
+        "Avventurati attraverso una fitta vegetazione fino al cuore di una giungla invasa dalla Flotta Alveare.",
+        "Eine Reise durch dichtes Gestrüpp mitten in einen von der Schwarmflotte verschlungenen Dschungel.",
+        "Adéntrate a través de la espesa vegetación hasta el corazón de una jungla consumida por la Flota Enjambre.",
+        "群巣艦隊（ハイヴフリート）に喰い尽くされつつある密林の奥深くを目指し、生い茂る木々の間を突き進め。",
+        "무성한 수풀을 뚫고 들어가, 하이브 함대에 집어삼켜진 정글 깊숙한 곳으로 나아가세요.",
+        "Przedrzyj się przez gęstą dżunglę do jej serca, pochłoniętego przez Flotę-Rój.",
+        "Percorra a densa vegetação até o coração de uma selva devastada pela Frota da Colmeia.",
+        "Отправляйтесь сквозь густую зелень в самое сердце джунглей, поглощенных флотом-ульем.",
+        "穿越密林，深入被虫巢舰队吞噬的丛林腹地。",
+        "Yoğun bitki örtüsünün arasından ilerleyerek Kovan Filosu tarafından ele geçirilmiş ormanın kalbine ulaş.",
+        "Пробирайтеся крізь густу рослинність у серце джунглів, поглинутих ройовим флотом."
       ]
     },
     "stageName": {
       "_value": [
-        "Death World Invasion"
+        "Death World Invasion",
+        "Invasion du monde hostile",
+        "Invasione del Mondo Assassino",
+        "Invasion der Todeswelt",
+        "Invasión del mundo letal",
+        "死地惑星への侵攻",
+        "데스 월드 침공",
+        "Inwazja Świata Śmierci",
+        "Invasão do Mundo da Morte",
+        "Вторжение в мир смерти",
+        "死亡世界入侵",
+        "Ölüm Dünyası İstilası",
+        "Вторгнення на Світ Смерті"
       ]
     }
   },
   "WS_40K_DEBUG_TILING": {
     "description": {
       "_value": [
-        "Basic example of a Tiling Stage, loaded with 40K Weapons and Items."
+        "Basic example of a Tiling Stage, loaded with 40K Weapons and Items.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "stageName": {
       "_value": [
-        "40K Debug - Tiling"
+        "40K Debug - Tiling",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_40K_DESERT_WASTELAND": {
     "description": {
       "_value": [
-        "Barren badlands, virtually devoid of life. The Hive Fleet have swarmed and consumed relentlessly, leaving an empty husk of a world."
+        "Barren badlands, virtually devoid of life. The Hive Fleet have swarmed and consumed relentlessly, leaving an empty husk of a world.",
+        "Des terres désolées et sans vie. La flotte-ruche s’y est abattue et a tout ravagé sans répit, ne laissant derrière elle qu’un monde désert.",
+        "Lande aride e desolate, praticamente prive di vita. La Flotta Alveare ha invaso e devastato questi luoghi senza tregua, lasciando dietro di sé un mondo ridotto a un guscio vuoto.",
+        "Karges, nahezu unbewohntes Ödland. Die Schwarmflotte ist unaufhörlich ausgeschwärmt und hat alles verschlungen, sodass nur eine leere Hülle dieser Welt zurückblieb.",
+        "Páramos estériles, casi sin vida. La Flota Enjambre los ha arrasado y consumido sin descanso, dejando un mundo vacío.",
+        "生命が存在せず、荒涼とした不毛の地。群巣艦隊（ハイヴフリート）が容赦なく群がり、喰らい尽くした結果、この惑星は中身のない殻と化してしまった。",
+        "사실상 생명이 전무한 황량한 황무지입니다. 하이브 함대가 끝없이 몰려와 모든 것을 집어삼킨 결과, 텅 빈 껍데기만 남은 행성입니다.",
+        "Jałowe pustkowia, niemal całkowicie pozbawione życia. Flota-Rój bezlitośnie pożarła wszystko, pozostawiając po sobie jedynie pustą skorupę planety.",
+        "Terras áridas e desoladas, praticamente desprovidas de vida. A Frota da Colmeia invadiu e consumiu tudo implacavelmente, deixando para trás apenas uma casca vazia do que antes era um mundo.",
+        "Бесплодные земли, практически лишенные жизни. Флот-улей неумолимо разрастался и уничтожил мир, оставив от него только пустую оболочку.",
+        "荒芜之地，毫无生机。虫巢舰队席卷而过，吞噬万物，唯余死寂的空洞世界。",
+        "Neredeyse tamamen yaşamdan yoksun bu çorak topraklar, Kovan Filosu’nun durmaksızın saldırıp tüketmesiyle geride sadece kupkuru bir kaya yığını bırakmıştır.",
+        "Безплідні пустища майже позбавлені життя. Ройовий флот невпинно роївся й пожирав усе довкола, лишивши від світу порожню оболонку."
       ]
     },
     "hyperTips": {
       "_value": [
-        "50% Coin bonus"
+        "50% Coin bonus",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "stageName": {
       "_value": [
-        "Desert Wasteland"
+        "Desert Wasteland",
+        "Wastelands désertiques",
+        "Landa Desolata",
+        "Wüstenödland",
+        "Páramo desértico",
+        "砂の荒野",
+        "메마른 황무지",
+        "Pustynne Rubieże",
+        "Deserto Árido",
+        "Песчаные пустоши",
+        "荒漠废土",
+        "Çorak Çöl",
+        "Піщана пустка"
       ]
     },
     "tips": {
       "_value": [
-        "No health drops. Enemies get stronger and faster over time."
+        "No health drops. Enemies get stronger and faster over time.",
+        "Aucun largage de santé. Les ennemis deviennent plus forts et plus rapides au fil du temps.",
+        "Non vengono rilasciati oggetti per curarsi. I nemici diventano progressivamente più forti e veloci.",
+        "Keine Heilungsdrops. Gegner werden mit der Zeit stärker und schneller.",
+        "No aparecen curaciones. Los enemigos se vuelven más fuertes y rápidos con el tiempo.",
+        "体力ドロップは発生しない。時間経過とともに敵が強化され、速度も上昇する。",
+        "체력 회복 아이템이 등장하지 않습니다. 시간이 지날수록 적이 더 강해지고 빨라집니다.",
+        "Nie wypadają przedmioty leczące. Wrogowie z czasem stają się silniejsi i szybsi.",
+        "Não há itens de vida. Os inimigos ficam mais fortes e mais rápidos com o passar do tempo.",
+        "Предметы для лечения не выпадают. Со временем враги становятся сильнее и быстрее.",
+        "不会掉落治疗物品，且敌人的强度和速度会随着时间的推移不断提升。",
+        "Can düşüşü yoktur. Düşmanlar zamanla daha güçlü ve daha hızlı olur.",
+        "Без зцілювальних бонусів. Вороги з часом стають сильнішими й швидшими."
       ]
     }
   },
   "WS_40K_GALLOWDARK": {
     "description": {
       "_value": [
-        "Navigate the chaotic maze of a derelict space hulk infested by Death Guard."
+        "Navigate the chaotic maze of a derelict space hulk infested by Death Guard.",
+        "Parcourez le labyrinthe chaotique d’un space hulk abandonné, infesté par la Death Guard.",
+        "Affronta il caotico labirinto di un fatiscente colosso spaziale infestato dalla Death Guard.",
+        "Durchquere das chaotische Labyrinth eines verlassenen Space Hulks, der von der Death Guard verseucht ist.",
+        "Recorre el caótico laberinto de un pecio espacial abandonado infestado por la Guardia de la Muerte.",
+        "デスガードが巣食う、遺棄された巨大航宙融合体（スペースハルク）の混沌たる迷宮を突き進め。",
+        "데스 가드가 들끓는 버려진 스페이스 헐크의 혼돈 가득한 미로 속을 헤쳐 나가세요.",
+        "Przemierz chaotyczny labirynt opuszczonego wraku kosmicznego opanowanego przez Gwardię Śmierci.",
+        "Navegue pelo caótico labirinto de uma nave espacial abandonada e infestada pela Guarda da Morte.",
+        "Пройдите по хаотичному лабиринту покинутого космического скитальца, на котором сейчас полно воинов Гвардии Смерти.",
+        "在死亡守卫成群游荡的太空废船迷宫中穿行。",
+        "Ölüm Muhafızı tarafından istila edilen terk edilmiş bir uzay enkazının kaotik labirentinde yolunu bul.",
+        "Пробирайтеся хаотичним лабіринтом покинутого космічного корабля, що кишить представниками Смертельної гвардії."
       ]
     },
     "stageName": {
       "_value": [
-        "Gallowdark"
+        "Gallowdark",
+        "Gallowdark",
+        "Patibolo Nero",
+        "Galgenschatten",
+        "Horcasombría",
+        "ギャロウダーク",
+        "갤로우다크",
+        "Wisielczy Mrok",
+        "Gallowdark",
+        "Галловдарк",
+        "绞刑暗渊",
+        "Gallowdark",
+        "Шибомряка"
       ]
     },
     "tip": {
       "_value": [
-        "Enemies get stronger and faster over time."
+        "Enemies get stronger and faster over time.",
+        "Les ennemis deviennent plus forts et plus rapides au fil du temps.",
+        "I nemici diventano sempre più forti e veloci.",
+        "Gegner werden mit der Zeit stärker und schneller.",
+        "Los enemigos se vuelven más fuertes y rápidos con el tiempo.",
+        "時間経過とともに敵が強化され、速度も上昇する。",
+        "시간이 지날수록 적이 더 강해지고 빨라집니다.",
+        "Wrogowie z czasem stają się silniejsi i szybsi.",
+        "Os inimigos ficam mais fortes e mais rápidos com o passar do tempo.",
+        "Со временем враги становятся сильнее и быстрее.",
+        "且敌人的强度和速度会随着时间的推移不断提升。",
+        "Düşmanlar zamanla daha güçlü ve daha hızlı olur.",
+        "Вороги з часом стають сильнішими й швидшими."
       ]
     }
   },
   "WS_40K_HOBBY_TABLE": {
     "description": {
       "_value": [
-        "The tabletop of a Warhammer 40,000 hobbyist."
+        "The tabletop of a Warhammer 40,000 hobbyist.",
+        "La table de jeu d’un passionné de Warhammer 40,000.",
+        "Il tavolo da gioco dell'inguaribile fan di Warhammer 40.000.",
+        "Der Spieltisch eines Liebhabers von Warhammer 40.000.",
+        "El tablero de un aficionado a Warhammer 40,000.",
+        "ウォーハンマー40,000のホビーストが使用するテーブルトップ。",
+        "Warhammer 40,000 수집가의 테이블탑입니다.",
+        "Stół modelarski miłośnika gry Warhammer 40 000.",
+        "A mesa de um colecionador de Warhammer 40.000.",
+        "Столешница для любителей Warhammer 40,000.",
+        "《战锤40000》爱好者的桌面战场。",
+        "Bir Warhammer 40,000 tutkununun oyun masası.",
+        "Ігровий стіл шанувальника Warhammer 40 000."
       ]
     },
     "stageName": {
       "_value": [
-        "Hobby Table"
+        "Hobby Table",
+        "Table de jeu",
+        "Tavolino da Hobby",
+        "Hobbytisch",
+        "Mesa de hobby",
+        "ホビーテーブル",
+        "취미 작업대",
+        "Stół Modelarski",
+        "Mesa de Hobby",
+        "Хобби-стол",
+        "模型桌",
+        "Hobi Masası",
+        "Стіл для хобі"
       ]
     },
     "tips": {
       "_value": [
-        "Random enemy waves from normal stages."
+        "Random enemy waves from normal stages.",
+        "Des vagues d’ennemis aléatoires de niveaux normaux.",
+        "Ondate casuali di nemici dai livelli normali.",
+        "Zufällige gegnerische Horden aus normalen Levels.",
+        "Oleadas de enemigos aleatorias de niveles normales.",
+        "通常ステージからのランダムな敵ウェーブ。",
+        "일반 스테이지의 적 무리가 무작위로 등장합니다.",
+        "Losowe fale wrogów z normalnych poziomów.",
+        "Ondas aleatórias de inimigos das fases normais.",
+        "Случайные волны врагов с обычных уровней.",
+        "随机生成普通关卡中的敌人波次。",
+        "Normal bölümlerden rastgele düşman dalgaları.",
+        "Хвилі випадкових ворогів на звичайних рівнях."
       ]
     }
   },
   "WS_40K_IMPERIAL_BASTION": {
     "description": {
       "_value": [
-        "An Imperial bastion swarmed by Tyranids in a consumed wasteland."
+        "An Imperial bastion swarmed by Tyranids in a consumed wasteland.",
+        "Un bastion impérial envahi par des Tyranides sur une terre ravagée.",
+        "Un Bastione Imperiale invaso dai Tiranidi in una devastata landa desolata.",
+        "Eine imperiale Bastion, die in einem ausgezehrten Ödland von Tyraniden überrannt wird.",
+        "Un bastión Imperial invadido por Tiránidos en un páramo consumido.",
+        "貪り尽くされた荒廃地で、ティラニッドの大群に襲撃される人類の帝国軍の要塞。",
+        "모든 것이 집어삼켜진 황무지 속, 티라니드가 들끓는 제국 요새입니다.",
+        "Bastion Imperium opanowany przez tyranidów na pożartym pustkowiu.",
+        "Um bastião imperial invadido por Tiranídeos em um deserto devastado.",
+        "Имперский бастион в пустошах, захваченный тиранидами.",
+        "帝国堡垒矗立于被摧毁的荒原之上，遭受泰伦虫族的围攻。",
+        "Tüketilmiş bir çorak arazide Tiranidler tarafından istila edilmiş bir İmparatorluk hisarı.",
+        "Захоплений тиранідами імперський бастіон серед пустки."
       ]
     },
     "stageName": {
       "_value": [
-        "Imperial Bastion"
+        "Imperial Bastion",
+        "Bastion impérial",
+        "Bastione Imperiale",
+        "Imperiale Bastion",
+        "Bastión imperial",
+        "帝国の掩蔽壕",
+        "제국 요새",
+        "Bastion Imperium",
+        "Bastião Imperial",
+        "Имперский бастион",
+        "帝国堡垒",
+        "İmparatorluk Hisarı",
+        "Імперський бастіон"
       ]
     }
   },
   "WS_40K_IMPERIAL_SHIPYARD": {
     "description": {
       "_value": [
-        "Battle Death Guard for control of an Imperial Navy shipyard."
+        "Battle Death Guard for control of an Imperial Navy shipyard.",
+        "Affrontez la Death Guard pour prendre le contrôle d’un chantier naval de la Marine Impériale.",
+        "Affronta la Death Guard per ottenere il controllo del cantiere navale della Marina Imperiale.",
+        "Kämpfe gegen die Death Guard, um die Kontrolle über eine Schiffswerft der Imperialen Kriegsflotte zu erlangen.",
+        "Lucha contra daemons de la Guardia de la Muerte por el control de un astillero de la Armada Imperial.",
+        "帝国海軍の造船所の支配権をかけてデスガードと戦え。",
+        "제국 해군 조선소의 지배권을 두고 데스 가드와 맞서 싸우세요.",
+        "Zmierz się z Gwardią Śmierci w walce o kontrolę nad Stocznią Marynarki Imperialnej.",
+        "Lute contra a Guarda da Morte pelo controle de um Estaleiro da Marinha Imperial.",
+        "Сразитесь с воинами Гвардии Смерти за контроль над верфью Имперского Флота.",
+        "从死亡守卫手中夺取帝国海军造船厂的控制权。",
+        "İmparatorluk Donanması tersanesinin kontrolü için Ölüm Muhafızı’yla savaş.",
+        "Бийтеся зі Смертельною гвардією за контроль над верф’ю імперського флоту."
       ]
     },
     "stageName": {
       "_value": [
-        "Imperial Shipyard"
+        "Imperial Shipyard",
+        "Chantier naval impérial",
+        "Cantiere Navale Imperiale",
+        "Imperiale Werft",
+        "Astillero imperial",
+        "帝国の造船所",
+        "제국 조선소",
+        "Imperialna Stocznia",
+        "Estaleiro Imperial",
+        "Имперская верфь",
+        "帝国船坞",
+        "İmparatorluk Tersanesi",
+        "Імперська верф"
       ]
     },
     "tips": {
       "_value": [
-        "Elevators aid navigation."
+        "Elevators aid navigation.",
+        "Les ascenseurs aident à la navigation.",
+        "Gli ascensori permettono di spostarsi più facilmente.",
+        "Aufzüge erleichtern die Fortbewegung.",
+        "Los ascensores ayudan a orientarse.",
+        "エレベーターが移動を補助する。",
+        "엘리베이터를 이용하면 더 쉽게 이동할 수 있습니다.",
+        "Windy ułatwiają poruszanie się.",
+        "Os elevadores facilitam a locomoção.",
+        "Лифты помогают передвигаться.",
+        "电梯有助于定位方向。",
+        "Asansörler yön bulmaya yardımcı olur.",
+        "Підйомники допомагають пересуватися."
       ]
     }
   },
   "WS_40K_ORK_STRONGHOLD": {
     "description": {
       "_value": [
-        "Fight your way through a Goff fort without getting krumped by da boyz!"
+        "Fight your way through a Goff fort without getting krumped by da boyz!",
+        "Frayez-vous un chemin musclé dans une forteresse Goff sans vous faire descendre par les Boyz !",
+        "Fatti strada attraverso una fortezza Goff senza farti sbriciolare dai Ragazzi!",
+        "Kämpfe dich durch eine Goff-Festung, ohne von den Boyz plattgemacht zu werden!",
+        "¡Ábrete paso por un fuerte Goff sin que loz chikoz te hagan pikadillo!",
+        "ボゥイにブチのめされることなく、ゴフの要塞を戦い抜いて突破せよ！",
+        "고프 요새를 돌파하되, 보이즈에게 박살 나지 않도록 조심하세요!",
+        "Przebij się przez fort Goffa, stawiając opór orkowym chłopcom!",
+        "Abra caminho pelo forte dos Goff sem levar um kambau dos rapaziz!",
+        "Проберитесь через форт гоффов, не попав под крушащие кулаки парней!",
+        "突破戈夫要塞，杀穿敌阵，别让那些大块头把你揍扁了！",
+        "Erler tarafından gümletilmeden Goff kalesinde yolunu açmak için savaş!",
+        "Пробийтеся крізь форт Ґоффів, не отримавши прочухана від парубків!"
       ]
     },
     "stageName": {
       "_value": [
-        "Ork Stronghold"
+        "Ork Stronghold",
+        "Forteresse ork",
+        "Fortezza degli Orki",
+        "Orkfestung",
+        "Fortaleza orka",
+        "オークの砦",
+        "오크 요새",
+        "Twierdza Orków",
+        "Fortaleza Ork",
+        "Крепость орков",
+        "欧克蛮人要塞",
+        "Ork Kalesi",
+        "Орча твердиня"
       ]
     }
   },
   "WS_40K_PLACEHOLDER_LEVEL": {
     "description": {
       "_value": [
-        "In the grim darkness of the far future, there is only Debugging."
+        "In the grim darkness of the far future, there is only Debugging.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "hyperTips": {
       "_value": [
-        "50% Coin bonus"
+        "50% Coin bonus",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "stageName": {
       "_value": [
-        "40K Placeholder Level"
+        "40K Placeholder Level",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_40K_THE_WARP": {
     "description": {
       "_value": [
-        "The Immaterium, a realm of psychic energy where matter, time and space have no meaning."
+        "The Immaterium, a realm of psychic energy where matter, time and space have no meaning.",
+        "L’Immaterium, un royaume d’énergie psychique ou où la matière, le temps et l’espace n’ont aucune signification.",
+        "L'Immaterium, un regno di energia psichica dove materia, tempo e spazio non hanno alcun significato.",
+        "Das Immaterium ist ein Reich psionischer Energie, in dem Materie, Zeit und Raum irrelevant sind.",
+        "El Inmaterio, un reino de energía psíquica donde la materia, el tiempo y el espacio carecen de significado.",
+        "非物質世界。物質、時間、空間が一切の意味を持たない、サイキックエネルギーの領域。",
+        "물질과 시간, 공간의 개념이 무의미한 사이킥 에너지의 렐름, 이마테리움입니다.",
+        "Immaterium to kraina energii psychicznej, w której materia, czas i przestrzeń nie mają żadnego znaczenia.",
+        "O Immaterium, um reino de energia psíquica onde a matéria, o tempo e o espaço não têm significado.",
+        "Имматериум – это царство психической энергии, в котором материя, время и пространство теряют всякий смысл.",
+        "亚空间，一个由灵能构成的领域，物质、时间和空间在这里毫无意义。",
+        "Madde, zaman ve mekânın hiçbir önem taşımadığı psişik enerji diyarı Immaterium.",
+        "Імматеріум — вимір духовної енергії, де матерія, час і простір не мають значення."
       ]
     },
     "stageName": {
       "_value": [
-        "Perils of the Warp"
+        "Perils of the Warp",
+        "Les Dangers du Warp",
+        "Pericoli del Warp",
+        "Gefahren des Warp",
+        "Peligros de la disformidad",
+        "歪みの崩壊",
+        "워프의 위험",
+        "Niebezpieczeństwa Warpu",
+        "Perigos da Mutação",
+        "Опасности варпа",
+        "亚空间危机",
+        "Warp Felaketleri",
+        "Небезпеки Викривлення"
       ]
     }
   },
   "WS_AOS_BLOODWIND_SPOIL": {
     "description": {
       "_value": [
-        "A mining camp in the Eightpoints whose rivers of molten realmstone have been claimed by the Blades of Khorne."
+        "A mining camp in the Eightpoints whose rivers of molten realmstone have been claimed by the Blades of Khorne.",
+        "Un camp minier situé dans les Huit-points, dont les rivières de pierres de royaume en fusion ont été revendiquées par les Lames de Khorne.",
+        "Un accampamento minerario nelle Ottopunte, i cui fiumi di pietra del regno fusa sono stati conquistati dalle Lame di Khorne.",
+        "Ein Minenlager in den Achtpforten, dessen Flüsse aus geschmolzenem Reichstein von den Klingen des Khorne erobert wurden.",
+        "Un campamento minero en los Ochopartes cuyos ríos de piedra del reino fundida han sido reclamados por los Filos de Khorne.",
+        "エイトポイントにある採掘キャンプ。溶けた領域石の川は、ブレイド・オヴ・コーンに占領されてしまった。",
+        "에이트포인트의 채굴지입니다. 용암처럼 끓어오르는 렐름스톤 강줄기를 코온의 칼날 진영이 점했습니다.",
+        "Obóz górniczy w regionie Ośmiopunktu, którego rzeki płynącego kamienia krain zostały przejęte przez Ostrza Khorne’a.",
+        "Um acampamento de mineração em Eightpoints cujos rios de pedra real derretida foram tomados pelas Lâminas de Khorne.",
+        "Шахтерский лагерь в Восьмиконечье, где реки расплавленного камня владения были захвачены Клинками Кхорна.",
+        "八达节点中一座采矿营地，建在熔岩界石矿脉之上，如今已被恐虐之刃占领。",
+        "Erimiş diyar taşı nehirleri Khorne Kılıçları’nın eline geçmiş olan bu maden kampı, Sekizuç’ta bulunur.",
+        "Шахтарський табір у Восьмиточчі, де є цілі ріки розплавленого царекаменю, які захопили клинки Хорна."
       ]
     },
     "stageName": {
       "_value": [
-        "Bloodwind Spoil"
+        "Bloodwind Spoil",
+        "Bloodwind Spoil",
+        "Distesa di Bloodwind",
+        "Blutwindfluch",
+        "Bloodwind Spoil",
+        "血風の略奪地",
+        "블러드윈드 스포일",
+        "Bloodwind Spoil",
+        "Espólio de Bloodwind",
+        "Пустоши Кровавого Ветра",
+        "血风掠夺",
+        "Kanlı Rüzgar Toprakları",
+        "Кривавовітряна здобич"
       ]
     }
   },
   "WS_AOS_CITADEL_OF_SKULLS": {
     "description": {
       "_value": [
-        "The final citadel. Time runs out and death draws near."
+        "The final citadel. Time runs out and death draws near.",
+        "La dernière citadelle. Le temps presse et la mort approche.",
+        "La roccaforte finale. Il tempo sta per scadere e la morte si avvicina.",
+        "Die letzte Zitadelle. Die Zeit läuft ab und der Tod naht.",
+        "La ciudadela final. El tiempo se agota y la muerte se acerca.",
+        "最後の砦。残された時間はなくなり、死が間近に迫る。",
+        "최후의 성채입니다. 시간이 얼마 남지 않았습니다. 죽음이 코앞으로 다가옵니다.",
+        "Ostatnia twierdza. Czas się kończy, a śmierć zbliża się wielkimi krokami.",
+        "A cidadela final. O tempo está se esgotando e a morte se aproxima.",
+        "Последняя цитадель. Время истекает, и смерть всё ближе.",
+        "最后的要塞。时限已至，死神已近。",
+        "Son hisar. Zaman tükeniyor ve ölüm yaklaşıyor.",
+        "Остання цитадель. Час спливає — смерть на підході."
       ]
     },
     "stageName": {
       "_value": [
-        "Necropolis"
+        "Necropolis",
+        "Necropolis",
+        "Necropoli",
+        "Nekropolis",
+        "Necrópolis",
+        "ネクロポリス",
+        "네크로폴리스",
+        "Nekropolia",
+        "Necrópolis",
+        "Некрополь",
+        "亡者之地",
+        "Nekropol",
+        "Некрополь"
       ]
     }
   },
   "WS_AOS_DEBUG_TILING": {
     "description": {
       "_value": [
-        "Basic example of a Tiling Stage, loaded with AOS Weapons and Items."
+        "Basic example of a Tiling Stage, loaded with AOS Weapons and Items.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "stageName": {
       "_value": [
-        "AOS Debug - Tiling"
+        "AOS Debug - Tiling",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_AOS_GNARLWOOD": {
     "description": {
       "_value": [
-        "Fight the Gloomspite Gitz while surviving the predatory flora and fauna in the treacherous Realm of Beasts."
+        "Fight the Gloomspite Gitz while surviving the predatory flora and fauna in the treacherous Realm of Beasts.",
+        "Affrontez les Vils du Fielobscur tout en survivant à la faune et à la flore sans merci du dangereux Royaume des Bêtes.",
+        "Combatti i Tizi dell'Odiozkuro e cerca di sopravvivere alla flora e alla fauna predatrici nel perfido Regno delle Bestie.",
+        "Kämpfe gegen die Mondwahn-Gits und trotze zugleich der räuberischen Flora und Fauna im tückischen Reich der Bestien.",
+        "Lucha contra los Tipejoz Nokturnoz mientras sobrevives a la flora y fauna depredadoras del traicionero Reino de las Bestias.",
+        "危険極まりない獣の領域で、貪欲に襲い来る動植物から生きて逃れ、グルームスパイト・ギットと戦え。",
+        "위험천만한 짐승의 렐름에서 포식성 동식물을 피해 살아남으며 글룸스파이트 깃츠와 맞서 싸우세요.",
+        "Zmierz się z Gitami Podłego Mroku, jednocześnie unikając drapieżnej flory i fauny w zdradliwym Królestwie Bestii.",
+        "Lute contra os Gloomspite Gitz enquanto sobrevive à flora e fauna predadoras no traiçoeiro Reino das Bestas.",
+        "Сразитесь с Мракозлобыми Поганцами, одновременно выживая среди хищной флоры и фауны в обманчивом Владении Зверей.",
+        "在危机四伏的野兽王国迎战暗怨地精，并躲避凶猛动植物的袭击，求取生机。",
+        "Kinlikasvet Uşakları ile savaşırken, tehlikeli Canavar Diyarı’ndaki yırtıcı bitki ve yaratıklar arasında hayatta kalmaya çalış.",
+        "Бийтеся з дурниками Пітьмозлоби й виживайте серед хижої флори та фауни підступного виміру Чудовиськ."
       ]
     },
     "stageName": {
       "_value": [
-        "Gnarlwood"
+        "Gnarlwood",
+        "Bois Noueux",
+        "Bosco Nodoso",
+        "Knarrwald",
+        "Bosque Nudoso",
+        "唸りの森",
+        "날우드",
+        "Sękaty Las",
+        "Gnarlwood",
+        "Криволесье",
+        "瘤木林",
+        "Boğumlukoru",
+        "Сучколісся"
       ]
     },
     "tips": {
       "_value": [
-        "No health drops. Enemies get stronger and faster over time."
+        "No health drops. Enemies get stronger and faster over time.",
+        "Aucun largage de santé. Les ennemis deviennent plus forts et plus rapides au fil du temps.",
+        "Non vengono rilasciati oggetti per curarsi. I nemici diventano progressivamente più forti e veloci.",
+        "Keine Heilungsdrops. Gegner werden mit der Zeit stärker und schneller.",
+        "No aparecen curaciones. Los enemigos se vuelven más fuertes y rápidos con el tiempo.",
+        "体力ドロップは発生しない。時間経過とともに敵が強化され、速度も上昇する。",
+        "체력 회복 아이템이 등장하지 않습니다. 시간이 지날수록 적이 더 강해지고 빨라집니다.",
+        "Nie wypadają przedmioty leczące. Wrogowie z czasem stają się silniejsi i szybsi.",
+        "Não há itens de vida. Os inimigos ficam mais fortes e mais rápidos com o passar do tempo.",
+        "Предметы для лечения не выпадают. Со временем враги становятся сильнее и быстрее.",
+        "不会掉落治疗物品，且敌人的强度和速度会随着时间的推移不断提升。",
+        "Can düşüşü yoktur. Düşmanlar zamanla daha güçlü ve daha hızlı olur.",
+        "Без зцілювальних бонусів. Вороги з часом стають сильнішими й швидшими."
       ]
     }
   },
   "WS_AOS_GREAT_PARCH": {
     "description": {
       "_value": [
-        "A dry, desolate land. Full of blazing heat, sulphurous fumes and teeming with Skaven."
+        "A dry, desolate land. Full of blazing heat, sulphurous fumes and teeming with Skaven.",
+        "Une terre aride et désolée. Recouverte d’une chaleur brûlante, d’émanations sulfureuses et de Skavens.",
+        "Una terra arida e desolata, caratterizzata da un caldo torrido, da fumi sulfurei e brulicante di Skaven.",
+        "Ein trockenes, trostloses Land mit sengender Hitze und schwefligen Dämpfen, in dem es von Skaven nur so wimmelt.",
+        "Una tierra seca y desolada, invadida por un calor abrasador, cubierta de vapores sulfurosos y plagada de skaven.",
+        "乾燥した不毛の土地。燃え盛る熱気と硫黄の煙に包まれ、スケイヴンが大群をなしている。",
+        "메마르고 황량한 땅. 뜨거운 열기와 유황 연기로 가득하며 스케이븐이 들끓습니다.",
+        "Sucha, opustoszała kraina. Rozpalona upałem, pełna siarkowych oparów i skavenów.",
+        "Uma terra árida e desolada. Repleta de calor escaldante, vapores sulfurosos e Skavens.",
+        "Безрадостные засушливые земли. Здесь только палящий зной, сернистые испарения и полчища скавенов.",
+        "干旱荒芜的大地。酷热灼人，空气中弥漫着硫磺味，成群结队的斯卡文鼠人肆虐其间。",
+        "Kupkuru, ıssız bir toprak. Kavurucu derecede sıcak, kükürtlü dumanlarla dolu ve Skaven kaynıyor.",
+        "Суха, спустошена земля, де дуже спекотно, повно сірчаних випарів і скейвенів."
       ]
     },
     "stageName": {
       "_value": [
-        "The Great Parch"
+        "The Great Parch",
+        "Le Vaste Aride",
+        "La Grande Siccità",
+        "Die Große Dörre",
+        "Gran Erial",
+        "大焦界",
+        "그레이트 파치",
+        "Wielka Spieka",
+        "A Grande Seca",
+        "Великая Сушь",
+        "大焦原",
+        "Büyük Kuraklık",
+        "Велика Посуха"
       ]
     }
   },
   "WS_AOS_HAMMERHAL": {
     "description": {
       "_value": [
-        "The legendary Hammerhal, two free cities joined by a Realmgate and relentlessly attacked by Chaos forces."
+        "The legendary Hammerhal, two free cities joined by a Realmgate and relentlessly attacked by Chaos forces.",
+        "La légendaire Hammerhal, soit deux cités libres reliées par une porte de royaume, sans cesse attaquée par les forces du Chaos.",
+        "La leggendaria Hammerhal, due città libere unite da un Cancello passaregni e incessantemente attaccate dalle forze del Caos.",
+        "Das legendäre Hammerhal, zwei durch eine Reichspforte verbundene unabhängige Städte, die unablässig von den Mächten des Chaos angegriffen werden.",
+        "La legendaria Hammerhal, dos ciudades libres unidas por un Portal del Reino y atacadas sin tregua por las fuerzas del Caos.",
+        "伝説のハンマーハル。境界門で結ばれた二つの自由都市は、渾沌（ケイオス）の軍勢による執拗な攻撃にさらされている。",
+        "렐름게이트로 연결된 두 개의 자유 도시이자, 카오스 세력의 끊임없는 공격을 받는 전설의 도시 해머할입니다.",
+        "Legendarny Hammerhal – dwa wolne miasta połączone Bramą Królestwa, nieustannie atakowane przez siły Chaosu.",
+        "A lendária Hammerhal, duas cidades livres unidas por um Portal do Reino e atacadas incessantemente pelas forças do Caos.",
+        "Легендарный Хаммерхол, – два вольных города, объединенных вратами владений, – на который постоянно нападают силы Хаоса.",
+        "圣锤堡，传说之城，两座自由城市由一道界门相连，遭受混沌势力的无情猛攻。",
+        "Efsanevi Hammerhal. Bir Diyar Geçidi ile birleşen iki özgür şehir ve Kaos güçlerinin bitmek bilmeyen saldırılarının hedefi.",
+        "Легендарний Гаммергол — два вільні міста, з’єднані міжвимірною брамою, які безупинно атакують сили Хаосу."
       ]
     },
     "stageName": {
       "_value": [
-        "The Twin-Tailed City"
+        "The Twin-Tailed City",
+        "La Cité à Deux Queues",
+        "La Città a Due Code",
+        "Die Zweischweifige Stadt",
+        "La Ciudad de dos colas",
+        "双尾の都",
+        "쌍꼬리 도시",
+        "Miasto o Dwóch Ogonach",
+        "A Cidade das Duas Caudas",
+        "Двухвостый Город",
+        "双尾之城",
+        "Çift Kuyruklu Şehir",
+        "Двохвосте місто"
       ]
     },
     "tips": {
       "_value": [
-        "Travel by realmgate between Aqshan and Ghyran"
+        "Travel by realmgate between Aqshan and Ghyran",
+        "Voyagez grâce à une porte de royaume entre Aqshan et Ghyran",
+        "Attraversa il cancello passaregni tra Aqshan e Ghyran.",
+        "Reise über die Reichspforte zwischen Aqshy und Ghyran.",
+        "Viaja por portales del reino entre Aqshy y Ghyran.",
+        "アクシャンとグューランの間を境界門で移動する。",
+        "렐름게이트를 이용해 아크샤와 기란 사이를 오갈 수 있습니다.",
+        "Podróżuj przez wrota krain między światami Aqshan i Ghyran",
+        "Viaje pelo portal entre Aqsha e Ghyran",
+        "Используйте врата владений для перемещения между Акши и Гираном.",
+        "经由界门在阿奎夏与盖伊岚两大界域之间穿梭。",
+        "Aqsham ve Ghyran arasında diyar geçidi ile seyahat et",
+        "Подорожуйте вимірворотами між Акшою і Ґіраном"
       ]
     }
   },
   "WS_AOS_HOBBY_TABLE": {
     "description": {
       "_value": [
-        "The tabletop of a Warhammer Age of Sigmar hobbyist."
+        "The tabletop of a Warhammer Age of Sigmar hobbyist.",
+        "La table de jeu d’un passionné de Warhammer Age of Sigmar.",
+        "Il tavolo da gioco dell'inguaribile fan di Warhammer Age of Sigmar.",
+        "Der Spieltisch eines Liebhabers von Warhammer Age of Sigmar.",
+        "El tablero de un aficionado a Warhammer Age of Sigmar.",
+        "ウォーハンマー：エイジ・オヴ・シグマーのホビーストが使用するテーブルトップ。",
+        "Warhammer Age of Sigmar 수집가의 테이블탑.",
+        "Stół modelarski miłośnika gry Warhammer Age of Sigmar.",
+        "A mesa de um colecionador de Warhammer Era de Sigmar.",
+        "Столешница для любителей Warhammer Age of Sigmar.",
+        "《战锤西格玛时代》爱好者的桌面战场。",
+        "Bir Warhammer Age of Sigmar tutkununun oyun masası.",
+        "Ігровий стіл шанувальника Warhammer Age of Sigmar."
       ]
     },
     "stageName": {
       "_value": [
-        "Hobby Table"
+        "Hobby Table",
+        "Table de jeu",
+        "Tavolino da Hobby",
+        "Hobbytisch",
+        "Mesa de hobby",
+        "ホビーテーブル",
+        "취미 작업대",
+        "Stół Modelarski",
+        "Mesa de Hobby",
+        "Хобби-стол",
+        "模型桌",
+        "Hobi Masası",
+        "Стіл для хобі"
       ]
     },
     "tips": {
       "_value": [
-        "Random enemy waves from normal stages."
+        "Random enemy waves from normal stages.",
+        "Des vagues d’ennemis aléatoires de niveaux normaux.",
+        "Ondate casuali di nemici dai livelli normali.",
+        "Zufällige gegnerische Horden aus normalen Levels.",
+        "Oleadas de enemigos aleatorias de niveles normales.",
+        "通常ステージからのランダムな敵ウェーブ。",
+        "일반 스테이지의 적 무리가 무작위로 등장합니다.",
+        "Losowe fale wrogów z normalnych poziomów.",
+        "Ondas aleatórias de inimigos das fases normais.",
+        "Случайные волны врагов с обычных уровней.",
+        "随机生成普通关卡中的敌人波次。",
+        "Normal bölümlerden rastgele düşman dalgaları.",
+        "Хвилі випадкових ворогів на звичайних рівнях."
       ]
     }
   },
   "WS_AOS_PLACEHOLDER_LEVEL": {
     "description": {
       "_value": [
-        "Sigmar Lied - This isn't the mortal realms, this is a Debug level."
+        "Sigmar Lied - This isn't the mortal realms, this is a Debug level.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "hyperTips": {
       "_value": [
-        "50% Coin bonus"
+        "50% Coin bonus",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "stageName": {
       "_value": [
-        "AOS Placeholder Level"
+        "AOS Placeholder Level",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_AOS_SKRAPPA_SPILL": {
     "description": {
       "_value": [
-        "A dark, dank lurklair where Gloomspite Gitz hoard looted scrap under the gaze of the Bad Moon."
+        "A dark, dank lurklair where Gloomspite Gitz hoard looted scrap under the gaze of the Bad Moon.",
+        "Une plank sombre, froide et humide, où les Vils du Fielobscur amassent de la ferraille volée sous le regard de la Mauvaise Lune.",
+        "Un tanascondiglio buio e umido dove i Tizi dell'Odiozkuro accumulano rottami saccheggiati sotto lo sguardo della Luna Kattiva.",
+        "Ein dunkler, feuchter Schlupfwinkel, in dem Mondwahn-Gits geplünderten Schrott unter dem Blick des Bös’n Mondes horten.",
+        "Una guarida oscura y húmeda donde los Tipejoz Nokturnoz acumulan chatarra saqueada bajo la mirada de la Luna Malvada.",
+        "邪月が照らす中、グルームスパイト・ギットが略奪したスクラップをため込んでいる、暗くジメジメとした潜伏アジト。",
+        "배드 문의 눈길 아래, 글룸스파이트 깃츠가 약탈한 잡동사니를 쌓아두는 어둡고 음침한 잠복소굴입니다.",
+        "Mroczna, wilgotna kryjówka, w której Gity Podłego Mroku gromadzą zrabowany złom pod okiem Złego Księżyca.",
+        "Um esconderijo sombrio e úmido onde os Gloomspite Gitz acumulam sucata saqueada sob o olhar da Lua Maligna.",
+        "Темное промозглое логово, где Мракозлобые Поганцы хранят награбленное добро под пристальным взглядом Дурной Луны.",
+        "暗怨地精躲在潮湿阴暗的阴潜洞穴，在恶月的注视下堆满抢来的废料。",
+        "Kinlikasvet Uşakları’nın yağmalanmış hurdaları Kötü Ay’ın bakışları altında istiflediği, karanlık ve nemli bir pusu sığınağı.",
+        "Темна вогка хованора, де дурники Пітьмозлоби під наглядом Зловісного Місяця складають награбований брухт."
       ]
     },
     "stageName": {
       "_value": [
-        "Skrappa Spill"
+        "Skrappa Spill",
+        "Mont d'Ferraille",
+        "Fosso dei Rottami",
+        "Schlägahaufn",
+        "Barranko del Dezparrame",
+        "スクラッパスピル",
+        "스크라파 스필",
+        "Hałda Skrappy",
+        "Jogos de Razpadinha",
+        "Скрапп-Разлив",
+        "万废山",
+        "Hurda Yığını",
+        "Брухтосхил"
       ]
     }
   },
   "WS_AOS_UNDER_EMPIRE": {
     "description": {
       "_value": [
-        "Descend into the Skaven-infested warrens of the Under-Empire that lies beneath the Mortal Realms."
+        "Descend into the Skaven-infested warrens of the Under-Empire that lies beneath the Mortal Realms.",
+        "Descendez dans les galeries infestées par les Skavens de l’Empire Souterrain qui s’étend sous les Royaumes Mortels.",
+        "Scendi nei cunicoli infestati dagli Skaven dell'Impero Sotterraneo che giace sotto i Reami Mortali.",
+        "Steige hinab in die von Skaven verseuchten Tunnel des Tiefenreichs, das unter den Reichen der Sterblichen liegt.",
+        "Desciende a las madrigueras infestadas de skaven del Imperio Subterráneo, que se extiende bajo los Reinos Mortales.",
+        "定命の諸領域の地下に広がる、スケイヴンに侵された地下の帝国の巣窟へと降下せよ。",
+        "모탈 렐름 아래 펼쳐진 지하 제국의 스케이븐 소굴 깊숙한 곳으로 내려가세요.",
+        "Zejdź do zamieszkanych przez skaveny labiryntów Podziemnego Imperium, które rozciąga się pod Krainami Śmiertelników.",
+        "Desça até os labirintos infestados de Skaven do Sub-Império, que se estende sob os Reinos Mortais.",
+        "Спуститесь в кишащие скавенами туннели Подземной Империи, которая раскинулась под Владениями Смертных.",
+        "深入凡世诸域之下的鼠患巢穴，那是一个被斯卡文鼠人盘踞的地底帝国。",
+        "Ölümlü Diyarların altında uzanan Yeraltı İmparatorluğu’nun Skaven istilasındaki dehlizlerine in.",
+        "Спускайтеся до населених скейвенами нір Підземної імперії, що лежить під вимірами смертних."
       ]
     },
     "stageName": {
       "_value": [
-        "Under-Empire"
+        "Under-Empire",
+        "Empire Souterrain",
+        "Impero Sotterraneo",
+        "Tiefenreich",
+        "Imperio Subterráneo",
+        "地下の帝国",
+        "지하 제국",
+        "Podziemne Imperium",
+        "Sub-Império",
+        "Подземная Империя",
+        "地底帝国",
+        "Yeraltı İmparatorluğu",
+        "Підземна імперія"
       ]
     }
   },
   "WS_Challenge_stageType": {
     "_value": [
-      "Challenge"
+      "Challenge",
+      "Défi",
+      "Sfida",
+      "Herausforderung",
+      "Desafío",
+      "チャレンジ",
+      "도전",
+      "Wyzwanie",
+      "Desafio",
+      "Вызов",
+      "挑战",
+      "Meydan Okuma",
+      "Випробування"
     ]
   },
   "WS_Secret_stageType": {
     "_value": [
-      "Secret"
+      "Secret",
+      "Secret",
+      "Segreto",
+      "Geheimnis",
+      "Secreto",
+      "シークレット",
+      "시크릿",
+      "Sekret",
+      "Secreto",
+      "Секрет",
+      "秘密关卡",
+      "Sır",
+      "Таємниця"
     ]
   },
   "WS_Bonus_stageType": {
     "_value": [
-      "Bonus"
+      "Bonus",
+      "Bonus",
+      "Bonus",
+      "Bonus",
+      "Bonificación",
+      "ボーナス",
+      "보너스",
+      "Premia",
+      "Bônus",
+      "Бонус",
+      "奖励",
+      "Bonus",
+      "Бонус"
     ]
   }
 }

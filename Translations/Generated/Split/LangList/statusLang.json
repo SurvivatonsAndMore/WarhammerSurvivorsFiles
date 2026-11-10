@@ -2,119 +2,323 @@
   "BATTLE_SHOCKED": {
     "name": {
       "_value": [
-        "Battle Shocked"
+        "Battle Shocked",
+        "Ébranlé",
+        "Shock da Combattimento",
+        "Erschüttert",
+        "Acobardamiento",
+        "戦闘ショック",
+        "전투충격",
+        "Szok Bitewny",
+        "Choque de Batalha",
+        "Состояние боевого шока",
+        "战斗休克",
+        "Savaş Şokuna Girmiş",
+        "Стан бойового шоку"
       ]
     }
   },
   "BERSERK": {
     "name": {
       "_value": [
-        "Berserk"
+        "Berserk",
+        "En rage",
+        "Berserk",
+        "Berserker",
+        "Berserk",
+        "ベルセルク",
+        "광폭",
+        "Berserk",
+        "Fúria",
+        "Берсерк",
+        "狂暴",
+        "Berserk",
+        "Берсерк"
       ]
     }
   },
   "BLEEDING": {
     "name": {
       "_value": [
-        "Bleeding"
+        "Bleeding",
+        "Saignement",
+        "Sanguinamento",
+        "Blutend",
+        "Sangrado",
+        "出血",
+        "출혈",
+        "Krwawienie",
+        "Sangramento",
+        "Кровотечение",
+        "流血",
+        "Kanama",
+        "Кровотеча"
       ]
     }
   },
   "BLESSED": {
     "name": {
       "_value": [
-        "Blessed"
+        "Blessed",
+        "Bénédiction",
+        "Benedetto",
+        "Gesegnet",
+        "Bendición",
+        "祝福",
+        "축복",
+        "Błogosławieństwo",
+        "Abençoado",
+        "Благословение",
+        "赐福",
+        "Kutsanmış",
+        "Благословення"
       ]
     }
   },
   "BURNING": {
     "name": {
       "_value": [
-        "Burning"
+        "Burning",
+        "Brûlure",
+        "Ustione",
+        "Brennend",
+        "Quemadura",
+        "燃焼",
+        "화상",
+        "Podpalenie",
+        "Queimadura",
+        "Горение",
+        "燃烧",
+        "Yanma",
+        "Загоряння"
       ]
     }
   },
   "CURSED": {
     "name": {
       "_value": [
-        "Cursed"
+        "Cursed",
+        "Malédiction",
+        "Maledetto",
+        "Verflucht",
+        "Maldición",
+        "呪い",
+        "저주",
+        "Przekleństwo",
+        "Amaldiçoado",
+        "Проклятие",
+        "诅咒",
+        "Lanetli",
+        "Прокляття"
       ]
     }
   },
   "DISARMED": {
     "name": {
       "_value": [
-        "Disarmed"
+        "Disarmed",
+        "Sans arme",
+        "Disarmato",
+        "Entwaffnet",
+        "Desarme",
+        "武装解除",
+        "무장 해제",
+        "Rozbrojenie",
+        "Desarmado",
+        "Обезоруживание",
+        "缴械",
+        "Silahsızlandırılmış",
+        "Обеззброєння"
       ]
     }
   },
   "FRENZIED": {
     "name": {
       "_value": [
-        "Frenzied"
+        "Frenzied",
+        "Frénésie",
+        "Sfrenato",
+        "Rasend",
+        "Frenesí",
+        "フレンジー",
+        "광란",
+        "Szał",
+        "Frenesi",
+        "Неистовство",
+        "狂乱",
+        "Gözü Dönmüş",
+        "Несамовитість"
       ]
     }
   },
   "HASTENED": {
     "name": {
       "_value": [
-        "Hastened"
+        "Hastened",
+        "Précipitation",
+        "Accelerato",
+        "Beschleunigt",
+        "Aceleración",
+        "ヘイスト",
+        "가속",
+        "Przyspieszenie",
+        "Acelerado",
+        "Ускорение",
+        "加速",
+        "Hızlanmış",
+        "Поспіх"
       ]
     }
   },
   "HEALING": {
     "name": {
       "_value": [
-        "Healing"
+        "Healing",
+        "Guérison",
+        "Guarigione",
+        "Heilung",
+        "Curación",
+        "回復",
+        "회복",
+        "Leczenie",
+        "Cura",
+        "Исцеление",
+        "治疗",
+        "İyileştirme",
+        "Зцілення"
       ]
     }
   },
   "OILED": {
     "name": {
       "_value": [
-        "Oiled"
+        "Oiled",
+        "À l’huile",
+        "Oliato",
+        "Geölt",
+        "Afectado por el aceite",
+        "油まみれ",
+        "기름 묻음",
+        "Oblanie olejem",
+        "Untado",
+        "Промасливание",
+        "油浸",
+        "Yağlanmış",
+        "Змащення"
       ]
     }
   },
   "POISONED": {
     "name": {
       "_value": [
-        "Poisoned"
+        "Poisoned",
+        "Empoisonnement",
+        "Avvelenato",
+        "Vergiftet",
+        "Envenenado",
+        "毒",
+        "중독",
+        "Zatrucie",
+        "Envenenado",
+        "Отравление",
+        "中毒",
+        "Zehirli",
+        "Отруєння"
       ]
     }
   },
   "SLOWED": {
     "name": {
       "_value": [
-        "Slowed"
+        "Slowed",
+        "Ralentissement",
+        "Rallentato",
+        "Verlangsamt",
+        "Ralentización",
+        "スロウ",
+        "둔화",
+        "Spowolnienie",
+        "Desacelerado",
+        "Замедление",
+        "减速",
+        "Yavaşlatılmış",
+        "Сповільнення"
       ]
     }
   },
   "STASIS": {
     "name": {
       "_value": [
-        "Stasis"
+        "Stasis",
+        "Immobilisation",
+        "Stasi",
+        "Stasis",
+        "Inmovilidad",
+        "ステイシス",
+        "정지",
+        "Staza",
+        "Imobilizado",
+        "Стазис",
+        "静滞",
+        "Hareketsizlik",
+        "Застій"
       ]
     }
   },
   "STUNNED": {
     "name": {
       "_value": [
-        "Stunned"
+        "Stunned",
+        "Étourdissement",
+        "Stordito",
+        "Betäubt",
+        "Aturdimiento",
+        "スタン",
+        "기절",
+        "Ogłuszenie",
+        "Atordoado",
+        "Оглушение",
+        "眩晕",
+        "Sersemletme",
+        "Приголомшення"
       ]
     }
   },
   "VULNERABLE": {
     "name": {
       "_value": [
-        "Vulnerable"
+        "Vulnerable",
+        "Vulnérabilité",
+        "Vulnerabile",
+        "Verwundbar",
+        "Vulnerabilidad",
+        "脆弱",
+        "취약",
+        "Wrażliwość",
+        "Vulnerável",
+        "Уязвимость",
+        "脆弱",
+        "Savunmasız",
+        "Вразливість"
       ]
     }
   },
   "WARDED": {
     "name": {
       "_value": [
-        "Warded"
+        "Warded",
+        "Protection",
+        "Protetto",
+        "Behütet",
+        "Protección",
+        "ワード",
+        "보호",
+        "Ochrona",
+        "Protegido",
+        "Безопасность",
+        "庇护",
+        "Muhafazalı",
+        "Оберіг"
       ]
     }
   }

@@ -2,119 +2,323 @@
   "BATTLE_SHOCKED": {
     "name": {
       "_value": {
-        "en": "Battle Shocked"
+        "en": "Battle Shocked",
+        "fr": "Ébranlé",
+        "it": "Shock da Combattimento",
+        "de": "Erschüttert",
+        "es": "Acobardamiento",
+        "ja": "戦闘ショック",
+        "ko": "전투충격",
+        "pl": "Szok Bitewny",
+        "pt-BR": "Choque de Batalha",
+        "ru": "Состояние боевого шока",
+        "zh-CN": "战斗休克",
+        "tr": "Savaş Şokuna Girmiş",
+        "uk": "Стан бойового шоку"
       }
     }
   },
   "BERSERK": {
     "name": {
       "_value": {
-        "en": "Berserk"
+        "en": "Berserk",
+        "fr": "En rage",
+        "it": "Berserk",
+        "de": "Berserker",
+        "es": "Berserk",
+        "ja": "ベルセルク",
+        "ko": "광폭",
+        "pl": "Berserk",
+        "pt-BR": "Fúria",
+        "ru": "Берсерк",
+        "zh-CN": "狂暴",
+        "tr": "Berserk",
+        "uk": "Берсерк"
       }
     }
   },
   "BLEEDING": {
     "name": {
       "_value": {
-        "en": "Bleeding"
+        "en": "Bleeding",
+        "fr": "Saignement",
+        "it": "Sanguinamento",
+        "de": "Blutend",
+        "es": "Sangrado",
+        "ja": "出血",
+        "ko": "출혈",
+        "pl": "Krwawienie",
+        "pt-BR": "Sangramento",
+        "ru": "Кровотечение",
+        "zh-CN": "流血",
+        "tr": "Kanama",
+        "uk": "Кровотеча"
       }
     }
   },
   "BLESSED": {
     "name": {
       "_value": {
-        "en": "Blessed"
+        "en": "Blessed",
+        "fr": "Bénédiction",
+        "it": "Benedetto",
+        "de": "Gesegnet",
+        "es": "Bendición",
+        "ja": "祝福",
+        "ko": "축복",
+        "pl": "Błogosławieństwo",
+        "pt-BR": "Abençoado",
+        "ru": "Благословение",
+        "zh-CN": "赐福",
+        "tr": "Kutsanmış",
+        "uk": "Благословення"
       }
     }
   },
   "BURNING": {
     "name": {
       "_value": {
-        "en": "Burning"
+        "en": "Burning",
+        "fr": "Brûlure",
+        "it": "Ustione",
+        "de": "Brennend",
+        "es": "Quemadura",
+        "ja": "燃焼",
+        "ko": "화상",
+        "pl": "Podpalenie",
+        "pt-BR": "Queimadura",
+        "ru": "Горение",
+        "zh-CN": "燃烧",
+        "tr": "Yanma",
+        "uk": "Загоряння"
       }
     }
   },
   "CURSED": {
     "name": {
       "_value": {
-        "en": "Cursed"
+        "en": "Cursed",
+        "fr": "Malédiction",
+        "it": "Maledetto",
+        "de": "Verflucht",
+        "es": "Maldición",
+        "ja": "呪い",
+        "ko": "저주",
+        "pl": "Przekleństwo",
+        "pt-BR": "Amaldiçoado",
+        "ru": "Проклятие",
+        "zh-CN": "诅咒",
+        "tr": "Lanetli",
+        "uk": "Прокляття"
       }
     }
   },
   "DISARMED": {
     "name": {
       "_value": {
-        "en": "Disarmed"
+        "en": "Disarmed",
+        "fr": "Sans arme",
+        "it": "Disarmato",
+        "de": "Entwaffnet",
+        "es": "Desarme",
+        "ja": "武装解除",
+        "ko": "무장 해제",
+        "pl": "Rozbrojenie",
+        "pt-BR": "Desarmado",
+        "ru": "Обезоруживание",
+        "zh-CN": "缴械",
+        "tr": "Silahsızlandırılmış",
+        "uk": "Обеззброєння"
       }
     }
   },
   "FRENZIED": {
     "name": {
       "_value": {
-        "en": "Frenzied"
+        "en": "Frenzied",
+        "fr": "Frénésie",
+        "it": "Sfrenato",
+        "de": "Rasend",
+        "es": "Frenesí",
+        "ja": "フレンジー",
+        "ko": "광란",
+        "pl": "Szał",
+        "pt-BR": "Frenesi",
+        "ru": "Неистовство",
+        "zh-CN": "狂乱",
+        "tr": "Gözü Dönmüş",
+        "uk": "Несамовитість"
       }
     }
   },
   "HASTENED": {
     "name": {
       "_value": {
-        "en": "Hastened"
+        "en": "Hastened",
+        "fr": "Précipitation",
+        "it": "Accelerato",
+        "de": "Beschleunigt",
+        "es": "Aceleración",
+        "ja": "ヘイスト",
+        "ko": "가속",
+        "pl": "Przyspieszenie",
+        "pt-BR": "Acelerado",
+        "ru": "Ускорение",
+        "zh-CN": "加速",
+        "tr": "Hızlanmış",
+        "uk": "Поспіх"
       }
     }
   },
   "HEALING": {
     "name": {
       "_value": {
-        "en": "Healing"
+        "en": "Healing",
+        "fr": "Guérison",
+        "it": "Guarigione",
+        "de": "Heilung",
+        "es": "Curación",
+        "ja": "回復",
+        "ko": "회복",
+        "pl": "Leczenie",
+        "pt-BR": "Cura",
+        "ru": "Исцеление",
+        "zh-CN": "治疗",
+        "tr": "İyileştirme",
+        "uk": "Зцілення"
       }
     }
   },
   "OILED": {
     "name": {
       "_value": {
-        "en": "Oiled"
+        "en": "Oiled",
+        "fr": "À l’huile",
+        "it": "Oliato",
+        "de": "Geölt",
+        "es": "Afectado por el aceite",
+        "ja": "油まみれ",
+        "ko": "기름 묻음",
+        "pl": "Oblanie olejem",
+        "pt-BR": "Untado",
+        "ru": "Промасливание",
+        "zh-CN": "油浸",
+        "tr": "Yağlanmış",
+        "uk": "Змащення"
       }
     }
   },
   "POISONED": {
     "name": {
       "_value": {
-        "en": "Poisoned"
+        "en": "Poisoned",
+        "fr": "Empoisonnement",
+        "it": "Avvelenato",
+        "de": "Vergiftet",
+        "es": "Envenenado",
+        "ja": "毒",
+        "ko": "중독",
+        "pl": "Zatrucie",
+        "pt-BR": "Envenenado",
+        "ru": "Отравление",
+        "zh-CN": "中毒",
+        "tr": "Zehirli",
+        "uk": "Отруєння"
       }
     }
   },
   "SLOWED": {
     "name": {
       "_value": {
-        "en": "Slowed"
+        "en": "Slowed",
+        "fr": "Ralentissement",
+        "it": "Rallentato",
+        "de": "Verlangsamt",
+        "es": "Ralentización",
+        "ja": "スロウ",
+        "ko": "둔화",
+        "pl": "Spowolnienie",
+        "pt-BR": "Desacelerado",
+        "ru": "Замедление",
+        "zh-CN": "减速",
+        "tr": "Yavaşlatılmış",
+        "uk": "Сповільнення"
       }
     }
   },
   "STASIS": {
     "name": {
       "_value": {
-        "en": "Stasis"
+        "en": "Stasis",
+        "fr": "Immobilisation",
+        "it": "Stasi",
+        "de": "Stasis",
+        "es": "Inmovilidad",
+        "ja": "ステイシス",
+        "ko": "정지",
+        "pl": "Staza",
+        "pt-BR": "Imobilizado",
+        "ru": "Стазис",
+        "zh-CN": "静滞",
+        "tr": "Hareketsizlik",
+        "uk": "Застій"
       }
     }
   },
   "STUNNED": {
     "name": {
       "_value": {
-        "en": "Stunned"
+        "en": "Stunned",
+        "fr": "Étourdissement",
+        "it": "Stordito",
+        "de": "Betäubt",
+        "es": "Aturdimiento",
+        "ja": "スタン",
+        "ko": "기절",
+        "pl": "Ogłuszenie",
+        "pt-BR": "Atordoado",
+        "ru": "Оглушение",
+        "zh-CN": "眩晕",
+        "tr": "Sersemletme",
+        "uk": "Приголомшення"
       }
     }
   },
   "VULNERABLE": {
     "name": {
       "_value": {
-        "en": "Vulnerable"
+        "en": "Vulnerable",
+        "fr": "Vulnérabilité",
+        "it": "Vulnerabile",
+        "de": "Verwundbar",
+        "es": "Vulnerabilidad",
+        "ja": "脆弱",
+        "ko": "취약",
+        "pl": "Wrażliwość",
+        "pt-BR": "Vulnerável",
+        "ru": "Уязвимость",
+        "zh-CN": "脆弱",
+        "tr": "Savunmasız",
+        "uk": "Вразливість"
       }
     }
   },
   "WARDED": {
     "name": {
       "_value": {
-        "en": "Warded"
+        "en": "Warded",
+        "fr": "Protection",
+        "it": "Protetto",
+        "de": "Behütet",
+        "es": "Protección",
+        "ja": "ワード",
+        "ko": "보호",
+        "pl": "Ochrona",
+        "pt-BR": "Protegido",
+        "ru": "Безопасность",
+        "zh-CN": "庇护",
+        "tr": "Muhafazalı",
+        "uk": "Оберіг"
       }
     }
   }

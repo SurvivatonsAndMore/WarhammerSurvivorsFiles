@@ -196,13 +196,22 @@
     "texture": "items",
     "frameName": "Gilded0.png",
     "pickedupAmount": 0,
-    "rarity": 0,
-    "unlocksAt": 1000000,
+    "rarity": 1,
+    "unlocksAt": 30,
     "inTreasures": false,
-    "hidden": true,
     "value": 1000,
     "sealable": true,
-    "contentGroup": "BASE"
+    "contentGroup": "BASE",
+    "overrides": [
+      {
+        "silo": "WH_40K",
+        "itemType": "WS_COLLECTATHON"
+      },
+      {
+        "silo": "WH_AOS",
+        "itemType": "WS_COLLECTATHON"
+      }
+    ]
   },
 
   "CLOVER": {
@@ -556,6 +565,32 @@
     "isRelic": true,
     "showAboveAll": true
   },
+  "RELIC_GOLDENEGG": {
+    "name": "Golden Egg",
+    "description": "Permanently improves a random stat for the current character, by a tiny amount.",
+    "tips": "",
+    "texture": "items",
+    "frameName": "goldenegg.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": true, //false,
+    "value": 10000,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "overrides": [
+      {
+        "silo": "WH_40K",
+        "itemType": "WS_40K_MUTAGEN"
+      },
+      {
+        "silo": "WH_AOS",
+        "itemType": "WS_AOS_VARANITE"
+      }
+    ]
+  },
   "MERCHANT": {
     "name": "",
     "description": "",
@@ -599,6 +634,44 @@
     "merchantCost": 50,
     "inTreasures": false,
     "seen": true,
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ]
+  },
+  "WS_PAINTPOT": {
+    "name": "Warhammer Paint Pot",
+    "description": "Used for painting Warhammer miniatures.",
+    "tips": "",
+    "texture": "WS_Items",
+    "frameName": "Element_QuestionMark",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": true,
+    "value": 0,
+    "isPaintPot": true,
+    "showAboveAll": true,
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ]
+  },
+  "WS_MERCHANT": {
+    "name": "Merchant",
+    "description": "Purchase items here.",
+    "tips": "",
+    "achievementTips": "",
+    "texture": "AOS_Enemies",
+    "frameName": "E_Ska_GreySeer_0",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": true,
+    "value": 0,
+    "showAboveAll": true,
     "silos": [
       "WH_40K",
       "WH_AOS"
@@ -657,6 +730,27 @@
     "value": 0.1,
     "sealable": true,
     "contentGroup": "BASE",
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ]
+  },
+  "WS_COLLECTATHON": {
+    "isOverrideData": true,
+    "name": "Collectathon",
+    "description": "",
+    "tips": "",
+    "texture": "WS_Items",
+    "frameName": "Pickup_Tithe_00.png",
+    "pickedupAmount": 0,
+    "rarity": 1,
+    "unlocksAt": 30,
+    "inTreasures": false,
+    "value": 1000,
+    "merchantCost": 1000,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
     "silos": [
       "WH_40K",
       "WH_AOS"
@@ -833,6 +927,45 @@
       "WH_AOS"
     ]
   },
+  "WS_RELIC_BROKEN_SWORD": {
+    "name": "Broken Sword",
+    "description": "Unlocks the Retribution stat in the Enhancements menu for Warhammer 40,000 and Warhammer Age of Sigmar universes.",
+    "tips": "Might Disarm enemies.",
+    "texture": "WS_Items",
+    "frameName": "Passive_Retribution.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 5000,
+    "merchantCost": 5000,
+    "isRelic": true,
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ]
+  },
+  "WS_RELIC_HUNTING_TRAP": {
+    "name": "Hunting Trap",
+    "description": "Unlocks the Bait stat in the Enhancements menu for Warhammer 40,000 and Warhammer Age of Sigmar universes.",
+    "tips": "Increases enemy spawn quantity.",
+    "achievementTips": "",
+    "texture": "WS_Items",
+    "frameName": "Passive_Bait.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 5000,
+    "merchantCost": 5000,
+    "isRelic": true,
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ]
+  },
   "WS_DUMMY_REVIVE": {
     "name": "Redeployment",
     "description": "+1 Revive after being defeated.",
@@ -846,6 +979,25 @@
     "hidden": true,
     "value": 1000,
     "merchantCost": 1000,
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ]
+  },
+  " WS_EIGHT_POINTED_STAR": {
+    "name": "Eight-Pointed Star",
+    "description": "+10% Corruption.",
+    "tips": "",
+    "achievementTips": "",
+    "texture": "WS_Items",
+    "frameName": "Pickup_Corruption.png",
+    "pickedupAmount": 0,
+    "rarity": 0.25,
+    "unlocksAt": 30,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0.1,
+    "sealable": true,
     "silos": [
       "WH_40K",
       "WH_AOS"
@@ -1008,6 +1160,26 @@
       "WH_40K"
     ]
   },
+  "WS_40K_RELIC_EMPERORS_TAROT_DECK": {
+    "name": "Emperor's Tarot Deck",
+    "description": "Enables the unlocking and activation of Tarot Cards.",
+    "tips": "",
+    "achievementTips": "Arcanas",
+    "texture": "40K_Items",
+    "frameName": "Relic_EmperorsTarot",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
   "WS_40K_FRAG_GRENADE": {
     "name": "Frag Grenade",
     "description": "Throw an exploding frag grenade",
@@ -1016,7 +1188,7 @@
     "frameName": "Pickup_Frag_Grenade",
     "pickedupAmount": 0,
     "rarity": 15,
-    "unlocksAt": 10,
+    "unlocksAt": 3,
     "value": 150,
     "merchantCost": 150,
     "isRare": true,
@@ -1036,7 +1208,7 @@
     "texture": "40K_Items",
     "frameName": "Pickup_PromethiumCanister_00",
     "pickedupAmount": 0,
-    "rarity": 1,
+    "rarity": 5,
     "unlocksAt": 2,
     "value": 300,
     "merchantCost": 300,
@@ -1067,6 +1239,29 @@
       "WH_40K"
     ]
   },
+  "WS_40K_ONSLAUGHT": {
+    "name": "Onslaught",
+    "description": "Induces a Hastened state. Heightens movement speed and reaction time, making enemies appear slower.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "40K_Items",
+    "frameName": "Pickup_Onslaught_01.png",
+    "pickedupAmount": 0,
+    "rarity": 2,
+    "unlocksAt": 5,
+    "value": 50,
+    "merchantCost": 50,
+    "isRare": true,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "inTreasures": false,
+    "isUnlocked": false,
+    "silos": [
+      "WH_40K"
+    ],
+    "factionKeywords": [
+      "IMPERIUM"
+    ]
+  },
   "WS_40K_FRENZON": {
     "name": "Frenzon",
     "description": "Temporarily doubles Move and halves Reload.",
@@ -1082,6 +1277,89 @@
     "sealable": true,
     "contentGroup": "BASE",
     "inTreasures": false,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_AUSPEX": {
+    "name": "Auspex",
+    "description": "A hand-held scanning device that can reveal hidden items.",
+    "tips": "Revisit locations to find items that were previously hidden.",
+    "achievementTips": "",
+    "texture": "40K_Items",
+    "frameName": "Relic_Auspex.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_TELEPORTARIUM_STC": {
+    "name": "Teleportarium",
+    "description": "Allows limited safe passage through the warp.",
+    "tips": "Activate Astropathic Relays in other locations.",
+    "achievementTips": "",
+    "texture": "40K_Items",
+    "frameName": "Relic_Teleportarium.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 10000,
+    "merchantCost": 10000,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_FERROSANCTIC_ORRERY": {
+    "name": "Ferrosanctic Orrery",
+    "description": "Summons a Tech-Priest Manipulus to assist you.",
+    "tips": "Locate the Tech-Priest Manipulus while on-mission.",
+    "achievementTips": "",
+    "texture": "40K_Items",
+    "frameName": "Relic_FerrosancticOrrery.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 100,
+    "merchantCost": 100,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_THE_BOOK_OF_TZEENTCH": {
+    "name": "The Book of Tzeentch",
+    "description": "What foul sorcery is this?",
+    "tips": "Recite the incantations, if you are a heretic.",
+    "achievementTips": "",
+    "texture": "40K_Items",
+    "frameName": "Relic_TzeentchBook.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "requiresItemForMapVisibility": "WS_40K_RELIC_AUSPEX",
     "silos": [
       "WH_40K"
     ]
@@ -1106,6 +1384,425 @@
       "WH_40K"
     ]
   },
+  "WS_40K_RELIC_RELAY_IMPERIAL_BASTION_1": {
+    "name": "Astropathic Relay - Imperial Bastion",
+    "description": "Technoarcheologist Daedalosus will provide support on the Imperial Bastion mission.",
+    "tips": "",
+    "achievementTips": "",
+    "texture": "40K_Items",
+    "frameName": "Relic_AstropathicRelay_ImperialBastion.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_RELAY_ORK_STRONGHOLD_1": {
+    "name": "Astropathic Relay - Ork Stronghold",
+    "description": "Technoarcheologist Daedalosus will provide support on the Ork Stronghold mission.",
+    "tips": "",
+    "achievementTips": "",
+    "texture": "40K_Items",
+    "frameName": "Relic_AstropathicRelay_OrkStronghold.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_RELAY_DEATH_WORLD_1": {
+    "name": "Astropathic Relay - Death World",
+    "description": "Technoarcheologist Daedalosus will provide support on the Death World mission.",
+    "tips": "",
+    "achievementTips": "",
+    "texture": "40K_Items",
+    "frameName": "Relic_AstropathicRelay_DeathWorldInvasion.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_RELAY_HOBBY_TABLE_1": {
+    "name": "Astropathic Relay - Hobby Table",
+    "description": "Technoarcheologist Daedalosus will provide support on the Hobby Table mission.",
+    "tips": "",
+    "achievementTips": "",
+    "texture": "40K_Items",
+    "frameName": "Relic_AstropathicRelay_HobbyTable.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_RELAY_GALLOWDARK_1": {
+    "name": "Astropathic Relay - Gallowdark",
+    "description": "Technoarcheologist Daedalosus will provide support on the Gallowdark mission.",
+    "tips": "",
+    "achievementTips": "",
+    "texture": "40K_Items",
+    "frameName": "Relic_AstropathicRelay_Gallowdark.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_RELAY_IMPERIAL_SHIPYARD_1": {
+    "name": "Astropathic Relay - Imperial Shipyard",
+    "description": "Technoarcheologist Daedalosus will provide support on the Imperial Shipyard mission.",
+    "tips": "",
+    "achievementTips": "",
+    "texture": "40K_Items",
+    "frameName": "Relic_AstropathicRelay_ImperialShipyard.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_KRAK_GRENADE": {
+    "name": "Krak Grenade",
+    "description": "Deals very high damage to a single target.",
+    "tips": "Requires keyword: Grenades. Drop rate affected by Chance.",
+    "texture": "40K_Items",
+    "frameName": "Pickup_KrakGrenade_00",
+    "pickedupAmount": 0,
+    "rarity": 6,
+    "unlocksAt": 10,
+    "value": 250,
+    "merchantCost": 250,
+    "isRare": true,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
+    "silos": [
+      "WH_40K"
+    ],
+    "keywords": [
+      "GRENADES"
+    ],
+    "factionKeywords": [
+      "IMPERIUM"
+    ]
+  },
+  "WS_40K_MELTA_BOMB": {
+    "name": "Melta Bomb",
+    "description": "Detonate a powerful Melta Bomb",
+    "tips": "Requires keyword: Grenades. Drop rate affected by Chance.",
+    "texture": "40K_Items",
+    "frameName": "Pickup_MeltaBomb_00",
+    "pickedupAmount": 0,
+    "rarity": 5,
+    "unlocksAt": 10,
+    "value": 350,
+    "merchantCost": 350,
+    "isRare": true,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
+    "silos": [
+      "WH_40K"
+    ],
+    "keywords": [
+      "GRENADES"
+    ]
+  },
+  "WS_40K_HELLFIRE_AMMO": {
+    "name": "Hellfire Ammo",
+    "description": "Special bolt rounds that increase the damage of ranged weapons and cause them to inflict poison damage.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "40K_Items",
+    "frameName": "Pickup_HellfireAmmo_00",
+    "pickedupAmount": 0,
+    "rarity": 5,
+    "unlocksAt": 15,
+    "value": 300,
+    "merchantCost": 300,
+    "isRare": true,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
+    "silos": [
+      "WH_40K"
+    ],
+    "keywords": [
+      "STERNGUARD_VETERAN"
+    ]
+  },
+  "WS_40K_RECAFF": {
+    "name": "Recaff",
+    "description": "+10% Wounds and +0.1 Toughness.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "40K_Items",
+    "frameName": "Pickup_Recaff_00",
+    "pickedupAmount": 0,
+    "rarity": 8,
+    "unlocksAt": 6,
+    "value": 0.1,
+    "isRare": true,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_SIGNUM": {
+    "hidden": true, // For CR
+    "isUnlocked": false,
+    "name": "Signum",
+    "description": "PLACEHOLDER",
+    "placeholder": true,
+    "tips": "PLACEHOLDER",
+    "texture": "Axe",
+    "frameName": "Axe_0",
+    "pickedupAmount": 0,
+    "rarity": 1,
+    "unlocksAt": 100000,
+    "value": 300,
+    "merchantCost": 300,
+    "isRare": true,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_PURITY_SEAL": {
+    "name": "Purity Seal",
+    "description": "+10% Veterancy.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "40K_Items",
+    "frameName": "Pickup_PuritySeal_00",
+    "pickedupAmount": 0,
+    "rarity": 1,
+    "unlocksAt": 20,
+    "value": 0.1,
+    "isRare": true,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_LAUD_HAILER": {
+    "name": "Laud-Hailer",
+    "description": "Inflicts Battle-Shocked on enemies.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "40K_Items",
+    "frameName": "Pickup_LaudHailer_00",
+    "pickedupAmount": 0,
+    "rarity": 3,
+    "unlocksAt": 10,
+    "value": 300,
+    "merchantCost": 300,
+    "isRare": true,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
+    "silos": [
+      "WH_40K"
+    ],
+    "keywords": [
+      "LAUDHAILER_USER"
+    ]
+  },
+
+  "WS_40K_RELIC_BOOK_OF_WOE": {
+    "name": "Book of Woe",
+    "description": "Unlocks Grim Darkness Mode for the Warhammer 40,000 universe.",
+    "tips": "Grim Darkness Mode - enemies are much tougher than usual.",
+    "texture": "40k_Items",
+    "frameName": "Relic_BookOfWoe.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "showAboveAll": true,
+    "contentGroup": "BASE",
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_GYROTEMPORAL_VAULT": {
+    "name": "Gyrotemporal Vault",
+    "description": "Unlocks Fast Attack Mode for the Warhammer 40,000 universe.",
+    "tips": "Fast Attack Mode - mission timer runs at double speed.",
+    "texture": "40k_Items",
+    "frameName": "Relic_GyrotemporalVault.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "showAboveAll": true,
+    "contentGroup": "BASE",
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_SIGNUM_ARRAY": {
+    "name": "Signum Array",
+    "description": "Adds more detail to the map in the Warhammer 40,000 universe.",
+    "tips": "Characters in need of assistance can now be located.",
+    "texture": "40K_items",
+    "frameName": "Relic_SignumArray.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "showAboveAll" : true,
+    "contentGroup": "BASE",
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_MAELSTROM_KEY":  {
+    "name": "Maelstrom Key",
+    "description": "Unlocks Endless War Mode for the Warhammer 40,000 universe.",
+    "tips": "In the grim darkness of the far future, there is only war.",
+    "texture": "40K_items",
+    "frameName": "Relic_MaelstromKey.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "requiresItemForMapVisibility": "WS_40K_RELIC_AUSPEX",
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_TOME_OF_ECTOLADES": {
+    "name": "Tome of Ectolades",
+    "description": "Unlocks the Bestiarium for the Warhammer 40,000 universe.",
+    "tips": "Know thy foe. Enemies slain are recorded in the Bestiarium.",
+    "texture": "40K_items",
+    "frameName": "Relic_TomeOfEctolades.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_RELIC_STANDARD_OF_THE_EMPEROR_ASCENDANT":  {
+    "name": "The Standard of the Emperor Ascendant",
+    "description": "Unlocks Purity Mode for the Warhammer 40,000 universe.",
+    "tips": "Purity Mode is for the most pious of warriors.",
+    "texture": "40K_items",
+    "frameName": "Relic_StandardEmperorAscendant.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_MEDICAE_BAG": {
+    "name": "Medicae Bag",
+    "description": "Restores 60 health points.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "40K_Items",
+    "frameName": "Pickup_MedicaeBag_00.png",
+    "pickedupAmount": 0,
+    "rarity": 6,
+    "unlocksAt": 1,
+    "value": 60,
+    "merchantCost": 600,
+    "isRare": true,
+    "sealable": true,
+    "isUnlocked": false,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "WS_40K_MUTAGEN": {
+    "isOverrideData": true,
+    "name": "Mutagen",
+    "description": "Permanently improves a random stat for the current character by a tiny amount.",
+    "tips": "",
+    "texture": "40k_Items",
+    "frameName": "pickup_Mutagen_01.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": true, //false,
+    "value": 10000,
+    "merchantCost": 10000,
+    "isRelic": true,
+    "showAboveAll": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
   "WS_40K_DUMMY_ARCANA": {
     "name": "40K Dummy Arcana",
     "description": "Random Arcana",
@@ -1123,7 +1820,24 @@
       "WH_40K"
     ]
   },
-  
+  "WS_40K_CHARBUY_VAULK": {
+    "name": "Balphamus Vaulk",
+    "description": "Unlocks Balphamus Vaulk as a playable character.",
+    "tips": "Combat protocols engaged.",
+    "texture": "character_techpriest_manipulus",
+    "frameName": "C_TechPriestManipulus_01.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": true,
+    "value": 25000,
+    "merchantCost": 25000,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+
   "WS_AOS_AQUA_GHYRANIS": {
     "name": "Aqua Ghyranis",
     "description": "Restores 30 health points.",
@@ -1157,6 +1871,26 @@
     "silos": [
       "WH_AOS"
     ]
+  },
+  "WS_AOS_EVERBLAZE_COMET": {
+    "name": "Everblaze Comet",
+    "description": "Destroys enemies on impact.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "AOS_Items",
+    "frameName": "Pickup_Comet_01.png",
+    "pickedupAmount": 0,
+    "rarity": 1.5,
+    "unlocksAt": 5,
+    "value": 400,
+    "merchantCost": 400,
+    "isRare": true,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "inTreasures": false,
+    "silos": [
+      "WH_AOS"
+    ],
+    "isEndlessSpell": true
   },
   "WS_AOS_PURPLE_SUN_OF_SHYISH": {
     "name": "Purple Sun of Shyish",
@@ -1301,6 +2035,26 @@
       "WH_AOS"
     ]
   },
+  "WS_AOS_RELIC_CELESTIAL_ORRERY": {
+    "name": "Celestial Orrery",
+    "description": "Enables the unlocking and activation of Celestial Arcanas.",
+    "tips": "",
+    "achievementTips": "Arcanas",
+    "texture": "AOS_Items",
+    "frameName": "Relic_Celestial_Orrery",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
   "WS_AOS_GNASHING_JAWS": {
     "name": "Gnashing Jaws",
     "description": "Unleash the insatiable appetite of Ravenak upon your enemies.",
@@ -1320,6 +2074,146 @@
     ],
     "isEndlessSpell": true
   },
+  "WS_AOS_EMERALD_LIFESWARM": {
+    "name": "Emerald Lifeswarm",
+    "description": "Unleash a swarm of healing insects.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "AOS_Items",
+    "frameName": "Pickup_EmeraldLifeSwarm_01",
+    "pickedupAmount": 0,
+    "rarity": 2,
+    "unlocksAt": 2,
+    "value": 3,
+    "isRare": false,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
+    "silos": [
+      "WH_AOS"
+    ],
+    "isEndlessSpell": true
+  },
+  "WS_AOS_CHRONOMANTIC_COG": {
+    "name": "Chronomantic Cog",
+    "description": "Dilates time, allowing you to move rapidly while enemies are slowed.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "AOS_Items",
+    "frameName": "Pickup_ChronomanticCog_01",
+    "pickedupAmount": 0,
+    "rarity": 2,
+    "unlocksAt": 5,
+    "value": 12,
+    "merchantCost": 12,
+    "isRare": false,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_PRISMATIC_PALISADE": {
+    "name": "Prismatic Palisade",
+    "description": "A defensive spell that deflects incoming attacks.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "AOS_Items",
+    "frameName": "Pickup_PrismaticPalisade_01",
+    "pickedupAmount": 0,
+    "rarity": 1,
+    "unlocksAt": 15,
+    "value": 30,
+    "merchantCost": 30,
+    "isRare": false,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
+    "silos": [
+      "WH_AOS"
+    ],
+    "isEndlessSpell": true
+  },
+  "WS_AOS_RELIC_TRADE_AGREEMENT": {
+    "name": "Trade Agreement",
+    "description": "Sign an exclusive Trade Agreement with a Kharadron sky-port.",
+    "tips": "",
+    "achievementTips": "",
+    "texture": "AOS_Items",
+    "frameName": "Relic_Trade_Agreement",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": true,
+    "value": 1000,
+    "merchantCost": 1000,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_RELIC_ATMOSPHERIC_ANATOMISER": {
+    "name": "Atmospheric Anatomiser",
+    "description": "Summons Drekki Flynt to assist you.",
+    "tips": "",
+    "achievementTips": "",
+    "texture": "AOS_Items",
+    "frameName": "Relic_Atmospheric_Anatomiser",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_RELIC_ARCANOSCOPE": {
+    "name": "Arcanoscope",
+    "description": "A witch-sight device that can reveal hidden items.",
+    "tips": "Revisit locations to find items that were previously hidden.",
+    "achievementTips": "",
+    "texture": "AOS_Items",
+    "frameName": "Relic_Arcanoscope",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_RELIC_EYE_OF_TZEENTCH": {
+    "name": "Eye of Tzeentch",
+    "description": "What foul sorcery is this?",
+    "tips": "Recite the incantations, if you are an Arcanite.",
+    "achievementTips": "",
+    "texture": "AOS_Items",
+    "frameName": "Relic_Eye_Tzeentch.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "requiresItemForMapVisibility": "WS_AOS_RELIC_ARCANOSCOPE",
+    "silos": [
+      "WH_AOS"
+    ]
+  },
   "WS_AOS_RELIC_WARSCROLL": {
     "name": "Warscroll",
     "description": "Unlocks the Armoury in the Warhammer Age of Sigmar universe.",
@@ -1335,6 +2229,192 @@
     "value": 0,
     "isRelic": true,
     "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR": {
+    "name": "Trade Agreement - Barak Nar",
+    "description": "Signs an exclusive trade agreement with Brokk Grungsson, allowing you to purchase his wares.",
+    "tips": "Trading with other sky-ports will be unavailable.",
+    "achievementTips": "",
+    "texture": "AOS_Items",
+    "frameName": "Relic_Trade_Agreement.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 1000,
+    "merchantCost": 1000,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR": {
+    "name": "Trade Agreement - Barak-Mhornar",
+    "description": "Signs an exclusive trade agreement with Drekki Flynt, allowing you to purchase his wares.",
+    "tips": "Trading with other sky-ports will be unavailable.",
+    "achievementTips": "",
+    "texture": "AOS_Items",
+    "frameName": "Relic_Trade_Agreement.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 1000,
+    "merchantCost": 1000,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_AQUA_GHYRANIS_VESSEL": {
+    "name": "Aqua Ghyranis Vessel",
+    "description": "Restores 60 health points.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "AOS_Items",
+    "frameName": "Pickup_Aqua_Ghyranis_Small_01.png",
+    "pickedupAmount": 0,
+    "rarity": 6,
+    "unlocksAt": 1,
+    "value": 60,
+    "merchantCost": 600,
+    "isRare": true,
+    "sealable": true,
+    "isUnlocked": false,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_QUICKSILVER_BLADES": {
+    "name": "Quicksilver Swords",
+    "description": "Magical blades that slice through the air and home in on nearby enemies.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "AOS_Items",
+    "frameName": "W_QuicksilverSwords.png",
+    "pickedupAmount": 0,
+    "rarity": 1,
+    "unlocksAt": 10,
+    "value": 60,
+    "merchantCost": 60,
+    "isRare": false,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
+    "silos": [
+      "WH_AOS"
+    ],
+    "isEndlessSpell": true
+  },
+  "WS_AOS_MALEVOLENT_MAELSTROM": {
+    "name": "Malevolent Maelstrom",
+    "description": "Volatile death magic that damages enemies caught in its explosion.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "AOS_Items",
+    "frameName": "Pickup_MalevolentMaelstrom_00.png",
+    "pickedupAmount": 0,
+    "rarity": 2,
+    "unlocksAt": 15,
+    "value": 300,
+    "merchantCost": 300,
+    "isRare": true,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
+    "silos": [
+      "WH_AOS"
+    ],
+    "isEndlessSpell": true
+  },
+
+  "WS_AOS_SUFFOCATING_GRAVETIDE": {
+    "name": "Suffocating Gravetide",
+    "description": "Spectral, relentless dead erupt from the ground, inflicting the Stunned and Battle-Shocked states on enemies.",
+    "tips": "Drop rate affected by Chance.",
+    "texture": "AOS_Items",
+    "frameName": "Pickup_SuffocatingGravetide_00",
+    "pickedupAmount": 0,
+    "rarity": 2,
+    "unlocksAt": 12,
+    "value": 300,
+    "merchantCost": 300,
+    "isRare": true,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
+    "silos": [
+      "WH_AOS"
+    ],
+    "factionKeywords": [
+      "ORDER"
+    ],
+    "isEndlessSpell": true
+  },
+  "WS_AOS_CINDERBLAST_BOMB": {
+    "name": "Cinderblast Bomb",
+    "description": "Requires keyword: Duardin. Incendiary bomb.",
+    "tips": "PLACEHOLDER",
+    "texture": "AOS_Items",
+    "frameName": "Pickup_CinderblastBomb_00",
+    "pickedupAmount": 0,
+    "rarity": 5,
+    "unlocksAt": 10,
+    "value": 300,
+    "merchantCost": 300,
+    "isRare": true,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "factionKeywords": [
+      "DUARDIN"
+    ],
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_DRAKESBREATH_CANNISTER": {
+    "hidden": true, // For CR
+    "name": "Drakesbreath Cannister",
+    "description": "PLACEHOLDER",
+    "placeholder": true,
+    "tips": "PLACEHOLDER",
+    "texture": "Axe",
+    "frameName": "Axe_0",
+    "pickedupAmount": 0,
+    "rarity": 1,
+    "unlocksAt": 100000,
+    "value": 300,
+    "merchantCost": 300,
+    "isRare": true,
+    "sealable": true,
+    "contentGroup": "BASE",
+    "isUnlocked": false,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_VARANITE": {
+    "isOverrideData": true,
+    "name": "Varanite",
+    "description": "Permanently improves a random stat for the current character by a tiny amount.",
+    "tips": "",
+    "texture": "AOS_Items",
+    "frameName": "Pickup_Varanite_00",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": true, //false,
+    "value": 10000,
+    "merchantCost": 10000,
+    "isRelic": true,
     "showAboveAll": true,
     "silos": [
       "WH_AOS"
@@ -1360,6 +2440,61 @@
       "FYRESLAYERS"
     ]
   },
+  "WS_AOS_RELIC_QUICKSILVER_DRAUGHT": {
+    "name": "Quicksilver Draught",
+    "description": "Unlocks Fast Attack Mode for the Warhammer Age of Sigmar universe.",
+    "tips": "Fast Attack Mode - mission timer runs at double speed.",
+    "texture": "AOS_Items",
+    "frameName": "Relic_QuicksilverDraught.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_RELIC_CARTOARCANABULUM": {
+    "name": "Carto-Arcanabulum",
+    "description": "Adds more detail to the map in the Warhammer Age of Sigmar universe.",
+    "tips": "Characters in need of assistance can now be located.",
+    "texture": "AOS_items",
+    "frameName": "Relic_CartoArcanabulum.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "showAboveAll": true,
+    "contentGroup": "BASE",
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_RELIC_OATHSTONE": {
+    "name": "Oathstone",
+    "description": "Unlocks Purity Mode for the Warhammer 40,000 universe.",
+    "tips": "Purity Mode is for the most pious of warriors.",
+    "texture": "AOS_items",
+    "frameName": "Relic_Oathstone.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "silos": [
+      "WH_AOS"
+    ]
+  },
   "WS_AOS_DUMMY_ARCANA": {
     "name": "AOS Dummy Arcana",
     "description": "Random Arcana",
@@ -1373,6 +2508,81 @@
     "hidden": true,
     "value": 20000,
     "merchantCost": 20000,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_RELIC_AMBERBONE": {
+    "name": "Amberbone",
+    "description": "Allows Juntar Bernskyn to morph into a Fusil-Major on an Ogor Warhulk.",
+    "tips": "Characters can morph at a high level.",
+    "texture": "AOS_Items",
+    "frameName": "Relic_Amberbone",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "isRelic": true,
+    "value": 20000,
+    "merchantCost": 20000,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_RELIC_GLIMMERING": {
+    "name": "Glimmering",
+    "description": "Unlocks Endless War Mode for the Warhammer Age of Sigmar universe.",
+    "tips": "Endless Mode - no Extremis Boss.",
+    "texture": "AOS_items",
+    "frameName": "Relic_Glimmering.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "requiresItemForMapVisibility": "WS_AOS_RELIC_ARCANOSCOPE",
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_RELIC_WARPSTONE_TALISMAN": {
+    "name": "Warpstone Talisman",
+    "description": "Unlocks Grim Darkness Mode for the Warhammer Age of Sigmar universe.",
+    "tips": "Grim Darkness Mode - enemies are much tougher than usual.",
+    "texture": "AOS_items",
+    "frameName": "Relic_WarpstoneCharm.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
+    "showAboveAll": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "WS_AOS_RELIC_CREATURA_MYTHOLOGICA": {
+    "name": "Creatura Mythologica",
+    "description": "Unlocks the Bestiarium for the Warhammer 40,000 universe.",
+    "tips": "Know thy foe. Enemies slain are recorded in the Bestiarium.",
+    "texture": "AOS_items",
+    "frameName": "Relic_CreaturaMythologica.png",
+    "pickedupAmount": 0,
+    "rarity": 0,
+    "unlocksAt": 1000000,
+    "inTreasures": false,
+    "hidden": false,
+    "value": 0,
+    "isRelic": true,
+    "contentGroup": "BASE",
     "silos": [
       "WH_AOS"
     ]

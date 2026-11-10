@@ -1,2 +1,416 @@
 {
+
+  // 40K
+  "5001": {
+    "arcanaType": 5001,
+    "name": "VIII - The God-Emperor",
+    "description": "Gives +3 Requisitions. Consuming a Requisition gives +10% Wounds, +1 Save, and +5% Strength, Range, Hits and Move.",
+    "weapons": [
+      "WS_REDEPLOYMENT"
+    ],
+    "items": [],
+    "texture": "Arcana_Emperors_Tarot",
+    "frameName": "Arcana_EmperorsTarot_VIII_GodEmperor",
+    "iconTexture": "Arcana_Emperors_Tarot",
+    "iconFrameName": "Arcana_EmperorsTarot_VIII_GodEmperor_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "5002": {
+    "arcanaType": 5002,
+    "name": "XV - The Tides of the Warp",
+    "description": "Every 2 minutes attracts all standard stage items, pickups, and light sources towards the character.",
+    "weapons": [],
+    "items": [],
+    "texture": "Arcana_Emperors_Tarot",
+    "frameName": "Arcana_EmperorsTarot_XV_TheWarp",
+    "iconTexture": "Arcana_Emperors_Tarot",
+    "iconFrameName": "Arcana_EmperorsTarot_XV_TheWarp_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "5003": {
+    "arcanaType": 5003,
+    "name": "0 - The Fool",
+    "description": "Gives +3 Reroll, Skip, and Banish. Gives +20% Might and -8% Cooldown for each active weapon slot left empty.",
+    "weapons": [],
+    "items": [
+      "DUMMY_REROLL",
+      "DUMMY_SKIP",
+      "DUMMY_BANISH"
+    ],
+    "texture": "Arcana_Emperors_Tarot",
+    "frameName": "Arcana_EmperorsTarot_0_Fool",
+    "iconTexture": "Arcana_Emperors_Tarot",
+    "iconFrameName": "Arcana_EmperorsTarot_0_Fool_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "5004": {
+    "arcanaType": 5004,
+    "name": "XIV - The Young Warrior",
+    "description": "Halts XP gain. Skull Gems turn into exploding projectiles. All Treasure Chests contain at least 3 items.",
+    "weapons": [],
+    "items": [
+      "WS_SKULLGEM",
+      "TREASURE"
+    ],
+    "texture": "Arcana_Emperors_Tarot",
+    "frameName": "Arcana_EmperorsTarot_XIV_YoungWarrior",
+    "iconTexture": "Arcana_Emperors_Tarot",
+    "iconFrameName": "Arcana_EmperorsTarot_XIV_YoungWarrior_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "5005": {
+    "arcanaType": 5005,
+    "name": "XVI - The Tree of Life",
+    "description": "Healing is doubled. Recovering HP damages nearby enemies for the same amount.",
+    "weapons": [
+    ],
+    "items": [
+      "WS_40K_MEDIPACK"
+    ],
+    "texture": "Arcana_Emperors_Tarot",
+    "frameName": "Arcana_EmperorsTarot_XVI_TreeOfLife",
+    "iconTexture": "Arcana_Emperors_Tarot",
+    "iconFrameName": "Arcana_EmperorsTarot_XVI_TreeOfLife_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "5006": {
+    "arcanaType": 5006,
+    "name": "IX - Daemon",
+    "description": "Picking up Coin Bags from the floor triggers Gold Fever. Obtaining Coins restores as many HP.",
+    "weapons": [
+      "WS_TITHE"
+    ],
+    "items": [
+      "COINBAG1",
+      "COINBAG2",
+      "COINBAGMAX",
+      "TREASURE"
+    ],
+    "texture": "Arcana_Emperors_Tarot",
+    "frameName": "Arcana_EmperorsTarot_IX_Daemon",
+    "iconTexture": "Arcana_Emperors_Tarot",
+    "iconFrameName": "Arcana_EmperorsTarot_IX_Daemon_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "5007": {
+    "arcanaType": 5007,
+    "name": "III - The Hulk",
+    "description": "Become a walking weapons platform - Increase Range and Skill but at the cost of Move.",
+    "weapons": [
+      "WS_SKILL",
+      "WS_RANGE",
+      "WS_MOVE"
+    ],
+    "items": [],
+    "texture": "Arcana_Emperors_Tarot",
+    "frameName": "Arcana_EmperorsTarot_III_TheHulk",
+    "iconTexture": "Arcana_Emperors_Tarot",
+    "iconFrameName": "Arcana_EmperorsTarot_III_TheHulk_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "5008": {
+    "arcanaType": 5008,
+    "name": "X - Astartes",
+    "description": "Listed melee weapons gain +15% area, +20% knockback strength and +25% base damage.",
+    "weapons": [
+      "WS_40K_CHAINSWORD",
+      "WS_40K_EVISCERATORCHAINSWORD",
+      "WS_40K_POWER_FIST",
+      "WS_40K_GAUNTLETS_OF_ULTRAMAR",      
+      "WS_40K_POWER_KLAW",
+      "WS_40K_CROZIUS_ARCANUM",
+      "WS_40K_BENEDICTION_OF_FURY",
+      "WS_40K_ARDENT_BLADE",
+      "WS_40K_WEAPON_OF_THE_MATRIARCH",
+      "WS_40K_MECHANICAL_BITE",
+      "WS_40K_SPEAR_OF_THE_FAITHFUL",
+      "WS_40K_THORN_OF_THE_WHITE_ROSE",
+      "WS_40K_REMOTE_DETONATION"
+    ],
+    "items": [],
+    "texture": "Arcana_Emperors_Tarot",
+    "frameName": "Arcana_EmperorsTarot_X_Astartes",
+    "iconTexture": "Arcana_Emperors_Tarot",
+    "iconFrameName": "Arcana_EmperorsTarot_X_Astartes_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "5009": {
+    "arcanaType": 5009,
+    "name": "I - Galaxy",
+    "description": "Emits a Warp Rift from your Aura range.",
+    "weapons": [
+      "WS_AURA"
+    ],
+    "items": [],
+    "texture": "Arcana_Emperors_Tarot",
+    "frameName": "Arcana_EmperorsTarot_I_Galaxy",
+    "iconTexture": "Arcana_Emperors_Tarot",
+    "iconFrameName": "Arcana_EmperorsTarot_I_Galaxy_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  "5010": {
+    "arcanaType": 5010,
+    "name": "IV - The Silver Key",
+    "weapons": [
+    ],
+    "items": [],
+    "texture": "Arcana_Emperors_Tarot",
+    "frameName": "Arcana_EmperorsTarot_IV_TheSilverKey",
+    "iconTexture": "Arcana_Emperors_Tarot",
+    "iconFrameName": "Arcana_EmperorsTarot_IV_TheSilverKey_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_40K"
+    ]
+  },
+  
+  // AOS
+  "6001": {
+    "arcanaType": 6001,
+    "name": "VI - Glimmerlust",
+    "description": "Picking up coin bags from the floor triggers Gold Fever. Obtaining gold restores as much HP.",
+    "weapons": [
+      "WS_TITHE"
+    ],
+    "items": [
+      "COINBAG1",
+      "COINBAG2",
+      "COINBAGMAX",
+      "TREASURE"
+    ],
+    "texture": "Arcana_Celestial",
+    "frameName": "Arcana_Celestial_Orrery_VI_Glimmerlust",
+    "iconTexture": "Arcana_Celestial",
+    "iconFrameName": "Arcana_Celestial_Orrery_VI_Glimmerlust_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "6002": {
+    "arcanaType": 6002,
+    "name": "X - The Anvil of Apotheosis",
+    "description": "Gives +3 Requisitions. Consuming a Requisition gives +10% Wounds, +1 Save, and +5% Strength, Range, Hits and Move.",
+    "weapons": [
+      "WS_REDEPLOYMENT"
+    ],
+    "items": [],
+    "texture": "Arcana_Celestial",
+    "frameName": "Arcana_Celestial_Orrery_X_AnvilOfApotheosis",
+    "iconTexture": "Arcana_Celestial",
+    "iconFrameName": "Arcana_Celestial_Orrery_X_AnvilOfApotheosis_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "6003": {
+    "arcanaType": 6003,
+    "name": "VIII - The Eightpoints",
+    "description": "Reduces Skill by 20% but increases Strength, Toughness and Wounds by 20% each.",
+    "weapons": [
+      "WS_STRENGTH",
+      "WS_SKILL",
+      "WS_TOUGHNESS",
+      "WS_WOUNDS"
+    ],
+    "items": [],
+    "texture": "Arcana_Celestial",
+    "frameName": "Arcana_Celestial_Orrery_VIII_TheEightpoints",
+    "iconTexture": "Arcana_Celestial",
+    "iconFrameName": "Arcana_Celestial_Orrery_VIII_TheEightpoints_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "6004": {
+    "arcanaType": 6004,
+    "name": "XIV - The Necroquake",
+    "description": "Halts XP gain. Skull Gems turn into exploding projectiles. All Treasure Chests contain at least 3 items.",
+    "weapons": [],
+    "items": [
+      "WS_AOS_EVERBLAZE_COMET",
+      "WS_AOS_CHRONOMANTIC_COG",
+      "WS_AOS_GNASHING_JAWS",
+      "WS_AOS_EMERALD_LIFESWARM",
+      "WS_AOS_PRISMATIC_PALISADE",
+      "WS_AOS_PURPLE_SUN_OF_SHYISH",
+      "WS_AOS_QUICKSILVER_BLADES",
+      "WS_AOS_SUFFOCATING_GRAVETIDE",
+      "WS_AOS_MALEVOLENT_MAELSTROM"
+    ],
+    "texture": "Arcana_Celestial",
+    "frameName": "Arcana_Celestial_Orrery_XIV_Necroquake",
+    "iconTexture": "Arcana_Celestial",
+    "iconFrameName": "Arcana_Celestial_Orrery_XIV_Necroquake_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "6005": {
+    "arcanaType": 6005,
+    "name": "0 - The Realm of Ulgu",
+    "description": "Gives +3 Reroll, Skip, and Banish. Gives +20% Might and -8% Cooldown for each active weapon slot left empty.",
+    "weapons": [],
+    "items": [
+      "DUMMY_REROLL",
+      "DUMMY_SKIP",
+      "DUMMY_BANISH"
+    ],
+    "texture": "Arcana_Celestial",
+    "frameName": "Arcana_Celestial_Orrery_0_RealmOfUlgu",
+    "iconTexture": "Arcana_Celestial",
+    "iconFrameName": "Arcana_Celestial_Orrery_0_RealmOfUlgu_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "6006": {
+    "arcanaType": 6006,
+    "name": "XV - The Realm of Azyr",
+    "description": "Every 2 minutes attracts all standard stage items, pickups, and light sources towards the character.",
+    "weapons": [],
+    "items": [],
+    "texture": "Arcana_Celestial",
+    "frameName": "Arcana_Celestial_Orrery_XV_RealmOfAzyr",
+    "iconTexture": "Arcana_Celestial",
+    "iconFrameName": "Arcana_Celestial_Orrery_XV_RealmOfAzyr_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "6007": {
+    "arcanaType": 6007,
+    "name": "XVI - The Realm of Ghyran",
+    "description": "Healing is doubled. Recovering HP damages nearby enemies for the same amount.",
+    "weapons": [],
+    "items": [
+      "WS_AOS_AQUA_GHYRANIS",
+      "WS_AOS_EMERALD_LIFESWARM"
+    ],
+    "texture": "Arcana_Celestial",
+    "frameName": "Arcana_Celestial_Orrery_XVI_RealmOfGyran",
+    "iconTexture": "Arcana_Celestial",
+    "iconFrameName": "Arcana_Celestial_Orrery_XVI_RealmOfGyran_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "6008": {
+    "arcanaType": 6008,
+    "name": "II - The Twin-Tailed Comet",
+    "description": "Attacks against Gloomspite Gits enemies have a chance to deal double Damage. While above 60% Wounds, Tithe and the chance of inflicting Cursed are doubled. While below 50% Wounds, Veterancy and chance of inflicting Blessed doubles.",
+    "weapons": [],
+    "items": [],
+    "texture": "Arcana_Celestial",
+    "frameName": "Arcana_Celestial_Orrery_II_TwinTailedComet",
+    "iconTexture": "Arcana_Celestial",
+    "iconFrameName": "Arcana_Celestial_Orrery_II_TwinTailedComet_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "6009": {
+    "arcanaType": 6009,
+    "name": "I Dracothian",
+    "description": "Increases the duration, Damage and chance of inflicting Status Effects on enemies by 20%. Level 1 Weapons gain +3 Attacks.",
+    "weapons": [],
+    "items": [],
+    "texture": "Arcana_Celestial",
+    "frameName": "Arcana_Celestial_Orrery_I_Dracothian",
+    "iconTexture": "Arcana_Celestial",
+    "iconFrameName": "Arcana_Celestial_Orrery_I_Dracothian_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  },
+  "6010": {
+    "arcanaType": 6010,
+    "name": "XIII - Cursed Skies",
+    "description": "Characters ignore terrain and gain +10% Move. All enemies have a chance to spawn Poisoned. Gain +1% Corruption every level. ",
+    "weapons": [],
+    "items": [],
+    "texture": "Arcana_Celestial",
+    "frameName": "Arcana_Celestial_Orrery_XIII_CursedSkies",
+    "iconTexture": "Arcana_Celestial",
+    "iconFrameName": "Arcana_Celestial_Orrery_XIII_CursedSkies_64px",
+    "enabled": false,
+    "unlocked": false,
+    "major": true,
+    "silos": [
+      "WH_AOS"
+    ]
+  }
 }

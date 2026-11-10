@@ -84,5 +84,1037 @@
         "_value": "Attack!"
       }
     }
+  },
+  "fr": {
+    "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+      "description": {
+        "_value": "--- Faiblesse identifiée ---\n--- Démarrage des doctrines de combat ---"
+      },
+      "button": {
+        "_value": "Pour Ultramar !"
+      },
+      "descriptionInvulnerable": {
+        "_value": "--- Signature biologique détectée : Xénos ---\n--- Niveau de menace : Extremis ---\n--- Consultation du Codex Astartes ---"
+      },
+      "buttonInvulnerable": {
+        "_value": "À l'attaque !"
+      }
+    },
+    "WS_40K_ORK_BOSS_GHAZGHKULL": {
+      "description": {
+        "_value": "Ah... Mon meilleur ennemi est de retour. Allez, qu'la baston soit bonne ! WAAAGH !"
+      },
+      "button": {
+        "_value": "Prépare-toi."
+      },
+      "descriptionInvulnerable": {
+        "_value": "T'as d'la chance. T'es pas prêt pour ce boss de guerre. C'pas facile de trouver d'bons ennemis. WAAAGH !"
+      },
+      "buttonInvulnerable": {
+        "_value": "À l'attaque !"
+      }
+    },
+    "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+      "description": {
+        "_value": "Hé hé hé... Pauvre outil pathétique d'Anathema. Ton corps POURRISSANT retournera auprès du Père des Épidémies."
+      },
+      "button": {
+        "_value": "Disparais, créature infâme !"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Le Grand-Père rit de votre faiblesse. Tu ne peux pas soigner cette plaie. Abandonne-toi à la pourriture..."
+      },
+      "buttonInvulnerable": {
+        "_value": "À l'attaque !"
+      }
+    },
+    "WS_AOS_SKA_BOSS_VIZZIK": {
+      "description": {
+        "_value": "Contemple le regard de Vizzik... le crissement de Vizzik... On tue, tue ! Oui, oui !"
+      },
+      "button": {
+        "_value": "Retourne dans les ténèbres, sorcière !"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Tu n'es qu'un vulnérable mortel... Aucune chance contre Vizzik... Tu vas mourir, mourir !"
+      },
+      "buttonInvulnerable": {
+        "_value": "À l'attaque !"
+      }
+    },
+    "WS_AOS_BOK_BOSS_SKARBRAND": {
+      "description": {
+        "_value": "DU SANG POUR LE DIEU DU SANG ! DES CRÂNES POUR LE TRÔNE DE CRÂNES !"
+      },
+      "button": {
+        "_value": "Pour Sigmar !"
+      },
+      "descriptionInvulnerable": {
+        "_value": "MASSACRE ! CARNAGE ! COURROUX !!!"
+      },
+      "buttonInvulnerable": {
+        "_value": "À l'attaque !"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "La lumière ! Elle brûle... Je. Vais. En. FINIR !!!"
+      },
+      "button": {
+        "_value": "Pour Sigmar !"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ha ha ha. Bâton pas faire mal à Trugg... Trugg t'écraser !"
+      },
+      "buttonInvulnerable": {
+        "_value": "À l'attaque !"
+      }
+    }
+  },
+  "it": {
+    "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+      "description": {
+        "_value": "--- Debolezza identificata---\n--- Avviare Dottrina di Combattimento ---"
+      },
+      "button": {
+        "_value": "Per Ultramar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "--- Firma biologica rilevata: Xeno ---\n--- Livello minaccia: estremo ---\n--- Consultare il Codex Astartes ---"
+      },
+      "buttonInvulnerable": {
+        "_value": "All'attacco!"
+      }
+    },
+    "WS_40K_ORK_BOSS_GHAZGHKULL": {
+      "description": {
+        "_value": "Ah... ecco che ritorna il mio miglior nemico. Facciam' una bella rizza come zi deve! WAAAGH!"
+      },
+      "button": {
+        "_value": "Preparati."
+      },
+      "descriptionInvulnerable": {
+        "_value": "Penserai che la fortuna sia dalla vostra parte, perché non sei affatto pronto per un Kapoguerra. I buoni nemici sono difficili da trovare. WAAAGH!"
+      },
+      "buttonInvulnerable": {
+        "_value": "All'attacco!"
+      }
+    },
+    "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+      "description": {
+        "_value": "Eh eh eh... Patetico strumento dell'Anatema. MARCIRAI e tornerai dal Padre della Peste."
+      },
+      "button": {
+        "_value": "Dispera, sciocca bestia!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Il Nonno ride della tua debolezza. Non puoi cauterizzare questa ferita. Arrenditi al marciume..."
+      },
+      "buttonInvulnerable": {
+        "_value": "All'attacco!"
+      }
+    },
+    "WS_AOS_SKA_BOSS_VIZZIK": {
+      "description": {
+        "_value": "Ammira lo sguardo di Vizzik... L'urlo di Vizzik... noi Uccidiamo uccidiamo sì sì!"
+      },
+      "button": {
+        "_value": "Torna nell'ombra, Stregone!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Siete solo dei vulnerabili mortali... Non potete nulla contro Vizzik... Morirete Morirete!"
+      },
+      "buttonInvulnerable": {
+        "_value": "All'attacco!"
+      }
+    },
+    "WS_AOS_BOK_BOSS_SKARBRAND": {
+      "description": {
+        "_value": "SANGUE PER IL DIO DEL SANGUE! TESCHI PER IL TRONO DI TESCHI!"
+      },
+      "button": {
+        "_value": "Per Sigmar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "MASSACRO! CARNEFICINA! IRA!!!"
+      },
+      "buttonInvulnerable": {
+        "_value": "All'attacco!"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "La luce! Fa male... Devo. assolutamente. SPEGNERLA!!!"
+      },
+      "button": {
+        "_value": "Per Sigmar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ah ah, tua mazza non fa male a Trugg... Trugg ti schiaccia!"
+      },
+      "buttonInvulnerable": {
+        "_value": "All'attacco!"
+      }
+    }
+  },
+  "de": {
+    "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+      "description": {
+        "_value": "--- Schwäche identifiziert---\n--- Kampfdoktrinen initiieren ---"
+      },
+      "button": {
+        "_value": "Für Ultramar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "--- Biosignatur erkannt: Xenos ---\n--- Gefahrenstufe: Extremis ---\n--- Codex Astartes konsultieren ---"
+      },
+      "buttonInvulnerable": {
+        "_value": "Angriff!"
+      }
+    },
+    "WS_40K_ORK_BOSS_GHAZGHKULL": {
+      "description": {
+        "_value": "Ah … Mein Lieblingsfeind kehrt zurück. Na los, hau’n wir uns richtig die Köpfe ein! WAAAGH!"
+      },
+      "button": {
+        "_value": "Mach dich bereit."
+      },
+      "descriptionInvulnerable": {
+        "_value": "Hältst dich wohl für einen Glückspilz, was? Denn du bist nicht bereit für den Waaaghboss. Gute Gegner findet man nicht alle Tage. WAAAGH!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Angriff!"
+      }
+    },
+    "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+      "description": {
+        "_value": "Hehehe … Erbärmlicher Diener des Anathemas. Du wirst VERROTTEN und dem Seuchenvater heimkehren."
+      },
+      "button": {
+        "_value": "Verzweifle, du widerwärtiges Ungeheuer!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Das Väterchen verhöhnt deine Schwäche. Diese Wunde kannst du nicht veröden. Ergib dich der Fäulnis …"
+      },
+      "buttonInvulnerable": {
+        "_value": "Angriff!"
+      }
+    },
+    "WS_AOS_SKA_BOSS_VIZZIK": {
+      "description": {
+        "_value": "Fürchte Vizziks Blick … sein Kreischen … wir Töten Töten Ja Ja!"
+      },
+      "button": {
+        "_value": "Zurück in die Dunkelheit mir dir, Hexe!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ihr seid verwundbare Sterbliche … Vizzik nicht gewachsen … Ihr werdet Sterben Sterben!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Angriff!"
+      }
+    },
+    "WS_AOS_BOK_BOSS_SKARBRAND": {
+      "description": {
+        "_value": "BLUT FÜR DEN BLUTGOTT! SCHÄDEL FÜR DEN SCHÄDELTHRON!"
+      },
+      "button": {
+        "_value": "Für Sigmar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "GEMETZEL! BLUTBAD! ZORN!!!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Angriff!"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "Das Licht! Es tut weh … Ich. Werde. Es. Auslöschen!!!"
+      },
+      "button": {
+        "_value": "Für Sigmar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Haha! Deine Keule kann Trugg nichts anhaben … Trugg wird dich zermalmen!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Angriff!"
+      }
+    }
+  },
+  "es": {
+    "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+      "description": {
+        "_value": "--- Debilidad identificada---\n--- Iniciar doctrinas de combate ---"
+      },
+      "button": {
+        "_value": "¡Por Ultramar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "--- Biofirma detectada: xenos ---\n--- Nivel de amenaza: Extremis ---\n--- Consultar Códex Astartes ---"
+      },
+      "buttonInvulnerable": {
+        "_value": "¡Ataca!"
+      }
+    },
+    "WS_40K_ORK_BOSS_GHAZGHKULL": {
+      "description": {
+        "_value": "Ah… vuelve mi mejor enemigo. ¡Vamoz a formar una buena bronka! ¡WAAAGH!"
+      },
+      "button": {
+        "_value": "Prepárate."
+      },
+      "descriptionInvulnerable": {
+        "_value": "Debez de tener zuerte, porke no eztáz preparado para el Kaudillo. Loz buenos enemigoz zon difízilez de encontrar. ¡WAAAGH!"
+      },
+      "buttonInvulnerable": {
+        "_value": "¡Ataca!"
+      }
+    },
+    "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+      "description": {
+        "_value": "Je, je, je… Patética herramienta del Anatema. Te PUDRIRÁS y volverás con el Padre de la Plaga."
+      },
+      "button": {
+        "_value": "¡Pierde toda esperanza, bestia inmunda!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "El Abuelo se ríe de tu debilidad. No puedes cauterizar esta herida. Entrégate a la podredumbre…"
+      },
+      "buttonInvulnerable": {
+        "_value": "¡Ataca!"
+      }
+    },
+    "WS_AOS_SKA_BOSS_VIZZIK": {
+      "description": {
+        "_value": "Contempla la mirada de Vizzik..., el chillido de Vizzik... ¡Matamos, matamos! ¡Sí, sí!"
+      },
+      "button": {
+        "_value": "¡Vuelve a la oscuridad, Bruja!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Sois mortales vulnerables… no sois rival para Vizzik… ¡Morid, morid!"
+      },
+      "buttonInvulnerable": {
+        "_value": "¡Ataca!"
+      }
+    },
+    "WS_AOS_BOK_BOSS_SKARBRAND": {
+      "description": {
+        "_value": "¡SANGRE PARA EL DIOS DE LA SANGRE! ¡CRÁNEOS PARA EL TRONO DE CRÁNEOS!"
+      },
+      "button": {
+        "_value": "¡Por Sigmar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "¡¡¡MATANZA!!! ¡CARNICERÍA! ¡¡¡IRA!!!"
+      },
+      "buttonInvulnerable": {
+        "_value": "¡Ataca!"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "¡La luz! Duele… ¡¡¡Yo. Haré. Que. Pare!!!"
+      },
+      "button": {
+        "_value": "¡Por Sigmar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ja, ja, tu garrote no hace daño a Trugg… ¡Trugg te aplastará!"
+      },
+      "buttonInvulnerable": {
+        "_value": "¡Ataca!"
+      }
+    }
+  },
+  "ja": {
+    "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+      "description": {
+        "_value": "--- 弱点を特定 ---\n--- 戦闘ドクトリンをイニシエイト ---"
+      },
+      "button": {
+        "_value": "ウルトラマールの御名において！"
+      },
+      "descriptionInvulnerable": {
+        "_value": "--- 生体反応を検知：異種族（ゼノ） ---\n--- 脅威レベル：エクストレミス ---\n--- 〈戦いの聖典〉を参照 ---"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻撃！"
+      }
+    },
+    "WS_40K_ORK_BOSS_GHAZGHKULL": {
+      "description": {
+        "_value": "おお…我が最良の敵が戻ってきたか。さあ、本気でやり合おうじゃねぇか！いくさだァァァア！"
+      },
+      "button": {
+        "_value": "覚悟しろ。"
+      },
+      "descriptionInvulnerable": {
+        "_value": "運がいいと思ってるようだな。だがいくさ親分（ウォーボス）に挑む覚悟はできてねぇ。いい敵ってのはなかなか見つからねぇんだ。いくさだァァァア！"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻撃！"
+      }
+    },
+    "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+      "description": {
+        "_value": "へへへ…哀れなアナテマの道具め。お前は腐り果て、〈悪疫の父〉のもとへ還るのだ。"
+      },
+      "button": {
+        "_value": "絶望しろ、穢れた獣め！"
+      },
+      "descriptionInvulnerable": {
+        "_value": "尊父は貴様の非力さを笑っておられる。その傷は焼いて塞ぐことなどできん。腐敗に身を委ねよ…"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻撃！"
+      }
+    },
+    "WS_AOS_SKA_BOSS_VIZZIK": {
+      "description": {
+        "_value": "見よ、ヴィジックの眼差しを…ヴィジックの叫びを…殺す、殺す！そう、そうだ！"
+      },
+      "button": {
+        "_value": "闇へ還れ、魔法ネズミめ！"
+      },
+      "descriptionInvulnerable": {
+        "_value": "お前たちのような脆弱な命の者では…ヴィジックには敵わぬ…死ね、死ぬのだ！"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻撃！"
+      }
+    },
+    "WS_AOS_BOK_BOSS_SKARBRAND": {
+      "description": {
+        "_value": "〈血の神〉にさらなる血を！頭蓋骨の玉座に頭蓋骨を！"
+      },
+      "button": {
+        "_value": "シグマーの御名において！"
+      },
+      "descriptionInvulnerable": {
+        "_value": "虐殺！殺戮！怒り！！"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻撃！"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "光だ！痛い…私は…止める…必ず止める！！！"
+      },
+      "button": {
+        "_value": "シグマーの御名において！"
+      },
+      "descriptionInvulnerable": {
+        "_value": "ハハ！そんな棍棒じゃトラグは痛くもない…トラグがお前を叩き潰してやる！"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻撃！"
+      }
+    }
+  },
+  "ko": {
+    "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+      "description": {
+        "_value": "--- 약점 확인 ---\n--- 전투 교리 개시 ---"
+      },
+      "button": {
+        "_value": "울트라마르를 위하여!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "--- 생체 신호 감지: 제노 ---\n--- 위협 수준: 익스트리미스 ---\n--- 코덱스 아스타르테스 참조 ---"
+      },
+      "buttonInvulnerable": {
+        "_value": "공격!"
+      }
+    },
+    "WS_40K_ORK_BOSS_GHAZGHKULL": {
+      "description": {
+        "_value": "아… 최고의 숙적이 돌아왔군. 어디 제대로 한판 붙어 보자! 와아아아!"
+      },
+      "button": {
+        "_value": "각오해라."
+      },
+      "descriptionInvulnerable": {
+        "_value": "운 좋은 줄 알아라. 넌 아직 워보스를 상대할 준비가 안 됐으니까. 제대로 된 상대는 찾기 힘들거든. 와아아아!"
+      },
+      "buttonInvulnerable": {
+        "_value": "공격!"
+      }
+    },
+    "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+      "description": {
+        "_value": "흐흐흐… 아나테마의 한심한 앞잡이로군. 썩어 문드러져 역병의 아버지께 돌아가리라."
+      },
+      "button": {
+        "_value": "절망하라, 추악한 괴물아!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "할아버지께서 네 나약함을 비웃으신다. 이 상처는 불로 지져도 아물지 않는다. 부패에 몸을 맡겨라…"
+      },
+      "buttonInvulnerable": {
+        "_value": "공격!"
+      }
+    },
+    "WS_AOS_SKA_BOSS_VIZZIK": {
+      "description": {
+        "_value": "비직의 시선을 보라… 비직의 비명을 들어라… 우리 죽인다, 죽인다! 그래, 그래!"
+      },
+      "button": {
+        "_value": "어둠으로 돌아가라, 마녀야!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "너희는 나약한 필멸자들… 비직의 상대가 못 된다… 죽는다, 죽는다!"
+      },
+      "buttonInvulnerable": {
+        "_value": "공격!"
+      }
+    },
+    "WS_AOS_BOK_BOSS_SKARBRAND": {
+      "description": {
+        "_value": "피의 신께 피를! 해골 옥좌에 해골을!"
+      },
+      "button": {
+        "_value": "시그마를 위하여!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "학살! 살육! 분노!!!"
+      },
+      "buttonInvulnerable": {
+        "_value": "공격!"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "빛이! 아프다… 내. 가. 반드시. 멈. 춘. 다!!!"
+      },
+      "button": {
+        "_value": "시그마를 위하여!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "하하! 네 몽둥이 따윈 트러그한테 안 아프다… 트러그가 널 짓뭉개 주마!"
+      },
+      "buttonInvulnerable": {
+        "_value": "공격!"
+      }
+    }
+  },
+  "pl": {
+    "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+      "description": {
+        "_value": "--- Wykryto słabość ---\n--- Aktywować doktryny bojowe ---"
+      },
+      "button": {
+        "_value": "Za Ultramar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "--- Wykryto sygnaturę biologiczną: xenos ---\n--- Poziom zagrożenia: Extremis ---\n--- Sprawdzić w Codex Astartes ---"
+      },
+      "buttonInvulnerable": {
+        "_value": "Do ataku!"
+      }
+    },
+    "WS_40K_ORK_BOSS_GHAZGHKULL": {
+      "description": {
+        "_value": "Mój najlepszy wróg powraca. Czas na porządną rozróbę! WAAAGH!"
+      },
+      "button": {
+        "_value": "Przygotuj się."
+      },
+      "descriptionInvulnerable": {
+        "_value": "Chyba szczęście ci dopisuje, bo z Bossem Wojny jeszcze nie masz szans. Dobrego wroga trudno znaleźć. WAAAGH!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Do ataku!"
+      }
+    },
+    "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+      "description": {
+        "_value": "He, he, he… Żałosne narzędzie Anatemy. ZGNIJESZ i powrócisz do Ojca Zarazy."
+      },
+      "button": {
+        "_value": "Niech ogarnie cię rozpacz, plugawa bestio!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Dziadek śmieje się z Twojej słabości. Tej rany nie da się wypalić. Poddaj się zgniliźnie…"
+      },
+      "buttonInvulnerable": {
+        "_value": "Do ataku!"
+      }
+    },
+    "WS_AOS_SKA_BOSS_VIZZIK": {
+      "description": {
+        "_value": "Spójrzcie w oczy Vizzika… słuchajcie wrzasku Vizzika… Zabij-zabij, tak-tak!"
+      },
+      "button": {
+        "_value": "Wracaj do ciemności, Wiedźmo!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Bezbronni śmiertelnicy… nie macie szans z Vizzikiem… Umrzecie-umrzecie!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Do ataku!"
+      }
+    },
+    "WS_AOS_BOK_BOSS_SKARBRAND": {
+      "description": {
+        "_value": "KREW DLA BOGA KRWI! CZASZKI DLA TRONU CZASZEK!"
+      },
+      "button": {
+        "_value": "W imię Sigmara!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "RZEŹ! MASAKRA! GNIEW!!!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Do ataku!"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "Światło! Boli… Ja. To. POWSTRZYMAM!!!"
+      },
+      "button": {
+        "_value": "W imię Sigmara!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ha, ha! Twoja pałka nie boli Trugga… Trugg Cię zmiażdży!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Do ataku!"
+      }
+    }
+  },
+  "pt-BR": {
+    "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+      "description": {
+        "_value": "--- Fraqueza identificada ---\n--- Iniciar doutrinas de combate ---"
+      },
+      "button": {
+        "_value": "Por Ultramar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "--- Assinatura biológica detectada: Xenos ---\n--- Nível de ameaça: Extremis ---\n--- Consulte o Codex Astartes ---"
+      },
+      "buttonInvulnerable": {
+        "_value": "Atacar!"
+      }
+    },
+    "WS_40K_ORK_BOSS_GHAZGHKULL": {
+      "description": {
+        "_value": "Ah… meu melhor inimigo tá de volta. Bora brigar pra valer! WAAAGH!"
+      },
+      "button": {
+        "_value": "Prepare-se."
+      },
+      "descriptionInvulnerable": {
+        "_value": "Tu deve tá se sentindo com sorte, porque não tá pronto para enfrentar o chefão de guerra. É difícil achar bons inimigos. WAAAGH!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Atacar!"
+      }
+    },
+    "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+      "description": {
+        "_value": "Heh heh heh… Instrumento patético do Anathema. Você vai APODRECER e será devolvido ao Pai da Peste."
+      },
+      "button": {
+        "_value": "Desespere-se, besta imunda!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "O Avô ri da sua fraqueza. Você não consegue cauterizar essa ferida. Entregue-se à podridão…"
+      },
+      "buttonInvulnerable": {
+        "_value": "Atacar!"
+      }
+    },
+    "WS_AOS_SKA_BOSS_VIZZIK": {
+      "description": {
+        "_value": "Contemplem o olhar de Vizzik... O guincho de Vizzik... Vamos matar, matar! Sim, vamos!"
+      },
+      "button": {
+        "_value": "Volte para as trevas, bruxo!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Vocês são mortais vulneráveis… Não são páreo para o Vizzik… Vocês vão morrer, morrer!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Atacar!"
+      }
+    },
+    "WS_AOS_BOK_BOSS_SKARBRAND": {
+      "description": {
+        "_value": "SANGUE PARA O DEUS DO SANGUE! CRÂNIOS PARA O TRONO DE CRÂNIOS!"
+      },
+      "button": {
+        "_value": "Por Sigmar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "MASSACRE! CARNIFICINA! IRA!!!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Atacar!"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "A luz! Está doendo... Eu. Vou Fazer. Isso. PARAR!!!"
+      },
+      "button": {
+        "_value": "Por Sigmar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Haha, sua clava não faz nem cócegas no Trugg... Trugg vai te esmagar!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Atacar!"
+      }
+    }
+  },
+  "ru": {
+    "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+      "description": {
+        "_value": "--- Обнаружена уязвимость---\n--- Активация боевых доктрин ---"
+      },
+      "button": {
+        "_value": "За Ультрамар!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "--- Обнаружена биосигнатура: ксенос ---\n--- Уровень угрозы: экстремис ---\n--- Сверка с Кодексом Астартес ---"
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    },
+    "WS_40K_ORK_BOSS_GHAZGHKULL": {
+      "description": {
+        "_value": "А-а… Вернулся мой лучший враг. Погнали, устроим зачетную драку! ВАААГХ!"
+      },
+      "button": {
+        "_value": "К бою."
+      },
+      "descriptionInvulnerable": {
+        "_value": "Тебе, видать, везет, раз ты не готов ко встрече с варбоссом. Хорошего врага нынче фиг найдешь. ВАААГХ!"
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    },
+    "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+      "description": {
+        "_value": "Хе-хе-хе… Жалкое орудие Анафемы. Ты СГНИЕШЬ и вернешься в лоно Отца Чумы."
+      },
+      "button": {
+        "_value": "Познай отчаяние, мерзкая тварь!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Дедушка смеется над твоей слабостью. Тебе не прижечь эту рану. Смирись с гниением…"
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    },
+    "WS_AOS_SKA_BOSS_VIZZIK": {
+      "description": {
+        "_value": "Узрите взор Виззика... визг Виззика... мы убивать-убивать, да-да!"
+      },
+      "button": {
+        "_value": "Вернись во тьму, колдун!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Вы уязвимые смертные… Виззику не ровня… вы умирать-умирать!"
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    },
+    "WS_AOS_BOK_BOSS_SKARBRAND": {
+      "description": {
+        "_value": "КРОВЬ ДЛЯ БОГА КРОВИ! ЧЕРЕПА ДЛЯ ТРОНА ЧЕРЕПОВ!"
+      },
+      "button": {
+        "_value": "За Сигмара!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "РЕЗНЯ! БОЙНЯ! ГНЕВ!!!"
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "Свет! Он жжется… Я. Заставлю. Его. ПОГАСНУТЬ!!!"
+      },
+      "button": {
+        "_value": "За Сигмара!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ха-ха, твоя дубина не делает Траггу больно… Трагг тебя раздавит!"
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    }
+  },
+  "zh-CN": {
+    "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+      "description": {
+        "_value": "---发现弱点---\n---启动战斗条令---"
+      },
+      "button": {
+        "_value": "为了奥特拉玛！"
+      },
+      "descriptionInvulnerable": {
+        "_value": "---检测到异形生物信号---\n---威胁等级：极限---\n---查阅《阿斯塔特圣典》---"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻击！"
+      }
+    },
+    "WS_40K_ORK_BOSS_GHAZGHKULL": {
+      "description": {
+        "_value": "哈哈……俺滴老对手回来啦！咱们来好好干一架！WAAAGH！"
+      },
+      "button": {
+        "_value": "做好准备。"
+      },
+      "descriptionInvulnerable": {
+        "_value": "你小子肯定觉得自己运气不错，因为你压根没准备好和战争头目开打。想找个像样滴对手可不容易啊。WAAAGH！"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻击！"
+      }
+    },
+    "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+      "description": {
+        "_value": "呵呵呵……可悲的伪神走狗。你必将溃烂腐朽，回归瘟疫之父的怀抱。"
+      },
+      "button": {
+        "_value": "绝望吧，肮脏的畜生！"
+      },
+      "descriptionInvulnerable": {
+        "_value": "慈父在嘲笑你的软弱。你无法治愈这道伤口。屈服于溃烂腐朽的命运吧……"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻击！"
+      }
+    },
+    "WS_AOS_SKA_BOSS_VIZZIK": {
+      "description": {
+        "_value": "看那维兹克的目光……听那维兹克的尖啸……我们要杀杀杀！没错！没错！"
+      },
+      "button": {
+        "_value": "滚回你的黑暗里去吧，女巫！"
+      },
+      "descriptionInvulnerable": {
+        "_value": "你们这些脆弱的凡人……根本不是维兹克的对手……你们死定了！"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻击！"
+      }
+    },
+    "WS_AOS_BOK_BOSS_SKARBRAND": {
+      "description": {
+        "_value": "血祭血神！颅献颅座！"
+      },
+      "button": {
+        "_value": "为了西格玛！"
+      },
+      "descriptionInvulnerable": {
+        "_value": "杀戮！屠杀！狂怒！"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻击！"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "这光！要刺眼……我……要……让它……熄灭！"
+      },
+      "button": {
+        "_value": "为了西格玛！"
+      },
+      "descriptionInvulnerable": {
+        "_value": "哈哈，你的棒子伤不了特鲁格……而特鲁格会把你碾碎！"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻击！"
+      }
+    }
+  },
+  "tr": {
+    "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+      "description": {
+        "_value": "--- Zayıflık tespit edildi ---\n--- Savaş Doktrinlerini Başlat ---"
+      },
+      "button": {
+        "_value": "Ultramar için!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "--- Biyolojik İmza Tespit Edildi: Xenos ---\n--- Tehdit Seviyesi: Extremis ---\n--- Astartes Kodeksi’ne Başvur ---"
+      },
+      "buttonInvulnerable": {
+        "_value": "Saldır!"
+      }
+    },
+    "WS_40K_ORK_BOSS_GHAZGHKULL": {
+      "description": {
+        "_value": "Ah… en sevdiğim düşmanım geri döndü. Hadi şöyle güzelce bir kapışalım! WAAAGH!"
+      },
+      "button": {
+        "_value": "Hazırlan."
+      },
+      "descriptionInvulnerable": {
+        "_value": "Hadi yine iyisin, daha Savaş Patronu’na hazır değilsin. Dişine göre düşman bulmak zordur. WAAAGH!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Saldır!"
+      }
+    },
+    "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+      "description": {
+        "_value": "Heh heh heh… Anathema'nın zavallı oyuncağı. ÇÜRÜYECEK ve Veba Babası’na geri döneceksin."
+      },
+      "button": {
+        "_value": "Kahrol, seni iğrenç yaratık!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Büyükbaba senin acizliğine gülüyor. Bu yarayı dağlayamazsın. Kendini çürümeye bırak…"
+      },
+      "buttonInvulnerable": {
+        "_value": "Saldır!"
+      }
+    },
+    "WS_AOS_SKA_BOSS_VIZZIK": {
+      "description": {
+        "_value": "Gör Vizzik'in bakışını... Duy Vizzik'in çığlığını... Öldür öldür, Evet Evet!"
+      },
+      "button": {
+        "_value": "Karanlığa dön, Cadı!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Siz savunmasız ölümlülersiniz… Vizzik'in dengi değilsiniz… Ölecek... Öleceksiniz!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Saldır!"
+      }
+    },
+    "WS_AOS_BOK_BOSS_SKARBRAND": {
+      "description": {
+        "_value": "KAN TANRISINA KAN! KAFATASI TAHTINA KAFATASI!"
+      },
+      "button": {
+        "_value": "Sigmar için!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "KATLİAM! VAHŞET! GAZAP!!!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Saldır!"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "Işık! Canımı yakıyor… Ben. Bunu. DURDURACAĞIM!!!"
+      },
+      "button": {
+        "_value": "Sigmar için!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Haha, senin sopan Trugg’ın canını yakmaz… Trugg seni ezecek!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Saldır!"
+      }
+    }
+  },
+  "uk": {
+    "WS_40K_TYR_BOSS_NORN_EMISSARY": {
+      "description": {
+        "_value": "--- Слабкості виявлено ---\n---Ініціювати бойові доктрини ---"
+      },
+      "button": {
+        "_value": "За Ультрамар!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "--- Виявлено біологічний зразок: зінас ---\n--- Рівень загрози: надзвичайний ---\n--- Звіритися з Кодекс Астартес ---"
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    },
+    "WS_40K_ORK_BOSS_GHAZGHKULL": {
+      "description": {
+        "_value": "О-о... мій найзапекліший ворог повертається. Нумо побрязкаєм металом! Ва-ха-ха!"
+      },
+      "button": {
+        "_value": "Приготуйся."
+      },
+      "descriptionInvulnerable": {
+        "_value": "Дума'ш, мабуть, шо тобі повезло, але бойотажок тобі не по зубах. Гідного суперника тяжко знайти. Ва-ха-ха!"
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    },
+    "WS_40K_DEA_GREAT_UNCLEAN_ONE": {
+      "description": {
+        "_value": "Хе-хе-хе... Жалюгідне знаряддя з Анатеми. Ти згниєш і повернешся до Батька Чуми."
+      },
+      "button": {
+        "_value": "Впадай у відчай, огидна тварюко!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Дід сміявся би з твоєї немічності. Ти не можеш припекти цю рану. Піддайся гнилі..."
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    },
+    "WS_AOS_SKA_BOSS_VIZZIK": {
+      "description": {
+        "_value": "Поглянь в очі Віззіку... Почуй його скрегіт... ми вбивати, вбивати, так-так!"
+      },
+      "button": {
+        "_value": "Повертайся в темряву, чаклуне!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ви — звичайні смертні... не рівня Віззіку... ви помрете, помрете!"
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    },
+    "WS_AOS_BOK_BOSS_SKARBRAND": {
+      "description": {
+        "_value": "КРОВ ДЛЯ БОГА КРОВІ! ЧЕРЕПИ ДЛЯ ЧЕРЕПНОГО ТРОНУ!"
+      },
+      "button": {
+        "_value": "За Сігмара!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "РІЗАНИНА! БІЙНЯ! ЛЮТЬ!"
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "Світло! Пече... Я. Це. ЗУПИНЮ!"
+      },
+      "button": {
+        "_value": "За Сігмара!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ха-ха, твоя палиця не робить боляче Труґґу... Труґґ тебе розчавить!"
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    }
   }
 }

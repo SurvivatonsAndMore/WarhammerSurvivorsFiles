@@ -2,1535 +2,4907 @@
   "WS_40K_SISTER_SUPERIOR": {
     "charName": {
       "_value": [
-        "Amalia"
+        "Amalia",
+        "Amalia",
+        "Amalia",
+        "Amalia",
+        "Amalia",
+        "アマリア",
+        "아말리아",
+        "Amalia",
+        "Amalia",
+        "Амалия",
+        "阿玛丽亚",
+        "Amalia",
+        "Амалія"
       ]
     },
     "customCharName": {
       "_value": [
-        "Amalia"
+        "Amalia",
+        "Amalia",
+        "Amalia",
+        "Amalia",
+        "Amalia",
+        "アマリア",
+        "아말리아",
+        "Amalia",
+        "Amalia",
+        "Амалия",
+        "阿玛丽亚",
+        "Amalia",
+        "Амалія"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with a permanent +40 {[AURA]}"
+        "Starts with a permanent +40 {[AURA]}",
+        "Commence avec une {[AURA]} +40 permanente",
+        "Inizi con un +40 {[AURA]} permanente",
+        "Beginnt mit dauerhaft +40 {[AURA]}.",
+        "Empiezas con +40 {[AURA]} permanente",
+        "永続的に{[AURA]}+40で開始する。",
+        "시작 시 {[AURA]}이(가) 영구적으로 40 증가합니다.",
+        "Rozpoczyna ze stałą premią: {[AURA]} +40",
+        "Inicia com +40 de {[AURA]} permanente.",
+        "Начинает игру с постоянными +40 к параметру {[AURA]}.",
+        "开局时即永久+40{[AURA]}。",
+        "Kalıcı +40 {[AURA]} ile başlar.",
+        "Розпочинає з +40 до показника {[AURA]}."
       ]
     },
     "prefix": {
       "_value": [
-        "Sister Superior"
+        "Sister Superior",
+        "Sœur Supérieure",
+        "Sorella Superiora",
+        "Prioris",
+        "Hermana Superiora",
+        "シスター・スペリオール",
+        "시스터 슈페리어",
+        "Siostra Przełożona",
+        "Irmã Superior",
+        "Старшая сестра",
+        "修女长",
+        "Kıdemli Rahibe",
+        "Старша сестра"
       ]
     },
     "surname": {
       "_value": [
-        "Novena"
+        "Novena",
+        "Novena",
+        "Novena",
+        "Novena",
+        "Novena",
+        "ノヴェナ",
+        "노베나",
+        "Novena",
+        "Novena",
+        "Новена",
+        "诺维娜",
+        "Novena",
+        "Новена"
       ]
     },
     "description": {
       "_value": [
-        "Gains +10% {[RANGE]} every 10 levels (max +30%). Gains +10% {[CHANCE]} when below 50% health, increasing the likelihood of the Burning Status Effect being applied."
+        "Gains +10% {[RANGE]} every 10 levels (max +30%). Gains +10% {[CHANCE]} when below 50% health, increasing the likelihood of the Burning Status Effect being applied.",
+        "Obtient +10 % de {[RANGE]} tous les 10 niveaux (max. +30 %). Obtient +10 % de {[CHANCE]} lorsque le niveau de santé est inférieur à 50 %, augmentant la probabilité d’application de l’effet de statut Brûlure.",
+        "Ottiene +10% {[RANGE]} ogni 10 livelli (max +30%). Ottiene +10% {[CHANCE]} quando la salute è inferiore al 50%, aumentando la probabilità che venga applicato l'effetto di stato Ustione.",
+        "Erhält alle 10 Stufen +10 % {[RANGE]} (max. +30 %). Erhält bei weniger als 50 % Gesundheit +10 % {[CHANCE]}, wodurch die Wahrscheinlichkeit steigt, den Statuseffekt „Brennend“ zuzufügen.",
+        "Obtiene +10 % de {[RANGE]} cada 10 niveles (máx. +30 %). Obtiene +10 % de {[CHANCE]} al estar por debajo del 50 % de salud, lo que aumenta la probabilidad de aplicar el efecto de estado Quemadura.",
+        "10レベルごとに{[RANGE]}が+10%増加する（最大+30%）。体力が50%未満のとき{[CHANCE]}が+10%増加し、燃焼状態が付与される確率が上昇する。",
+        "10레벨마다 {[RANGE]}이(가) 10% 증가합니다(최대 30%). 체력이 50% 미만이면 {[CHANCE]}이(가) 10% 증가하여 적에게 화상 상태 효과를 부여할 확률이 높아집니다.",
+        "{[RANGE]} +10% co 10 poziomów (maks. +30%). Gdy ma mniej niż 50% pkt. życia, {[CHANCE]} wzrasta o 10%, zwiększając szansę nałożenia efektu statusu Podpalenie.",
+        "Ganha +10% de {[RANGE]} a cada 10 níveis (máximo de +30%). Ganha +10% de {[CHANCE]} quando abaixo de 50% de vida, aumentando a chance de aplicar o efeito de estado “Queimadura”.",
+        "Получает +10% к параметру {[RANGE]} каждые 10 уровней (максимум +30%). Получает +10% к параметру {[CHANCE]}, когда уровень здоровья ниже 50%, увеличивая тем самым вероятность наложения статусного эффекта «Горение».",
+        "每升10级，+10%{[RANGE]}（最多+30%）。生命值低于50%时，+10%{[CHANCE]}，同时对敌人施加燃烧状态效果的概率提高。",
+        "Her 10 seviyede +%10 {[RANGE]} kazanır (maks. +%30). Can %50’nin altındayken +%10 {[CHANCE]} kazanır ve Yanma Durum Etkisinin uygulanma ihtimalini artırır.",
+        "{[RANGE]} +10% за кожні 10 рівнів (макс. +30%). +10% до показника {[CHANCE]}, коли здоров’я падає нижче 50%. Збільшує ймовірність накладання ефекту загоряння."
       ]
     }
   },
   "WS_40K_ARTEMIS": {
     "charName": {
       "_value": [
-        "Artemis"
+        "Artemis",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "TBC - Desc (not designed)"
+        "TBC - Desc (not designed)",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Watch Captain"
+        "Watch Captain",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_40K_CELESTIAN_SACRESANT_AVELINE": {
     "charName": {
       "_value": [
-        "Aveline"
+        "Aveline",
+        "Aveline",
+        "Aveline",
+        "Aveline",
+        "Aveline",
+        "アヴリン",
+        "아벨린",
+        "Aveline",
+        "Aveline",
+        "Авелин",
+        "艾芙琳",
+        "Aveline",
+        "Авелін"
       ]
     },
     "customCharName": {
       "_value": [
-        "Aveline"
+        "Aveline",
+        "Aveline",
+        "Aveline",
+        "Aveline",
+        "Aveline",
+        "アヴリン",
+        "아벨린",
+        "Aveline",
+        "Aveline",
+        "Авелин",
+        "艾芙琳",
+        "Aveline",
+        "Авелін"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Gains +1% {[SUSTAIN]} every level. Increased damage against Daemons."
+        "Gains +1% {[SUSTAIN]} every level. Increased damage against Daemons.",
+        "Obtient +1 % de {[SUSTAIN]} à chaque niveau. Les dégâts infligés aux démons sont augmentés.",
+        "Ottiene +1% {[SUSTAIN]} ogni livello. Danni aumentati contro i demoni.",
+        "Erhält pro Stufe +1 % {[SUSTAIN]}. Verursacht erhöhten Schaden gegen Dämonen.",
+        "Obtiene +1 % de {[SUSTAIN]} en cada nivel. Daño aumentado contra daemons.",
+        "レベルごとに{[SUSTAIN]}が+1%増加する。ディーモンに対するダメージが増加する。",
+        "레벨이 오를 때마다 {[SUSTAIN]}이(가) 1% 증가합니다. 데몬에게 주는 피해가 증가합니다.",
+        "{[SUSTAIN]} +1% co poziom. Zadaje zwiększone obrażenia Demonom.",
+        "Ganha +1% de {[SUSTAIN]} a cada nível. O dano contra Demônios é aumentado.",
+        "Получает +1% к параметру {[SUSTAIN]} с каждым новым уровнем. Повышенный урон против демонов.",
+        "每升一级，+1%{[SUSTAIN]}。提升对恶魔造成的伤害。",
+        "Her seviyede, +%1 {[SUSTAIN]} kazanır. İblislere karşı verilen hasar artar.",
+        "{[SUSTAIN]} зростає на 1% з кожним рівнем. Збільшена шкода по демонах."
       ]
     },
     "prefix": {
       "_value": [
-        "Celestian Sacresant"
+        "Celestian Sacresant",
+        "Céleste Sacro-sainte",
+        "Celestina Sacresant",
+        "Celestia Sacresantis",
+        "Celeste sacrosanta",
+        "セレスティアン・サクレサント",
+        "셀레스티안 새크레상트",
+        "Celestyńska Sakresantka",
+        "Sacresanto Celestiano",
+        "Целестинка-сакральница",
+        "洁天使圣徒",
+        "Göksel Muhafız",
+        "Целестійка-сакральниця"
       ]
     },
     "surname": {
       "_value": [
-        "Aboyé"
+        "Aboyé",
+        "Aboyé",
+        "Aboyé",
+        "Aboyé",
+        "Aboyé",
+        "アボワイエ",
+        "아보예",
+        "Aboyé",
+        "Aboyé",
+        "Абойе",
+        "阿波耶",
+        "Aboyé",
+        "Абойє"
       ]
     },
     "description": {
       "_value": [
-        "Gains +5% {[RANGE]} and {[MOVE]} on defeating a boss. Increased damage against Daemons."
+        "Gains +5% {[RANGE]} and {[MOVE]} on defeating a boss. Increased damage against Daemons.",
+        "Obtient +5 % de {[RANGE]} et de {[MOVE]} lorsqu’un boss est battu. Les dégâts infligés aux démons sont augmentés.",
+        "Ottiene +5% {[RANGE]} e {[MOVE]} sconfiggendo un boss. Danni aumentati contro i demoni.",
+        "Erhält beim Besiegen eines Bosses +5 % {[RANGE]} und {[MOVE]}. Erhöhter Schaden gegen Dämonen.",
+        "Obtiene +5 % de {[RANGE]} y {[MOVE]} al derrotar a un jefe. Daño aumentado contra daemons.",
+        "ボスを倒すごとに{[RANGE]}、{[MOVE]}が+5%増加する。ディーモンに対するダメージが増加する。",
+        "보스를 처치할 때마다 {[RANGE]} 및 {[MOVE]}이(가) 5% 증가합니다. 데몬에게 주는 피해가 증가합니다.",
+        "{[RANGE]} i {[MOVE]} +5% po pokonaniu bossa. Zadaje zwiększone obrażenia Demonom.",
+        "Ganha +5% de {[RANGE]} e {[MOVE]} ao derrotar um chefão. Dano aumentado contra demônios.",
+        "Получает +5% к параметрам {[RANGE]} и {[MOVE]} при победе над боссом. Повышенный урон против демонов.",
+        "击败首领时，+5%{[RANGE]}与{[MOVE]}。对恶魔造成的伤害提高。",
+        "Bir patronu yendiğinde +%5 {[RANGE]} ve {[MOVE]} kazanır. İblislere karşı artmış hasar.",
+        "{[RANGE]} і {[MOVE]} зростатимуть на 5% за вбиство боса. Збільшена шкода по демонах."
       ]
     }
   },
   "WS_40K_BROKK": {
     "charName": {
       "_value": [
-        "Brokk"
+        "Brokk",
+        "Brokk",
+        "Brokk",
+        "Brokk",
+        "Brokk",
+        "ブロック",
+        "브록",
+        "Brokk",
+        "Brokk",
+        "Брокк",
+        "布洛克",
+        "Brokk",
+        "Брокк"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +30% {[MOVE]}. Gains +1 {[TITHE]} every level."
+        "Starts with +30% {[MOVE]}. Gains +1 {[TITHE]} every level.",
+        "Commence avec +30 % de {[MOVE]}. +1 {[TITHE]} à chaque niveau.",
+        "Inizia con +30% {[MOVE]}. Ottiene +1 {[TITHE]} ogni livello.",
+        "Beginnt mit dauerhaft +30 {[MOVE]}. Erhält pro Stufe +1 {[TITHE]}.",
+        "Empieza con +30 % de {[MOVE]}. Obtiene +1 de {[TITHE]} en cada nivel.",
+        "{[MOVE]}+30%で開始する。レベルごとに{[TITHE]}を+1獲得する。",
+        "시작 시 +30% {[MOVE]}. 레벨이 오를 때마다 {[TITHE]}이(가) 1 증가합니다.",
+        "Zaczyna z {[MOVE]} +30%. {[TITHE]} +1 co poziom.",
+        "Inicia com +30% de {[MOVE]}. Ganha +1 {[TITHE]} a cada nível.",
+        "Начинает игру с +30% к параметру {[MOVE]}. Получает +1 к параметру {[TITHE]} с каждым новым уровнем.",
+        "开局即获得+30%{[MOVE]}。每升一级，+1{[TITHE]}。",
+        "+%30 {[MOVE]} ile başlar, her seviyede +1 {[TITHE]} kazanır.",
+        "Розпочинає з +30% до показника {[MOVE]}. {[TITHE]} +1 за кожен рівень."
       ]
     },
     "prefix": {
       "_value": [
-        "Lord-Magnate"
+        "Lord-Magnate",
+        "Seigneur-magnat",
+        "Lord-Magnate",
+        "Lord-Magnat",
+        "Lord Magnate",
+        "ロード・マグネイト",
+        "로드 매그네이트",
+        "Lord Magnat",
+        "Senhor-Magnata",
+        "Лорд-Магнат",
+        "巨商领主",
+        "Lord-Magnate",
+        "Вельможний володар"
       ]
     },
     "surname": {
       "_value": [
-        "Grungsson"
+        "Grungsson",
+        "Grungsson",
+        "Grungsson",
+        "Grungsson",
+        "Grungsson",
+        "グルングソン",
+        "그룽손",
+        "Grungsson",
+        "Grungsson",
+        "Грунгссон",
+        "格朗森",
+        "Grungsson",
+        "Ґрунґссон"
       ]
     }
   },
   "WS_40K_CAIN": {
     "charName": {
       "_value": [
-        "Ciaphas"
+        "Ciaphas",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "TBC - Desc (not designed)"
+        "TBC - Desc (not designed)",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Commissar"
+        "Commissar",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "surname": {
       "_value": [
-        "Cain"
+        "Cain",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_40K_CALGAR": {
     "charName": {
       "_value": [
-        "Marneus"
+        "Marneus",
+        "Marneus",
+        "Marneus",
+        "Marneus",
+        "Marneus",
+        "マルネウス",
+        "마니우스",
+        "Marneus",
+        "Marneus",
+        "Марней",
+        "马涅乌斯",
+        "Marneus",
+        "Марнеус"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Gains +1% {[RANGE]} every level."
+        "Gains +1% {[RANGE]} every level.",
+        "Obtient +1 % de {[RANGE]} à chaque niveau.",
+        "Ottiene +1% {[RANGE]} ogni livello.",
+        "Erhält pro Stufe +1 % {[RANGE]}.",
+        "Obtiene +1 % de {[RANGE]} en cada nivel.",
+        "レベルごとに{[SUSTAIN]}が+1%増加する。",
+        "레벨이 오를 때마다 {[RANGE]}이(가) 1% 증가합니다.",
+        "{[RANGE]} +1% co poziom.",
+        "Ganha +1% de {[RANGE]} a cada nível.",
+        "Получает +1% к параметру {[RANGE]} с каждым новым уровнем.",
+        "每升一级，+1%{[RANGE]}。",
+        "Her seviyede, +%1 {[SUSTAIN]} kazanır.",
+        "{[RANGE]} зростає на 1% з кожним рівнем."
       ]
     },
     "prefix": {
       "_value": [
-        "Chapter Master"
+        "Chapter Master",
+        "Maître de Chapitre",
+        "Maestro Capitolare",
+        "Ordensmeister",
+        "Señor del Capítulo",
+        "戦団長（チャプターマスター）",
+        "챕터 마스터",
+        "Mistrz Zakonu",
+        "Mestre do Capítulo",
+        "Магистр капитула",
+        "战团长",
+        "Birlik Lideri",
+        "Магістр капітулу"
       ]
     },
     "surname": {
       "_value": [
-        "Calgar"
+        "Calgar",
+        "Calgar",
+        "Calgar",
+        "Calgar",
+        "Calgar",
+        "カルガー",
+        "칼가르",
+        "Calgar",
+        "Calga",
+        "Калгар",
+        "卡尔加",
+        "Calgar",
+        "Калґар"
       ]
     },
     "description": {
       "_value": [
-        "{[RANGE]} and {[STRENGTH]} benefit from the difference between {[CHANCE]} and {[CORRUPTION]}."
+        "{[RANGE]} and {[STRENGTH]} benefit from the difference between {[CHANCE]} and {[CORRUPTION]}.",
+        "{[RANGE]} et {[STRENGTH]} bénéficient de la différence entre {[CHANCE]} et {[CORRUPTION]}.",
+        "{[RANGE]} e {[STRENGTH]} traggono vantaggio dalla differenza tra {[CHANCE]} e {[CORRUPTION]}.",
+        "{[RANGE]} und {[STRENGTH]} profitieren von der Differenz zwischen {[CHANCE]} und {[CORRUPTION]}.",
+        "{[RANGE]} y {[STRENGTH]} se benefician de la diferencia entre {[CHANCE]} y {[CORRUPTION]}.",
+        "{[RANGE]}と{[STRENGTH]}は{[CHANCE]}と{[CORRUPTION]}の差による良い影響を受ける。",
+        "{[CHANCE]} 및 {[CORRUPTION]}의 차이에 따라 {[RANGE]}및 {[STRENGTH]}에 보너스를 받습니다.",
+        "Statystyki {[RANGE]} i {[STRENGTH]} zyskują w zależności od różnicy między {[CHANCE]} a {[CORRUPTION]}.",
+        "O {[RANGE]} e a {[STRENGTH]} se beneficiam da diferença entre {[CHANCE]} e {[CORRUPTION]}.",
+        "{[RANGE]} и {[STRENGTH]} выигрывают от разницы между параметрами {[CHANCE]} и {[CORRUPTION]}.",
+        "{[RANGE]}与{[STRENGTH]}将根据{[CHANCE]}与{[CORRUPTION]}的差值获得加成。",
+        "{[RANGE]} ve {[STRENGTH]}, {[CHANCE]} ile {[CORRUPTION]} arasındaki farktan faydalanır.",
+        "Показники {[RANGE]} і {[STRENGTH]} отримують бонус від різниці між показниками {[CHANCE]} і {[CORRUPTION]}."
       ]
     }
   },
   "WS_40K_CASTELLAN": {
     "charName": {
       "_value": [
-        "Black Templars Castellan"
+        "Black Templars Castellan",
+        "Castellan Black Templars",
+        "Castellano dei Black Templars",
+        "Black Templars Kastellan",
+        "Castellano de los Templarios Negros",
+        "ブラックテンプラー・キャステラン",
+        "블랙 템플러 카스텔란",
+        "Kasztelan Czarnych Templariuszy",
+        "Templários Negros Castellanos",
+        "Кастелян Чёрных Храмовников",
+        "黑色圣堂堡主",
+        "Kara Tapınakçılar Kastelanı",
+        "Каштелян темних храмовників"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "For each Follower, {[FOLLOWER_BONUS]} {[STRENGTH]} and {[SKILL]}."
+        "For each Follower, {[FOLLOWER_BONUS]} {[STRENGTH]} and {[SKILL]}.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "Gains +10% {[SKILL]} for each follower."
+        "Gains +10% {[SKILL]} for each follower.",
+        "Obtient +10 % de {[SKILL]} par disciple.",
+        "Ottiene +10% {[SKILL]} per ogni seguace.",
+        "Erhält +10 % {[SKILL]} für jeden Gefolgsmann.",
+        "Obtiene +10 % de {[SKILL]} por cada seguidor.",
+        "従者ごとに{[SKILL]}が+10%増加する。",
+        "추종자 한 명당 {[SKILL]}이(가) 10% 증가합니다.",
+        "{[SKILL]} +10% za każdego towarzysza.",
+        "Ganha +10% de {[SKILL]} para cada seguidor.",
+        "Получает +10% к параметру {[SKILL]} за каждого последователя.",
+        "每拥有一名随从，+10%{[SKILL]}。",
+        "Her takipçi için +%10 {[SKILL]} kazanır.",
+        "{[SKILL]} зростає на 10% за кожного послідовника."
       ]
     }
   },
   "WS_40K_CELESTINE": {
     "charName": {
       "_value": [
-        "Celestine"
+        "Celestine",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Grows in {[CHANCE]} and {[STRENGTH]} every level. Resurrects stronger."
+        "Grows in {[CHANCE]} and {[STRENGTH]} every level. Resurrects stronger.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Saint"
+        "Saint",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "Gains +1% {[SKILL]} and {[AURA]} every level. Redeploys stronger."
+        "Gains +1% {[SKILL]} and {[AURA]} every level. Redeploys stronger.",
+        "Obtient +1 % de {[SKILL]} et d’{[AURA]} à chaque niveau. Se redéploie plus puissante.",
+        "Ottiene +1% {[SKILL]} e {[AURA]} a ogni livello. Quando torna in battaglia, è più forte.",
+        "Erhält pro Stufe +1 % {[SKILL]} und {[AURA]}. Wird bei Neuaufstellung stärker.",
+        "Obtiene +1 % de {[SKILL]} y {[AURA]} en cada nivel. Se redespliega con más fuerza.",
+        "レベルごとに{[SKILL]}、{[AURA]}が+1%増加する。再配置が強くなる。",
+        "레벨마다 {[SKILL]} 및 {[AURA]}이(가) 1% 증가합니다. 재배치 효과가 강화됩니다.",
+        "{[SKILL]} i {[AURA]} +1% co poziom. Po odrodzeniu wraca z większą siłą.",
+        "Ganha +1% de {[SKILL]} e {[AURA]} a cada nível. Volta ainda mais forte.",
+        "Получает +1% к параметрам {[SKILL]} и {[AURA]} с каждым новым уровнем. При передислокации становится сильнее.",
+        "每升一级，+1%{[SKILL]}和{[AURA]}。重新部署时会变得更强。",
+        "Her seviyede +%1 {[SKILL]} ve {[AURA]} kazanır. Daha güçlü şekilde yeniden konuşlanır.",
+        "{[SKILL]} і {[AURA]} зростають на 1% з кожним рівнем. Передислоковується сильнішою."
       ]
     }
   },
   "WS_40K_DAEDALOSUS": {
     "charName": {
       "_value": [
-        "Daedalosus"
+        "Daedalosus",
+        "Daedalosus",
+        "Daedalosus",
+        "Daedalosus",
+        "Daedalosus",
+        "ダイダロサス",
+        "다이달로서스",
+        "Daedalosus",
+        "Daedalosus",
+        "Дедалос",
+        "代达洛斯",
+        "Daedalosus",
+        "Дедалус"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Seeker of divine mechanical arcana who gains +1% {[TITHE]} every level. Collectathon lasts longer."
+        "Seeker of divine mechanical arcana who gains +1% {[TITHE]} every level. Collectathon lasts longer.",
+        "Traqueur d’arcanes mécaniques divines qui obtient +1 % de {[TITHE]} à chaque niveau. Le Collectathon dure plus longtemps.",
+        "Cercatore degli arcani meccanici divini che ottiene +1% {[TITHE]} a ogni livello. Il Collectathon dura più a lungo.",
+        "Sucher göttlicher mechanischer Arkana. Erhält pro Stufe +1 % {[TITHE]}. Collectathons dauern länger.",
+        "Buscador de arcanos mecánicos divinos que obtiene +1 % de {[TITHE]} en cada nivel. El Collectathon dura más.",
+        "神聖なる機械の秘術のシーカー。レベルごとに{[TITHE]}が+1%増加する。コレクタソンの持続時間が延長される。",
+        "신성한 기계의 아르카나를 탐구하는 자입니다. 레벨이 오를 때마다 {[TITHE]}이(가) 1% 증가하며, 컬렉터톤의 지속 시간이 늘어납니다.",
+        "Poszukiwacz boskich tajemnic mechaniki, który z każdym poziomem zyskuje {[TITHE]} +1%. Collectathon trwa dłużej.",
+        "Buscador dos arcanos mecânicos divinos que ganha +1% {[TITHE]} a cada nível. O Collectathon dura mais tempo.",
+        "Искатель божественных механических арканов, который получает +1% к параметру {[TITHE]} с каждым новым уровнем. Коллектатон длится дольше.",
+        "神圣机械奥秘的寻觅者，每升一级，+1%{[TITHE]}。“收集大作战”的持续时间延长。",
+        "İlahi mekanik arkananın arayıcısı; her seviyede +%1 {[TITHE]} kazanır. Collectathon daha uzun sürer.",
+        "Шукач божественної механічної аркани, який отримує +1% до показника {[TITHE]} з кожним рівнем. Колектатон триває довше."
       ]
     },
     "prefix": {
       "_value": [
-        "Technoarcheologist"
+        "Technoarcheologist",
+        "Technoarchéologue",
+        "Tecnoarcheologo",
+        "Technoarchäologe",
+        "Tecnoarqueólogo",
+        "技術考古学者",
+        "테크노아키올로지스트",
+        "Technoarcheolog",
+        "Tecnoarqueólogo",
+        "Техноархеолог",
+        "科技考古学家",
+        "Teknoarkeolog",
+        "Техноархеолог"
       ]
     },
     "description": {
       "_value": [
-        "Always gets 4 level up choices. Enemies may drop coins instead of gems."
+        "Always gets 4 level up choices. Enemies may drop coins instead of gems.",
+        "Dispose toujours de 4 choix de passage de niveau. Les ennemis peuvent laisser tomber des pièces à la place de gemmes.",
+        "Ottiene sempre 4 scelte di potenziamento. I nemici possono rilasciare monete anziché gemme.",
+        "Erhält beim Stufenaufstieg immer 4 Auswahlmöglichkeiten. Gegner können Münzen statt Juwelen fallen lassen.",
+        "Siempre obtiene 4 opciones al subir de nivel. Los enemigos pueden soltar monedas en lugar de gemas.",
+        "常にレベルアップ選択肢を4つ得る。敵がジェムの代わりにコインをドロップする場合がある。",
+        "레벨이 오를 때마다 항상 선택지 4개가 제시됩니다. 적이 젬 대신 코인을 떨어뜨릴 수 있습니다.",
+        "Zawsze pojawiają się 4 opcje po zdobyciu nowego poziomu. Wrogowie mogą upuszczać monety zamiast klejnotów.",
+        "Sempre há 4 opções para subir de nível. Os inimigos podem derrubar moedas em vez de gemas.",
+        "Всегда получает 4 варианта для повышения уровня. Из врагов могут выпадать монеты вместо драгоценных камней.",
+        "始终拥有4个升级选项。敌人可能会掉落硬币而非宝石。",
+        "Her zaman 4 seviye atlama seçeneği alır. Düşmanlar mücevher yerine para düşürebilir.",
+        "Вибірка підвищення рівня завжди з 4 варіантів. З ворогів можуть випадати монети замість самоцвітів."
       ]
     }
   },
   "WS_40K_DANTE": {
     "charName": {
       "_value": [
-        "Luis"
+        "Luis",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "TBC - Desc (not designed)"
+        "TBC - Desc (not designed)",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Commander"
+        "Commander",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "surname": {
       "_value": [
-        "Dante"
+        "Dante",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_40K_DREKKI": {
     "charName": {
       "_value": [
-        "Drekki"
+        "Drekki",
+        "Drekki",
+        "Drekki",
+        "Drekki",
+        "Drekki",
+        "ドレッキ",
+        "드레키",
+        "Drekki",
+        "Drekki",
+        "Дрекки",
+        "德雷基",
+        "Drekki",
+        "Дреккі"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "+250% {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}s, +10 {[REROLL]}s, +10 {[BANISH]}. Gains extra {[TITHE]} as he levels."
+        "+250% {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}s, +10 {[REROLL]}s, +10 {[BANISH]}. Gains extra {[TITHE]} as he levels.",
+        "+250 % de {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}, +10 {[REROLL]}, +10 {[BANISH]}. Obtient plus de {[TITHE]} quand il passe un niveau.",
+        "+250% {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}s, +10 {[REROLL]}, +10 {[BANISH]}. Guadagna {[TITHE]} extra salendo di livello.",
+        "+250 % {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}, +10 {[REROLL]}, +10 {[BANISH]}. Erhält beim Stufenaufstieg zusätzlich {[TITHE]}.",
+        "+250 % {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}, +10 {[REROLL]}, +10 {[BANISH]}. Obtiene {[TITHE]} adicional al subir de nivel.",
+        "{[TITHE]}+250%、{[REDEPLOYMENT]}+1、{[SKIP]}+10秒、{[REROLL]}+10秒、{[BANISH]}+10。レベルアップに応じて{[TITHE]}がさらに増加する。",
+        "+250% {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}, +10 {[REROLL]}, +10 {[BANISH]}. 레벨이 오를수록 {[TITHE]}이(가) 추가로 증가합니다.",
+        "{[TITHE]} +250%, {[REDEPLOYMENT]} +1, {[SKIP]} +10, {[REROLL]} +10, {[BANISH]} +10. Wraz z awansowaniem na kolejne poziomy zyskuje dodatkowe {[TITHE]}.",
+        "+250% de {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}s, +10 {[REROLL]}s, +10 {[BANISH]}. Ganha {[TITHE]} extra conforme sobe de nível.",
+        "+250% к параметру {[TITHE]}, +1 к параметру {[REDEPLOYMENT]}, +10 к параметру {[SKIP]}, +10 к параметру {[REROLL]}, +10 к параметру {[BANISH]}. Получает дополнительное увеличение параметра {[TITHE]} при повышении уровня.",
+        "+250%{[TITHE]}、+1{[REDEPLOYMENT]}、+10{[SKIP]}、+10{[REROLL]}、+10{[BANISH]}。在他升级时额外获得{[TITHE]}。",
+        "+%250 {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}, +10 {[REROLL]} ve +10 {[BANISH]} verir. Seviye atladıkça ek {[TITHE]} kazanırsın.",
+        "{[TITHE]} +250%, {[REDEPLOYMENT]} +1, {[SKIP]} +10, {[REROLL]} +10, {[BANISH]} +10. {[TITHE]} зростає з підвищенням рівня."
       ]
     },
     "surname": {
       "_value": [
-        "Flynt"
+        "Flynt",
+        "Flynt",
+        "Flynt",
+        "Flynt",
+        "Flynt",
+        "フリント",
+        "플린트",
+        "Flynt",
+        "Flynt",
+        "Флинт",
+        "弗林特",
+        "Flynt",
+        "Флінт"
       ]
     }
   },
   "WS_40K_ELEANOR": {
     "charName": {
       "_value": [
-        "Eleanor"
+        "Eleanor",
+        "Eleanor",
+        "Eleanor",
+        "Eleanor",
+        "Eleanor",
+        "エレノア",
+        "엘리아노르",
+        "Eleanor",
+        "Eleanor",
+        "Элеанор",
+        "埃莉诺",
+        "Eleanor",
+        "Елеонора"
       ]
     },
     "description": {
       "_value": [
-        "TBC - Desc (not designed)"
+        "TBC - Desc (not designed)",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Geminae Superia"
+        "Geminae Superia",
+        "Geminae Superia",
+        "Geminae Superia",
+        "Geminae Superia",
+        "Geminae Superia",
+        "双護聖（ジェミナエ・スペリア）",
+        "제미나이 슈페리아",
+        "Geminae Superia",
+        "Geminae Superia",
+        "Вышние близнецы",
+        "双生圣女",
+        "Geminae Superia",
+        "Вишні близнюки"
       ]
     }
   },
   "WS_40K_EVERSOR_ASSASSIN": {
     "charName": {
       "_value": [
-        "Krux"
+        "Krux",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "Overkill by stacking Frenzon to gain multiple cumulative bonuses to random stats."
+        "Overkill by stacking Frenzon to gain multiple cumulative bonuses to random stats.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Kazyda"
+        "Kazyda",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_40K_FOBARAN": {
     "charName": {
       "_value": [
-        "Fo'Baran"
+        "Fo'Baran",
+        "Fo’Baran",
+        "Fo'Baran",
+        "Fo'Baran",
+        "Fo'Baran",
+        "フォ＝バラン",
+        "포바란",
+        "Fo’Baran",
+        "Fo’Baran",
+        "Фо'Баран",
+        "福巴兰",
+        "Fo'Baran",
+        "Фо’Баран"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +50 {[WOUNDS]}, +0.5 {[TOUGHNESS]} and +10% {[VETERANCY]}."
+        "Starts with +50 {[WOUNDS]}, +0.5 {[TOUGHNESS]} and +10% {[VETERANCY]}.",
+        "Commence avec +50 {[WOUNDS]}, +0,5 {[TOUGHNESS]} et +10 % de {[VETERANCY]}.",
+        "Inizia con +50 {[WOUNDS]}, +0,5 {[TOUGHNESS]} e +10% {[VETERANCY]}.",
+        "Beginnt mit +50 {[WOUNDS]}, +0,5 {[TOUGHNESS]} und +10 % {[VETERANCY]}.",
+        "Empieza con +50 {[WOUNDS]}, +0,5 {[TOUGHNESS]} y +10 % {[VETERANCY]}.",
+        "{[WOUNDS]}+50、{[TOUGHNESS]}+0.5、{[VETERANCY]}+10%で開始する。",
+        "시작 시 +50 {[WOUNDS]}, +0.5 {[TOUGHNESS]}, +10% {[VETERANCY]}.",
+        "Rozpoczyna z: {[WOUNDS]} +50, {[TOUGHNESS]} +0,5 i {[VETERANCY]} +10%.",
+        "Inicia com +50 {[WOUNDS]}, +0,5 {[TOUGHNESS]} e +10% de {[VETERANCY]}.",
+        "Начинает игру с +50 к параметру {[WOUNDS]}, +0,5 к параметру {[TOUGHNESS]} и +10% к параметру {[VETERANCY]}.",
+        "开局即获得+50{[WOUNDS]}、+0.5{[TOUGHNESS]}以及+10%{[VETERANCY]}。",
+        "+50 {[WOUNDS]}, +0,5 {[TOUGHNESS]} ve +%10 {[VETERANCY]} ile başlar.",
+        "Зі старту показник {[WOUNDS]} зростає на +50, {[TOUGHNESS]} на +0,5 і {[VETERANCY]} на +10%."
       ]
     },
     "prefix": {
       "_value": [
-        "Chaplain"
+        "Chaplain",
+        "Chapelain",
+        "Cappellano",
+        "Ordenspriester",
+        "Capellán",
+        "教戒官（チャプレイン）",
+        "채플린",
+        "Kapelan",
+        "Chaplain",
+        "Капеллан",
+        "牧师",
+        "Kapelan",
+        "Капелан"
       ]
     },
     "description": {
       "_value": [
-        "Gains +5% {[RANGE]} and +0.1 {[TOUGHNESS]} for each Follower. Finds more Hellfire Ammo."
+        "Gains +5% {[RANGE]} and +0.1 {[TOUGHNESS]} for each Follower. Finds more Hellfire Ammo.",
+        "Obtient +5 % de {[RANGE]} et +0,1 d'{[TOUGHNESS]} par disciple. Trouve plus de munitions Hellfire.",
+        "Ottiene +5% {[RANGE]} e +0,1 {[TOUGHNESS]} per ciascun Seguace. Trova quantità maggiori di Munizioni Fuoco Infernale.",
+        "Erhält +5 % {[RANGE]} und +0,1 {[TOUGHNESS]} für jeden Gefolgsmann. Findet mehr Höllenfeuer-Munition.",
+        "Obtiene +5 % de {[RANGE]} y +0,1 de {[TOUGHNESS]} por cada seguidor. Encuentra más munición Hellfire.",
+        "従者1人ごとに{[RANGE]}が+5%、{[TOUGHNESS]}が+0.1増加する。ヘルファイア弾がより多く見つかる。",
+        "추종자 한 명당 {[RANGE]}이(가) 5%, {[TOUGHNESS]}이(가) 0.1 증가합니다. 헬파이어 탄약을 더 자주 발견합니다.",
+        "{[RANGE]} +5% i {[TOUGHNESS]} +0,1 za każdego towarzysza. Znajduje więcej Amunicji Piekielnego Ognia.",
+        "Ganha +5% de {[RANGE]} e +0,1 de {[TOUGHNESS]} por cada Seguidor. Encontra mais munição Hellfire.",
+        "Получает +5% к параметру {[RANGE]} и +0,1 к параметру {[TOUGHNESS]} за каждого последователя. Находит больше болтов «Адский огонь».",
+        "每拥有一名随从，可+5%{[RANGE]}并+0.1{[TOUGHNESS]}。同时能获取更多地狱火弹药。",
+        "Her Takipçi için +%5 {[RANGE]} ve +0,1 {[TOUGHNESS]} kazanır. Daha fazla Cehennem Ateşi Mühimmatı bulur.",
+        "{[RANGE]} +5% і {[TOUGHNESS]} +0,1 за кожного послідовника. Знаходить більше пеклополум’яних набоїв."
       ]
     }
   },
   "WS_40K_FURAN": {
     "charName": {
       "_value": [
-        "Furan"
+        "Furan",
+        "Furan",
+        "Furan",
+        "Furan",
+        "Furan",
+        "フラン",
+        "퓨란",
+        "Furan",
+        "Furan",
+        "Фуран",
+        "富兰",
+        "Furan",
+        "Фуран"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Gains +1% {[SKILL]} every level or +1% {[STRENGTH]} if heavily damaged."
+        "Gains +1% {[SKILL]} every level or +1% {[STRENGTH]} if heavily damaged.",
+        "Obtient +1 % de {[SKILL]} à chaque niveau ou +1 % de {[STRENGTH]} en cas de dégâts importants.",
+        "Ottiene +1% {[SKILL]} ogni livello o +1% {[STRENGTH]} in caso di danni gravi.",
+        "Erhält pro Stufe +1 % {[SKILL]} oder +1 % {[STRENGTH]}, wenn er schwer verwundet ist.",
+        "Obtiene +1 % {[SKILL]} en cada nivel o +1 % {[STRENGTH]} si está muy herido.",
+        "レベルごとに{[SKILL]}が+1%増加する。重傷の場合は、代わりに{[STRENGTH]}が1%増加する。",
+        "레벨이 오를 때마다 {[SKILL]}이 1% 증가합니다. 심각한 피해를 입은 상태에서는 대신 {[STRENGTH]}이(가) 1% 증가합니다.",
+        "{[SKILL]} +1% co poziom lub {[STRENGTH]} +1% po otrzymaniu ciężkich obrażeń.",
+        "Ganha +1% de {[SKILL]} a cada nível ou +1% de {[STRENGTH]} se sofrer dano pesado.",
+        "Получает +1% к параметру {[SKILL]} с каждым новым уровнем или же +1% к параметру {[STRENGTH]} при большом полученном уроне.",
+        "每升一级+1%{[SKILL]}，若受到重创，则+1%{[STRENGTH]}。",
+        "Her seviyede, +%1 {[SKILL]} kazanır veya ağır hasar alındıysa +%1 {[STRENGTH]} kazanır.",
+        "Отримує +1% до показника {[SKILL]} з кожним рівнем (або +1% до показника {[STRENGTH]}, якщо зазнає серйозних уражень)."
       ]
     },
     "prefix": {
       "_value": [
-        "Sergeant"
+        "Sergeant",
+        "Sergent",
+        "Sergente",
+        "Unteroffizier",
+        "Sargento",
+        "軍曹（サージェント）",
+        "서전트",
+        "Sierżant",
+        "Sargento",
+        "Сержант",
+        "军士",
+        "Çavuş",
+        "Сержант"
       ]
     },
     "description": {
       "_value": [
-        "Gains +1% {[SKILL]} per level if above 50% Wounds. \nGains +1% {[STRENGTH]} per level if below 50% Wounds."
+        "Gains +1% {[SKILL]} per level if above 50% Wounds. \nGains +1% {[STRENGTH]} per level if below 50% Wounds.",
+        "Obtient +1 % de {[SKILL]} par niveau si le nombre de blessures est supérieur à 50 %.\nObtient +1 % de {[STRENGTH]} par niveau si le nombre de blessures est inférieur à 50 %.",
+        "Ottiene +1% {[SKILL]} per ogni livello se le Ferite sono superiori al 50%.\nOttiene +1% {[STRENGTH]} per ogni livello se le Ferite sono inferiori al 50%.",
+        "Erhält pro Stufe +1 % {[SKILL]}, solange über 50 % Lebenspunkte verbleiben.\nErhält pro Stufe +1 % {[STRENGTH]}, solange unter 50 % Lebenspunkte verbleiben.",
+        "Obtiene +1 % de {[SKILL]} por nivel si está por encima del 50 % de heridas.\nObtiene +1 % de {[STRENGTH]} por nivel si está por debajo del 50 % de heridas.",
+        "負傷限界が50%以上のとき、レベルごとに{[SKILL]}が+1%増加する。\n負傷限界が50%未満のとき、レベルごとに{[STRENGTH]}が+1%増加する。",
+        "체력이 50%를 초과하면 레벨마다 {[SKILL]}이(가) 1% 증가합니다.\n체력이 50% 미만이면 레벨마다 {[STRENGTH]}이 1% 증가합니다.",
+        "{[SKILL]} +1% na poziom, gdy ma więcej niż 50% punktów życia.\n{[STRENGTH]} +1% na poziom, gdy ma mniej niż 50% punktów życia.",
+        "Ganha +1% de {[SKILL]} por nível se estiver acima de 50% de feridas.\nGanha +1% {[STRENGTH]} por nível se estiver abaixo de 50%.",
+        "Получает +1% к параметру {[SKILL]} с каждым новым уровнем, если ран больше 50%.\nПолучает +1% к параметру {[STRENGTH]} с каждым новым уровнем, если ран меньше 50%.",
+        "当承伤高于50%时，每升一级，+1%{[SKILL]}。\n当承伤低于50%时，每升一级，+1%{[STRENGTH]}。",
+        "%50 Yaraların üzerindeyken her seviyede +%1 {[SKILL]} kazanır.\n%50 Yaraların altındayken her seviyede +%1 {[STRENGTH]} kazanır.",
+        "{[SKILL]} зростає на 1% з кожним рівнем, якщо показник ран вищий 50%.\n{[STRENGTH]} зростає на 1% з кожним рівнем, якщо показник ран нижчий 50%."
       ]
     }
   },
   "WS_40K_GABRIEL": {
     "charName": {
       "_value": [
-        "Gabriel"
+        "Gabriel",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "customCharName": {
       "_value": [
-        "Gabriel"
+        "Gabriel",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "TBC - Desc (not designed)"
+        "TBC - Desc (not designed)",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Chapter Master"
+        "Chapter Master",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "surname": {
       "_value": [
-        "Seth"
+        "Seth",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_40K_GARADON": {
     "charName": {
       "_value": [
-        "Tor"
+        "Tor",
+        "Tor",
+        "Tor",
+        "Tor",
+        "Tor",
+        "トー",
+        "토르",
+        "Tor",
+        "Tor",
+        "Тор",
+        "托尔",
+        "Tor",
+        "Тор"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Permanent +20% {[RANGE]} and +10% {[SAVE]}. Starts with temporary {[RELOAD]} bonus."
+        "Permanent +20% {[RANGE]} and +10% {[SAVE]}. Starts with temporary {[RELOAD]} bonus.",
+        "+20 % de {[RANGE]} et +10 % de {[SAVE]} permanents. Commence avec un bonus de {[RELOAD]} temporaire.",
+        "+20% {[RANGE]} e +10% {[SAVE]} permanenti. Inizia con un bonus {[RELOAD]} temporaneo.",
+        "Dauerhaft +20 % {[RANGE]} und +10 % {[SAVE]}. Beginnt mit einem vorübergehenden {[RELOAD]}-Bonus.",
+        "+20 % {[RANGE]} y +10 % {[SAVE]} permanentes. Empieza con una bonificación temporal de {[RELOAD]}.",
+        "{[RANGE]}+20%および{[SAVE]}+10%を永続的に獲得する。一時的な{[RELOAD]}ボーナスを持った状態で開始する。",
+        "{[RANGE]}이(가) 영구적으로 20%, {[SAVE]}이(가) 영구적으로 10% 증가합니다. 시작 시 일시적인 {[RELOAD]} 보너스를 얻습니다.",
+        "{[RANGE]} +20% i {[SAVE]} +10% na stałe. Rozpoczyna z tymczasową premią do: {[RELOAD]}.",
+        "+20% de {[RANGE]} permanente e +10% de {[SAVE]}. Inicia com bônus temporário de {[RELOAD]}.",
+        "Постоянные +20% к параметру {[RANGE]} и +10% к параметру {[SAVE]}. Начинает игру с временным бонусом к параметру {[RELOAD]}.",
+        "永久+20%{[RANGE]}，永久+10%{[SAVE]}。开局即获得临时{[RELOAD]}奖励。",
+        "Kalıcı +%20 {[RANGE]} ve +%10 {[SAVE]}. Geçici {[RELOAD]} bonusuyla başlar.",
+        "Постійний бонус до показника {[RANGE]} +20% і до показника {[SAVE]} +10%. Зі старту має тимчасовий бонус до {[RELOAD]}."
       ]
     },
     "prefix": {
       "_value": [
-        "Captain"
+        "Captain",
+        "Capitaine",
+        "Capitano",
+        "Captain",
+        "Capitán",
+        "中隊長（キャプテン）",
+        "캡틴",
+        "Kapitan",
+        "Capitão",
+        "Капитан",
+        "连长",
+        "Kaptan",
+        "Капітан"
       ]
     },
     "surname": {
       "_value": [
-        "Garadon"
+        "Garadon",
+        "Garadon",
+        "Garadon",
+        "Garadon",
+        "Garadon",
+        "ガラドン",
+        "가라돈",
+        "Garadon",
+        "Garadon",
+        "Гарадон",
+        "加拉东",
+        "Garadon",
+        "Ґарадон"
       ]
     },
     "description": {
       "_value": [
-        "Temporary {[ATTACKS]} bonus on levels including the number 3."
+        "Temporary {[ATTACKS]} bonus on levels including the number 3.",
+        "Bonus d’{[ATTACKS]} temporaire aux niveaux contenant le chiffre 3.",
+        "Bonus temporaneo agli {[ATTACKS]} nei livelli che contengono il numero 3.",
+        "Vorübergehender Bonus auf {[ATTACKS]} auf Stufen, die die Zahl 3 enthalten.",
+        "Bonificación temporal de {[ATTACKS]} en niveles que incluyen el número 3.",
+        "レベルに「3」が含まれる場合、一時的に{[ATTACKS]}ボーナスを獲得する。",
+        "숫자 3이 들어간 레벨에서 일시적으로 {[ATTACKS]} 보너스를 얻습니다.",
+        "{[ATTACKS]} otrzymują tymczasową premię na poziomach zawierających cyfrę 3.",
+        "Bônus de {[ATTACKS]} temporários em níveis que incluam o número 3.",
+        "Временный бонус к параметру {[ATTACKS]} на уровнях, в которых содержится цифра 3.",
+        "等级数字中包含3时，获得临时{[ATTACKS]}加成。",
+        "3 sayısını içeren seviyelerde geçici {[ATTACKS]} bonusu.",
+        "Показник {[ATTACKS]} зростає на рівнях, які містять число 3."
       ]
     }
   },
   "WS_40K_GENEVIEVE": {
     "charName": {
       "_value": [
-        "Genevieve"
+        "Genevieve",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "TBC - Desc (not designed)"
+        "TBC - Desc (not designed)",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Geminae Superia"
+        "Geminae Superia",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_40K_INQUISITOR_GREYFAX": {
     "charName": {
       "_value": [
-        "Katarinya"
+        "Katarinya",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "Deals more damage to Psykers. Gains 10% more {[VETERANCY]} every 5 levels (max +30%)."
+        "Deals more damage to Psykers. Gains 10% more {[VETERANCY]} every 5 levels (max +30%).",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Inquisitor"
+        "Inquisitor",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "surname": {
       "_value": [
-        "Greyfax"
+        "Greyfax",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_40K_JUNITH": {
     "charName": {
       "_value": [
-        "Junith"
+        "Junith",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "customCharName": {
       "_value": [
-        "Junith"
+        "Junith",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "TBC - Desc (not designed)"
+        "TBC - Desc (not designed)",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Canoness Superior"
+        "Canoness Superior",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "surname": {
       "_value": [
-        "Eruita"
+        "Eruita",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_40K_JURGEN": {
     "charName": {
       "_value": [
-        "Ferik"
+        "Ferik",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "TBC - Desc (not designed)"
+        "TBC - Desc (not designed)",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Gunner"
+        "Gunner",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "surname": {
       "_value": [
-        "Jurgen"
+        "Jurgen",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_40K_K9_MASTIFF": {
     "charName": {
       "_value": [
-        "K9"
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K-9"
       ]
     },
     "customCharName": {
       "_value": [
-        "K9"
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K9",
+        "K-9"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Gains +1% {[RANGE]} every level. Has a nasty bite."
+        "Gains +1% {[RANGE]} every level. Has a nasty bite.",
+        "Obtient +1 % de {[RANGE]} à chaque niveau. Ses morsures font des dégâts.",
+        "Ottiene +1% {[RANGE]} ogni livello. Attacca con morsi micidiali.",
+        "Erhält pro Stufe +1 % {[RANGE]}. Hat einen fiesen Biss.",
+        "Obtiene +1 % {[RANGE]} en cada nivel. Tiene una mordida desagradable.",
+        "レベルごとに{[RANGE]}が+1%増加する。強烈な一噛みを持つ。",
+        "레벨이 오를 때마다 {[RANGE]}이(가) 1% 증가합니다. 물어뜯는 힘도 만만치 않습니다.",
+        "{[RANGE]} +1% co poziom. Potrafi paskudnie ugryźć.",
+        "Ganha +1% de {[RANGE]} conforme sobe de nível. Tem uma mordida desgraçada.",
+        "Получает +1% к параметру {[RANGE]} с каждым новым уровнем. Очень больно кусается.",
+        "每升一级+1%{[RANGE]}。拥有凶猛的撕咬能力。",
+        "Her seviyede, +%1 {[RANGE]} kazanır. Berbat bir ısırığa sahiptir.",
+        "Отримує +1% до показника {[RANGE]} з кожним рівнем. Боляче кусається."
       ]
     },
     "surname": {
       "_value": [
-        "Mastiff"
+        "Mastiff",
+        "Mastiff",
+        "Mastino",
+        "Mastiff",
+        "Mastiff",
+        "マスティフ",
+        "마스티프",
+        "Mastiff",
+        "Mastim",
+        "Мастиф",
+        "獒犬",
+        "Mastiff",
+        "Мастиф"
       ]
     },
     "description": {
       "_value": [
-        "Retaliates when taking damage. Temporarily gains the Frenzied status effect at critically low Wounds."
+        "Retaliates when taking damage. Temporarily gains the Frenzied status effect at critically low Wounds.",
+        "Riposte lorsqu’il subit des dégâts. Obtient temporairement l’effet de statut Frénésie en cas de nombre de blessures critiquement bas.",
+        "Contrattacca quando subisce danni. Ottiene temporaneamente lo stato Frenesia quando le ferite sono critiche.",
+        "Vergilt erlittenen Schaden. Erhält bei kritisch niedriger Gesundheit vorübergehend den Statuseffekt „Rasend“.",
+        "Contraataca al recibir daño. Obtiene temporalmente el efecto de estado Frenesí con heridas críticamente bajas.",
+        "ダメージを受けると反撃する。負傷限界が致命的に低下した時、一時的にフレンジー状態になる。",
+        "피해를 받으면 반격합니다. 체력이 일정 수준 이하로 떨어지면 일시적으로 광란 상태가 됩니다.",
+        "Zadaje obrażenia odwetowe po otrzymaniu obrażeń. Przy krytycznie niskim poziomie punktów życia tymczasowo zyskuje efekt Szału.",
+        "Retalia ao receber dano. Ganha temporariamente o efeito de estado Frenesi quando seu nível de feridas estiver criticamente baixo.",
+        "Наносит ответный удар при получении урона. Временно получает статусный эффект «Неистовство» при критически низком уровне ран.",
+        "受到伤害时进行反击。在承伤值极低时，暂时进入狂乱状态效果。",
+        "Hasar alındığında misilleme yapar. Kritik derecede düşük yaralarda geçici Gözü Dönmüş durum etkisi kazanır.",
+        "Контратакує, коли зазнає шкоди. Коли показник ран падає критично низько, тимчасово отримує несамовитість."
       ]
     }
   },
   "WS_40K_KOZLOWSKI": {
     "charName": {
       "_value": [
-        "Bartosz"
+        "Bartosz",
+        "Bartosz",
+        "Bartosz",
+        "Bartosz",
+        "Bartosz",
+        "バルトシュ",
+        "바르토시",
+        "Bartosz",
+        "Bartosz",
+        "Бартош",
+        "巴托什",
+        "Bartosz",
+        "Бартош"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +1 {[REDEPLOYMENT]} and gains more from levelling"
+        "Starts with +1 {[REDEPLOYMENT]} and gains more from levelling",
+        "Commence avec +1 {[REDEPLOYMENT]} et obtient plus en montant de niveau",
+        "Inizia con +1 {[REDEPLOYMENT]} e ne ottiene di più salendo di livello",
+        "Beginnt mit +1 {[REDEPLOYMENT]} und erhält durch Stufenaufstiege weitere.",
+        "Empiezas con +1 {[REDEPLOYMENT]} y obtiene más al subir de nivel.",
+        "{[REDEPLOYMENT]}+1で開始し、レベルアップに応じてさらに増加する。",
+        "시작 시 {[REDEPLOYMENT]}을(를) 1회 추가로 얻으며, 레벨이 오르면 더 획득합니다.",
+        "Rozpoczyna z: {[REDEPLOYMENT]} +1 i otrzymuje więcej wraz z kolejnymi poziomami",
+        "Inicia com +1 {[REDEPLOYMENT]} e ganha mais conforme sobe de nível.",
+        "Начинает игру с +1 к параметру {[REDEPLOYMENT]} и получает дополнительные единицы при повышении уровня.",
+        "开局即获得+1{[REDEPLOYMENT]}，且此数字会随等级升高而增加。",
+        "+1 {[REDEPLOYMENT]} ile başlar ve seviye atladıkça daha fazlasını kazanır",
+        "Розпочинає з +1 до показника {[REDEPLOYMENT]} і отримує більше від підняття рівнів."
       ]
     },
     "prefix": {
       "_value": [
-        "Trooper"
+        "Trooper",
+        "Fantassin",
+        "Soldato",
+        "Soldat",
+        "Soldado",
+        "トルーパー",
+        "트루퍼",
+        "Piechur",
+        "Soldado",
+        "Рядовой",
+        "列兵",
+        "Asker",
+        "Солдат"
       ]
     },
     "surname": {
       "_value": [
-        "Kozlowski"
+        "Kozlowski",
+        "Kozlowski",
+        "Kozlowski",
+        "Kozlowski",
+        "Kozlowski",
+        "コズロフスキ",
+        "코즐로브스키",
+        "Kozlowski",
+        "Kozlowski",
+        "Козловски",
+        "科兹洛夫斯基",
+        "Kozlowski",
+        "Козловський"
       ]
     },
     "description": {
       "_value": [
-        "Gains +1 {[REDEPLOYMENT]} every 15 levels (max 2). Gains +5% {[VETERANCY]} for each Follower."
+        "Gains +1 {[REDEPLOYMENT]} every 15 levels (max 2). Gains +5% {[VETERANCY]} for each Follower.",
+        "Obtient +1 {[REDEPLOYMENT]} tous les 15 niveaux (max. 2). Obtient +5% {[VETERANCY]} par disciple.",
+        "Ottiene +1 {[REDEPLOYMENT]} ogni 15 livelli (max 2). Ottiene +5% {[VETERANCY]} per ogni Seguace.",
+        "Erhält alle 15 Stufen +1 {[REDEPLOYMENT]} (max. 2). Erhält +5 % {[VETERANCY]} für jeden Gefolgsmann.",
+        "Obtiene +1 de {[REDEPLOYMENT]} cada 15 niveles (máx. 2). Obtiene +5 % de {[VETERANCY]} por cada seguidor.",
+        "15レベルごとに{[REDEPLOYMENT]}を+1獲得する（最大2）。従者1人ごとに{[VETERANCY]}が+5%増加する。",
+        "15레벨마다 {[REDEPLOYMENT]} 횟수가 1회 증가합니다(최대 2회). 추종자 한 명당 {[VETERANCY]}이(가) 5% 증가합니다.",
+        "{[REDEPLOYMENT]} +1 co 15 poziomów (maks. 2). {[VETERANCY]} +5% za każdego towarzysza.",
+        "Ganha +1 {[REDEPLOYMENT]} a cada 15 níveis (máximo de 2). Ganha +5% de {[VETERANCY]} para cada Seguidor.",
+        "Получает +1 к параметру {[REDEPLOYMENT]} каждые 15 уровней (максимум 2). Получает +5% к параметру {[VETERANCY]} за каждого последователя.",
+        "每15级获得+1次{[REDEPLOYMENT]}（最多2次）。每拥有一名随从，获得+5%{[VETERANCY]}。",
+        "Her 15 seviyede +1 {[REDEPLOYMENT]} kazanır (maks. 2). Her takipçi için +%5 {[VETERANCY]} kazanır.",
+        "+1 {[REDEPLOYMENT]} кожні 15 рівнів (макс. 2). {[VETERANCY]} +5% за кожного послідовника."
       ]
     }
   },
   "WS_40K_LUCA": {
     "charName": {
       "_value": [
-        "Luca"
+        "Luca",
+        "Luca",
+        "Luca",
+        "Luca",
+        "Luca",
+        "ルカ",
+        "루카",
+        "Luca",
+        "Luca",
+        "Лука",
+        "卢卡",
+        "Luca",
+        "Лука"
       ]
     },
     "customCharName": {
       "_value": [
-        "Luca"
+        "Luca",
+        "Luca",
+        "Luca",
+        "Luca",
+        "Luca",
+        "ルカ",
+        "루카",
+        "Luca",
+        "Luca",
+        "Лука",
+        "卢卡",
+        "Luca",
+        "Лука"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "+1 {[ATTACKS]} with all weapons."
+        "+1 {[ATTACKS]} with all weapons.",
+        "+1 {[ATTACKS]} avec toutes les armes.",
+        "+1 {[ATTACKS]} con tutte le armi.",
+        "+1 {[ATTACKS]} für alle Waffen.",
+        "+1 de {[ATTACKS]} con todas las armas.",
+        "すべての武器が{[ATTACKS]}+1になる。",
+        "모든 무기의 {[ATTACKS]}이(가) 1 증가합니다.",
+        "{[ATTACKS]} +1 wszystkimi rodzajami broni.",
+        "+1 {[ATTACKS]} com todas as armas.",
+        "+ 1 к параметру {[ATTACKS]} при использовании любого оружия.",
+        "所有武器+1{[ATTACKS]}。",
+        "Tüm silahlarla +1 {[ATTACKS]}.",
+        "{[ATTACKS]} +1 для будь-якої зброї."
       ]
     },
     "prefix": {
       "_value": [
-        "Brother"
+        "Brother",
+        "Frère",
+        "Fratello",
+        "Bruder",
+        "Hermano",
+        "ブラザー",
+        "브라더",
+        "Brat",
+        "Irmão",
+        "Брат",
+        "兄弟",
+        "Yoldaş",
+        "Брат"
       ]
     },
     "surname": {
       "_value": [
-        "Amasius"
+        "Amasius",
+        "Amasius",
+        "Amasius",
+        "Amasius",
+        "Amasius",
+        "アマシウス",
+        "아마시우스",
+        "Amasius",
+        "Amasius",
+        "Амасия",
+        "阿马修斯",
+        "Amasius",
+        "Амасій"
       ]
     },
     "description": {
       "_value": [
-        "Weapon cooldowns reduced by 20%."
+        "Weapon cooldowns reduced by 20%.",
+        "Le temps de recharge des armes est réduit de 20 %.",
+        "Tempi di ricarica delle armi ridotti del 20%.",
+        "Die Waffen-Abklingzeit verringert sich um 20 %.",
+        "El tiempo de enfriamiento del arma se reduce un 20 %.",
+        "武器のクールダウン時間が20%減少する。",
+        "무기 재사용 대기시간이 20% 감소합니다.",
+        "Czas odnowienia broni skrócony o 20%.",
+        "Reduz o tempo de recarga das armas em 20%.",
+        "Время перезарядки оружия сокращается на 20%.",
+        "武器冷却时间缩短20%。",
+        "Silah bekleme süresi %20 azalır.",
+        "Тривалість перезаряджання зброї зменшено на 20%."
       ]
     }
   },
   "WS_40K_MALUM": {
     "charName": {
       "_value": [
-        "Malum"
+        "Malum",
+        "Malum",
+        "Malum",
+        "Malum",
+        "Malum",
+        "マルム",
+        "말룸",
+        "Malum",
+        "Malum",
+        "Малум",
+        "马勒姆",
+        "Malum",
+        "Малум"
       ]
     },
     "customCharName": {
       "_value": [
-        "Malum"
+        "Malum",
+        "Malum",
+        "Malum",
+        "Malum",
+        "Malum",
+        "マルム",
+        "말룸",
+        "Malum",
+        "Malum",
+        "Малум",
+        "马勒姆",
+        "Malum",
+        "Малум"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Gains 10% more {[STRENGTH]} every 10 levels (max +50%)."
+        "Gains 10% more {[STRENGTH]} every 10 levels (max +50%).",
+        "Obtient 10 % de {[STRENGTH]} en plus tous les 10 niveaux (max. +50 %).",
+        "Riceve il 10% di {[STRENGTH]} in più ogni 10 livelli (max 50%).",
+        "Erhält alle 10 Stufen 10 % mehr {[STRENGTH]} (max. +50 %).",
+        "Obtiene +10 % {[STRENGTH]} cada 10 niveles (máx. 50 %).",
+        "10レベルごとに{[STRENGTH]}が10%増加する（最大+50%）。",
+        "10레벨마다 {[STRENGTH]}이(가) 10% 증가합니다. 최대 50%까지 증가합니다.",
+        "{[STRENGTH]} +10% co 10 poziomów (maks. +50%).",
+        "Ganha 10% de {[STRENGTH]} a cada 10 níveis (máx. de +50%).",
+        "Получает +10% к параметру {[STRENGTH]} каждые 10 уровней (максимум +50%).",
+        "每升10级额外获得10%{[STRENGTH]}（最多+50%）。",
+        "Her 10 seviyede, %10 {[STRENGTH]} kazanır (maks. +%50).",
+        "Здобуває додатково 10% до показника {[STRENGTH]} кожні 10 рівнів (макс. +50%)."
       ]
     },
     "surname": {
       "_value": [
-        "Caedo"
+        "Caedo",
+        "Caedo",
+        "Caedo",
+        "Caedo",
+        "Caedo",
+        "カエド",
+        "카에도",
+        "Caedo",
+        "Caedo",
+        "Каэдо",
+        "凯多",
+        "Caedo",
+        "Кедо"
       ]
     },
     "description": {
       "_value": [
-        "Gains +5% {[STRENGTH]} for every weapon and passive equipped. +1 Save reduces incoming damage."
+        "Gains +3% {[STRENGTH]} for every weapon and passive equipped. +1 Save reduces incoming damage.",
+        "Obtient +3 % de {[STRENGTH]} pour chaque arme et compétence passive équipées. +1 sauvegarde sur les dégâts reçus.",
+        "Ottiene +3% {[STRENGTH]} per ogni arma e abilità passiva equipaggiata. +1 Salvataggio. Riduce i danni subiti.",
+        "Erhält +3 % {[STRENGTH]} für jede aufgenommene Waffe sowie jeden aufgenommenen passiven Gegenstand. +1 Spielstand reduziert eingehenden Schaden.",
+        "Obtiene +3 % de {[STRENGTH]} por cada arma y pasivo equipado. +1 a Salvación reduce el daño recibido.",
+        "装備している武器とパッシブごとに{[STRENGTH]}が+3%増加する。軽減+1で被ダメージが減少する。",
+        "장착한 무기와 패시브 하나당 {[STRENGTH]}이(가) 3% 증가합니다. 방호가 1 증가하면 받는 피해가 감소합니다.",
+        "{[STRENGTH]} +3% za każdą założoną broń oraz przedmiot pasywny. Rzut obronny +1 zmniejsza otrzymywane obrażenia.",
+        "Ganha +3% de {[STRENGTH]} a cada arma e passiva equipadas. +1 de Salvaguarda reduz o dano sofrido.",
+        "Получает +3% к параметру {[STRENGTH]} за каждое экипированное оружие и пассивное умение. +1 спасбросок снижает входящий урон.",
+        "每装备一件武器和被动技能，{[STRENGTH]}属性提升3%，并获得1点护甲，降低所受伤害。",
+        "Kuşanılmış her silah ve pasif için +%3 {[STRENGTH]} kazanır. +1 Kurtarma, gelen hasarı azaltır.",
+        "Отримує +3% до показника {[STRENGTH]} за кожну споряджену зброю та пасивну здібність. +1 до ряткидка зменшує шкоду, завдану персонажеві."
       ]
     }
   },
   "WS_40K_CATACHAN_LEGEND": {
     "charName": {
       "_value": [
-        "Catachan"
+        "Catachan",
+        "Catachan",
+        "Catachan",
+        "Catachan",
+        "Catachán",
+        "の伝説",
+        "카타찬",
+        "Catachan",
+        "Catachan",
+        "Катачане",
+        "卡塔昌",
+        "Catachan",
+        "легенда"
       ]
     },
     "prefix": {
       "_value": [
-        "The Legend of"
+        "The Legend of",
+        "La légende de",
+        "La leggenda di",
+        "Die Legende von",
+        "La leyenda de",
+        "カタチアン",
+        "전설의",
+        "Legenda o",
+        "A lenda de",
+        "Легенда о",
+        "传奇",
+        "Efsane:",
+        "Катачанська"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Receives a bonus to {[SUSTAIN]} (max 50%) and to {[STRENGTH]} when defeating many enemies."
+        "Receives a bonus to {[SUSTAIN]} (max 50%) and to {[STRENGTH]} when defeating many enemies.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "Applies the Battleshocked status effect to nearby enemies at critically low Wounds. Finds more explosives."
+        "Applies the Battleshocked status effect to nearby enemies at critically low Wounds. Finds more explosives.",
+        "Applique le statut Ébranlé aux ennemis à proximité dont le nombre de blessures est critiquement bas. Trouve plus d’explosifs.",
+        "Applica lo stato Shock da Combattimento ai nemici vicini quando sono in condizioni di ferite critiche. Trova più esplosivi.",
+        "Wirkt auf Gegner in der Nähe bei kritisch niedriger Gesundheit den Statuseffekt „Erschüttert“. Findet mehr Sprengstoff.",
+        "Aplica el efecto de estado Acobardamiento a los enemigos cercanos cuando tiene heridas críticamente bajas. Encuentra más explosivos.",
+        "負傷限界が致命的に低下した時、近くの敵に戦闘ショック状態を付与する。爆発物がより多く見つかる。",
+        "체력이 일정 수준 이하로 떨어지면 주변 적에게 전투충격 상태를 부여합니다. 폭발물을 더 자주 발견합니다.",
+        "Wywołuje Szok Bojowy u pobliskich wrogów, gdy poziom punktów życia spadnie do krytycznie niskiego poziomu. Znajduje więcej materiałów wybuchowych.",
+        "Aplica o efeito de estado “Choque de Batalha” aos inimigos próximos quando o nível de feridas estiver criticamente baixo. Encontra mais explosivos.",
+        "При критически низком уровне ран накладывает на врагов поблизости статусный эффект «Боевой шок». Находит больше взрывчатки.",
+        "在承伤值极低时，对周围敌人施加战斗休克状态效果。同时可找到更多爆炸物。",
+        "Kritik derecede düşük yaralarda yakın düşmanlara Savaş Şokuna Girmiş durum etkisi uygular. Daha fazla patlayıcı bulur.",
+        "Накладає стан бойового шоку на ворогів з критично низьким показником ран. Знаходить більше вибухівки."
       ]
     }
   },
   "WS_40K_MEPHISTON": {
     "charName": {
       "_value": [
-        "Mephiston"
+        "Mephiston",
+        "Méphiston",
+        "Mephiston",
+        "Mephiston",
+        "Mephiston",
+        "メフィストン",
+        "메피스톤",
+        "Mephiston",
+        "Mephiston",
+        "Мефистон",
+        "墨菲斯顿",
+        "Mephiston",
+        "Мефістон"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Grows stronger every level, but so does the Red Thirst."
+        "Grows stronger every level, but so does the Red Thirst.",
+        "Devient plus puissant à chaque niveau, tout comme la Soif Rouge.",
+        "Diventa sempre più forte a ogni livello, ma lo stesso vale per la Sete Rossa.",
+        "Wird mit jeder Stufe stärker, doch der Rote Durst ebenso.",
+        "Se vuelve más fuerte en cada nivel, pero también aumenta la Sed de Sangre.",
+        "レベルごとに強くなるが、〈紅き餓え〉（レッドサースト）もまた強まる。",
+        "레벨이 오를 때마다 강해지지만, 붉은 갈증도 함께 심해집니다.",
+        "Rośnie w siłę z każdym poziomem, ale Czerwone Pragnienie również.",
+        "Fica mais forte a cada nível, assim como a Sede Vermelha.",
+        "Становится сильнее с каждым уровнем, но вместе с этим растет и красная жажда.",
+        "每升一级都会变得更强，但猩红饥渴也会随之加剧。",
+        "Her seviyede daha güçlü hale gelir, ancak Kızıl Açlık da aynı şekilde artar.",
+        "Стає сильнішим з кожним рівнем, але й червона жага також посилюється."
       ]
     },
     "prefix": {
       "_value": [
-        "Chief Librarian"
+        "Chief Librarian",
+        "Maître Archiviste",
+        "Capobibliotecario",
+        "Scriptor-Magister",
+        "Bibliotecario Jefe",
+        "主席司書官（チーフ・ライブラリアン）",
+        "치프 라이브러리안",
+        "Główny Bibliotekarz",
+        "Bibliotecário-Chefe",
+        "Старший библиарий",
+        "智库馆长",
+        "Baş Kütüphaneci",
+        "Головний лібрарарій"
       ]
     },
     "description": {
       "_value": [
-        "Grows stronger every level. Triggers the Red Thirst at significant numbers of defeated enemies."
+        "Grows stronger every level. Triggers the Red Thirst at significant numbers of defeated enemies.",
+        "Devient plus puissant à chaque niveau. Déclenche la Soif Rouge une fois qu’un nombre important d’ennemis ont été battus.",
+        "Diventa sempre più forte a ogni livello. Attiva la Sete Rossa dopo aver sconfitto un numero elevato di nemici.",
+        "Wird mit jeder Stufe stärker. Löst bei einer hohen Anzahl besiegter Gegner den Roten Durst aus.",
+        "Se vuelve más fuerte en cada nivel. Activa la Sed de Sangre al alcanzar cantidades altas de enemigos derrotados.",
+        "レベルごとに強くなる。多数の敵を倒すと〈紅き餓え〉（レッドサースト）が発動する。",
+        "레벨이 오를 때마다 강해집니다. 처치한 적의 수가 특정 기준에 도달하면 붉은 갈증이 발동합니다.",
+        "Rośnie w siłę z każdym poziomem. Uruchamia Czerwone Pragnienie po pokonaniu znacznej liczby wrogów.",
+        "Fica mais forte a cada nível. Ativa a Sede Vermelha ao derrotar um número significativo de inimigos.",
+        "Становится сильнее с каждым уровнем. Активирует красную жажду при значительном количестве побежденных врагов.",
+        "每升一级都会变得更强。击败大量敌人后触发猩红饥渴。",
+        "Her seviyede daha da güçlenir. Belirli sayıda düşman yenildiğinde Kızıl Açlık tetiklenir.",
+        "Стає сильнішим з кожним рівнем. Якщо вб’є велику кількість ворогів, його охопить червона жага."
       ]
     }
   },
   "WS_40K_VAHL": {
     "charName": {
       "_value": [
-        "Morvenn"
+        "Morvenn",
+        "Morvenn",
+        "Morvenn",
+        "Morvenn",
+        "Morvenn",
+        "モルヴェン",
+        "모르벤",
+        "Morvenn",
+        "Morvenn",
+        "Морвенн",
+        "莫文",
+        "Morvenn",
+        "Морвенн"
       ]
     },
     "customCharName": {
       "_value": [
-        "Morvenn"
+        "Morvenn",
+        "Morvenn",
+        "Morvenn",
+        "Morvenn",
+        "Morvenn",
+        "モルヴェン",
+        "모르벤",
+        "Morvenn",
+        "Morvenn",
+        "Морвенн",
+        "莫文",
+        "Morvenn",
+        "Морвенн"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Her mighty warsuit grants elevated stats."
+        "Her mighty warsuit grants elevated stats.",
+        "Son exo-harnais puissant octroie des stats élevées.",
+        "La sua potente armatura le conferisce statistiche aumentate.",
+        "Ihr mächtiger Kriegsanzug verbessert ihre Werte.",
+        "Su poderosa armadura le otorga características altas.",
+        "強力な戦闘甲冑（ウォースーツ）により、高いステータス値を持つ。",
+        "강력한 워슈트 덕분에 능력치가 높습니다.",
+        "Jej potężny kombinezon bojowy ulepsza jej statystyki.",
+        "Sua poderosa armadura de guerra proporciona atributos aprimorados.",
+        "Ее мощный боевой костюм дает повышение характеристик.",
+        "她强大的机甲赋予了她更高的属性。",
+        "Her güçlü savaş giysisi ek istatistikler sağlar.",
+        "Її могутній бойовий обладунок дарує посилені характеристики."
       ]
     },
     "prefix": {
       "_value": [
-        "High Abbess"
+        "High Abbess",
+        "Haute Abbesse",
+        "Arcibadessa",
+        "Hohe Äbtissin",
+        "Alta Abadesa",
+        "大教母",
+        "하이 아베스",
+        "Najwyższa Opatka",
+        "Abadessa",
+        "Верховная аббатиса",
+        "至圣总院长",
+        "Yüce Rahibe",
+        "Верховна абатиса"
       ]
     },
     "surname": {
       "_value": [
-        "Vahl"
+        "Vahl",
+        "Vahl",
+        "Vahl",
+        "Vahl",
+        "Vahl",
+        "ヴァール",
+        "발",
+        "Vahl",
+        "Vahl",
+        "Валь",
+        "瓦尔",
+        "Vahl",
+        "Валь"
       ]
     },
     "description": {
       "_value": [
-        "All stats improve for every Adepta Sororitas follower."
+        "All stats improve for every Adepta Sororitas follower.",
+        "Toutes les stats s’améliorent pour chaque disciple de l’Adepta Sororitas.",
+        "Tutte le statistiche vengono migliorate per ogni seguace Adepta Sororitas.",
+        "Alle Werte verbessern sich für jeden Gefolgsmann der Adepta Sororitas.",
+        "Todas las características mejoran por cada seguidor del Adepta Sororitas.",
+        "修道聖女会（アデプタ・ソロリタス）の従者1人ごとに全ステータスが上昇する。",
+        "아뎁타 소로리타스 추종자 한 명당 모든 능력치가 증가합니다.",
+        "Wszystkie statystyki zwiększają się za każdego towarzysza Adepta Sororitas.",
+        "Aumenta todos os atributos para cada seguidor da Adepta Sororitas.",
+        "Все характеристики повышаются за каждого последователя из Адепта Сороритас.",
+        "每拥有一名修女会随从，所有属性都会获得提升。",
+        "Her bir Adepta Sororitas takipçisi için tüm istatistikler artar.",
+        "За кожного послідовника з сестринства Адепта Сорорітас зростають усі показники."
       ]
     }
   },
   "WS_40K_PASK": {
     "charName": {
       "_value": [
-        "Pask"
+        "Pask",
+        "Pask",
+        "Pask",
+        "Pask",
+        "Pask",
+        "パスク",
+        "파스크",
+        "Pask",
+        "Pask",
+        "Паск",
+        "帕斯克",
+        "Pask",
+        "Паск"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Legendary tank commander. Gains +20 {[WOUNDS]} every 10 levels."
+        "Legendary tank commander. Gains +20 {[WOUNDS]} every 10 levels.",
+        "Commandeur tankiste légendaire. Obtient +20 {[WOUNDS]} tous les 10 niveaux.",
+        "Leggendario capocorazzato. Ottiene +20 {[WOUNDS]} ogni 10 livelli.",
+        "Legendärer Panzerkommandant. Erhält alle 10 Stufen +20 {[WOUNDS]}.",
+        "Comandante de tanque legendario. Obtiene +20 de {[WOUNDS]} cada 10 niveles.",
+        "伝説の戦車長。10レベルごとに{[WOUNDS]}を+20獲得する。",
+        "전설적인 전차 지휘관입니다. 10레벨마다 {[WOUNDS]}이(가) 20 증가합니다.",
+        "Legendarny dowódca czołgu. {[WOUNDS]} +20 co 10 poziomów.",
+        "Comandante de tanque lendário. Ganha +20 {[WOUNDS]} a cada 10 níveis.",
+        "Легендарный командир танка. Получает +20 к параметру {[WOUNDS]} каждые 10 уровней.",
+        "传奇坦克指挥官。每升10级，+20{[WOUNDS]}。",
+        "Efsanevi tank komutanı. Her 10 seviyede, +20 {[WOUNDS]} kazanır.",
+        "Легендарний танковий командир. Отримує +20 до показника {[WOUNDS]} кожні 10 рівнів."
       ]
     },
     "prefix": {
       "_value": [
-        "Knight-Commander"
+        "Knight-Commander",
+        "Chevalier-Commandeur",
+        "Cavaliere-Comandante",
+        "Ritter-Kommandant",
+        "Caballero Comandante",
+        "騎士司令（コマンダー）",
+        "나이트 커맨더",
+        "Rycerz-Dowódca",
+        "Cavaleiro-Comandante",
+        "Рыцарь-командующий",
+        "骑士指挥官",
+        "Şövalye Komutan",
+        "Командир лицарів"
       ]
     },
     "description": {
       "_value": [
-        "Gains +0.1 {[TOUGHNESS]} every level. Crushes enemies while moving."
+        "Gains +0.1 {[TOUGHNESS]} every level. Crushes enemies while moving.",
+        "Obtient +0,1 {[TOUGHNESS]} à chaque niveau. Écrase ses ennemis en se déplaçant.",
+        "Ottiene +0,1 {[TOUGHNESS]} a ogni livello. Schiaccia i nemici mentre è in movimento.",
+        "Erhält pro Stufe +0,1 {[TOUGHNESS]}. Zermalmt Gegner, wenn in Bewegung.",
+        "Obtiene +0,1 de {[TOUGHNESS]} en cada nivel. Aplasta enemigos al moverse.",
+        "レベルごとに{[TOUGHNESS]}が+0.1増加する。動いている間、敵をなぎ倒す。",
+        "레벨마다 {[TOUGHNESS]}이(가) 0.1 증가합니다. 이동 중 적을 압살합니다.",
+        "{[TOUGHNESS]} +0,1 co poziom. Miażdży wrogów podczas ruchu.",
+        "Ganha +0,1 de {[TOUGHNESS]} a cada nível. Esmaga os inimigos enquanto se move.",
+        "Получает +0,1 к параметру {[TOUGHNESS]} с каждым новым уровнем. Крушит врагов во время движения.",
+        "每升一级，+0.1{[TOUGHNESS]}。移动时会碾压敌人。",
+        "Her seviyede +0,1 {[TOUGHNESS]} kazanır. Hareket halindeyken düşmanları ezip geçer.",
+        "{[TOUGHNESS]} зростає на 0,1 з кожним рівнем. Давить ворогів на шляху."
       ]
     }
   },
   "WS_40K_SAINT_CELESTINE": {
     "charName": {
       "_value": [
-        "Celestine"
+        "Celestine",
+        "Célestine",
+        "Celestine",
+        "Celestine",
+        "Celestine",
+        "セレスティン",
+        "셀레스틴",
+        "Celestyna",
+        "Celestine",
+        "Целестина",
+        "圣塞莱斯汀",
+        "Celestine",
+        "Селестина"
       ]
     },
     "description": {
       "_value": [
-        "Grows in {[CHANCE]} and {[STRENGTH]} every level. Redeploys stronger."
+        "Grows in {[CHANCE]} and {[STRENGTH]} every level. Redeploys stronger.",
+        "Obtient plus de {[CHANCE]} et de {[STRENGTH]} à chaque niveau. Se redéploie plus puissante.",
+        "{[CHANCE]} e {[STRENGTH]} aumentano ogni livello. Quando torna in battaglia, è più forte.",
+        "Erhält pro Stufe mehr {[CHANCE]} und {[STRENGTH]}. Kehrt nach einer Neuaufstellung stärker zurück.",
+        "Aumenta {[CHANCE]} y {[STRENGTH]} en cada nivel. Se redespliega con más fuerza.",
+        "レベルごとに{[CHANCE]}と{[STRENGTH]}が増加する。再配置のたびにさらに強くなる。",
+        "레벨이 오를 때마다 {[CHANCE]} 및 {[STRENGTH]}이(가) 증가합니다. 재배치 효과가 강화됩니다.",
+        "{[CHANCE]} i {[STRENGTH]} wzrastają co poziom. Po odrodzeniu wraca z większą siłą.",
+        "Aumenta {[CHANCE]} e {[STRENGTH]} a cada nível. Volta ainda mais forte.",
+        "Параметры {[CHANCE]} и {[STRENGTH]} увеличиваются с каждым новым уровнем. При передислокации становится сильнее.",
+        "每升一级，{[CHANCE]}和{[STRENGTH]}获得提升。重新部署时会变得更强。",
+        "Her seviyede, {[CHANCE]} ve {[STRENGTH]} artar. Daha güçlü şekilde yeniden konuşlandırılır.",
+        "{[CHANCE]} і {[STRENGTH]} зростають кожен рівень. Передислоковується сильнішою."
       ]
     },
     "prefix": {
       "_value": [
-        "Saint"
+        "Saint",
+        "Sainte",
+        "Santa",
+        "Heilige",
+        "Santa",
+        "聖",
+        "성",
+        "Święta",
+        "Santa",
+        "Святая",
+        "圣徒",
+        "Aziz",
+        "Свята"
       ]
     }
   },
   "WS_40K_TITUS": {
     "customCharName": {
       "_value": [
-        "Lt. Titus"
+        "Lt. Titus",
+        "Lt Titus",
+        "Ten. Titus",
+        "Lt. Titus",
+        "Tte. Titus",
+        "タイタス副官",
+        "루테넌트 타이투스",
+        "Porucznik Titus",
+        "Ten. Titus",
+        "Лейтенант Тит",
+        "泰图斯副官",
+        "Teğmen Titus",
+        "Л-т Титус"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +1 extra level."
+        "Starts with +1 extra level.",
+        "Commence avec +1 niveau supplémentaire.",
+        "Inizia con un livello bonus di +1.",
+        "Beginnt mit +1 zusätzlichen Stufe.",
+        "Empieza con +1 nivel adicional.",
+        "レベル+1で開始する。",
+        "시작 레벨이 1 높습니다.",
+        "Rozpoczyna z +1 dodatkowym poziomem.",
+        "Começa com +1 nível adicional.",
+        "Начинает игру на +1 уровень выше.",
+        "开局即获得额外+1等级。",
+        "+1 ekstra seviye ile başlar.",
+        "Розпочинає з +1 до рівня персонажа."
       ]
     },
     "prefix": {
       "_value": [
-        "Lieutenant"
+        "Lieutenant",
+        "Lieutenant",
+        "Tenente",
+        "Lieutenant",
+        "Teniente",
+        "副官（レフテナント）",
+        "루테넌트",
+        "Porucznik",
+        "Tenente",
+        "Лейтенант",
+        "副官",
+        "Teğmen",
+        "Лейтенант"
       ]
     },
     "surname": {
       "_value": [
-        "Titus"
+        "Titus",
+        "Titus",
+        "Titus",
+        "Titus",
+        "Titus",
+        "タイタス",
+        "타이투스",
+        "Titus",
+        "Titus",
+        "Титус",
+        "泰图斯",
+        "Titus",
+        "Титус"
       ]
     },
     "description": {
       "_value": [
-        "{[CORRUPTION]} scales with the number of weapons. Receives an Archaeotech at level 13."
+        "{[CORRUPTION]} scales with the number of weapons. Receives an Archaeotech at level 13.",
+        "La {[CORRUPTION]} varie selon le nombre d’armes. Reçoit une archéotechnologie au niveau 13.",
+        "{[CORRUPTION]} aumenta in base al numero di armi. Riceve una Archeotecnologia al livello 13.",
+        "{[CORRUPTION]} skaliert mit der Anzahl der Waffen. Erhält auf Stufe 13 einen Archäotech.",
+        "La {[CORRUPTION]} aumenta en función del número de armas. Recibe un arma arqueotecnóloga en el nivel 13.",
+        "{[CORRUPTION]}は武器数に応じてスケールする。レベル13でアーキオテックを獲得する。",
+        "보유한 무기 수에 비례해 {[CORRUPTION]}이(가) 증가합니다. 13레벨이 되면 아키오테크 무기를 획득합니다.",
+        "{[CORRUPTION]} skaluje się wraz z liczbą broni. Na 13. poziomie otrzymuje Archeotechnologię.",
+        "A {[CORRUPTION]} aumenta com o número de armas. Recebe uma Arqueotecnologia no nível 13.",
+        "{[CORRUPTION]} зависит от количества оружия. Получает археотех на уровне 13.",
+        "{[CORRUPTION]}随着武器数量的增加而提升。13级时获得一件远古科技武器。",
+        "{[CORRUPTION]}, silah sayısına göre artar. 13. seviyede bir Arkeoteknoloji alır.",
+        "{[CORRUPTION]} пропорційна до кількості зброї. Отримує археотеха на 13 рівні."
       ]
     }
   },
   "WS_40K_VERITAS": {
     "charName": {
       "_value": [
-        "Aurora"
+        "Aurora",
+        "Aurora",
+        "Aurora",
+        "Aurora",
+        "Aurora",
+        "オーロラ",
+        "오로라",
+        "Aurora",
+        "Aurora",
+        "Аврора",
+        "奥罗拉",
+        "Aurora",
+        "Аврора"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Weapon {[RELOAD]} is reduced by 5% every 10 levels (max -15%)."
+        "Weapon {[RELOAD]} is reduced by 5% every 10 levels (max -15%).",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Canoness"
+        "Canoness",
+        "Chanoinesse",
+        "Badessa",
+        "Principalis",
+        "Canonesa",
+        "尼僧長（カノネス）",
+        "카노네스",
+        "Kanoniczka",
+        "Canonesa",
+        "Канонесса",
+        "大修女",
+        "Kanonluk",
+        "Канонеса"
       ]
     },
     "surname": {
       "_value": [
-        "Veritas"
+        "Veritas",
+        "Veritas",
+        "Veritas",
+        "Veritas",
+        "Veritas",
+        "ヴェリタス",
+        "베리타스",
+        "Veritas",
+        "Veritas",
+        "Веритас",
+        "维里塔斯",
+        "Veritas",
+        "Верітас"
       ]
     },
     "description": {
       "_value": [
-        "Gains +10% {[SUSTAIN]} every 10 levels (max +30%) increasing the duration of weapons and status effects."
+        "Gains +10% {[SUSTAIN]} every 10 levels (max +30%) increasing the duration of weapons and status effects.",
+        "Obtient +10 % de {[SUSTAIN]} tous les 10 niveaux (max. +30 %) augmentant la durée des effets de statut et d’armes.",
+        "Ottiene +10% {[SUSTAIN]} ogni 10 livelli (max +30%), aumentando la durata delle armi e degli effetti di stato.",
+        "Erhält alle 10 Stufen +10 % {[SUSTAIN]} (max. +30 %) und erhöht so die Dauer von Waffen und Statuseffekten.",
+        "Obtiene +10 % de {[SUSTAIN]} cada 10 niveles (máx. +30 %), lo que aumenta la duración de armas y efectos de estado.",
+        "レベル10ごとに{[SUSTAIN]}が10%増加する（最大+30%）。武器およびステータス効果の持続時間が増加する。",
+        "10레벨마다 {[SUSTAIN]}이(가) 10% 증가합니다(최대 30%). 이에 따라 무기와 상태 효과의 지속 시간이 늘어납니다.",
+        "{[SUSTAIN]} +10% co 10 poziomów (maks. +30%), co zwiększa czas działania broni i efektów statusu.",
+        "Ganha +10% de {[SUSTAIN]} a cada 10 níveis (máximo de +30%) aumentando a duração das armas e efeitos de estado.",
+        "Получает +10% к параметру {[SUSTAIN]} каждые 10 уровней (максимум +30%), увеличивая тем самым длительность действия оружия и статусных эффектов.",
+        "每升10级，+10%{[SUSTAIN]}（最多+30%），同时延长武器与状态效果的持续时间。",
+        "Her 10 seviyede +%10 {[SUSTAIN]} kazanır (maks. +%30) ve silahların ve durum etkilerinin süresini artırır.",
+        "Отримує +10% до показника {[SUSTAIN]} кожні 10 рівнів (макс. +30%), збільшуючи таким чином тривалість дії зброї та ефектів."
       ]
     }
   },
   "WS_40K_YARRICK": {
     "charName": {
       "_value": [
-        "Sebastian"
+        "Sebastian",
+        "Sebastian",
+        "Sebastian",
+        "Sebastian",
+        "Sebastian",
+        "セバスチャン",
+        "세바스티안",
+        "Sebastian",
+        "Sebastian",
+        "Себастьян",
+        "塞巴斯蒂安",
+        "Sebastian",
+        "Себастіян"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +10 {[WOUNDS]} and +10% {[STRENGTH]}, {[MOVE]} and {[CORRUPTION]}. Improves stats every 10 levels"
+        "Starts with +10 {[WOUNDS]} and +10% {[STRENGTH]}, {[MOVE]} and {[CORRUPTION]}. Improves stats every 10 levels",
+        "Commence avec +10 {[WOUNDS]} et +10 % de {[STRENGTH]}, {[MOVE]} et {[CORRUPTION]}. Améliore les stats tous les 10 niveaux.",
+        "Inizia con +10 {[WOUNDS]} e +10% {[STRENGTH]}, {[MOVE]} e {[CORRUPTION]}. Le statistiche migliorano ogni 10 livelli",
+        "Beginnt mit +10 {[WOUNDS]} und +10 % {[STRENGTH]}, {[MOVE]} und {[CORRUPTION]}. Verbessert seine Werte alle 10 Stufen.",
+        "Empieza con +10 de {[WOUNDS]} y +10 % de {[STRENGTH]}, {[MOVE]} y {[CORRUPTION]}. Mejora sus características cada 10 niveles.",
+        "{[WOUNDS]}+10、{[STRENGTH]}+10%、{[MOVE]}+10%、{[CORRUPTION]}+10%で開始する。10レベルごとにステータス値が向上する。",
+        "시작 시 {[WOUNDS]} 10, {[STRENGTH]}, {[MOVE]}, {[CORRUPTION]}이(가) 각각 10% 증가합니다. 10레벨마다 능력치가 향상됩니다.",
+        "Rozpoczyna z: {[WOUNDS]} +10 i {[STRENGTH]}, {[MOVE]} i {[CORRUPTION]} +10%. Statystyki zwiększają się co 10 poziomów.",
+        "Inicia com +10 {[WOUNDS]} e +10% de {[STRENGTH]}, {[MOVE]} e {[CORRUPTION]}. Aumenta os atributos a cada 10 níveis.",
+        "Начинает игру с +10 к параметру {[WOUNDS]} и +10% к параметрам {[STRENGTH]}, {[MOVE]} и {[CORRUPTION]}. Улучшает свои характеристики каждые 10 уровней.",
+        "开局即获得+10{[WOUNDS]}、+10%{[STRENGTH]}、{[MOVE]}以及{[CORRUPTION]}。每升10级提升属性。",
+        "+10 {[WOUNDS]} ve +%10 {[STRENGTH]}, {[MOVE]} ve {[CORRUPTION]} ile başlar. Her 10 seviyede, istatistikleri iyileştirir",
+        "Зі старту показник {[WOUNDS]} зростає на 10, а показники {[STRENGTH]}, {[MOVE]} і {[CORRUPTION]} на 10%. Покращує характеристики кожні 10 рівнів."
       ]
     },
     "prefix": {
       "_value": [
-        "Commissar"
+        "Commissar",
+        "Commissaire",
+        "Commissario",
+        "Kommissar",
+        "Comisario",
+        "コミッサー",
+        "커미사르",
+        "Komisarz",
+        "Comissário",
+        "Комиссар",
+        "政委",
+        "Komiser",
+        "Комісар"
       ]
     },
     "surname": {
       "_value": [
-        "Yarrick"
+        "Yarrick",
+        "Yarrick",
+        "Yarrick",
+        "Yarrick",
+        "Yarrick",
+        "ヤリック",
+        "야릭",
+        "Yarrick",
+        "Yarrick",
+        "Яррик",
+        "亚瑞克",
+        "Yarrick",
+        "Яррік"
       ]
     },
     "description": {
       "_value": [
-        "Consuming Redeployment increases {[STRENGTH]}, {[TOUGHNESS]} and {[CORRUPTION]}."
+        "Consuming Redeployment increases {[STRENGTH]}, {[TOUGHNESS]} and {[CORRUPTION]}.",
+        "Utiliser Redéploiement augmente {[STRENGTH]}, {[TOUGHNESS]} et {[CORRUPTION]}.",
+        "Consumare Ridistribuzione aumenta {[STRENGTH]}, {[TOUGHNESS]} e {[CORRUPTION]}.",
+        "Durch den Verbrauch einer Neuaufstellung erhöhen sich {[STRENGTH]}, {[TOUGHNESS]} und {[CORRUPTION]}.",
+        "Consumir Redespliegue aumenta {[STRENGTH]}, {[TOUGHNESS]} y {[CORRUPTION]}.",
+        "再配置を消費すると{[STRENGTH]}、{[TOUGHNESS]}、{[CORRUPTION]}が増加する。",
+        "재배치 횟수를 소모하면 {[STRENGTH]}, {[TOUGHNESS]}, {[CORRUPTION]}이(가) 증가합니다.",
+        "Zużycie odrodzenia zwiększa {[STRENGTH]}, {[TOUGHNESS]} i {[CORRUPTION]}.",
+        "Consumir Recolocação aumenta a {[STRENGTH]}, {[TOUGHNESS]} e {[CORRUPTION]}.",
+        "Использование передислокации увеличивает параметры {[STRENGTH]}, {[TOUGHNESS]} и {[CORRUPTION]}.",
+        "消耗重新部署次数，可提升{[STRENGTH]}、{[TOUGHNESS]}和{[CORRUPTION]}。",
+        "Yeniden Konuşlandırma tüketmek, {[STRENGTH]}, {[TOUGHNESS]} ve {[CORRUPTION]} değerini artırır.",
+        "Витрата передислокації збільшує такі показники: {[STRENGTH]}, {[TOUGHNESS]} і {[CORRUPTION]}."
       ]
     }
   },
   "WS_40K_BIOLOGIS": {
     "charName": {
       "_value": [
-        "Vesparin"
+        "Vesparin",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Gallan"
+        "Gallan",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "Starts with 1 extra level. Gains +20 {[WOUNDS]} every 10 levels (Max +100)"
+        "Starts with 1 extra level. Gains +20 {[WOUNDS]} every 10 levels (Max +100)",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_40K_VIGILANT": {
     "customCharName": {
       "_value": [
-        "Max"
+        "Max",
+        "Max",
+        "Max",
+        "Max",
+        "Max",
+        "マックス",
+        "맥스",
+        "Max",
+        "Max",
+        "Макс",
+        "马克斯",
+        "Max",
+        "Макс"
       ]
     },
     "charName": {
       "_value": [
-        "Max"
+        "Max",
+        "Max",
+        "Max",
+        "Max",
+        "Max",
+        "マックス",
+        "맥스",
+        "Max",
+        "Max",
+        "Макс",
+        "马克斯",
+        "Max",
+        "Макс"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Gains +10ms {[INVULNERABILITY]} every 10 levels (max +150ms). Has a dog."
+        "Gains +10ms {[INVULNERABILITY]} every 10 levels (max +150ms). Has a dog.",
+        "Obtient +10 ms d’{[INVULNERABILITY]} tous les 10 niveaux (max. +150 ms). Possède un chien.",
+        "Ottiene +10 ms di {[INVULNERABILITY]} ogni 10 livelli (max +150 ms). Ha un cane.",
+        "Erhält alle 10 Stufen +10 ms {[INVULNERABILITY]} (max. +150 ms). Hat einen Hund.",
+        "Obtiene +10 ms de {[INVULNERABILITY]} cada 10 niveles (máx. +150 ms). Tiene un perro.",
+        "10レベルごとに{[INVULNERABILITY]}が+10ms増加する（最大+150ms）。犬を連れている。",
+        "10레벨마다 {[INVULNERABILITY]}이(가) 10ms 증가합니다. 최대 150ms까지 증가합니다. 개와 함께합니다.",
+        "{[INVULNERABILITY]} +10 ms co 10 poziomów (maks. +150 ms). Ma psa.",
+        "Ganha +10 ms de {[INVULNERABILITY]} a cada 10 níveis (máx. de +150 ms). Tem um cachorro.",
+        "Получает +10 мс к параметру {[INVULNERABILITY]} каждые 10 уровней (максимум +150 мс). Есть верный пес.",
+        "每升10级，+10ms{[INVULNERABILITY]}（最多+150ms）。拥有一条猎犬。",
+        "+10 ms {[INVULNERABILITY]}, her 10 seviyede artar (maks. +150 ms). Bir köpeği vardır.",
+        "{[INVULNERABILITY]} триває на 10 мс довше за кожні 10 рівнів (макс. 150 мс). Має собаку."
       ]
     },
     "surname": {
       "_value": [
-        "Mahon"
+        "Mahon",
+        "Mahon",
+        "Mahon",
+        "Mahon",
+        "Mahon",
+        "マホン",
+        "마혼",
+        "Mahon",
+        "Mahon",
+        "Махон",
+        "马洪",
+        "Mahon",
+        "Магон"
       ]
     },
     "description": {
       "_value": [
-        "Gains +1% {[STRENGTH]} every level. Gains a temporary Warded Status Effect on level up."
+        "Gains +1% {[STRENGTH]} every level. Gains a temporary Warded Status Effect on level up.",
+        "Obtient +1 % de {[STRENGTH]} à chaque niveau. Obtient un effet de statut Protection temporaire lors de chaque passage de niveau.",
+        "Ottiene +1% {[STRENGTH]} a ogni livello. Quando sale di livello, ottiene temporaneamente un effetto di stato Protetto.",
+        "Erhält pro Stufe +1 % {[STRENGTH]}. Erhält beim Stufenaufstieg vorübergehend den Statuseffekt „Behütet“.",
+        "Obtiene +1 % de {[STRENGTH]} en cada nivel. Obtiene un efecto de estado Protección temporal al subir de nivel.",
+        "レベルごとに{[STRENGTH]}が+1%増加する。レベルアップ時に一時的にワード状態になる。",
+        "레벨마다 {[STRENGTH]}이(가) 1% 증가합니다. 레벨이 오르면 일시적으로 보호 상태가 됩니다.",
+        "{[STRENGTH]} +1% co poziom. Zyskuje tymczasowy efekt Ochrona po awansowaniu na kolejny na poziom.",
+        "Ganha +1% de {[STRENGTH]} a cada nível. Ganha o efeito de estado Protegido temporariamente quando sobe de nível.",
+        "Получает +1% к параметру {[STRENGTH]} с каждым новым уровнем. Получает временный статусный эффект «Безопасность» при повышении уровня.",
+        "每升一级，+1%{[STRENGTH]}。升级时会暂时获得庇护状态效果。",
+        "Her seviyede +%1 {[STRENGTH]} kazanır. Seviye atlandığında geçici Muhafazalı Durum Etkisi kazanır.",
+        "{[STRENGTH]} +1% за кожен рівень. Після підвищення рівня тимчасово отримує оберіг."
       ]
     }
   },
   "WS_40K_TECHPRIEST_MANIPULUS": {
     "charName": {
       "_value": [
-        "Vaulk"
+        "Vaulk",
+        "Vaulk",
+        "Vaulk",
+        "Vaulk",
+        "Vaulk",
+        "ヴォーク",
+        "볼크",
+        "Vaulk",
+        "Vaulk",
+        "Вольк",
+        "沃克",
+        "Vaulk",
+        "Волк"
       ]
     },
     "prefix": {
       "_value": [
-        "Balphamus"
+        "Balphamus",
+        "Balphamus",
+        "Balphamus",
+        "Balphamus",
+        "Balphamus",
+        "バルファマス",
+        "발파무스",
+        "Balphamus",
+        "Balphamus",
+        "Бальфамус",
+        "巴尔法穆斯",
+        "Balphamus",
+        "Балфамус"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Gains {[WEAPON_BONUS]} {[TITHE]} for each weapon and passive equipped."
+        "Gains {[WEAPON_BONUS]} {[TITHE]} for each weapon and passive equipped.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "Gains +10% {[TITHE]} for each weapon and passive equipped. Harnesses the Motive Force."
+        "Gains +10% {[TITHE]} for each weapon and passive equipped. Harnesses the Motive Force.",
+        "Obtient +10 % de {[TITHE]} pour chaque arme et compétence passive équipées. Exploite la Force Motrice.",
+        "Ottiene +10% {[TITHE]} per ogni arma e abilità passiva equipaggiata. Controlla la Forza Motrice.",
+        "Erhält +10 % {[TITHE]} für jede aufgenommene Waffe und jeden aufgenommenen passiven Gegenstand. Nutzt die Antriebskraft.",
+        "Obtiene +10 % de {[TITHE]} por cada arma y pasivo equipado. Utiliza la Fuerza Motriz.",
+        "装備している武器とパッシブごとに{[TITHE]}が+10%増加する。動力／原動力（機械教団）を操る。",
+        "장착한 무기와 패시브 하나당 {[TITHE]}이(가) 10% 증가합니다. 모티브 포스를 활용합니다.",
+        "{[TITHE]} +10% za każdą założoną broń oraz przedmiot pasywny. Wykorzystuje Siłę Napędową.",
+        "Ganha +10% de {[TITHE]} para cada arma e passiva equipadas. Utiliza a Força Motriz.",
+        "Получает +10% к параметру {[TITHE]} за каждое используемое оружие и пассивное умение. Обуздывает Движущую Силу.",
+        "每装备一件武器和被动技能，+10%{[TITHE]}。驾驭原初动力。",
+        "Kuşanılmış her silah ve pasif için +%10 {[TITHE]} kazanır. İtki Gücü’nü kullanır.",
+        "{[TITHE]} зростає на 10% за кожну спроряджену зброю та пасивну здібність. Приборкує Рушійну Cилу."
       ]
     }
   },
   "WS_40K_INQUISITOR": {
     "charName": {
       "_value": [
-        "Borian"
+        "Borian",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "surname": {
       "_value": [
-        "Thale"
+        "Thale",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "TBC - Desc (not designed)"
+        "TBC - Desc (not designed)",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_AOS_CARTHALOScharName": {
     "_value": [
-      "Bastian"
+      "Bastian",
+      "Bastian",
+      "Bastian",
+      "Bastian",
+      "Bastian",
+      "バスティアン",
+      "바스티안",
+      "Bastian",
+      "Bastian",
+      "Бастиан",
+      "巴斯蒂安",
+      "Bastian",
+      "Бастіан"
     ]
   },
   "WS_AOS_CARTHALOS": {
     "customCharName": {
       "_value": [
-        "Bastian"
+        "Bastian",
+        "Bastian",
+        "Bastian",
+        "Bastian",
+        "Bastian",
+        "バスティアン",
+        "바스티안",
+        "Bastian",
+        "Bastian",
+        "Бастиан",
+        "巴斯蒂安",
+        "Bastian",
+        "Бастіан"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +120 {[WOUNDS]}, +33% {[STRENGTH]}, +40% {[TITHE]}, +20 {[REROLL]}, +10 {[SKIP]}, and +10 {[BANISH]}."
+        "Starts with +120 {[WOUNDS]}, +33% {[STRENGTH]}, +40% {[TITHE]}, +20 {[REROLL]}, +10 {[SKIP]}, and +10 {[BANISH]}.",
+        "Commence avec +120 {[WOUNDS]}, +33 % de {[STRENGTH]}, +40 % de {[TITHE]}, +20 {[REROLL]}, +10 {[SKIP]} et +10 {[BANISH]}.",
+        "Inizia con +120 {[WOUNDS]}, +33% {[STRENGTH]}, +40% {[TITHE]}, +20 {[REROLL]}, +10 {[SKIP]} e +10 {[BANISH]}.",
+        "Beginnt mit +120 {[WOUNDS]}, +33 % {[STRENGTH]}, +40 % {[TITHE]}, +20 {[REROLL]}, +10 {[SKIP]} und +10 {[BANISH]}.",
+        "Empieza con +120 {[WOUNDS]}, +33 % {[STRENGTH]}, +40 % {[TITHE]}, +20 {[REROLL]}, +10 {[SKIP]} y +10 {[BANISH]}.",
+        "{[WOUNDS]}+120、{[STRENGTH]}+33%、{[TITHE]}+40%、{[REROLL]}+20、{[SKIP]}+10、{[BANISH]}+10で開始する。",
+        "시작 시 +120 {[WOUNDS]}, +33% {[STRENGTH]}, +40% {[TITHE]}, +20 {[REROLL]}, +10 {[SKIP]}, +10 {[BANISH]}.",
+        "Rozpoczyna z: {[WOUNDS]} +120, {[STRENGTH]} +33%, {[TITHE]} +40%, {[REROLL]} +20, {[SKIP]} +10 oraz {[BANISH]} +10.",
+        "Inicia com +120 {[WOUNDS]}, +33% de {[STRENGTH]}, +40% de {[TITHE]}, +20 {[REROLL]}s, +10 {[SKIP]}s e +10 {[BANISH]}.",
+        "Начинает игру с +120 к параметру {[WOUNDS]}, +33% к параметру {[STRENGTH]}, +40% к параметру {[TITHE]}, +20 к параметру {[REROLL]}, +10 к параметру {[SKIP]} и +10 к параметру {[BANISH]}.",
+        "开局即获得+120{[WOUNDS]}、+33%{[STRENGTH]}、+40%{[TITHE]}、+20{[REROLL]}、+10{[SKIP]}以及+10{[BANISH]}。",
+        "+120 {[WOUNDS]}, +%33 {[STRENGTH]}, +%40 {[TITHE]}, +20 {[REROLL]}, +10 {[SKIP]}, ve +10 {[BANISH]} ile artar.",
+        "Зі старту показник {[WOUNDS]} зростає на 120, {[STRENGTH]} на 33%, {[TITHE]} на 40%, {[REROLL]} на 20, {[SKIP]} на 10 і {[BANISH]} на 10."
       ]
     },
     "prefix": {
       "_value": [
-        "Lord-Commander"
+        "Lord-Commander",
+        "Seigneur-Commandeur",
+        "Lord-Comandante",
+        "Fürst Dominus",
+        "Lord Comandante",
+        "ロード・コマンダー",
+        "로드 커맨더",
+        "Lord-Dowódca",
+        "Senhor-Comandante",
+        "Лорд-Командующий",
+        "统御领主",
+        "Lord Komutan",
+        "Лорд-командувач"
       ]
     },
     "surname": {
       "_value": [
-        "Carthalos"
+        "Carthalos",
+        "Carthalos",
+        "Carthalos",
+        "Carthalos",
+        "Carthalos",
+        "カルサロス",
+        "카르탈로스",
+        "Carthalos",
+        "Carthalos",
+        "Карталос",
+        "卡萨罗斯",
+        "Carthalos",
+        "Карталос"
       ]
     },
     "description": {
       "_value": [
-        "Gains +0.1 {[TOUGHNESS]} for every 1000 enemies defeated."
+        "Gains +0.1 {[TOUGHNESS]} for every 1000 enemies defeated.",
+        "Obtient +0,1 {[TOUGHNESS]} tous les 1 000 ennemis battus.",
+        "Ottiene +0,1% {[TOUGHNESS]} per ogni 1.000 nemici sconfitti.",
+        "Erhält +0,1 {[TOUGHNESS]} für je 1.000 besiegte Gegner.",
+        "Obtiene +0,1 de {[TOUGHNESS]} por cada 1000 enemigos derrotados.",
+        "敵を1000体撃破するごとに{[TOUGHNESS]}が+0.1増加する。",
+        "적을 1,000마리 처치할 때마다 {[TOUGHNESS]}이(가) 0.1 증가합니다.",
+        "+0,1 {[TOUGHNESS]} co 1000 pokonanych wrogów.",
+        "Ganha +0,1 de {[TOUGHNESS]} para cada 1.000 inimigos derrotados.",
+        "Получает +0,1 к параметру {[TOUGHNESS]} за каждую 1000 уничтоженных врагов.",
+        "每击败1000名敌人，+0.1{[TOUGHNESS]}。",
+        "Yenilen her 1000 düşman için +0,1 {[TOUGHNESS]} kazanır.",
+        "{[TOUGHNESS]} +0,1 за кожну 1000 подоланих ворогів."
       ]
     }
   },
   "WS_AOS_BROKK": {
     "charName": {
       "_value": [
-        "Brokk"
+        "Brokk",
+        "Brokk",
+        "Brokk",
+        "Brokk",
+        "Brokk",
+        "ブロック",
+        "브록",
+        "Brokk",
+        "Brokk",
+        "Брокк",
+        "布洛克",
+        "Brokk",
+        "Брокк"
       ]
     },
     "customCharName": {
       "_value": [
-        "Brokk"
+        "Brokk",
+        "Brokk",
+        "Brokk",
+        "Brokk",
+        "Brokk",
+        "ブロック",
+        "브록",
+        "Brokk",
+        "Brokk",
+        "Брокк",
+        "布洛克",
+        "Brokk",
+        "Брокк"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +30% {[MOVE]}. Gains +1 {[TITHE]} every level."
+        "Starts with +30% {[MOVE]}. Gains +1 {[TITHE]} every level.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "prefix": {
       "_value": [
-        "Lord-Magnate"
+        "Lord-Magnate",
+        "Seigneur-magnat",
+        "Lord-Magnate",
+        "Lord-Magnat",
+        "Lord Magnate",
+        "ロード・マグネイト",
+        "로드 매그네이트",
+        "Lord Magnat",
+        "Senhor-Magnata",
+        "Лорд-Магнат",
+        "巨商领主",
+        "Lord-Magnate",
+        "Вельможний володар"
       ]
     },
     "surname": {
       "_value": [
-        "Grungsson"
+        "Grungsson",
+        "Grungsson",
+        "Grungsson",
+        "Grungsson",
+        "Grungsson",
+        "グルングソン",
+        "그룽손",
+        "Grungsson",
+        "Grungsson",
+        "Грунгссон",
+        "格朗森",
+        "Grungsson",
+        "Ґрунґссон"
       ]
     },
     "description": {
       "_value": [
-        "Ignores terrain. Gains +2% {[TITHE]} every time a {[REROLL]}, {[SKIP]} or {[BANISH]} is used."
+        "Ignores terrain. Gains +2% {[TITHE]} every time a {[REROLL]}, {[SKIP]} or {[BANISH]} is used.",
+        "Ignore le terrain. Obtient +2 % de {[TITHE]} à chaque fois que {[REROLL]}, {[SKIP]} ou {[BANISH]} est utilisé.",
+        "Ignora il terreno. Ottiene +2% {[TITHE]} ogni volta che viene usato {[REROLL]}, {[SKIP]} o {[BANISH]}.",
+        "Ignoriert Gelände. Erhält jedes Mal +2 % {[TITHE]}, wenn {[REROLL]}, {[SKIP]} oder {[BANISH]} eingesetzt wird.",
+        "Ignora el terreno. Obtiene +2 % de {[TITHE]} cada vez que se usa un {[REROLL]}, {[SKIP]} o {[BANISH]}.",
+        "地形の影響を受けない。{[REROLL]}、{[SKIP]}、{[BANISH]}のどれかを使うたびに{[TITHE]}が+2%増加する。",
+        "지형의 영향을 받지 않습니다. {[REROLL]}, {[SKIP]}, {[BANISH]} 중 하나를 사용할 때마다 {[TITHE]}이(가) 2% 증가합니다.",
+        "Ignoruje teren. {[TITHE]} +2% przy każdym użyciu: {[REROLL]}, {[SKIP]} lub {[BANISH]}.",
+        "Ignora o terreno. Ganha +2% de {[TITHE]} sempre que usar {[REROLL]}, {[SKIP]} ou {[BANISH]}.",
+        "Игнорирует рельеф. Получает +2% к параметру {[TITHE]} каждый раз, когда используется {[REROLL]}, {[SKIP]} или {[BANISH]}.",
+        "无视地形。每当使用{[REROLL]}、{[SKIP]}或{[BANISH]}中的任意一项时，+2%{[TITHE]}。",
+        "Araziyi yok sayar. {[REROLL]}, {[SKIP]} veya {[BANISH]} kullanıldığında +%2 {[TITHE]} kazanır.",
+        "Оминає перешкоди. {[TITHE]} +2 кожного разу, коли використовується {[REROLL]}, {[SKIP]} чи {[BANISH]}."
       ]
     }
   },
   "WS_AOS_CALLIS": {
     "charName": {
       "_value": [
-        "Armand"
+        "Armand",
+        "Armand",
+        "Armand",
+        "Armand",
+        "Armand",
+        "アーマンド",
+        "아르망",
+        "Armand",
+        "Armand",
+        "Арманд",
+        "阿尔芒",
+        "Armand",
+        "Арманд"
       ]
     },
     "customCharName": {
       "_value": [
-        "Callis"
+        "Callis",
+        "Callis",
+        "Callis",
+        "Callis",
+        "Callis",
+        "カリス",
+        "칼리스",
+        "Callis",
+        "Callis",
+        "Каллис",
+        "卡里斯",
+        "Callis",
+        "Калліс"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Gains +10% {[SUSTAIN]} every 5 levels (max +40%)."
+        "Gains +10% {[SUSTAIN]} every 5 levels (max +40%).",
+        "Obtient +10 % de {[SUSTAIN]} tous les 5 niveaux (max. +40 %).",
+        "Ottiene +10% {[SUSTAIN]} ogni 5 livelli (max +40%).",
+        "Erhält alle 5 Stufen +10 % {[SUSTAIN]} (max. +40 %).",
+        "Obtiene +10 % de {[SUSTAIN]} cada 5 niveles (máx. +40 %).",
+        "5レベルごとに{[SUSTAIN]}が10%増加する（最大+40%）。",
+        "5레벨마다 {[SUSTAIN]}이(가) 10% 증가합니다. 최대 40%까지 증가합니다.",
+        "{[SUSTAIN]} +10% co 5 poziomów (maks. +40%).",
+        "Ganha +10% de {[SUSTAIN]} a cada 5 níveis (máximo de +40%).",
+        "Получает +10% к параметру {[SUSTAIN]} каждые 5 уровней (максимум +40%).",
+        "每升5级，+10%{[SUSTAIN]}（最多+40%）。",
+        "Her 5 seviyede, +%10 {[SUSTAIN]} kazanır (maks. +%40).",
+        "{[SUSTAIN]} зростає на 10% кожні 5 рівнів (макс. +40%)."
       ]
     },
     "surname": {
       "_value": [
-        "Callis"
+        "Callis",
+        "Callis",
+        "Callis",
+        "Callis",
+        "Callis",
+        "カリス",
+        "칼리스",
+        "Callis",
+        "Callis",
+        "Каллис",
+        "卡里斯",
+        "Callis",
+        "Калліс"
       ]
     },
     "description": {
       "_value": [
-        "Gains +5% {[RELOAD]} every 10 levels (max +15%).\nHas +2 {[ATTACKS]} with exactly one follower."
+        "Gains +5% {[RELOAD]} every 10 levels (max +15%).\nHas +2 {[ATTACKS]} with exactly one follower.",
+        "Obtient +5 % de {[RELOAD]} tous les 10 niveaux (max. +15 %).\nDispose de +2 {[ATTACKS]} avec un seul disciple.",
+        "Ottiene +5% {[RELOAD]} ogni 10 livelli (max +15%).\nOttiene +2 {[ATTACKS]} con esattamente un seguace.",
+        "Erhält alle 10 Stufen +5 % {[RELOAD]} (max. +15 %).\nHat +2 {[ATTACKS]}, wenn genau ein Gefolgsmann vorhanden ist.",
+        "Obtiene +5 % de {[RELOAD]} cada 10 niveles (máx. +15 %).\nTiene +2 {[ATTACKS]} con exactamente un seguidor.",
+        "10レベルごとに{[RELOAD]}が+5%増加する（最大+15%）。\n従者が1人のとき、{[ATTACKS]}が+2増加する。",
+        "10레벨마다 {[RELOAD]}이(가) 5% 증가합니다(최대 15%). \n추종자가 정확히 한 명일 때 {[ATTACKS]}이(가) 2 증가합니다.",
+        "{[RELOAD]} +5% co 10 poziomów (maks. +15%).\nMa {[ATTACKS]} +2, gdy ma dokładnie jednego towarzysza.",
+        "Ganha +5% de {[RELOAD]} a cada 10 níveis (máximo de +15%).\nTem +2 {[ATTACKS]} quando tem exatamente um seguidor.",
+        "Получает +5% к параметру {[RELOAD]} каждые 10 уровней (максимум +15%).\nПолучает +2 {[ATTACKS]}, когда имеет только одного последователя.",
+        "每升10级，+5%{[RELOAD]}（最多+15%）。\n仅拥有一名随从时，+2{[ATTACKS]}。",
+        "Her 10 seviyede, +%5 {[RELOAD]} kazanır (maks. +%15).\n, tam olarak bir takipçiye sahipken +2 {[ATTACKS]} kazanır.",
+        "{[RELOAD]} +5% кожні 10 рівнів (макс. +15%).\n{[ATTACKS]} +2, якщо є лише один послідовник."
       ]
     }
   },
   "WS_AOS_CELESTANT_PRIME": {
     "customCharName": {
       "_value": [
-        "Celestant-Prime"
+        "Celestant-Prime",
+        "Celestant-Prime",
+        "Celestant-Prime",
+        "Erstgeschmiedeter",
+        "Celestant-Prime",
+        "セレスタント・プライム",
+        "셀레스턴트 프라임",
+        "Celestant-Prime",
+        "Celestant-Prime",
+        "Целестант-Прайм",
+        "天界至尊",
+        "Celestant-Prime",
+        "Верховний Селестант"
       ]
     },
     "charName": {
       "_value": [
-        "Celestant-Prime,"
+        "Celestant-Prime,",
+        "Celestant-Prime,",
+        "Celestant-Prime,",
+        "Erstgeschmiedeter,",
+        "Celestant-Prime,",
+        "セレスタント・プライム",
+        "셀레스턴트 프라임,",
+        "Celestant-Prime,",
+        "Celestant-Prime,",
+        "Целестант-Прайм.",
+        "天界至尊，",
+        "Celestant-Prime,",
+        "Верховний Селестант,"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with large stat boosts. Gains +0.5% {[STRENGTH]} every 10 levels and +1 {[TOUGHNESS]} every 20 levels."
+        "Starts with large stat boosts. Gains +0.5% {[STRENGTH]} every 10 levels and +1 {[TOUGHNESS]} every 20 levels.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "surname": {
       "_value": [
-        "Hammer of Sigmar"
+        "Hammer of Sigmar",
+        "Marteau de Sigmar",
+        "Martello di Sigmar",
+        "Sigmars Hammer",
+        "Martillo de Sigmar",
+        "ハンマー・オヴ・シグマー",
+        "시그마의 망치",
+        "Młot Sigmara",
+        "Martelo de Sigmar",
+        "Молот Сигмара",
+        "西格玛之锤",
+        "Sigmar'ın Çekici",
+        "Молот Сігмара"
       ]
     },
     "description": {
       "_value": [
-        "All stats increase for every 1000 enemies defeated."
+        "All stats increase for every 1000 enemies defeated.",
+        "Toutes les stats augmentent tous les 1 000 ennemis battus.",
+        "Potenzia tutte le statistiche ogni 1.000 nemici sconfitti.",
+        "Alle Werte steigen für je 1.000 besiegte Gegner.",
+        "Todas las características aumentan por cada 1000 enemigos derrotados.",
+        "敵を1000体撃破するごとに全ステータスが増加する。",
+        "적을 1,000마리 처치할 때마다 모든 능력치가 증가합니다.",
+        "Wszystkie statystyki zwiększają się co 1000 pokonanych wrogów.",
+        "Aumenta todos os atributos a cada 1.000 inimigos derrotados.",
+        "Все характеристики повышаются за каждую 1000 уничтоженных врагов.",
+        "每击败1000名敌人，所有属性值均会获得提升。",
+        "Yenilen her 1000 düşman için tüm istatistikler artar.",
+        "Усі показники зростають за кожну подолану 1000 ворогів."
       ]
     }
   },
   "WS_AOS_MAJOR_DOCHEVAL": {
     "charName": {
       "_value": [
-        "Docheval"
+        "Docheval",
+        "Docheval",
+        "Docheval",
+        "Docheval",
+        "Docheval",
+        "ドシュヴァル",
+        "도슈발",
+        "Docheval",
+        "Docheval",
+        "Дошеваль",
+        "多什瓦尔",
+        "Docheval",
+        "Дошеваль"
       ]
     },
     "customCharName": {
       "_value": [
-        "Mjr. Docheval"
+        "Mjr. Docheval",
+        "Mjr Docheval",
+        "Magg. Docheval",
+        "Mjr. Docheval",
+        "Mayor Docheval",
+        "ドシュヴァル少佐",
+        "메이저 도슈발",
+        "Major Docheval",
+        "Major Docheval",
+        "Майор Дошеваль",
+        "多什瓦尔少校",
+        "Binbaşı Docheval",
+        "Майор Дошеваль"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +100 {[WOUNDS]}, -20% {[MOVE]} speed, +10% {[STRENGTH]} , +10% {[SKILL]}, +1 {[SAVE]}. Gains extra {[STRENGTH]} per {[SAVE]} increase."
+        "Starts with +100 {[WOUNDS]}, -20% {[MOVE]} speed, +10% {[STRENGTH]} , +10% {[SKILL]}, +1 {[SAVE]}. Gains extra {[STRENGTH]} per {[SAVE]} increase.",
+        "Commence avec +100 {[WOUNDS]}, -20 % de vitesse de {[MOVE]}, +10 % de {[STRENGTH]}, +10 % de {[SKILL]}, +1 {[SAVE]}. Obtient plus de {[STRENGTH]} par augmentation de {[SAVE]}.",
+        "Inizia con +100 {[WOUNDS]}, -20% velocità di {[MOVE]}, +10% {[STRENGTH]}, +10% {[SKILL]}, +1 {[SAVE]}. Ottiene {[STRENGTH]} extra ogni volta che aumenta il {[SAVE]}.",
+        "Beginnt mit +100 {[WOUNDS]}, -20 % {[MOVE]} Geschwindigkeit, +10 % {[STRENGTH]} , +10 % {[SKILL]}, +1 {[SAVE]}. Erhält zusätzlich {[STRENGTH]}, wenn {[SAVE]} erhöht wird.",
+        "Empieza con +100 de {[WOUNDS]}, -20 % de velocidad de {[MOVE]}, +10 % de {[STRENGTH]}, +10 % de {[SKILL]} y +1 de {[SAVE]}. Obtiene {[STRENGTH]} adicional por cada aumento de {[SAVE]}.",
+        "{[WOUNDS]}+100、{[MOVE]}速度-20%、{[STRENGTH]}+10%、{[SKILL]}+10%、{[SAVE]}+1で開始する。{[SAVE]}が増加するたびに{[STRENGTH]}がさらに増加する。",
+        "시작 시 +100 {[WOUNDS]}, -20% {[MOVE]} 속도, +10% {[STRENGTH]}, +10% {[SKILL]}, +1 {[SAVE]}. {[SAVE]}이(가) 증가할 때마다 {[STRENGTH]}이(가) 추가로 증가합니다.",
+        "Rozpoczyna z: {[WOUNDS]} +100, {[MOVE]} -20%, {[STRENGTH]} +10%, {[SKILL]} +10%, {[SAVE]} +1. {[STRENGTH]} zwiększa się, gdy wzrasta {[SAVE]}.",
+        "Inicia com +100 {[WOUNDS]}, -20% de velocidade de {[MOVE]}, +10% de {[STRENGTH]}, +10% de {[SKILL]}, +1 {[SAVE]}. Ganha {[STRENGTH]} extra a cada aumento de {[SAVE]}.",
+        "Начинает игру с +100 к параметру {[WOUNDS]}, –20% от скорости {[MOVE]}, +10% к параметру {[STRENGTH]}, +10% к параметру {[SKILL]}, +1 к параметру {[SAVE]}. {[STRENGTH]} дополнительно увеличивается при каждом увеличении параметра {[SAVE]}.",
+        "开局即获得+100{[WOUNDS]}、-20%{[MOVE]}速度、+10%{[STRENGTH]}、+10%{[SKILL]}、+1{[SAVE]}。每次{[SAVE]}提升时获得额外{[STRENGTH]}。",
+        "+100 {[WOUNDS]} ile başlar, -%20 {[MOVE]} hız ve +%10 {[STRENGTH]}, +%10 {[SKILL]} ve +1 {[SAVE]} sağlar. {[SAVE]} artış başına ekstra {[STRENGTH]} kazanır.",
+        "Зі старту зазнають змін такі показники: {[WOUNDS]} +100, {[MOVE]} -20%, {[STRENGTH]} +10%, {[SKILL]} +10%, {[SAVE]} +1. Показник {[STRENGTH]} зростає разом зі зростанням показника {[SAVE]}."
       ]
     },
     "prefix": {
       "_value": [
-        "Major"
+        "Major",
+        "Major",
+        "Maggiore",
+        "Major",
+        "Mayor",
+        "少佐",
+        "메이저",
+        "Major",
+        "Major",
+        "Майор",
+        "少校",
+        "Binbaşı",
+        "Майор"
       ]
     },
     "description": {
       "_value": [
-        "{[STRENGTH]} scales with {[SAVE]}."
+        "{[STRENGTH]} scales with {[SAVE]}.",
+        "La {[STRENGTH]} varie selon la {[SAVE]}.",
+        "{[STRENGTH]} aumenta in base a {[SAVE]}.",
+        "{[STRENGTH]} skaliert mit {[SAVE]}.",
+        "La {[STRENGTH]} aumenta en función de la {[SAVE]}.",
+        "{[STRENGTH]}は{[SAVE]}に応じてスケールする。",
+        "{[SAVE]}에 비례해 {[STRENGTH]}이(가) 증가합니다.",
+        "{[STRENGTH]} skaluje się z {[SAVE]}.",
+        "{[STRENGTH]} é proporcional a {[SAVE]}.",
+        "{[STRENGTH]} зависит от уровня параметра {[SAVE]}.",
+        "{[STRENGTH]}随着{[SAVE]}属性的增加而提升。",
+        "{[STRENGTH]}, {[SAVE]} değerine göre artar.",
+        "{[STRENGTH]} зростає прямопропорційно до показника {[SAVE]}."
       ]
     }
   },
   "WS_AOS_DREKKI": {
     "charName": {
       "_value": [
-        "Drekki"
+        "Drekki",
+        "Drekki",
+        "Drekki",
+        "Drekki",
+        "Drekki",
+        "ドレッキ",
+        "드레키",
+        "Drekki",
+        "Drekki",
+        "Дрекки",
+        "德雷基",
+        "Drekki",
+        "Дреккі"
       ]
     },
     "customCharName": {
       "_value": [
-        "Drekki"
+        "Drekki",
+        "Drekki",
+        "Drekki",
+        "Drekki",
+        "Drekki",
+        "ドレッキ",
+        "드레키",
+        "Drekki",
+        "Drekki",
+        "Дрекки",
+        "德雷基",
+        "Drekki",
+        "Дреккі"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "+250% {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}s, +10 {[REROLL]}s, +10 {[BANISH]}. Gains extra {[TITHE]} as he levels."
+        "+250% {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}s, +10 {[REROLL]}s, +10 {[BANISH]}. Gains extra {[TITHE]} as he levels.",
+        "+250 % de {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}, +10 {[REROLL]}, +10 {[BANISH]}. Obtient plus de {[TITHE]} quand il passe un niveau.",
+        "+250% {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}s, +10 {[REROLL]}, +10 {[BANISH]}. Guadagna {[TITHE]} extra salendo di livello.",
+        "+250 % {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}, +10 {[REROLL]}, +10 {[BANISH]}. Erhält beim Stufenaufstieg zusätzlich {[TITHE]}.",
+        "+250 % {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}, +10 {[REROLL]}, +10 {[BANISH]}. Obtiene {[TITHE]} adicional al subir de nivel.",
+        "{[TITHE]}+250%、{[REDEPLOYMENT]}+1、{[SKIP]}+10秒、{[REROLL]}+10秒、{[BANISH]}+10。レベルアップに応じて{[TITHE]}がさらに増加する。",
+        "+250% {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}, +10 {[REROLL]}, +10 {[BANISH]}. 레벨이 오를수록 {[TITHE]}이(가) 추가로 증가합니다.",
+        "{[TITHE]} +250%, {[REDEPLOYMENT]} +1, {[SKIP]} +10, {[REROLL]} +10, {[BANISH]} +10. Wraz z awansowaniem na kolejne poziomy zyskuje dodatkowe {[TITHE]}.",
+        "+250% de {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}s, +10 {[REROLL]}s, +10 {[BANISH]}. Ganha {[TITHE]} adicional conforme sobe de nível.",
+        "+250% к параметру {[TITHE]}, +1 к параметру {[REDEPLOYMENT]}, +10 к параметру {[SKIP]}, +10 к параметру {[REROLL]}, +10 к параметру {[BANISH]}. Получает дополнительное увеличение параметра {[TITHE]} при повышении уровня.",
+        "+250%{[TITHE]}、+1{[REDEPLOYMENT]}、+10{[SKIP]}、+10{[REROLL]}、+10{[BANISH]}。在他升级时额外获得{[TITHE]}。",
+        "+%250 {[TITHE]}, +1 {[REDEPLOYMENT]}, +10 {[SKIP]}, +10 {[REROLL]} ve +10 {[BANISH]} verir. Seviye atladıkça ek {[TITHE]} kazanırsın.",
+        "{[TITHE]} +250%, {[REDEPLOYMENT]} +1, {[SKIP]} +10, {[REROLL]} +10, {[BANISH]} +10. {[TITHE]} зростає з підвищенням рівня."
       ]
     },
     "surname": {
       "_value": [
-        "Flynt"
+        "Flynt",
+        "Flynt",
+        "Flynt",
+        "Flynt",
+        "Flynt",
+        "フリント",
+        "플린트",
+        "Flynt",
+        "Flynt",
+        "Флинт",
+        "弗林特",
+        "Flynt",
+        "Флінт"
       ]
     },
     "description": {
       "_value": [
-        "Chance of collectathon increases with enemies killed."
+        "Chance of collectathon increases with enemies killed.",
+        "Les chances de Collectathon augmentent avec le nombre d’ennemis tués.",
+        "La probabilità di attivare il Collectathon aumenta con il numero di nemici uccisi.",
+        "Die Collectathon-Chance steigt mit der Anzahl besiegter Gegner.",
+        "La probabilidad de Collectathon aumenta al eliminar enemigos.",
+        "倒した敵の数に応じてコレクタソン発生確率が増加する。",
+        "처치한 적이 많을수록 컬렉터톤이 발동할 확률이 증가합니다.",
+        "Szansa na Collectathon rośnie wraz z liczbą pokonanych wrogów.",
+        "A chance do collectathon aumenta conforme derrota inimigos.",
+        "Шанс запуска Коллектатона увеличивается с каждым убитым врагом.",
+        "击杀的敌人越多，触发“收集大作战”的几率越高。",
+        "Öldürülen düşmanlarla birlikte collectathon şansı artar.",
+        "Знищення ворогів збільшує імовірність активації колектатону."
       ]
     }
   },
   "WS_AOS_GOTREK": {
     "charName": {
       "_value": [
-        "Gotrek"
+        "Gotrek",
+        "Gotrek",
+        "Gotrek",
+        "Gotrek",
+        "Gotrek",
+        "ゴトレック",
+        "고트렉",
+        "Gotrek",
+        "Gotrek",
+        "Готрек",
+        "高崔克",
+        "Gotrek",
+        "Ґотрек"
       ]
     },
     "customCharName": {
       "_value": [
-        "Gotrek"
+        "Gotrek",
+        "Gotrek",
+        "Gotrek",
+        "Gotrek",
+        "Gotrek",
+        "ゴトレック",
+        "고트렉",
+        "Gotrek",
+        "Gotrek",
+        "Готрек",
+        "高崔克",
+        "Gotrek",
+        "Ґотрек"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +1 {[REDEPLOYMENT]}. Gains 1 more {[REDEPLOYMENT]} at level 35 and another at level 71."
+        "Starts with +1 {[REDEPLOYMENT]}. Gains 1 more {[REDEPLOYMENT]} at level 35 and another at level 71.",
+        "Commence avec +1 {[REDEPLOYMENT]}. Obtient 1 {[REDEPLOYMENT]} de plus au niveau 35 et un autre au niveau 71.",
+        "Inizia con +1 {[REDEPLOYMENT]}. Ottiene 1 {[REDEPLOYMENT]} in più al livello 35 e un altro al livello 71.",
+        "Beginnt mit +1 {[REDEPLOYMENT]}. Erhält auf Stufe 35 ein weiteres {[REDEPLOYMENT]} und auf Stufe 71 noch eins.",
+        "Empieza con +1 {[REDEPLOYMENT]}. Obtiene 1 {[REDEPLOYMENT]} más en el nivel 35 y otro en el nivel 71.",
+        "レベル+1で開始する。レベル35でさらに{[REDEPLOYMENT]}を1つ獲得し、レベル71でもう1つ獲得する。",
+        "시작 시 {[REDEPLOYMENT]}을(를) 1회 추가로 얻습니다. 35레벨과 71레벨에 각각 {[REDEPLOYMENT]}을(를) 1회씩 더 얻습니다.",
+        "Rozpoczyna z: {[REDEPLOYMENT]} +1. 1 dodatkowe {[REDEPLOYMENT]} na poziomie 35 i kolejne na poziomie 71.",
+        "Inicia com +1 {[REDEPLOYMENT]}. Ganha mais 1 {[REDEPLOYMENT]} no nível 35 e outro no nível 71.",
+        "Начинает игру с +1 к параметру {[REDEPLOYMENT]}. Получает еще 1 к параметру {[REDEPLOYMENT]} на уровнях 35 и 71.",
+        "开局即获得+1{[REDEPLOYMENT]}。35级与71级时分别再获得1{[REDEPLOYMENT]}。",
+        "+1 {[REDEPLOYMENT]} ile başlar. 35. seviyede bir 1 {[REDEPLOYMENT]} daha, 71. seviyede bir tane daha kazanır.",
+        "Розпочинає з +1 до показника {[REDEPLOYMENT]}. Здобуває ще 1 до показника {[REDEPLOYMENT]} на 35 і 71 рівнях."
       ]
     },
     "surname": {
       "_value": [
-        "Gurnisson"
+        "Gurnisson",
+        "Gurnisson",
+        "Gurnisson",
+        "Gurnisson",
+        "Gurnisson",
+        "グルニソン",
+        "거니슨",
+        "Gurnisson",
+        "Gurnisson",
+        "Гурниссон",
+        "古尼森",
+        "Gurnisson",
+        "Ґурніссон"
       ]
     },
     "description": {
       "_value": [
-        "Gains +1 {[REDEPLOYMENT]} at certain kill thresholds. Redeploys with the Berserk Status effect."
+        "Gains +1 {[REDEPLOYMENT]} at certain kill thresholds. Redeploys with the Berserk Status effect.",
+        "Obtient +1 {[REDEPLOYMENT]} à certains seuils d’ennemis tués. Se redéploie avec l’effet de statut En rage.",
+        "Ottiene +1% {[REDEPLOYMENT]} dopo un certo numero di uccisioni. Torna in battaglia con l'effetto di stato Berserk.",
+        "Erhält bei bestimmten Kill-Schwellenwerten +1 {[REDEPLOYMENT]}. Wird mit dem Statuseffekt „Berserker“ neu aufgestellt.",
+        "Obtiene +1 de {[REDEPLOYMENT]} al alcanzar determinados umbrales de bajas. Se redespliega con el efecto de estado Berserk.",
+        "特定のキル数値で{[REDEPLOYMENT]}を+1獲得する。ベルセルク状態で再配置される。",
+        "처치 수가 일정 기준에 도달할 때마다 {[REDEPLOYMENT]} 횟수가 1회 증가합니다. 재배치하면 광폭 상태가 됩니다.",
+        "+1 {[REDEPLOYMENT]} po osiągnięciu określonych progów liczby zabójstw. Po odrodzeniu otrzymuje efekt statusu Berserk.",
+        "Ganha +1 {[REDEPLOYMENT]} após abater determinados números de inimigos. Recoloca com o efeito de estado de Fúria.",
+        "Получает +1 к параметру {[REDEPLOYMENT]} при достижении определенного количества убийств. При передислокации получает статусный эффект «Берсерк».",
+        "在达到特定击杀阈值时+1{[REDEPLOYMENT]}。重新部署时会获得狂暴状态效果。",
+        "Belirli öldürme eşiklerinde +1 {[REDEPLOYMENT]} kazanır. Berserk Durum Etkisi ile yeniden konuşlanır.",
+        "{[REDEPLOYMENT]} +1 за певну кількість вбитих ворогів. Передислоковується на поле бою в стані берсерка."
       ]
     }
   },
   "WS_AOS_HENDRICK": {
     "charName": {
       "_value": [
-        "Hendrick,"
+        "Hendrick,",
+        "Hendrick",
+        "Hendrick,",
+        "Hendrick",
+        "Hendrick",
+        "ヘンドリック",
+        "헨드릭",
+        "Hendrick",
+        "Hendrick",
+        "Хендрик",
+        "亨德里克",
+        "Hendrick",
+        "Гендрік"
       ]
     },
     "customCharName": {
       "_value": [
-        "Hendrick"
+        "Hendrick",
+        "Hendrick",
+        "Hendrick",
+        "Hendrick",
+        "Hendrick",
+        "ヘンドリック",
+        "헨드릭",
+        "Hendrick",
+        "Hendrick",
+        "Хендрик",
+        "亨德里克",
+        "Hendrick",
+        "Гендрік"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with -10% {[RELOAD]}. Gains {[SUSTAIN]} every 10 levels (max +24%)."
+        "Starts with -10% {[RELOAD]}. Gains {[SUSTAIN]} every 10 levels (max +24%).",
+        "Commence avec -10 % de {[RELOAD]}. Obtient {[SUSTAIN]} tous les 10 niveaux (max. +24 %).",
+        "Inizia con -10% {[RELOAD]}. Ottiene {[SUSTAIN]} ogni 10 livelli (max +24%).",
+        "Beginnt mit -10 % {[RELOAD]}. Erhält alle 10 Stufen {[SUSTAIN]} (max. +24 %).",
+        "Empieza con -10 % de {[RELOAD]}. Obtiene de {[SUSTAIN]} cada 10 niveles (máx. +24 %).",
+        "{[RELOAD]}-10%で開始する。10レベルごとに{[SUSTAIN]}を獲得する（最大+24%）。",
+        "시작 시 -10% {[RELOAD]}. 10레벨마다 {[SUSTAIN]}이(가) 증가하며, 최대 24%까지 증가합니다.",
+        "Rozpoczyna z: {[RELOAD]} -10%. {[SUSTAIN]} co 10 poziomów (maks. +24%).",
+        "Inicia com -10% de {[RELOAD]}. Ganha {[SUSTAIN]} a cada 10 níveis (máximo de +24%).",
+        "Начинает игру с –10% от параметра {[RELOAD]}. Получает повышение параметра {[SUSTAIN]} каждые 10 уровней (максимум +24%).",
+        "开局即获得-10%{[RELOAD]}。每升10级获得{[SUSTAIN]}（最多+24%）。",
+        "-%10 {[RELOAD]} ile başlar. Her 10 seviyede, {[SUSTAIN]} kazanır (maks. +%24).",
+        "Розпочинає з -10% до показника {[RELOAD]}. Здобуває показник {[SUSTAIN]} кожні 10 рівнів (макс. +24%)."
       ]
     },
     "surname": {
       "_value": [
-        "The Silver Wolf"
+        "The Silver Wolf",
+        ", Le Loup d’Argent",
+        ", il Lupo d'Argento",
+        ", der Silberwolf",
+        ", el Lobo Plateado",
+        "（シルバーウルフ）",
+        "은빛 늑대",
+        ", Srebrny Wilk",
+        ", o Lobo Prateado",
+        "Серебряный Волк",
+        "银狼",
+        "Gümüş Kurt",
+        "Срібний Вовк"
       ]
     },
     "description": {
       "_value": [
-        "Gains +5% {[AURA]} every 5 levels (max +30%). Gains a temporary Warded status effect whenever a new follower joins."
+        "Gains +5% {[AURA]} every 5 levels (max +30%). Gains a temporary Warded status effect whenever a new follower joins.",
+        "Obtient +5 % d’{[AURA]} tous les 5 niveaux (max. +30 %). Obtient un effet de statut Protection temporaire à chaque fois qu’un nouveau disciple le rejoint.",
+        "Ottiene +5% {[AURA]} ogni 5 livelli (max +30%). Ottiene temporaneamente un effetto di stato Protetto ogni volta che si unisce un nuovo seguace.",
+        "Erhält alle 5 Stufen +5 % {[AURA]} (max. +30 %). Erhält vorübergehend den Statuseffekt „Behütet“, wenn ein neuer Gefolgsmann beitritt.",
+        "Obtiene +5 % de {[AURA]} cada 5 niveles (máx. +30 %). Obtiene un efecto de estado de Protección temporal cada vez que se le une un nuevo seguidor.",
+        "5レベルごとに{[AURA]}が+5%増加する（最大+30%）。従者が加わるたびに、一時的にワード状態になる。",
+        "5레벨마다 {[AURA]}이(가) 5% 증가합니다(최대 30%). 새로운 추종자가 합류할 때마다 일시적으로 보호 상태가 됩니다.",
+        "{[AURA]} +5% co 5 poziomów (maks. +30%). Zyskuje tymczasowy efekt Ochrona za każdym razem, gdy dołącza nowy towarzysz.",
+        "Ganha +5% de {[AURA]} a cada 5 níveis (máximo de +30%). Ganha temporariamente o efeito de estado Protegido quando um seguidor se juntar.",
+        "Получает +5% к параметру {[AURA]} каждые 5 уровней (максимум +30%). Получает временный статусный эффект «Безопасность» каждый раз, когда появляется новый последователь.",
+        "每升5级，+5%{[AURA]}（最多+30%）。每当有新随从加入时，会暂时获得庇护状态效果。",
+        "Her 5 seviyede +%5 {[AURA]} kazanır (maks. +%30). Yeni bir takipçi katıldığında geçici Muhafazalı durum etkisi kazanır.",
+        "{[AURA]} +5% кожні 5 рівнів (макс. +30%). Тимчасово отримує оберіг, коли долучається новий послідовник."
       ]
     }
   },
   "WS_AOS_KRETHUSA_THE_CRONESEER": {
     "charName": {
       "_value": [
-        "Krethusa"
+        "Krethusa",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "customCharName": {
       "_value": [
-        "Krethusa"
+        "Krethusa",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "Starts with -50 {[WOUNDS]}, +30% {[MOVE]} and +1 extra level. {[RELOAD]} time increases with missing {[WOUNDS]}."
+        "Starts with -50 {[WOUNDS]}, +30% {[MOVE]} and +1 extra level. {[RELOAD]} time increases with missing {[WOUNDS]}.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "surname": {
       "_value": [
-        "The Croneseer"
+        "The Croneseer",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_AOS_KYRAE": {
     "charName": {
       "_value": [
-        "Kyrae"
+        "Kyrae",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "Starts with -10% {[RELOAD]}, +10% {[SKILL]}, +10% {[CHANCE]}."
+        "Starts with -10% {[RELOAD]}, +10% {[SKILL]}, +10% {[CHANCE]}.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_AOS_LORAI": {
     "charName": {
       "_value": [
-        "Lorai,"
+        "Lorai,",
+        "Lorai",
+        "Lorai,",
+        "Lorai",
+        "Lorai",
+        "ロライ",
+        "로라이",
+        "Lorai",
+        "Lorai",
+        "Лорай",
+        "洛莱",
+        "Lorai",
+        "Лорай"
       ]
     },
     "customCharName": {
       "_value": [
-        "Lorai"
+        "Lorai",
+        "Lorai",
+        "Lorai",
+        "Lorai",
+        "Lorai",
+        "ロライ",
+        "로라이",
+        "Lorai",
+        "Lorai",
+        "Лорай",
+        "洛莱",
+        "Lorai",
+        "Лорай"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +5% {[CHANCE]} and +30% {[AURA]}."
+        "Starts with +5% {[CHANCE]} and +30% {[AURA]}.",
+        "Commence avec +5 % de {[CHANCE]} et +30 % d’{[AURA]}.",
+        "Inizia con +5% {[CHANCE]} e +30% {[AURA]}.",
+        "Beginnt mit +5 % {[CHANCE]} und +30 % {[AURA]}.",
+        "Empieza con +5 % {[CHANCE]} y +30 % {[AURA]}.",
+        "{[CHANCE]}+5%、{[AURA]}+30%で開始する。",
+        "시작 시 +5% {[CHANCE]}, +30% {[AURA]}.",
+        "Rozpoczyna z: {[CHANCE]} +5 i {[AURA]} +30%.",
+        "Inicia com +5% de {[CHANCE]} e +30% de {[AURA]}.",
+        "Начинает игру с +5% к параметру {[CHANCE]} и +30% к параметру {[AURA]}.",
+        "开局即获得+5%{[CHANCE]}以及+30%{[AURA]}。",
+        "+%5 {[CHANCE]} ve +%30 {[AURA]} ile başlar.",
+        "Розпочинає з +5% до показника {[CHANCE]} і +30% до показника {[AURA]}."
       ]
     },
     "surname": {
       "_value": [
-        "Child of the Abyss"
+        "Child of the Abyss",
+        ", Enfant de l’Abîme",
+        "Figlia dell'Abisso",
+        ", Kind des Abgrunds",
+        ", Hija del Abismo",
+        "（深淵の申し子）",
+        "심해의 아이",
+        ", Dziecko Otchłani",
+        ", Filha do Abismo",
+        "Дитя Бездны",
+        "深渊之子",
+        "Uçurumun Çocuğu",
+        "Дитя Безодні"
       ]
     },
     "description": {
       "_value": [
-        "Gains +5% {[CHANCE]} every 5 levels (max +30%). Finds more endless spells."
+        "Gains +5% {[CHANCE]} every 5 levels (max +30%). Finds more endless spells.",
+        "Obtient +5 % de {[CHANCE]} tous les 5 niveaux (max. +30 %). Trouve plus de sorts infinis.",
+        "Ottiene +5% {[CHANCE]} ogni 5 livelli (max +30%). Trova più incantesimi infiniti.",
+        "Erhält alle 5 Stufen +5 % {[CHANCE]} (max. +30 %). Findet mehr Endloszauber.",
+        "Obtiene +5 % de {[CHANCE]} cada 5 niveles (máx. +30 %). Encuentra más hechizos permanentes.",
+        "5レベルごとに{[CHANCE]}が+5%増加する（最大+30%）。より多くのエンドレススペルが見つかる。",
+        "5레벨마다 {[CHANCE]}이(가) 5% 증가합니다(최대 30%). 영속 주문을 더 자주 발견합니다.",
+        "{[CHANCE]} +5% co 5 poziomów (maks. +30%). Znajduje więcej Nieskończonych Zaklęć.",
+        "Ganha +5% de {[CHANCE]} a cada 5 níveis (máximo de +30%). Encontra mais feitiços infinitos.",
+        "Получает +5% к параметру {[CHANCE]} каждые 5 уровней (максимум +30%). Находит больше бесконечных заклинаний.",
+        "每升5级，+5%{[CHANCE]}（最多+30%）。可找到更多无尽法术。",
+        "Her 5 seviyede +%5 {[CHANCE]} kazanır (maks. +%30). Daha fazla sonsuz büyü bulur.",
+        "{[CHANCE]} +5% кожні 5 рівнів (макс. +30%). Знаходить більше нескінченних заклять."
       ]
     }
   },
   "WS_AOS_LUGASH": {
     "charName": {
       "_value": [
-        "Lugash"
+        "Lugash",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "Starts with +10% {[STRENGTH]}, +10% {[RANGE]}, +10% {[TITHE]}, +10% Curse. Collect Ur-Gold for stat boosts and reaching critical health causing Berserk."
+        "Starts with +10% {[STRENGTH]}, +10% {[RANGE]}, +10% {[TITHE]}, +10% Curse. Collect Ur-Gold for stat boosts and reaching critical health causing Berserk.",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_AOS_LYSSA_REVENYA": {
     "charName": {
       "_value": [
-        "Lyssa"
+        "Lyssa",
+        "Lyssa",
+        "Lyssa",
+        "Lyssa",
+        "Lyssa",
+        "リッサ",
+        "리사",
+        "Lyssa",
+        "Lyssa",
+        "Лисса",
+        "莉莎",
+        "Lyssa",
+        "Лісса"
       ]
     },
     "customCharName": {
       "_value": [
-        "Lyssa"
+        "Lyssa",
+        "Lyssa",
+        "Lyssa",
+        "Lyssa",
+        "Lyssa",
+        "リッサ",
+        "리사",
+        "Lyssa",
+        "Lyssa",
+        "Лисса",
+        "莉莎",
+        "Lyssa",
+        "Лісса"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +1 {[ATTACKS]} and +25% {[SUSTAIN]}. Gains a bonus to {[CHANCE]} and {[MOVE]} when lots of enemies are in sight."
+        "Starts with +1 {[ATTACKS]} and +25% {[SUSTAIN]}. Gains a bonus to {[CHANCE]} and {[MOVE]} when lots of enemies are in sight.",
+        "Commence avec +1 {[ATTACKS]} et +25 % de {[SUSTAIN]}. Obtient un bonus de {[CHANCE]} et de {[MOVE]} lorsque de nombreux ennemis sont en vue.",
+        "Inizia con +1 {[ATTACKS]} e +25% {[SUSTAIN]}. Ottiene un bonus per {[CHANCE]} e {[MOVE]} quando è presente un gran numero di nemici.",
+        "Beginnt mit +1 {[ATTACKS]} und +25 % {[SUSTAIN]}. Erhält einen Bonus auf {[CHANCE]} und {[MOVE]}, solange viele Gegner in Sichtweite sind.",
+        "Empieza con +1 {[ATTACKS]} y +25 % {[SUSTAIN]}. Obtiene una bonificación de {[CHANCE]} y {[MOVE]} cuando hay muchos enemigos a la vista.",
+        "{[ATTACKS]}+1、{[SUSTAIN]}+25%で開始する。視界内に多くの敵がいると、{[CHANCE]}と{[MOVE]}にボーナスを得る。",
+        "시작 시 +1 {[ATTACKS]}, +25% {[SUSTAIN]}. 시야에 적이 많으면 {[CHANCE]} 및 {[MOVE]}에 보너스를 얻습니다.",
+        "Rozpoczyna z: {[ATTACKS]} +1 i {[SUSTAIN]} +25%. Otrzymuje premię, gdy w zasięgu wzroku jest wielu wrogów: {[CHANCE]} i {[MOVE]}.",
+        "Inicia com +1 {[ATTACKS]} e +25% {[SUSTAIN]}. Ganha um bônus de {[CHANCE]} e {[MOVE]} quando vários inimigos estão no campo de visão.",
+        "Начинает игру с +1 к параметру {[ATTACKS]} и +25% к параметру {[SUSTAIN]}. Получает бонус к параметрам {[CHANCE]} и {[MOVE]}, когда в зоне видимости много врагов.",
+        "开局即获得+1{[ATTACKS]}以及+25%{[SUSTAIN]}。当视野内存在大量敌人时，{[CHANCE]}和{[MOVE]}可获得加成。",
+        "+1 {[ATTACKS]} ve +%25 {[SUSTAIN]} ile başlar. Çok sayıda düşman görüş alanındayken {[CHANCE]} ve {[MOVE]} için bonus kazanır.",
+        "Розпочинає з +1 до показника {[ATTACKS]} і +25% до показника {[SUSTAIN]}. Отримує бонус до показників {[CHANCE]} та {[MOVE]}, коли в полі зору багато ворогів."
       ]
     },
     "surname": {
       "_value": [
-        "Revenya"
+        "Revenya",
+        "Revenya",
+        "Revenya",
+        "Revenya",
+        "Revenya",
+        "レヴェニャ",
+        "레베냐",
+        "Revenya",
+        "Revenya",
+        "Ревенья",
+        "雷文尼婭",
+        "Revenya",
+        "Ревенія"
       ]
     },
     "description": {
       "_value": [
-        "Gains a bonus to {[CHANCE]} and {[MOVE]} when lots of enemies are in sight."
+        "Gains a bonus to {[CHANCE]} and {[MOVE]} when lots of enemies are in sight.",
+        "Obtient un bonus de {[CHANCE]} et de {[MOVE]} lorsque de nombreux ennemis sont en vue.",
+        "Ottiene un bonus per {[CHANCE]} e {[MOVE]} quando è presente un gran numero di nemici.",
+        "Erhält einen Bonus auf {[CHANCE]} und {[MOVE]}, solange viele Gegner in Sichtweite sind.",
+        "Obtiene una bonificación de {[CHANCE]} y {[MOVE]} cuando hay muchos enemigos a la vista.",
+        "視界内に多くの敵がいると、{[CHANCE]}と{[MOVE]}にボーナスを得る。",
+        "시야에 많은 적이 있으면 {[CHANCE]} 및 {[MOVE]}에 보너스를 받습니다.",
+        "Premia do {[CHANCE]} i {[MOVE]}, gdy w zasięgu wzroku jest wielu wrogów.",
+        "Ganha um bônus de {[CHANCE]} e {[MOVE]} quando muitos inimigos estão no campo de visão.",
+        "Получает бонус к параметрам {[CHANCE]} и {[MOVE]}, когда поблизости много врагов.",
+        "当视野内存在大量敌人时，{[CHANCE]}和{[MOVE]}可获得加成。",
+        "Çok sayıda düşman görüş alanındayken {[CHANCE]} ve {[MOVE]} için bonus kazanır.",
+        "Отримує бонус до показників {[CHANCE]} і {[MOVE]}, коли в полі зору багато ворогів."
       ]
     }
   },
   "WS_AOS_MALENETH_WITCHBLADE": {
     "charName": {
       "_value": [
-        "Maleneth"
+        "Maleneth",
+        "Maleneth",
+        "Maleneth",
+        "Maleneth",
+        "Maleneth",
+        "マレネス",
+        "말레네스",
+        "Maleneth",
+        "Maleneth",
+        "Маленет",
+        "玛勒涅斯",
+        "Maleneth",
+        "Маленет"
       ]
     },
     "customCharName": {
       "_value": [
-        "Maleneth"
+        "Maleneth",
+        "Maleneth",
+        "Maleneth",
+        "Maleneth",
+        "Maleneth",
+        "マレネス",
+        "말레네스",
+        "Maleneth",
+        "Maleneth",
+        "Маленет",
+        "玛勒涅斯",
+        "Maleneth",
+        "Маленет"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Deadly assassin. Starts with +20% {[SUSTAIN]}, +30% {[MOVE]} and +5 {[REROLL]}s. {[MOVE]} increases {[STRENGTH]}."
+        "Deadly assassin. Starts with +20% {[SUSTAIN]}, +30% {[MOVE]} and +5 {[REROLL]}s. {[MOVE]} increases {[STRENGTH]}.",
+        "Assassin redoutable. Commence avec +20 % de {[SUSTAIN]}, +30 % de {[MOVE]} et +5 {[REROLL]}. {[MOVE]} augmente {[STRENGTH]}.",
+        "Assassino letale. Inizia con +20% {[SUSTAIN]}, +30% {[MOVE]} e +5 {[REROLL]}. Il {[MOVE]} fa aumentare la {[STRENGTH]}.",
+        "Tödlicher Meuchelmörder. Beginnt mit +20 % {[SUSTAIN]}, +30 % {[MOVE]} und +5 {[REROLL]}. {[MOVE]} erhöht {[STRENGTH]}.",
+        "Asesino letal. Empieza con +20 % {[SUSTAIN]}, +30 % {[MOVE]} y +5 {[REROLL]}. El {[MOVE]} aumenta la {[STRENGTH]}.",
+        "恐るべきアサシン。{[SUSTAIN]}+20%、{[MOVE]}+30%、{[REROLL]}+5秒で開始する。{[MOVE]}が{[STRENGTH]}を増加させる。",
+        "치명적인 암살자입니다. 시작 시 {[SUSTAIN]} +20%, {[MOVE]} +30%, {[REROLL]} +5회. {[MOVE]}에 따라 {[STRENGTH]}이(가) 증가합니다.",
+        "Śmiertelnie niebezpieczny zabójca. Rozpoczyna z: {[SUSTAIN]} +20%, {[MOVE]} +30% oraz {[REROLL]} +5. {[MOVE]} zwiększa {[STRENGTH]}.",
+        "Assassina mortal. Inicia com +20% de {[SUSTAIN]}, +30% de {[MOVE]} e +5 {[REROLL]}s. {[MOVE]} aumenta a {[STRENGTH]}.",
+        "Смертельно опасный ассасин. Начинает игру с +20% к параметру {[SUSTAIN]}, +30% к параметру {[MOVE]} и +5 к навыку {[REROLL]}. {[MOVE]} увеличивает параметр {[STRENGTH]}.",
+        "致命刺客。开局即获得+20%{[SUSTAIN]}、+30%{[MOVE]}以及+5{[REROLL]}。{[MOVE]}可提升{[STRENGTH]}。",
+        "Ölümcül suikastçı. +%20 {[SUSTAIN]}, +%30 {[MOVE]} ve +5 {[REROLL]} ile başlar. {[MOVE]}, {[STRENGTH]} değerini artırır.",
+        "Смертоносний асасин. Розпочинає з +20% до показника {[SUSTAIN]}, +30% до показника {[MOVE]} і {[REROLL]} +5. {[MOVE]} підвищує показник {[STRENGTH]}."
       ]
     },
     "surname": {
       "_value": [
-        "Witchblade"
+        "Witchblade",
+        "Witchblade",
+        "Witchblade",
+        "Hagun Zar",
+        "Witchblade",
+        "ウィッチブレード",
+        "위치블레이드",
+        "Witchblade",
+        "Lâmina Bruxa",
+        "Витчблейд",
+        "巫术之刃",
+        "Witchblade",
+        "Відьомський клинок"
       ]
     },
     "description": {
       "_value": [
-        "Gains +5% {[MOVE]}, {[STRENGTH]} and {[SUSTAIN]} for every boss defeated."
+        "Gains +5% {[MOVE]}, {[STRENGTH]} and {[SUSTAIN]} for every boss defeated.",
+        "Obtient +5 % de {[MOVE]}, {[STRENGTH]} et {[SUSTAIN]} par boss battu.",
+        "Ottiene +5% {[MOVE]}, {[STRENGTH]} e {[SUSTAIN]} per ogni boss sconfitto.",
+        "Erhält +5 % {[MOVE]}, {[STRENGTH]} und {[SUSTAIN]} für jeden besiegten Boss.",
+        "Obtiene +5 % de {[MOVE]}, {[STRENGTH]} y {[SUSTAIN]} por cada jefe derrotado.",
+        "ボスを倒すたびに{[MOVE]}、{[STRENGTH]}、{[SUSTAIN]}が+5%増加する。",
+        "보스를 처치할 때마다 {[MOVE]}, {[STRENGTH]}, {[SUSTAIN]}이(가) 5% 증가합니다.",
+        "{[MOVE]}, {[STRENGTH]} i {[SUSTAIN]} +5% za każdego pokonanego bossa.",
+        "Ganha +5% de {[MOVE]}, {[STRENGTH]} e {[SUSTAIN]} a cada chefão derrotado.",
+        "Получает +5% к параметрам {[MOVE]}, {[STRENGTH]} и {[SUSTAIN]} за каждого побежденного босса.",
+        "每击败一名首领，+5%{[MOVE]}、{[STRENGTH]}和{[SUSTAIN]}。",
+        "Yenilen her patron için +%5 {[MOVE]}, {[STRENGTH]} ve {[SUSTAIN]} kazanır.",
+        "{[MOVE]}, {[STRENGTH]} і {[SUSTAIN]} зростають на 5% за кожного подоланого боса."
       ]
     }
   },
   "WS_AOS_MORGWAETH": {
     "charName": {
       "_value": [
-        "Morgwaeth"
+        "Morgwaeth",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "customCharName": {
       "_value": [
-        "Morgwaeth"
+        "Morgwaeth",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "Starts with +20% {[SKILL]} and +1 {[ATTACKS]}. {[CHANCE]} increases by 10% every 5 levels (max +30%)."
+        "Starts with +20% {[SKILL]} and +1 {[ATTACKS]}. {[CHANCE]} increases by 10% every 5 levels (max +30%).",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "surname": {
       "_value": [
-        "the Bloodied"
+        "the Bloodied",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_AOS_NEAVE": {
     "charName": {
       "_value": [
-        "Neave"
+        "Neave",
+        "Neave",
+        "Neave",
+        "Neave",
+        "Neave",
+        "ニーヴ",
+        "니브",
+        "Neave",
+        "Neave",
+        "Нив",
+        "尼芙",
+        "Neave",
+        "Нів"
       ]
     },
     "customCharName": {
       "_value": [
-        "Neave"
+        "Neave",
+        "Neave",
+        "Neave",
+        "Neave",
+        "Neave",
+        "ニーヴ",
+        "니브",
+        "Neave",
+        "Neave",
+        "Нив",
+        "尼芙",
+        "Neave",
+        "Нів"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +20% {[MOVE]}. Gains +10% {[RANGE]} every 5 levels (max 30%)."
+        "Starts with +20% {[MOVE]}. Gains +10% {[RANGE]} every 5 levels (max 30%).",
+        "Commence avec +20 % de {[MOVE]}. Obtient +10 % de {[RANGE]} tous les 5 niveaux (max. 30 %).",
+        "Inizia con +20% {[MOVE]}. Ottiene +10% {[RANGE]} ogni 5 livelli (max 30%).",
+        "Beginnt mit +20 % {[MOVE]}. Erhält alle 5 Stufen +10 % {[RANGE]} (max. +30 %).",
+        "Empieza con +20 % de {[MOVE]}. Obtiene +10 % de {[RANGE]} cada 5 niveles (máx. 30 %).",
+        "{[MOVE]}+20%で開始する。5レベルごとに{[RANGE]}が+10%増加する（最大30%）。",
+        "시작 시 {[MOVE]} +20%. 5레벨마다 {[RANGE]}이(가) 10% 증가하며, 최대 30%까지 증가합니다.",
+        "Rozpoczyna z: {[MOVE]} +20%. {[RANGE]} +10% co 5 poziomów (maks. 30%).",
+        "Inicia com +20% de {[MOVE]}. Ganha +10% de {[RANGE]} a cada 5 níveis (máximo de 30%).",
+        "Начинает игру с +20% к параметру {[MOVE]}. Получает +10% к параметру {[RANGE]} каждые 5 уровней (максимум 30%).",
+        "开局即获得+20%{[MOVE]}。每升5级，+10%{[RANGE]}（最多30%）。",
+        "+%20 {[MOVE]} ile başlar. Her 5 seviyede +%10 {[RANGE]} kazanır (maks. %30).",
+        "Розпочинає з +20% до показника {[MOVE]}. Здобуває +10% до показника {[RANGE]} кожних 5 рівнів (макс. 30%)."
       ]
     },
     "surname": {
       "_value": [
-        "Blacktalon"
+        "Blacktalon",
+        "Blacktalon",
+        "Blacktalon",
+        "Schwarzkralle",
+        "Garranegra",
+        "ブラックタロン",
+        "블랙탈론",
+        "Czarny Szpon",
+        "Blacktalon",
+        "Чёрный Коготь",
+        "黑爪",
+        "Blacktalon",
+        "Чорнопазур"
       ]
     },
     "description": {
       "_value": [
-        "Moves 20% faster. Gains +10% {[RANGE]} every 5 levels (max 30%)."
+        "Moves 20% faster. Gains +10% {[RANGE]} every 5 levels (max 30%).",
+        "Se déplace 20 % plus vite. Obtient +10 % de {[RANGE]} tous les 5 niveaux (max. 30 %).",
+        "Velocità di movimento +20%. Ottiene +10% {[RANGE]} ogni 5 livelli (max 30%).",
+        "Bewegt sich 20 % schneller. Erhält alle 5 Stufen +10 % {[RANGE]} (max. +30 %).",
+        "Se mueve un 20 % más rápido. Obtiene +10 % de {[RANGE]} cada 5 niveles (máx. 30 %).",
+        "移動速度が20%上昇する。5レベルごとに{[RANGE]}が+10%増加する（最大30%）。",
+        "이동 속도가 20% 증가합니다. 5레벨마다 {[RANGE]}이(가) 10% 증가합니다(최대 30%).",
+        "Porusza się o 20% szybciej. {[RANGE]} +10% co 5 poziomów (maks. 30%).",
+        "Ganha +20% de velocidade. Ganha +10% de {[RANGE]} a cada 5 níveis (máximo de 30%).",
+        "Двигается на 20% быстрее. Получает +10% к параметру {[RANGE]} каждые 5 уровней (максимум 30%).",
+        "移动速度提高20%。每升5级，+10%{[RANGE]}（最多30%）。",
+        "%20 daha hızlı hareket eder. Her 5 seviyede +%10 {[RANGE]} kazanır (maks. %30).",
+        "Пересувається на 20% швидше. Здобуває +10% до показника {[RANGE]} кожні 5 рівнів (макс. 30%)."
       ]
     }
   },
   "WS_AOS_ROSTUS": {
     "charName": {
       "_value": [
-        "Rostus"
+        "Rostus",
+        "Rostus",
+        "Rostus",
+        "Rostus",
+        "Rostus",
+        "ロストゥス",
+        "로스투스",
+        "Rostus",
+        "Rostus",
+        "Ростус",
+        "罗斯图斯",
+        "Rostus",
+        "Ростус"
       ]
     },
     "customCharName": {
       "_value": [
-        "Rostus"
+        "Rostus",
+        "Rostus",
+        "Rostus",
+        "Rostus",
+        "Rostus",
+        "ロストゥス",
+        "로스투스",
+        "Rostus",
+        "Rostus",
+        "Ростус",
+        "罗斯图斯",
+        "Rostus",
+        "Ростус"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +2 {[ATTACKS]}, +25% {[STRENGTH]} and +10% {[CHANCE]}."
+        "Starts with +2 {[ATTACKS]}, +25% {[STRENGTH]} and +10% {[CHANCE]}.",
+        "Commence avec +2 {[ATTACKS]}, +25 % de {[STRENGTH]} et +10 % de {[CHANCE]}.",
+        "Inizia con +2 {[ATTACKS]}, +25% {[STRENGTH]} e +10% {[CHANCE]}.",
+        "Beginnt mit +2 {[ATTACKS]}, +25 % {[STRENGTH]} und +10 % {[CHANCE]}.",
+        "Empieza con +2 {[ATTACKS]}, +25 % {[STRENGTH]} y +10 % {[CHANCE]}.",
+        "{[ATTACKS]}+2、{[STRENGTH]}+25%、{[CHANCE]}+10%で開始する。",
+        "시작 시 {[ATTACKS]} +2, {[STRENGTH]} +25%, {[CHANCE]} +10%.",
+        "Rozpoczyna z: {[ATTACKS]} +2, {[STRENGTH]} +25% i {[CHANCE]} +10%",
+        "Inicia com +2 {[ATTACKS]}, +25% de {[STRENGTH]} e +10% de {[CHANCE]}.",
+        "Начинает игру с +2 к параметру {[ATTACKS]}, +25% к параметру {[STRENGTH]} и +10% к параметру {[CHANCE]}.",
+        "开局即获得+2{[ATTACKS]}、+25%{[STRENGTH]}以及+10%{[CHANCE]}。",
+        "+2 {[ATTACKS]}, +%25 {[STRENGTH]} ve +%10 {[CHANCE]} ile başlar.",
+        "Розпочинає з +2 до показника {[ATTACKS]}, +25% до показника {[STRENGTH]} і +10% до показника {[CHANCE]}."
       ]
     },
     "surname": {
       "_value": [
-        "Oxenhammer"
+        "Oxenhammer",
+        "Oxenhammer",
+        "Oxenhammer",
+        "Oxenhammer",
+        "Martillotoro",
+        "オクスンハマー",
+        "옥슨해머",
+        "Byczy Młot",
+        "Oxenhammer",
+        "Бычий Молот",
+        "奥克森哈默",
+        "Oxenhammer",
+        "Воломолот"
       ]
     },
     "description": {
       "_value": [
-        "Gains +10 {[WOUNDS]} for every 1000enemies defeated."
+        "Gains +10 {[WOUNDS]} for every 1000enemies defeated.",
+        "Obtient +10 {[WOUNDS]} tous les 1 000 ennemis battus.",
+        "Ottiene +10% {[WOUNDS]} per 1.000 nemici sconfitti.",
+        "Erhält +10 {[WOUNDS]} für je 1.000 besiegte Gegner.",
+        "Obtiene +10 {[WOUNDS]} por cada 1000 enemigos derrotados.",
+        "敵を1000体倒すたびに{[WOUNDS]}が10増加する。",
+        "적을 1,000마리 처치할 때마다 {[WOUNDS]}이(가) 10 증가합니다.",
+        "{[WOUNDS]} +10 co 1000 pokonanych wrogów.",
+        "Ganha +10 {[WOUNDS]} para cada 1.000 inimigos derrotados.",
+        "Получает +10 к параметру {[WOUNDS]} за каждую 1000 уничтоженных врагов.",
+        "每击败1000名敌人，+10{[WOUNDS]}。",
+        "Yenilen her 1000 düşman için +10 {[WOUNDS]} kazanır.",
+        "+10 до показника {[WOUNDS]} за кожну 1000 подоланих ворогів."
       ]
     }
   },
   "WS_AOS_GOLDENBLADE": {
     "charName": {
       "_value": [
-        "Shakana"
+        "Shakana",
+        "Shakana",
+        "Shakana",
+        "Shakana",
+        "Shakana",
+        "シャカナ",
+        "샤카나",
+        "Shakana",
+        "Shakana",
+        "Шакана",
+        "沙卡娜",
+        "Shakana",
+        "Шакана"
       ]
     },
     "customCharName": {
       "_value": [
-        "Shakana"
+        "Shakana",
+        "Shakana",
+        "Shakana",
+        "Shakana",
+        "Shakana",
+        "シャカナ",
+        "샤카나",
+        "Shakana",
+        "Shakana",
+        "Шакана",
+        "沙卡娜",
+        "Shakana",
+        "Шакана"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +10% {[SKILL]}. Gains 10% more {[SKILL]} every 5 levels (max +40%)."
+        "Starts with +10% {[SKILL]}. Gains 10% more {[SKILL]} every 5 levels (max +40%).",
+        "Commence avec +10 % de {[SKILL]}. Obtient 10 % de {[SKILL]} en plus tous les 5 niveaux (max. +40 %).",
+        "Inizia con +10% {[SKILL]}. Ottiene il 10% di {[SKILL]} in più ogni 5 livelli (max 40%).",
+        "Beginnt mit +10 % {[SKILL]}. Erhält alle 5 Stufen weitere 10 % {[SKILL]} (max. +40 %).",
+        "Empieza con +10 % de {[SKILL]}. Obtiene un 10 % de {[SKILL]} más cada 5 niveles (máx. +40 %).",
+        "{[SKILL]}+10%で開始する。5レベルごとに{[STRENGTH]}がさらに10%増加する（最大40%）。",
+        "시작 시 {[SKILL]} +10%. 5레벨마다 {[SKILL]}이(가) 10% 증가하며, 최대 40%까지 증가합니다.",
+        "Rozpoczyna z: {[SKILL]} +10%. {[SKILL]} +10% co 5 poziomów (maks. +40%).",
+        "Inicia com +10% de {[SKILL]}. Ganha mais 10% de {[SKILL]} a cada 5 níveis (máx. de +40%).",
+        "Начинает игру с +10% к параметру {[SKILL]}. Получает 10% к параметру {[SKILL]} каждые 5 уровней (максимум +40%).",
+        "开局即获得+10%{[SKILL]}。每升5级获得额外10%{[SKILL]}（最多+40%）。",
+        "+%10 {[SKILL]} ile başlar. Her 5 seviyede %10 {[SKILL]} daha kazanır (maks. +%40).",
+        "Розпочинає з +10% до показника {[SKILL]}. Здобуває ще +10% до показника {[SKILL]} кожних 5 рівнів (макс. +40%)."
       ]
     },
     "surname": {
       "_value": [
-        "Goldenblade"
+        "Goldenblade",
+        "Goldenblade",
+        "Goldenblade",
+        "Goldklinge",
+        "Filodorado",
+        "ゴールデンブレード",
+        "골든블레이드",
+        "Złote Ostrze",
+        "Lâmina Dourada",
+        "Золотой Клинок",
+        "金刃",
+        "Goldenblade",
+        "Золотолеза"
       ]
     },
     "description": {
       "_value": [
-        "Gains +5% {[SKILL]} every 10 levels (max 30%). Gains +5% {[VETERANCY]} for every Weapon equipped."
+        "Gains +5% {[SKILL]} every 10 levels (max 30%). Gains +5% {[VETERANCY]} for every Weapon equipped.",
+        "Obtient +5 % de {[SKILL]} tous les 10 niveaux (max. 30 %). Obtient +5 % de {[VETERANCY]} par arme équipée.",
+        "Ottiene +5% {[SKILL]} ogni 10 livelli (max 30%). Ottiene +5% {[VETERANCY]} per ogni Arma equipaggiata.",
+        "Erhält alle 10 Stufen +5 % {[SKILL]} (max. 30 %). Erhält +5 % {[VETERANCY]} für jede aufgenommene Waffe.",
+        "Obtiene +5 % de {[SKILL]} cada 10 niveles (máx. 30 %). Obtiene +5 % de {[VETERANCY]} por cada arma equipada.",
+        "10レベルごとに{[SKILL]}が+5%増加する（最大+30%）。装備しているすべての武器の{[VETERANCY]}が+5%増加する。",
+        "10레벨마다 {[SKILL]}이(가) 5% 증가합니다(최대 30%). 장착한 무기 하나당 {[VETERANCY]}이(가) 5% 증가합니다.",
+        "{[SKILL]} +5% co 10 poziomów (maks. 30%). {[VETERANCY]} +5% za każdą założoną broń.",
+        "Ganha +5% de {[SKILL]} a cada 10 níveis (máximo de 30%). Ganha +5% de {[VETERANCY]} a cada arma equipada.",
+        "Получает +5% к параметру {[SKILL]} каждые 10 уровней (максимум +30%). Получает +5% к параметру {[VETERANCY]} за каждое используемое оружие.",
+        "每升10级，+5%{[SKILL]}（最多+30%）。每装备一件武器，+5%{[VETERANCY]}。",
+        "Her 10 seviyede +%5 {[SKILL]} kazanır (maks. +%30). Kuşanılmış her Silah için +%5 {[VETERANCY]} kazanır.",
+        "{[SKILL]} зростає на 5% кожні 10 рівнів (макс. +30%). {[VETERANCY]} зростає на 5% за кожну споряджену зброю."
       ]
     }
   },
   "WS_AOS_SHARYNN": {
     "charName": {
       "_value": [
-        "Sharynn"
+        "Sharynn",
+        "Sharynn",
+        "Sharynn",
+        "Sharynn",
+        "Sharynn",
+        "シャリン",
+        "샤린",
+        "Sharynn",
+        "Sharynn",
+        "Шаринн",
+        "莎琳",
+        "Sharynn",
+        "Шарінн"
       ]
     },
     "customCharName": {
       "_value": [
-        "Sharynn"
+        "Sharynn",
+        "Sharynn",
+        "Sharynn",
+        "Sharynn",
+        "Sharynn",
+        "シャリン",
+        "샤린",
+        "Sharynn",
+        "Sharynn",
+        "Шаринн",
+        "莎琳",
+        "Sharynn",
+        "Шарінн"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +25 {[WOUNDS]}, +1 {[SAVE]} and +1 {[TOUGHNESS]}."
+        "Starts with +25 {[WOUNDS]}, +1 {[SAVE]} and +1 {[TOUGHNESS]}.",
+        "Commence avec +25 {[WOUNDS]}, +1 {[SAVE]} et +1 {[TOUGHNESS]}.",
+        "Inizia con +25 {[WOUNDS]}, +1 {[SAVE]} e +1 {[TOUGHNESS]}.",
+        "Beginnt mit +25 {[WOUNDS]}, +1 {[SAVE]} und +1 {[TOUGHNESS]}.",
+        "Empieza con +25 {[WOUNDS]}, +1 {[SAVE]} y +1 {[TOUGHNESS]}.",
+        "{[WOUNDS]}+25、{[SAVE]}+1、{[TOUGHNESS]}+1で開始する。",
+        "시작 시 {[WOUNDS]} +25, {[SAVE]} +1, {[TOUGHNESS]} +1.",
+        "Rozpoczyna z: {[WOUNDS]} +25, {[SAVE]} +1 i {[TOUGHNESS]} +1.",
+        "Inicia com +25 {[WOUNDS]}, +1 {[SAVE]} e +1 de {[TOUGHNESS]}.",
+        "Начинает игру с +25 к параметру {[WOUNDS]}, +1 к параметру {[SAVE]} и +1 к параметру {[TOUGHNESS]}.",
+        "开局即获得+25{[WOUNDS]}、+1{[SAVE]}以及+1{[TOUGHNESS]}。",
+        "+25 {[WOUNDS]}, +1 {[SAVE]} ve +1 {[TOUGHNESS]} ile başlar.",
+        "Розпочинає з +25 до показника {[WOUNDS]}, +1 до показника {[SAVE]} і +1% до показника {[TOUGHNESS]}."
       ]
     },
     "surname": {
       "_value": [
-        "Azurwrath"
+        "Azurwrath",
+        "Azurwrath",
+        "Azurwrath",
+        "Azurwrath",
+        "Furiazur",
+        "アズラワース",
+        "아주르라스",
+        "Lazurowy Gniew",
+        "Azurwrath",
+        "Лазурный Гнев",
+        "湛蓝之怒",
+        "Azurwrath",
+        "Блакитна Лють"
       ]
     },
     "description": {
       "_value": [
-        "Gains a bonus to {[STRENGTH]} and {[RELOAD]} at critically low Wounds."
+        "Gains a bonus to {[STRENGTH]} and {[RELOAD]} at critically low Wounds.",
+        "Obtient un bonus de {[STRENGTH]} et de {[RELOAD]} en cas de nombre de blessures critiquement bas.",
+        "Ottiene un bonus per {[STRENGTH]} e {[RELOAD]} quando i punti ferita sono a livelli critici.",
+        "Erhält bei kritisch niedriger Gesundheit einen Bonus auf {[STRENGTH]} und {[RELOAD]}.",
+        "Obtiene una bonificación de {[STRENGTH]} y {[RELOAD]} con heridas críticamente bajas.",
+        "負傷限界が致命的に低下した時、{[STRENGTH]}と{[RELOAD]}にボーナスを得る。",
+        "체력이 일정 수준 이하로 떨어지면 {[STRENGTH]} 및 {[RELOAD]}에 보너스를 받습니다.",
+        "Premia przy krytycznie niskim poziomie punktów życia: {[STRENGTH]} i {[RELOAD]}.",
+        "Ganha um bônus de {[STRENGTH]} e {[RELOAD]} quando estiver com feridas em estado crítico.",
+        "Получает бонус к параметрам {[STRENGTH]} и {[RELOAD]} при критически низком уровне ран.",
+        "当承伤极低时，{[STRENGTH]}和{[RELOAD]}可获得加成。",
+        "Kritik derecede düşük yaralarda {[STRENGTH]} ve {[RELOAD]} için bonus kazanır.",
+        "Отримує бонус до показників {[STRENGTH]} і {[RELOAD]} за критично низького показника ран."
       ]
     }
   },
   "WS_AOS_STEEL_ROOK": {
     "charName": {
       "_value": [
-        "Steel Rook"
+        "Steel Rook",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "TBC - Desc (not designed)"
+        "TBC - Desc (not designed)",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_AOS_TOLL": {
     "charName": {
       "_value": [
-        "Hanniver"
+        "Hanniver",
+        "Hanniver",
+        "Hanniver",
+        "Hanniver",
+        "Hanniver",
+        "ハニヴァー",
+        "해니버",
+        "Hanniver",
+        "Hanniver",
+        "Ханнивер",
+        "汉尼弗",
+        "Hanniver",
+        "Ганнівер"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Gains +10% {[SKILL]} every 5 levels (max +30%)."
+        "Gains +10% {[SKILL]} every 5 levels (max +30%).",
+        "Obtient +10 % de {[SKILL]} tous les 5 niveaux (max. +30 %).",
+        "Ottiene +10% {[SKILL]} ogni 5 livelli (max +30%).",
+        "Erhält alle 5 Stufen +10 % {[SKILL]} (max. +30 %).",
+        "Obtiene +10 % de {[SKILL]} cada 5 niveles (máx. +30 %).",
+        "5レベルごとに{[SKILL]}が+10%増加する（最大+30%）。",
+        "5레벨마다 {[SKILL]}이(가) 10% 증가하며, 최대 30%까지 증가합니다.",
+        "{[SKILL]} +10% co 5 poziomów (maks. +30%).",
+        "Ganha +10% de {[SKILL]} a cada 5 níveis (máx. de +30%).",
+        "Получает +10% к параметру {[SKILL]} каждые 5 уровней (максимум +30%).",
+        "每升5级，获得+10%{[SKILL]}（最多+30%）。",
+        "Her 5 seviyede, +%10 {[SKILL]} kazanır (maks. +%30).",
+        "Здобуває +10% до показника {[SKILL]} кожні 5 рівнів (макс. +30%)."
       ]
     },
     "surname": {
       "_value": [
-        "Toll"
+        "Toll",
+        "Toll",
+        "Toll",
+        "Toll",
+        "Toll",
+        "トール",
+        "톨",
+        "Toll",
+        "Toll",
+        "Толл",
+        "托尔",
+        "Toll",
+        "Подзвін"
       ]
     },
     "description": {
       "_value": [
-        "Gains +5% {[SUSTAIN]} every 5 levels (max +30%). +10% Damage against bosses."
+        "Gains +5% {[SUSTAIN]} every 5 levels (max +30%). +10% Damage against bosses.",
+        "Obtient +5 % de {[SUSTAIN]} tous les 5 niveaux (max. +30 %). +10 % de dégâts infligés aux boss.",
+        "Ottiene +5% {[SUSTAIN]} ogni 5 livelli (max +30%). +10% di Danni contro i boss.",
+        "Erhält alle 5 Stufen +5 % {[SUSTAIN]} (max. +30 %). +10 % Schaden gegen Bosse.",
+        "Obtiene +5 % de {[SUSTAIN]} cada 5 niveles (máx. +30 %). +10 % de daño contra jefes.",
+        "5レベルごとに{[SUSTAIN]}が+5%増加する（最大+30%）。ボスへのダメージが+10%増加する。",
+        "5레벨마다 {[SUSTAIN]}이(가) 5% 증가합니다(최대 30%). 보스에게 주는 피해가 10% 증가합니다.",
+        "{[SUSTAIN]} +5% co 5 poziomów (maks. +30%). +10% obrażeń przeciwko bossom.",
+        "Ganha +5% de {[SUSTAIN]} a cada 5 níveis (máximo de +30%). +10% de Dano contra chefeõs.",
+        "Получает +5% к параметру {[SUSTAIN]} каждые 5 уровней (максимум +30%). +10% к урону против боссов.",
+        "每升5级，+5%{[SUSTAIN]}（最多+30%）。对首领造成的伤害提高10%。",
+        "Her 5 seviyede +%5 {[SUSTAIN]} kazanır (maks. +%30). Patronlara karşı +%10 hasar.",
+        "{[SUSTAIN]} +5% кожні 5 рівнів (макс. +30%). +10% шкоди босам."
       ]
     }
   },
   "WS_AOS_ULGROMTHIER": {
     "charName": {
       "_value": [
-        "Ulgromthier"
+        "Ulgromthier",
+        "Ulgromthier",
+        "Ulgromthier",
+        "Ulgromthier",
+        "Ulgromthier",
+        "ウルグロムティア",
+        "울그롬시어",
+        "Ulgromthier",
+        "Ulgromthier",
+        "Ульгромтьер",
+        "乌格罗姆希尔",
+        "Ulgromthier",
+        "Улґромтієр"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +10 {[WOUNDS]}. Gains {[STRENGTH]} (max 30%), {[ATTACKS]} (max +3) and {[SKILL]} (max 15%) with level up."
+        "Starts with +10 {[WOUNDS]}. Gains {[STRENGTH]} (max 30%), {[ATTACKS]} (max +3) and {[SKILL]} (max 15%) with level up.",
+        "Commence avec +10 {[WOUNDS]}. Obtient {[STRENGTH]} (max. 30 %), {[ATTACKS]} (max. +3) et {[SKILL]} (max. 15 %) à chaque passage de niveau.",
+        "Inizia con +10 {[WOUNDS]}. Ottiene {[STRENGTH]} (max 30%), {[ATTACKS]} (max +3) e {[SKILL]} (max 15%) quando sale di livello.",
+        "Beginnt mit +10 {[WOUNDS]}. Erhält beim Stufenaufstieg {[STRENGTH]} (max. 30 %), {[ATTACKS]} (max. +3) und {[SKILL]} (max. 15 %).",
+        "Empieza con +10 {[WOUNDS]}. Obtiene {[STRENGTH]} (máx. 30 %), {[ATTACKS]} (máx. +3) y {[SKILL]} (máx. 15 %) al subir de nivel.",
+        "{[WOUNDS]}+10で開始する。レベルアップ時に{[STRENGTH]}（最大30%）、{[ATTACKS]}（最大+3）、{[SKILL]}（最大15%）が増加する。",
+        "시작 시 {[WOUNDS]} +10. 레벨 상승에 따라 {[STRENGTH]}, {[ATTACKS]}, {[SKILL]}이(가) 증가하며, 각각 최대 30%, 3, 15%까지 증가합니다.",
+        "Rozpoczyna z: {[WOUNDS]} +10. Otrzymuje {[STRENGTH]} (maks. 30%), {[ATTACKS]} (maks. +3) i {[SKILL]} (maks. 15%) z każdym poziomem.",
+        "Inicia com +10 {[WOUNDS]}. Ganha {[STRENGTH]} (máx. de 30%), {[ATTACKS]} (máx. de 3) e {[SKILL]} (máx. de 15%) ao subir de nível.",
+        "Начинает игру с +10 к параметру {[WOUNDS]}. С каждым повышением уровня увеличиваются параметры {[STRENGTH]} (максимум 30%), {[ATTACKS]} (максимум +3) и {[SKILL]} (максимум 15%).",
+        "开局即获得+10{[WOUNDS]}。升级时获得{[STRENGTH]}（最多30%）、{[ATTACKS]}（最多+3）以及{[SKILL]}（最多15%）。",
+        "+10 {[WOUNDS]} ile başlar. Seviye atladıkça{[STRENGTH]} (maks. %30), {[ATTACKS]} (maks. +3) ve {[SKILL]} (maks. %15) kazanır.",
+        "Розпочинає з +10 до показника {[WOUNDS]}. З підвищенням рівня посилюються такі показники: {[STRENGTH]} (макс. +30%), {[ATTACKS]} (макс. +3) і {[SKILL]} (макс. +15%)."
       ]
     },
     "description": {
       "_value": [
-        "Gains a random stat buff for every 100 coins collected. Finds more Ur-Gold runes."
+        "Gains a random stat buff for every 100 coins collected. Finds more Ur-Gold runes.",
+        "Obtient un bonus aléatoire de statistiques toutes les 100 pièces récupérées. Trouve plus de runes d'ur-or.",
+        "Ottiene un potenziamento casuale delle statistiche ogni 100 monete raccolte. Trova più rune Ur-Oro.",
+        "Erhält für je 100 gesammelte Münzen einen zufälligen Wertebonus. Findet mehr Ur-Gold-Runen.",
+        "Obtiene una mejora aleatoria de característica por cada 100 monedas recogidas. Encuentra más runas de ur-oro.",
+        "コインを100枚集めるごとにランダムなステータス強化を得る。より多くのウル＝ゴールドのルーンが見つかる。",
+        "코인을 100개 수집할 때마다 무작위 능력치 하나가 강화됩니다. 우르 골드 룬을 더 많이 발견합니다.",
+        "Otrzymuje wzmocnienie losowych statystyk za każde 100 zebranych monet. Znajduje więcej run Ur-złota.",
+        "Ganhe um bônus aleatório a cada 100 moedas coletadas. Encontre mais runas de Ouro-Ur.",
+        "Получает усиление случайной характеристики за каждые 100 собранных монет. Находит больше рун из пра-золота.",
+        "每收集100枚硬币即可获得一项随机属性增益，同时能找到更多始源金符文。",
+        "Toplanan her 100 para için rastgele bir istatistik güçlendirmesi kazanır. Daha fazla Ur-Gold rünü bulur.",
+        "Покращується випадковий показник за кожні 100 зібраних монет. Знаходить більше рун празолота."
       ]
     }
   },
   "WS_AOS_VALIUS": {
     "charName": {
       "_value": [
-        "Valius,"
+        "Valius,",
+        "Valius,",
+        "Valius,",
+        "Valius,",
+        "Valius,",
+        "ヴァリウス",
+        "발리우스,",
+        "Valius,",
+        "Valius,",
+        "Валиус,",
+        "瓦利乌斯，",
+        "Akşiyan Muhafızı",
+        "Валіус,"
       ]
     },
     "customCharName": {
       "_value": [
-        "Valius"
+        "Valius",
+        "Valius",
+        "Valius",
+        "Valius",
+        "Valius",
+        "ヴァリウス",
+        "발리우스",
+        "Valius",
+        "Valius",
+        "Валиус",
+        "瓦利乌斯",
+        "Valius",
+        "Валіус"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Gains +1 {[SAVE]} every 5 levels (Max +5)."
+        "Gains +1 {[SAVE]} every 5 levels (Max +5).",
+        "Obtient +1 {[SAVE]} tous les 5 niveaux (max. +5).",
+        "Ottiene +1 {[SAVE]} ogni 5 livelli (max +5)",
+        "Erhält alle 5 Stufen +1 {[SAVE]} (max. +5).",
+        "Obtiene +1 de {[SAVE]} cada 5 niveles (máx. +5).",
+        "5レベルごとに{[SAVE]}が+1増加する（最大+5）。",
+        "5레벨마다 {[SAVE]}가 1 증가하며, 최대 5까지 증가합니다.",
+        "{[SAVE]} +1 co 5 poziomów (maks. +5).",
+        "Ganha +1 {[SAVE]} a cada 5 níveis (máx. de +5).",
+        "Получает +1 к параметру {[SAVE]} каждые 5 уровней (максимум +5).",
+        "每升5级，获得+1{[SAVE]}（最多+5）。",
+        "Her 5 seviyede, +1 {[SAVE]} kazanır (Maks. +5).",
+        "Здобуває +1 до показника {[SAVE]} кожні 5 рівнів (макс. +5)."
       ]
     },
     "surname": {
       "_value": [
-        "the Keeper Aqshian"
+        "the Keeper Aqshian",
+        "le Gardien Aqshien",
+        "il Custode Aqshiano",
+        "der aqshianische Hüter",
+        "el Guardián Aqshiano",
+        "（アキュシー人の守護者）",
+        "아쿠쉬의 수호자",
+        ", Strażnik Aqshy",
+        "O Guardião Aqshiano",
+        "акшийский хранитель",
+        "阿奎夏守护者",
+        "Valius",
+        "Акшийський Хранитель"
       ]
     },
     "description": {
       "_value": [
-        "Gains +5% {[STRENGTH]}, {[RELOAD]}, {[RANGE]} and {[MOVE]} every 10 Levels. Corruption scales with all stats."
+        "Gains +5% {[STRENGTH]}, {[RELOAD]}, {[RANGE]} and {[MOVE]} every 10 Levels. Corruption scales with all stats.",
+        "Obtient +5 % de {[STRENGTH]}, {[RELOAD]}, {[RANGE]} et {[MOVE]} tous les 10 niveaux. Corruption varie selon toutes les stats.",
+        "Ottiene +5% {[STRENGTH]}, {[RELOAD]}, {[RANGE]} e {[MOVE]} ogni 10 livelli. La Corruzione aumenta in base alle statistiche.",
+        "Erhält alle 10 Stufen +5 % {[STRENGTH]}, {[RELOAD]}, {[RANGE]} und {[MOVE]}. Verderbnis skaliert mit allen Werten.",
+        "Obtiene +5 % de {[STRENGTH]}, {[RELOAD]}, {[RANGE]} y {[MOVE]} cada 10 niveles. Corrupción aumenta en función de todas las características.",
+        "10レベルごとに{[STRENGTH]}、{[RELOAD]}、{[RANGE]}、{[MOVE]}がそれぞれ+5%増加する。汚染はすべてのステータスに応じてスケールする。",
+        "10레벨마다 {[STRENGTH]}, {[RELOAD]}, {[RANGE]}, {[MOVE]}이(가) 5% 증가합니다. 모든 능력치에 비례해 타락이 증가합니다.",
+        "{[STRENGTH]}, {[RELOAD]}, {[RANGE]} i {[MOVE]} +5% co 10 poziomów. Zepsucie skaluje się wraz ze wszystkimi statystykami.",
+        "Ganha +5% de {[STRENGTH]}, {[RELOAD]}, {[RANGE]} e {[MOVE]} a cada 10 níveis. A corrupção aumenta de acordo com todos os atributos.",
+        "Получает +5% к параметрам {[STRENGTH]}, {[RELOAD]}, {[RANGE]} и {[MOVE]} каждые 10 уровней. Уровень скверны зависит от уровня всех характеристик.",
+        "每升10级，+5%{[STRENGTH]}、{[RELOAD]}、{[RANGE]}和{[MOVE]}。腐化将随所有属性的提升而加强。",
+        "Her 10 seviyede +%5 {[STRENGTH]}, {[RELOAD]}, {[RANGE]} ve {[MOVE]} kazanır. Yozlaşma tüm istatistiklere göre artar.",
+        "{[STRENGTH]}, {[RELOAD]}, {[RANGE]} і {[MOVE]} зростають на 5% кожні 10 рівнів. Рівень скверни пропорційний рівню всіх показників."
       ]
     }
   },
   "WS_AOS_MISTRESS_VERENTIA": {
     "charName": {
       "_value": [
-        "Verentia"
+        "Verentia",
+        "Verentia",
+        "Verentia",
+        "Verentia",
+        "Verentia",
+        "ヴェレンティア",
+        "베렌티아",
+        "Verentia",
+        "Verentia",
+        "Верентия",
+        "维伦蒂亚",
+        "Verentia",
+        "Верентія"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with -20% {[MOVE]}, +20% {[SKILL]}, and +20% {[SUSTAIN]}. {[SKILL]} increases every level."
+        "Starts with -20% {[MOVE]}, +20% {[SKILL]}, and +20% {[SUSTAIN]}. {[SKILL]} increases every level.",
+        "Commence avec -20 % de {[MOVE]}, +20 % de {[SKILL]} et +20 % de {[SUSTAIN]}. {[SKILL]} augmente à chaque niveau.",
+        "Inizia con -20% {[MOVE]}, +20% {[SKILL]}, e +20% {[SUSTAIN]}. {[SKILL]} aumenta con ogni livello.",
+        "Beginnt mit -20 % {[MOVE]}, +20 % {[SKILL]} und +20 % {[SUSTAIN]}. {[SKILL]} steigt mit jeder Stufe.",
+        "Empieza con -20 % de {[MOVE]}, +20 % de {[SKILL]} y +20 % de {[SUSTAIN]}. {[SKILL]} aumenta con cada nivel.",
+        "{[MOVE]}-20%、{[SKILL]}+20%、{[SUSTAIN]}+20%で開始する。{[SKILL]}はレベルごとに増加する。",
+        "시작 시 {[MOVE]} -20%, {[SKILL]} +20%, {[SUSTAIN]} +20%. 레벨이 오를 때마다 {[SKILL]}이(가) 증가합니다.",
+        "Rozpoczyna z: {[MOVE]} -20%, {[SKILL]} +20% i {[SUSTAIN]} +20%. {[SKILL]} rośnie z każdym poziomem.",
+        "Inicia com -20% de {[MOVE]}, +20% de {[SKILL]} e +20% de {[SUSTAIN]}. {[SKILL]} aumenta a cada nível.",
+        "Начинает игру с –20% от параметра {[MOVE]}, +20% к параметру {[SKILL]} и +20% к параметру {[SUSTAIN]}. {[SKILL]} увеличивается с каждым новым уровнем.",
+        "开局即获得-20%{[MOVE]}、+20%{[SKILL]}以及+20%{[SUSTAIN]}。每升一级{[SKILL]}相应提升。",
+        "-%20 {[MOVE]}, +%20 {[SKILL]} ve +%20 {[SUSTAIN]} ile başlar. {[SKILL]} her seviyede artar.",
+        "Розпочинає з -20% до показника {[MOVE]}, +20% до показника {[SKILL]} і +20% до показника {[SUSTAIN]}. Показник {[SKILL]} зростає з кожним рівнем."
       ]
     },
     "prefix": {
       "_value": [
-        "Mistress"
+        "Mistress",
+        "Maîtresse",
+        "Signora",
+        "Herrin",
+        "Dama",
+        "ミストレス",
+        "미스트리스",
+        "Mistrzyni",
+        "Senhora",
+        "Госпожа",
+        "夫人",
+        "Hanım",
+        "Володарка"
       ]
     },
     "description": {
       "_value": [
-        "Gains +5% {[MOVE]}, {[WOUNDS]} and {[SKILL]} every time she levels up her starting weapon."
+        "Gains +5% {[MOVE]}, {[WOUNDS]} and {[SKILL]} every time she levels up her starting weapon.",
+        "Obtient +5 % de {[MOVE]}, {[WOUNDS]} et {[SKILL]} à chaque fois qu’elle fait passer un niveau à son arme de départ.",
+        "Ottiene +5% {[MOVE]}, {[WOUNDS]} e {[SKILL]} ogni volta che potenzia l'arma di partenza.",
+        "Erhält jedes Mal +5 % {[MOVE]}, {[WOUNDS]} und {[SKILL]}, wenn sie die Stufe ihrer Startwaffe erhöht.",
+        "Obtiene +5 % de {[MOVE]}, {[WOUNDS]} y {[SKILL]} cada vez que sube de nivel su arma inicial.",
+        "彼女の初期武器をレベルアップさせるたびに、{[MOVE]}、{[WOUNDS]}、{[SKILL]}が+5%増加する。",
+        "시작 무기의 레벨을 올릴 때마다 {[MOVE]}, {[WOUNDS]}, {[SKILL]}이(가) 5% 증가합니다.",
+        "{[MOVE]}, {[WOUNDS]} i {[SKILL]} +5% wraz z każdym poziomem jej broni początkowej.",
+        "Ganha +5% de {[MOVE]}, {[WOUNDS]} e {[SKILL]} toda vez que ela sobe o nível de sua arma inicial.",
+        "Получает +5% к параметрам {[MOVE]}, {[WOUNDS]} и {[SKILL]} каждый раз, когда повышает уровень своего стартового оружия.",
+        "每当她将初始武器提升一级，+5{[MOVE]}、{[WOUNDS]}和{[SKILL]}。",
+        "Başlangıç silahına her seviye atlattığında +%5 {[MOVE]}, {[WOUNDS]} ve {[SKILL]} kazanır.",
+        "{[MOVE]}, {[WOUNDS]} і {[SKILL]} зростають на 5% щоразу, коли вона покращує стартову зброю."
       ]
     }
   },
   "WS_AOS_YNDRASTA": {
     "charName": {
       "_value": [
-        "Yndrasta,"
+        "Yndrasta,",
+        "Yndrasta,",
+        "Yndrasta,",
+        "Yndrasta,",
+        "Yndrasta,",
+        "インドラスタ",
+        "인드라스타,",
+        "Yndrasta,",
+        "Yndrasta,",
+        "Индраста,",
+        "英德拉斯塔，",
+        "Göksel Mızrak",
+        "Індраста,"
       ]
     },
     "customCharName": {
       "_value": [
-        "Yndrasta"
+        "Yndrasta",
+        "Yndrasta",
+        "Yndrasta",
+        "Yndrasta",
+        "Yndrasta",
+        "インドラスタ",
+        "인드라스타",
+        "Yndrasta",
+        "Yndrasta",
+        "Индраста",
+        "英德拉斯塔",
+        "Yndrasta",
+        "Індраста"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +30 {[WOUNDS]}, +1 {[SAVE]}, +10% {[RANGE]}, +10% {[STRENGTH]}, +10% {[MOVE]} and -10% {[RELOAD]}."
+        "Starts with +30 {[WOUNDS]}, +1 {[SAVE]}, +10% {[RANGE]}, +10% {[STRENGTH]}, +10% {[MOVE]} and -10% {[RELOAD]}.",
+        "Commence avec +30 {[WOUNDS]}, +1 {[SAVE]}, +10 % de {[RANGE]}, +10 % de {[STRENGTH]}, +10 % de {[MOVE]} et -10 % de {[RELOAD]}.",
+        "Inizia con +30 {[WOUNDS]}, +1 {[SAVE]}, +10% {[RANGE]}, +10% {[STRENGTH]}, +10% {[MOVE]} e -10% {[RELOAD]}.",
+        "Beginnt mit +30 {[WOUNDS]}, +1 {[SAVE]}, +10 % {[RANGE]}, +10 % {[STRENGTH]}, +10 % {[MOVE]} und -10 % {[RELOAD]}.",
+        "Empieza con +30 {[WOUNDS]}, +1 {[SAVE]}, +10 % {[RANGE]}, +10 % {[STRENGTH]}, +10 % {[MOVE]} y -10 % {[RELOAD]}.",
+        "{[WOUNDS]}+30、{[SAVE]}+1、{[RANGE]}+10%、{[STRENGTH]}+10%、{[MOVE]}+10%、{[RELOAD]}-10%で開始する。",
+        "시작 시 {[WOUNDS]} +30, {[SAVE]} +1, {[RANGE]} +10%, {[STRENGTH]} +10%, {[MOVE]} +10%, {[RELOAD]} -10%.",
+        "Rozpoczyna z: {[WOUNDS]} +30%, {[SAVE]} +1, {[RANGE]} +10%, {[STRENGTH]} +10%, {[MOVE]} +10% i {[RELOAD]} -10%.",
+        "Inicia com +30 {[WOUNDS]}, +1 {[SAVE]}, +10% de {[RANGE]}, +10% de {[STRENGTH]}, +10% de {[MOVE]} e -10% de {[RELOAD]}.",
+        "Начинает игру с +30 к параметру {[WOUNDS]}, +1 к параметру {[SAVE]}, +10% к параметру {[RANGE]}, +10% к параметру {[STRENGTH]}, +10% к параметру {[MOVE]} и –10% от параметра {[RELOAD]}.",
+        "开局即获得+30{[WOUNDS]}、+1{[SAVE]}、+10%{[RANGE]}、+10%{[STRENGTH]}、+10%{[MOVE]}以及-10%{[RELOAD]}。",
+        "+30 {[WOUNDS]}, +1 {[SAVE]}, +%10 {[RANGE]}, +%10 {[STRENGTH]}, +%10 {[MOVE]} ve -%10 {[RELOAD]} ile başlar.",
+        "Розпочинає з +30 до показника {[WOUNDS]}, +1 до показника {[SAVE]}, +10% до показника {[RANGE]}, +10% до показника {[STRENGTH]}, +10% до показника {[MOVE]} і -10% до показника {[RELOAD]}."
       ]
     },
     "surname": {
       "_value": [
-        "the Celestial Spear"
+        "the Celestial Spear",
+        "la Lance Céleste",
+        "la Lancia Celeste",
+        "der Himmlische Speer",
+        "la Lanza Celestial",
+        "（天空の槍）",
+        "천상의 창",
+        ", Niebiańska Włócznia",
+        "a Lança Celestial",
+        "Небесное Копьё",
+        "天界之矛",
+        "Yndrasta",
+        "Небесна Сулиця"
       ]
     },
     "description": {
       "_value": [
-        "Gains +0.5% {[SUSTAIN]} and {[CHANCE]} every level. Deals 50% extra damage to bosses."
+        "Gains +0.5% {[SUSTAIN]} and {[CHANCE]} every level. Deals 50% extra damage to bosses.",
+        "Obtient +0,5 % de {[SUSTAIN]} et de {[CHANCE]} à chaque niveau. Inflige 50 % de dégâts supplémentaires aux boss.",
+        "Ottiene +0,5% {[SUSTAIN]} e {[CHANCE]} ogni livello. Infligge il 50% di danni extra ai boss.",
+        "Erhält pro Stufe +0,5 % {[SUSTAIN]} und {[CHANCE]}. Fügt Bossen 50 % zusätzlichen Schaden zu.",
+        "Obtiene +0,5 % de {[SUSTAIN]} y {[CHANCE]} en cada nivel. Inflige un 50 % más de daño a los jefes.",
+        "レベルごとに{[SUSTAIN]}と{[CHANCE]}が+0.5%増加する。ボスに50%追加ダメージを与える。",
+        "레벨마다 {[SUSTAIN]} 및 {[CHANCE]}이(가) 0.5% 증가합니다. 보스에게 주는 피해가 50% 증가합니다.",
+        "{[SUSTAIN]} i {[CHANCE]} +0,5% co poziom. Zadaje bossom o 50% więcej obrażeń.",
+        "Ganha +0,5% de {[SUSTAIN]} e {[CHANCE]} a cada nível. Causa 50% de dano extra a chefões.",
+        "Получает +0,5% к параметрам {[SUSTAIN]} и {[CHANCE]} с каждым новым уровнем. Наносит 50% дополнительного урона боссам.",
+        "每升一级，+0.5%{[SUSTAIN]}和{[CHANCE]}。额外对首领造成50%伤害。",
+        "Her seviyede +%0,5 {[SUSTAIN]} ve {[CHANCE]} kazanır. Patronlara karşı %50 daha fazla hasar verir.",
+        "{[SUSTAIN]} і {[CHANCE]} зростають на 0,5% за кожен рівень. Завдає на 50% більше шкоди босам."
       ]
     }
   },
   "WS_AOS_SCALEBREAKER": {
     "charName": {
       "_value": [
-        "Scalebreaker"
+        "Scalebreaker",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     },
     "description": {
       "_value": [
-        "TBC - Desc (not designed)"
+        "TBC - Desc (not designed)",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   },
   "WS_AOS_FREEGUILD_FUSILIER": {
     "customCharName": {
       "_value": [
-        "Juntar"
+        "Juntar",
+        "Juntar",
+        "Juntar",
+        "Juntar",
+        "Juntar",
+        "ジュンタール",
+        "준타르",
+        "Juntar",
+        "Juntar",
+        "Юнтар",
+        "琼塔尔",
+        "Juntar",
+        "Джунтар"
       ]
     },
     "charName": {
       "_value": [
-        "Juntar"
+        "Juntar",
+        "Juntar",
+        "Juntar",
+        "Juntar",
+        "Juntar",
+        "ジュンタール",
+        "준타르",
+        "Juntar",
+        "Juntar",
+        "Юнтар",
+        "琼塔尔",
+        "Juntar",
+        "Джунтар"
       ]
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +1 {[SAVE]}, -10% {[MOVE]} and +10% {[CORRUPTION]}. Gains +5% {[STRENGTH]} and {[CORRUPTION]} every 10 levels (max +30%)."
+        "Starts with +1 {[SAVE]}, -10% {[MOVE]} and +10% {[CORRUPTION]}. Gains +5% {[STRENGTH]} and {[CORRUPTION]} every 10 levels (max +30%).",
+        "Commence avec +1 {[SAVE]}, -10 % de {[MOVE]} et +10 % de {[CORRUPTION]}. Obtient +5 % de {[STRENGTH]} et {[CORRUPTION]} tous les 10 niveaux (max. +30 %).",
+        "Inizia con +1 {[SAVE]}, -10% {[MOVE]} e +10% {[CORRUPTION]}. Ottiene +5% {[STRENGTH]} e {[CORRUPTION]} ogni 10 livelli (max +30%).",
+        "Beginnt mit +1 {[SAVE]}, -10 % {[MOVE]} und +10 % {[CORRUPTION]}. Erhält alle 10 Stufen +5 % {[STRENGTH]} und {[CORRUPTION]} (max. +30 %).",
+        "Empieza con +1 de {[SAVE]}, -10 % de {[MOVE]} y +10 % de {[CORRUPTION]}. Obtiene +5 % de {[STRENGTH]} y de {[CORRUPTION]} cada 10 niveles (máx. +30 %).",
+        "{[SAVE]}+1,{[MOVE]}-10%,{[CORRUPTION]}+10%で開始する。10レベルごとに{[STRENGTH]}+5%、{[CORRUPTION]}+5%を獲得する（最大+30%）。",
+        "시작 시 {[SAVE]} +1, {[MOVE]} -10%, {[CORRUPTION]} +10%. 10레벨마다 {[STRENGTH]} 및 {[CORRUPTION]}이(가) 5% 증가하며, 최대 30%까지 증가합니다.",
+        "Rozpoczyna z: {[SAVE]} +1, {[MOVE]} -10% i {[CORRUPTION]} +10%. {[STRENGTH]} +5% i {[CORRUPTION]} co 10 poziomów (maks. +30%).",
+        "Inicia com +1 {[SAVE]}, -10% de {[MOVE]} e +10% de {[CORRUPTION]}. Ganha +5% de {[STRENGTH]} e {[CORRUPTION]} a cada 10 níveis (máx. de +30%).",
+        "Начинает игру с +1 к параметру {[SAVE]}, –10% от параметра {[MOVE]} и +10% к параметру {[CORRUPTION]}. Получает +5% к параметрам {[STRENGTH]} и {[CORRUPTION]} каждые 10 уровней (максимум +30%).",
+        "开局即获得+1{[SAVE]}、-10%{[MOVE]}以及+10%{[CORRUPTION]}。每升10级获得+5%{[STRENGTH]}以及{[CORRUPTION]}（最多+30%）。",
+        "+1 {[SAVE]} ile başlar, -%10 {[MOVE]} ve +%10 {[CORRUPTION]} sağlar. Her 10 seviyede, +%5 {[STRENGTH]} ve {[CORRUPTION]} kazanır (maks. +%30).",
+        "Розпочинає з +1 до показника {[SAVE]}, -10% до показника {[MOVE]} і +10% {[CORRUPTION]}. Здобуває +5% до показників {[STRENGTH]} та {[CORRUPTION]} кожні 10 рівнів (макс. +30%)."
       ]
     },
     "surname": {
       "_value": [
-        "Bernskyn"
+        "Bernskyn",
+        "Bernskyn",
+        "Bernskyn",
+        "Bernskyn",
+        "Bernskyn",
+        "ベルンスキン",
+        "번스킨",
+        "Bernskyn",
+        "Bernskyn",
+        "Бернскин",
+        "伯恩斯基恩",
+        "Bernskyn",
+        "Бернскін"
       ]
     },
     "description": {
       "_value": [
-        "Gains +1 {[SAVE]} and +10% {[RELOAD]} when stationary."
+        "Gains +1 {[SAVE]} and +10% {[RELOAD]} when stationary.",
+        "Obtient +1 {[SAVE]} et +10 % de {[STRENGTH]} à l’arrêt.",
+        "Ottiene +1% {[SAVE]} e +10% {[STRENGTH]} quando non è in movimento.",
+        "Erhält +1 {[SAVE]} und +10 % {[STRENGTH]}, solange er stillsteht.",
+        "Obtiene +1 de {[SAVE]} y +10 % de {[STRENGTH]} al permanecer inmóvil.",
+        "静止時に{[SAVE]}が+1、{[STRENGTH]}が+10%増加する。",
+        "움직이지 않는 동안 {[SAVE]}이(가) 1, {[STRENGTH]}이(가) 10% 증가합니다.",
+        "+1 {[SAVE]} i {[STRENGTH]} +10%, gdy się nie porusza.",
+        "Ganha +1 {[SAVE]} e +10% de {[STRENGTH]} quando parado.",
+        "Получает +1 к параметру {[SAVE]} и +10% к параметру {[STRENGTH]}, когда остается неподвижным.",
+        "处于静止状态时，+1{[SAVE]}，同时+10%{[STRENGTH]}。",
+        "Hareketsizken +1 {[SAVE]} ve +%10 {[STRENGTH]} kazanır.",
+        "+1 {[SAVE]} і {[STRENGTH]} +10%, якщо стоїть нерухомо."
       ]
     }
   },
   "WS_AOS_FLAMESEEKER": {
     "customCharName": {
       "_value": [
-        "Thula"
+        "Thula",
+        "Thula",
+        "Thula",
+        "Thula",
+        "Thula",
+        "トゥーラ",
+        "툴라",
+        "Thula",
+        "Thula",
+        "Тула",
+        "图拉",
+        "Thula",
+        "Тула"
       ]
     },
     "charName": {
       "_value": [
-        "Thula"
+        "Thula",
+        "Thula",
+        "Thula",
+        "Thula",
+        "Thula",
+        "トゥーラ",
+        "툴라",
+        "Thula",
+        "Thula",
+        "Тула",
+        "图拉",
+        "Thula",
+        "Тула"
       ]
     },
     "surname": {
       "_value": [
-        "Scalehide"
+        "Scalehide",
+        "Scalehide",
+        "Scalehide",
+        "Scalehide",
+        "Pielescama",
+        "スケイルハイド",
+        "스케일하이드",
+        "Scalehide",
+        "Scalehide",
+        "Скейлхайд",
+        "鳞皮",
+        "Scalehide",
+        "Лускошкура"
       ]
     },
     "description": {
       "_value": [
-        "TBC - Desc (not designed)"
+        "TBC - Desc (not designed)",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A",
+        "#N/A"
       ]
     }
   }

@@ -85,5 +85,1049 @@
         "_value": "Warded"
       }
     }
+  },
+  "fr": {
+    "BATTLE_SHOCKED": {
+      "name": {
+        "_value": "Ébranlé"
+      }
+    },
+    "BERSERK": {
+      "name": {
+        "_value": "En rage"
+      }
+    },
+    "BLEEDING": {
+      "name": {
+        "_value": "Saignement"
+      }
+    },
+    "BLESSED": {
+      "name": {
+        "_value": "Bénédiction"
+      }
+    },
+    "BURNING": {
+      "name": {
+        "_value": "Brûlure"
+      }
+    },
+    "CURSED": {
+      "name": {
+        "_value": "Malédiction"
+      }
+    },
+    "DISARMED": {
+      "name": {
+        "_value": "Sans arme"
+      }
+    },
+    "FRENZIED": {
+      "name": {
+        "_value": "Frénésie"
+      }
+    },
+    "HASTENED": {
+      "name": {
+        "_value": "Précipitation"
+      }
+    },
+    "HEALING": {
+      "name": {
+        "_value": "Guérison"
+      }
+    },
+    "OILED": {
+      "name": {
+        "_value": "À l’huile"
+      }
+    },
+    "POISONED": {
+      "name": {
+        "_value": "Empoisonnement"
+      }
+    },
+    "SLOWED": {
+      "name": {
+        "_value": "Ralentissement"
+      }
+    },
+    "STASIS": {
+      "name": {
+        "_value": "Immobilisation"
+      }
+    },
+    "STUNNED": {
+      "name": {
+        "_value": "Étourdissement"
+      }
+    },
+    "VULNERABLE": {
+      "name": {
+        "_value": "Vulnérabilité"
+      }
+    },
+    "WARDED": {
+      "name": {
+        "_value": "Protection"
+      }
+    }
+  },
+  "it": {
+    "BATTLE_SHOCKED": {
+      "name": {
+        "_value": "Shock da Combattimento"
+      }
+    },
+    "BERSERK": {
+      "name": {
+        "_value": "Berserk"
+      }
+    },
+    "BLEEDING": {
+      "name": {
+        "_value": "Sanguinamento"
+      }
+    },
+    "BLESSED": {
+      "name": {
+        "_value": "Benedetto"
+      }
+    },
+    "BURNING": {
+      "name": {
+        "_value": "Ustione"
+      }
+    },
+    "CURSED": {
+      "name": {
+        "_value": "Maledetto"
+      }
+    },
+    "DISARMED": {
+      "name": {
+        "_value": "Disarmato"
+      }
+    },
+    "FRENZIED": {
+      "name": {
+        "_value": "Sfrenato"
+      }
+    },
+    "HASTENED": {
+      "name": {
+        "_value": "Accelerato"
+      }
+    },
+    "HEALING": {
+      "name": {
+        "_value": "Guarigione"
+      }
+    },
+    "OILED": {
+      "name": {
+        "_value": "Oliato"
+      }
+    },
+    "POISONED": {
+      "name": {
+        "_value": "Avvelenato"
+      }
+    },
+    "SLOWED": {
+      "name": {
+        "_value": "Rallentato"
+      }
+    },
+    "STASIS": {
+      "name": {
+        "_value": "Stasi"
+      }
+    },
+    "STUNNED": {
+      "name": {
+        "_value": "Stordito"
+      }
+    },
+    "VULNERABLE": {
+      "name": {
+        "_value": "Vulnerabile"
+      }
+    },
+    "WARDED": {
+      "name": {
+        "_value": "Protetto"
+      }
+    }
+  },
+  "de": {
+    "BATTLE_SHOCKED": {
+      "name": {
+        "_value": "Erschüttert"
+      }
+    },
+    "BERSERK": {
+      "name": {
+        "_value": "Berserker"
+      }
+    },
+    "BLEEDING": {
+      "name": {
+        "_value": "Blutend"
+      }
+    },
+    "BLESSED": {
+      "name": {
+        "_value": "Gesegnet"
+      }
+    },
+    "BURNING": {
+      "name": {
+        "_value": "Brennend"
+      }
+    },
+    "CURSED": {
+      "name": {
+        "_value": "Verflucht"
+      }
+    },
+    "DISARMED": {
+      "name": {
+        "_value": "Entwaffnet"
+      }
+    },
+    "FRENZIED": {
+      "name": {
+        "_value": "Rasend"
+      }
+    },
+    "HASTENED": {
+      "name": {
+        "_value": "Beschleunigt"
+      }
+    },
+    "HEALING": {
+      "name": {
+        "_value": "Heilung"
+      }
+    },
+    "OILED": {
+      "name": {
+        "_value": "Geölt"
+      }
+    },
+    "POISONED": {
+      "name": {
+        "_value": "Vergiftet"
+      }
+    },
+    "SLOWED": {
+      "name": {
+        "_value": "Verlangsamt"
+      }
+    },
+    "STASIS": {
+      "name": {
+        "_value": "Stasis"
+      }
+    },
+    "STUNNED": {
+      "name": {
+        "_value": "Betäubt"
+      }
+    },
+    "VULNERABLE": {
+      "name": {
+        "_value": "Verwundbar"
+      }
+    },
+    "WARDED": {
+      "name": {
+        "_value": "Behütet"
+      }
+    }
+  },
+  "es": {
+    "BATTLE_SHOCKED": {
+      "name": {
+        "_value": "Acobardamiento"
+      }
+    },
+    "BERSERK": {
+      "name": {
+        "_value": "Berserk"
+      }
+    },
+    "BLEEDING": {
+      "name": {
+        "_value": "Sangrado"
+      }
+    },
+    "BLESSED": {
+      "name": {
+        "_value": "Bendición"
+      }
+    },
+    "BURNING": {
+      "name": {
+        "_value": "Quemadura"
+      }
+    },
+    "CURSED": {
+      "name": {
+        "_value": "Maldición"
+      }
+    },
+    "DISARMED": {
+      "name": {
+        "_value": "Desarme"
+      }
+    },
+    "FRENZIED": {
+      "name": {
+        "_value": "Frenesí"
+      }
+    },
+    "HASTENED": {
+      "name": {
+        "_value": "Aceleración"
+      }
+    },
+    "HEALING": {
+      "name": {
+        "_value": "Curación"
+      }
+    },
+    "OILED": {
+      "name": {
+        "_value": "Afectado por el aceite"
+      }
+    },
+    "POISONED": {
+      "name": {
+        "_value": "Envenenado"
+      }
+    },
+    "SLOWED": {
+      "name": {
+        "_value": "Ralentización"
+      }
+    },
+    "STASIS": {
+      "name": {
+        "_value": "Inmovilidad"
+      }
+    },
+    "STUNNED": {
+      "name": {
+        "_value": "Aturdimiento"
+      }
+    },
+    "VULNERABLE": {
+      "name": {
+        "_value": "Vulnerabilidad"
+      }
+    },
+    "WARDED": {
+      "name": {
+        "_value": "Protección"
+      }
+    }
+  },
+  "ja": {
+    "BATTLE_SHOCKED": {
+      "name": {
+        "_value": "戦闘ショック"
+      }
+    },
+    "BERSERK": {
+      "name": {
+        "_value": "ベルセルク"
+      }
+    },
+    "BLEEDING": {
+      "name": {
+        "_value": "出血"
+      }
+    },
+    "BLESSED": {
+      "name": {
+        "_value": "祝福"
+      }
+    },
+    "BURNING": {
+      "name": {
+        "_value": "燃焼"
+      }
+    },
+    "CURSED": {
+      "name": {
+        "_value": "呪い"
+      }
+    },
+    "DISARMED": {
+      "name": {
+        "_value": "武装解除"
+      }
+    },
+    "FRENZIED": {
+      "name": {
+        "_value": "フレンジー"
+      }
+    },
+    "HASTENED": {
+      "name": {
+        "_value": "ヘイスト"
+      }
+    },
+    "HEALING": {
+      "name": {
+        "_value": "回復"
+      }
+    },
+    "OILED": {
+      "name": {
+        "_value": "油まみれ"
+      }
+    },
+    "POISONED": {
+      "name": {
+        "_value": "毒"
+      }
+    },
+    "SLOWED": {
+      "name": {
+        "_value": "スロウ"
+      }
+    },
+    "STASIS": {
+      "name": {
+        "_value": "ステイシス"
+      }
+    },
+    "STUNNED": {
+      "name": {
+        "_value": "スタン"
+      }
+    },
+    "VULNERABLE": {
+      "name": {
+        "_value": "脆弱"
+      }
+    },
+    "WARDED": {
+      "name": {
+        "_value": "ワード"
+      }
+    }
+  },
+  "ko": {
+    "BATTLE_SHOCKED": {
+      "name": {
+        "_value": "전투충격"
+      }
+    },
+    "BERSERK": {
+      "name": {
+        "_value": "광폭"
+      }
+    },
+    "BLEEDING": {
+      "name": {
+        "_value": "출혈"
+      }
+    },
+    "BLESSED": {
+      "name": {
+        "_value": "축복"
+      }
+    },
+    "BURNING": {
+      "name": {
+        "_value": "화상"
+      }
+    },
+    "CURSED": {
+      "name": {
+        "_value": "저주"
+      }
+    },
+    "DISARMED": {
+      "name": {
+        "_value": "무장 해제"
+      }
+    },
+    "FRENZIED": {
+      "name": {
+        "_value": "광란"
+      }
+    },
+    "HASTENED": {
+      "name": {
+        "_value": "가속"
+      }
+    },
+    "HEALING": {
+      "name": {
+        "_value": "회복"
+      }
+    },
+    "OILED": {
+      "name": {
+        "_value": "기름 묻음"
+      }
+    },
+    "POISONED": {
+      "name": {
+        "_value": "중독"
+      }
+    },
+    "SLOWED": {
+      "name": {
+        "_value": "둔화"
+      }
+    },
+    "STASIS": {
+      "name": {
+        "_value": "정지"
+      }
+    },
+    "STUNNED": {
+      "name": {
+        "_value": "기절"
+      }
+    },
+    "VULNERABLE": {
+      "name": {
+        "_value": "취약"
+      }
+    },
+    "WARDED": {
+      "name": {
+        "_value": "보호"
+      }
+    }
+  },
+  "pl": {
+    "BATTLE_SHOCKED": {
+      "name": {
+        "_value": "Szok Bitewny"
+      }
+    },
+    "BERSERK": {
+      "name": {
+        "_value": "Berserk"
+      }
+    },
+    "BLEEDING": {
+      "name": {
+        "_value": "Krwawienie"
+      }
+    },
+    "BLESSED": {
+      "name": {
+        "_value": "Błogosławieństwo"
+      }
+    },
+    "BURNING": {
+      "name": {
+        "_value": "Podpalenie"
+      }
+    },
+    "CURSED": {
+      "name": {
+        "_value": "Przekleństwo"
+      }
+    },
+    "DISARMED": {
+      "name": {
+        "_value": "Rozbrojenie"
+      }
+    },
+    "FRENZIED": {
+      "name": {
+        "_value": "Szał"
+      }
+    },
+    "HASTENED": {
+      "name": {
+        "_value": "Przyspieszenie"
+      }
+    },
+    "HEALING": {
+      "name": {
+        "_value": "Leczenie"
+      }
+    },
+    "OILED": {
+      "name": {
+        "_value": "Oblanie olejem"
+      }
+    },
+    "POISONED": {
+      "name": {
+        "_value": "Zatrucie"
+      }
+    },
+    "SLOWED": {
+      "name": {
+        "_value": "Spowolnienie"
+      }
+    },
+    "STASIS": {
+      "name": {
+        "_value": "Staza"
+      }
+    },
+    "STUNNED": {
+      "name": {
+        "_value": "Ogłuszenie"
+      }
+    },
+    "VULNERABLE": {
+      "name": {
+        "_value": "Wrażliwość"
+      }
+    },
+    "WARDED": {
+      "name": {
+        "_value": "Ochrona"
+      }
+    }
+  },
+  "pt-BR": {
+    "BATTLE_SHOCKED": {
+      "name": {
+        "_value": "Choque de Batalha"
+      }
+    },
+    "BERSERK": {
+      "name": {
+        "_value": "Fúria"
+      }
+    },
+    "BLEEDING": {
+      "name": {
+        "_value": "Sangramento"
+      }
+    },
+    "BLESSED": {
+      "name": {
+        "_value": "Abençoado"
+      }
+    },
+    "BURNING": {
+      "name": {
+        "_value": "Queimadura"
+      }
+    },
+    "CURSED": {
+      "name": {
+        "_value": "Amaldiçoado"
+      }
+    },
+    "DISARMED": {
+      "name": {
+        "_value": "Desarmado"
+      }
+    },
+    "FRENZIED": {
+      "name": {
+        "_value": "Frenesi"
+      }
+    },
+    "HASTENED": {
+      "name": {
+        "_value": "Acelerado"
+      }
+    },
+    "HEALING": {
+      "name": {
+        "_value": "Cura"
+      }
+    },
+    "OILED": {
+      "name": {
+        "_value": "Untado"
+      }
+    },
+    "POISONED": {
+      "name": {
+        "_value": "Envenenado"
+      }
+    },
+    "SLOWED": {
+      "name": {
+        "_value": "Desacelerado"
+      }
+    },
+    "STASIS": {
+      "name": {
+        "_value": "Imobilizado"
+      }
+    },
+    "STUNNED": {
+      "name": {
+        "_value": "Atordoado"
+      }
+    },
+    "VULNERABLE": {
+      "name": {
+        "_value": "Vulnerável"
+      }
+    },
+    "WARDED": {
+      "name": {
+        "_value": "Protegido"
+      }
+    }
+  },
+  "ru": {
+    "BATTLE_SHOCKED": {
+      "name": {
+        "_value": "Состояние боевого шока"
+      }
+    },
+    "BERSERK": {
+      "name": {
+        "_value": "Берсерк"
+      }
+    },
+    "BLEEDING": {
+      "name": {
+        "_value": "Кровотечение"
+      }
+    },
+    "BLESSED": {
+      "name": {
+        "_value": "Благословение"
+      }
+    },
+    "BURNING": {
+      "name": {
+        "_value": "Горение"
+      }
+    },
+    "CURSED": {
+      "name": {
+        "_value": "Проклятие"
+      }
+    },
+    "DISARMED": {
+      "name": {
+        "_value": "Обезоруживание"
+      }
+    },
+    "FRENZIED": {
+      "name": {
+        "_value": "Неистовство"
+      }
+    },
+    "HASTENED": {
+      "name": {
+        "_value": "Ускорение"
+      }
+    },
+    "HEALING": {
+      "name": {
+        "_value": "Исцеление"
+      }
+    },
+    "OILED": {
+      "name": {
+        "_value": "Промасливание"
+      }
+    },
+    "POISONED": {
+      "name": {
+        "_value": "Отравление"
+      }
+    },
+    "SLOWED": {
+      "name": {
+        "_value": "Замедление"
+      }
+    },
+    "STASIS": {
+      "name": {
+        "_value": "Стазис"
+      }
+    },
+    "STUNNED": {
+      "name": {
+        "_value": "Оглушение"
+      }
+    },
+    "VULNERABLE": {
+      "name": {
+        "_value": "Уязвимость"
+      }
+    },
+    "WARDED": {
+      "name": {
+        "_value": "Безопасность"
+      }
+    }
+  },
+  "zh-CN": {
+    "BATTLE_SHOCKED": {
+      "name": {
+        "_value": "战斗休克"
+      }
+    },
+    "BERSERK": {
+      "name": {
+        "_value": "狂暴"
+      }
+    },
+    "BLEEDING": {
+      "name": {
+        "_value": "流血"
+      }
+    },
+    "BLESSED": {
+      "name": {
+        "_value": "赐福"
+      }
+    },
+    "BURNING": {
+      "name": {
+        "_value": "燃烧"
+      }
+    },
+    "CURSED": {
+      "name": {
+        "_value": "诅咒"
+      }
+    },
+    "DISARMED": {
+      "name": {
+        "_value": "缴械"
+      }
+    },
+    "FRENZIED": {
+      "name": {
+        "_value": "狂乱"
+      }
+    },
+    "HASTENED": {
+      "name": {
+        "_value": "加速"
+      }
+    },
+    "HEALING": {
+      "name": {
+        "_value": "治疗"
+      }
+    },
+    "OILED": {
+      "name": {
+        "_value": "油浸"
+      }
+    },
+    "POISONED": {
+      "name": {
+        "_value": "中毒"
+      }
+    },
+    "SLOWED": {
+      "name": {
+        "_value": "减速"
+      }
+    },
+    "STASIS": {
+      "name": {
+        "_value": "静滞"
+      }
+    },
+    "STUNNED": {
+      "name": {
+        "_value": "眩晕"
+      }
+    },
+    "VULNERABLE": {
+      "name": {
+        "_value": "脆弱"
+      }
+    },
+    "WARDED": {
+      "name": {
+        "_value": "庇护"
+      }
+    }
+  },
+  "tr": {
+    "BATTLE_SHOCKED": {
+      "name": {
+        "_value": "Savaş Şokuna Girmiş"
+      }
+    },
+    "BERSERK": {
+      "name": {
+        "_value": "Berserk"
+      }
+    },
+    "BLEEDING": {
+      "name": {
+        "_value": "Kanama"
+      }
+    },
+    "BLESSED": {
+      "name": {
+        "_value": "Kutsanmış"
+      }
+    },
+    "BURNING": {
+      "name": {
+        "_value": "Yanma"
+      }
+    },
+    "CURSED": {
+      "name": {
+        "_value": "Lanetli"
+      }
+    },
+    "DISARMED": {
+      "name": {
+        "_value": "Silahsızlandırılmış"
+      }
+    },
+    "FRENZIED": {
+      "name": {
+        "_value": "Gözü Dönmüş"
+      }
+    },
+    "HASTENED": {
+      "name": {
+        "_value": "Hızlanmış"
+      }
+    },
+    "HEALING": {
+      "name": {
+        "_value": "İyileştirme"
+      }
+    },
+    "OILED": {
+      "name": {
+        "_value": "Yağlanmış"
+      }
+    },
+    "POISONED": {
+      "name": {
+        "_value": "Zehirli"
+      }
+    },
+    "SLOWED": {
+      "name": {
+        "_value": "Yavaşlatılmış"
+      }
+    },
+    "STASIS": {
+      "name": {
+        "_value": "Hareketsizlik"
+      }
+    },
+    "STUNNED": {
+      "name": {
+        "_value": "Sersemletme"
+      }
+    },
+    "VULNERABLE": {
+      "name": {
+        "_value": "Savunmasız"
+      }
+    },
+    "WARDED": {
+      "name": {
+        "_value": "Muhafazalı"
+      }
+    }
+  },
+  "uk": {
+    "BATTLE_SHOCKED": {
+      "name": {
+        "_value": "Стан бойового шоку"
+      }
+    },
+    "BERSERK": {
+      "name": {
+        "_value": "Берсерк"
+      }
+    },
+    "BLEEDING": {
+      "name": {
+        "_value": "Кровотеча"
+      }
+    },
+    "BLESSED": {
+      "name": {
+        "_value": "Благословення"
+      }
+    },
+    "BURNING": {
+      "name": {
+        "_value": "Загоряння"
+      }
+    },
+    "CURSED": {
+      "name": {
+        "_value": "Прокляття"
+      }
+    },
+    "DISARMED": {
+      "name": {
+        "_value": "Обеззброєння"
+      }
+    },
+    "FRENZIED": {
+      "name": {
+        "_value": "Несамовитість"
+      }
+    },
+    "HASTENED": {
+      "name": {
+        "_value": "Поспіх"
+      }
+    },
+    "HEALING": {
+      "name": {
+        "_value": "Зцілення"
+      }
+    },
+    "OILED": {
+      "name": {
+        "_value": "Змащення"
+      }
+    },
+    "POISONED": {
+      "name": {
+        "_value": "Отруєння"
+      }
+    },
+    "SLOWED": {
+      "name": {
+        "_value": "Сповільнення"
+      }
+    },
+    "STASIS": {
+      "name": {
+        "_value": "Застій"
+      }
+    },
+    "STUNNED": {
+      "name": {
+        "_value": "Приголомшення"
+      }
+    },
+    "VULNERABLE": {
+      "name": {
+        "_value": "Вразливість"
+      }
+    },
+    "WARDED": {
+      "name": {
+        "_value": "Оберіг"
+      }
+    }
   }
 }

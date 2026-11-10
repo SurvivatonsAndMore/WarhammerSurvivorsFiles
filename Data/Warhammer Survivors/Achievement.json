@@ -1,720 +1,6454 @@
 {
-  "WS_40K_Collect_MunitorumDataslate": {
-    "description": "Find the Munitorum Dataslate on Imperial Bastion",
-	"relicToUnlock": "WS_40K_RELIC_MUNITORUM_DATASLATE",
-    "hasDemoLoc": true,
-    "completionRequirements": {
-      "category": "COLLECTED",
-      "lifetime": true,
-      "itemType": [
-        "WS_40K_RELIC_MUNITORUM_DATASLATE"
-      ]
-    },
+  "WS_40K_Survive_Small": {
     "silos": [
       "WH_40K"
-    ]
+    ],
+    "description": "Survive 1 minute with any character",
+    "weaponToUnlock": "WS_RANGE",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "value": 60
+    }
   },
-
+  "WS_40K_Survive_SisterSuperiorNovena": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 5 minutes with Novena",
+    "weaponToUnlock": "WS_40K_SHIELD_OF_FAITH",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_SISTER_SUPERIOR"
+      ],
+      "value": 300
+    }
+  },
+  "WS_40K_Survive_Med": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 10 minutes with any character (single run)",
+    "weaponToUnlock": "WS_SUSTAIN",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "value": 600
+    }
+  },
+  "WS_40K_Survive_Large": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 20 minutes in a stage with any character",
+    "weaponToUnlock": "WS_40K_STORM_EAGLE_ROCKET",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "value": 1200
+    }
+  },
+  "WS_40K_TakeDamage": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Take 250 damage",
+    "weaponToUnlock": "WS_SAVES",
+    "completionRequirements": {
+      "category": "DAMAGE_TAKEN",
+      "lifetime": true,
+      "requireAll": true,
+      "damageTaken": 250
+    }
+  },
+  "WS_40K_DealDamage": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Deal 10000 damage",
+    "weaponToUnlock": "WS_SKILL",
+    "completionRequirements": {
+      "category": "DAMAGE_INFLICTED",
+      "lifetime": true,
+      "requireAll": true,
+      "damageInflicted": 10000
+    }
+  },
   "WS_40K_Rescue_Kozlowski": {
+    "silos": [
+      "WH_40K"
+    ],
     "description": "Imperial Bastion Rescue Scenario",
-    "characterToUnlock": "WS_40K_KOZLOWSKI",
     "completionRequirements": {
       "category": "RESCUED",
       "lifetime": true,
+      "requireAll": true,
       "characterType": [
         "WS_40K_KOZLOWSKI"
       ],
       "value": 1
     },
-    "silos": [
-      "WH_40K"
-    ]
+    "characterToUnlock": "WS_40K_KOZLOWSKI"
   },
-  "WS_40K_Rescue_LegendOfCatachan": {
-    "description": "Imperial Bastion Rescue Scenario",
-    "characterToUnlock": "WS_40K_CATACHAN_LEGEND",
-    "completionRequirements": {
-      "category": "RESCUED",
-      "lifetime": true,
-      "characterType": [
-        "WS_40K_CATACHAN_LEGEND"
-      ],
-      "value": 1
-    },
-    "silos": [
-      "WH_40K"
-    ]
-  },
-
-  "WS_40K_Survive_Med": {
-    "description": "Survive 10 minutes with any character (single run)",
-    "weaponToUnlock": "WS_SUSTAIN",
-    "completionRequirements": {
-      "category": "TIME_SURVIVED",
-      "lifetime": false,
-      "value": 600
-    },
-    "silos": [
-      "WH_40K"
-    ]
-  },
-  "WS_40K_Survive_Small": {
-    "description": "Survive 1 minute with any character",
-    "weaponToUnlock": "WS_RANGE",
-    "completionRequirements": {
-      "category": "TIME_SURVIVED",
-      "lifetime": false,
-      "value": 60
-    },
-    "silos": [
-      "WH_40K"
-    ]
-  },
-  "WS_40K_Survive_LegendOfCatachan": {
-    "description": "Survive 15 minutes with The Legend of Catachan",
-    "weaponToUnlock": "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE",
-    "completionRequirements": {
-      "category": "TIME_SURVIVED",
-      "lifetime": false,
-      "characterType": [
-        "WS_40K_CATACHAN_LEGEND"
-      ],
-      "value": 900
-    },
-    "silos": [
-      "WH_40K"
-    ]
-  },
-
-  "WS_40K_Weapon_WhirlwindLauncher": {
-    "description": "Defeat 1000 Enemies",
-    "weaponToUnlock": "WS_40K_WHIRLWIND_LAUNCHER",
-    "hasDemoLoc": true,
-    "completionRequirements": {
-      "category": "ENEMIES_KILLED",
-      "requireAll": true,
-      "lifetime": true,
-      "killCount": 1000
-    },
-    "silos": [
-      "WH_40K"
-    ]
-  },
-  
   "WS_40K_HaveFollowers_Small": {
+    "silos": [
+      "WH_40K"
+    ],
     "description": "Have 2 Followers",
     "weaponToUnlock": "WS_TOUGHNESS",
     "completionRequirements": {
       "category": "FOLLOWERS",
       "requireAll": true,
-      "lifetime": false,
       "value": 2
-    },
+    }
+  },
+  "WS_40K_HaveFollowers_Med": {
     "silos": [
       "WH_40K"
-    ]
-  },
-  "WS_40K_Passive_Move": {
-    "description": "Reach level 5 with any character",
-    "weaponToUnlock": "WS_MOVE",
-    "hasDemoLoc": true,
+    ],
+    "description": "Have 5 Followers",
+    "weaponToUnlock": "WS_REDEPLOYMENT",
     "completionRequirements": {
-      "category": "REACH_CHARACTER_LEVEL",
-      "level": 5,
-      "lifetime": false
-    },
-    "silos": [
-      "WH_40K"
-    ]
-  },
-  "WS_40K_ReachLevel": {
-    "description": "Reach level 10",
-    "weaponToUnlock": "WS_VETERANCY",
-    "completionRequirements": {
-      "category": "REACH_CHARACTER_LEVEL",
-      "level": 10,
-      "lifetime": false
-    },
-    "silos": [
-      "WH_40K"
-    ]
-  },
-  "WS_40K_TakeDamage": {
-    "description": "Take 250 damage",
-    "weaponToUnlock": "WS_SAVES",
-    "completionRequirements": {
-      "category": "DAMAGE_TAKEN",
+      "category": "FOLLOWERS",
       "requireAll": true,
-      "lifetime": true,
-      "damageTaken": 250
+      "value": 5
     },
-    "silos": [
-      "WH_40K"
-    ]
+    "requiresAchievement": "WS_40K_HaveFollowers_Small"
   },
-  
-  "WS_40K_DealDamage": {
-    "description": "Deal 10000 damage",
-    "weaponToUnlock": "WS_SKILL",
-    "completionRequirements": {
-      "category": "DAMAGE_INFLICTED",
-      "damageInflicted": 10000,
-      "lifetime": true
-    },
-    "silos": [
-      "WH_40K"
-    ]
-  },
-  
   "WS_40K_ReachWeaponLevel_Boltgun": {
+    "silos": [
+      "WH_40K"
+    ],
     "description": "Get the Boltgun to level 4",
-	"weaponToUnlock": "WS_RELOAD",
+    "weaponToUnlock": "WS_RELOAD",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
+      "requireAll": true,
       "weaponType": [
         "WS_40K_BOLTGUN"
       ],
       "level": 4
-    },
-    "silos": [
-      "WH_40K"
-    ]
+    }
   },
   "WS_40K_ReachWeaponLevel_D6Dice": {
+    "silos": [
+      "WH_40K"
+    ],
     "description": "Get the D6 Dice to level 6",
-	"weaponToUnlock": "WS_ATTACKS",
+    "weaponToUnlock": "WS_ATTACKS",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
+      "requireAll": true,
       "weaponType": [
         "WS_D6_DICE"
       ],
       "level": 6
-    },
-    "silos": [
-      "WH_40K"
-    ]
-  },
-  "WS_40K_ReachWeaponLevel_Lasgun": {
-    "description": "Get the Lasgun to Level 6",
-	"weaponToUnlock": "WS_40K_LASGUN",
-    "completionRequirements": {
-      "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
-      "weaponType": [
-        "WS_40K_LASGUN"
-      ],
-      "level": 6
-    },
-    "silos": [
-      "WH_40K"
-    ]
+    }
   },
   "WS_40K_ReachWeaponLevel_TapeMeasure": {
+    "silos": [
+      "WH_40K"
+    ],
     "description": "Get Tape Measure to Level 5",
-    "pickupToUnlock": "WS_40K_BLAST_TEMPLATE",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
+      "requireAll": true,
       "weaponType": [
         "WS_RANGE"
       ],
       "level": 5
     },
+    "pickupToUnlock": "WS_40K_BLAST_TEMPLATE",
+    "requiresAchievement": "WS_40K_Survive_Small"
+  },
+  "WS_40K_ReachLevel": {
     "silos": [
       "WH_40K"
-    ]
+    ],
+    "description": "Reach level 10",
+    "weaponToUnlock": "WS_VETERANCY",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "level": 10
+    }
   },
-  "WS_40K_Weapon_PowerFist": {
-    "description": "Get Gauntlet to Level 5",
-    "weaponToUnlock": "WS_40K_POWER_FIST",
-    "hasDemoLoc": true,
+  "WS_40K_ReachLevel_ImperialBastion": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 20 in Imperial Bastion",
+    "stageToUnlock": "WS_40K_GALLOWDARK",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_IMPERIAL_BASTION"
+      ],
+      "level": 20
+    }
+  },
+  "WS_40K_ReachLevel_Gallowdark": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 40 in Gallowdark",
+    "stageToUnlock": "WS_40K_ORK_STRONGHOLD",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_GALLOWDARK"
+      ],
+      "level": 40
+    },
+    "requiresAchievement": "WS_40K_ReachLevel_ImperialBastion"
+  },
+  "WS_40K_ReachLevel_OrkStronghold": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 50 in Ork Stronghold",
+    "stageToUnlock": "WS_40K_IMPERIAL_SHIPYARD",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_ORK_STRONGHOLD"
+      ],
+      "level": 50
+    },
+    "requiresAchievement": "WS_40K_ReachLevel_Gallowdark"
+  },
+  "WS_40K_ReachLevel_OrbitalShipyard": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 60 in Orbital Shipyard",
+    "stageToUnlock": "WS_40K_DEATH_WORLD",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_IMPERIAL_SHIPYARD"
+      ],
+      "level": 60
+    },
+    "requiresAchievement": "WS_40K_ReachLevel_OrkStronghold"
+  },
+  "WS_40K_Encounter_ExtremisBosses": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Encounter the 3 Extremis Bosses",
+    "stageToUnlock": "WS_40K_HOBBY_TABLE",
+    "completionRequirements": {
+      "overrideShowProgressBar": true,
+      "enemyType": [
+        "WS_40K_TYR_BOSS_NORN_EMISSARY",
+        "WS_40K_ORK_BOSS_GHAZGHKULL",
+        "WS_40K_DEA_GREAT_UNCLEAN_ONE"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Survive_Large"
+  },
+  "WS_40K_Defeat_ExtremisBosses": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat the 3 Extremis Bosses",
+    "stageToUnlock": "WS_40K_THE_WARP",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_40K_TYR_BOSS_NORN_EMISSARY",
+        "WS_40K_ORK_BOSS_GHAZGHKULL",
+        "WS_40K_DEA_GREAT_UNCLEAN_ONE"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_40K_ReachLevel_ImperialBastion"
+  },
+  "WS_40K_Survive_Gallowdark_Short": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 1 minute on Gallowdark.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_GALLOWDARK"
+      ],
+      "value": 60
+    },
+    "requiresAchievement": "WS_40K_ReachLevel_ImperialBastion"
+  },
+  "WS_40K_Survive_Gallowdark_Onslaught": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 1 minute on Gallowdark",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_GALLOWDARK"
+      ],
+      "value": 60
+    },
+    "pickupToUnlock": "WS_40K_ONSLAUGHT",
+    "requiresAchievement": "WS_40K_ReachLevel_ImperialBastion"
+  },
+  "WS_40K_Survive_OrkStronghold_Short": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 1 minute on Ork Stronghold",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_ORK_STRONGHOLD"
+      ],
+      "value": 60
+    },
+    "requiresAchievement": "WS_40K_ReachLevel_Gallowdark"
+  },
+  "WS_40K_Survive_CanonessAuroraVeritas": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 5 minutes with Veritas",
+    "weaponToUnlock": "WS_40K_FLAMER",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_VERITAS"
+      ],
+      "value": 300
+    },
+    "requiresAchievement": "WS_40K_ApplyBurning_DeathGuard"
+  },
+  "WS_40K_Survive_ArbitesVigilant_Gallowdark": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 15 minutes with Arbites Vigilant on Gallowdark",
+    "weaponToUnlock": "WS_40K_COMBAT_SHOTGUN",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_VIGILANT"
+      ],
+      "stageType": [
+        "WS_40K_GALLOWDARK"
+      ],
+      "value": 900
+    },
+    "requiresAchievement": "WS_40K_Defeat_Nurglings_InRun"
+  },
+  "WS_40K_Survive_TorGaradon": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 10 minutes with Tor Garadon",
+    "weaponToUnlock": "WS_40K_WHIRLWIND_LAUNCHER",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_GARADON"
+      ],
+      "value": 600
+    },
+    "requiresAchievement": "WS_40K_Defeat_Enemies"
+  },
+  "WS_40K_Survive_LegendOfCatachan": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 15 minutes with The Legend of Catachan",
+    "weaponToUnlock": "WS_40K_ASTRA_MILITARUM_FRAG_GRENADE",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_CATACHAN_LEGEND"
+      ],
+      "value": 900
+    },
+    "requiresAchievement": "WS_40K_Rescue_LegendOfCatachan"
+  },
+  "WS_40K_Survive_K9": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 15 minutes with K9",
+    "weaponToUnlock": "WS_40K_MECHANICAL_BITE",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_K9_MASTIFF"
+      ],
+      "value": 900
+    },
+    "requiresAchievement": "WS_40K_Rescue_K9"
+  },
+  "WS_40K_Survive_CommissarYarrick_OrkStronghold": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 15 minutes with Commissar Yarrick on Ork Stronghold",
+    "weaponToUnlock": "WS_40K_POWER_KLAW",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_YARRICK"
+      ],
+      "stageType": [
+        "WS_40K_ORK_STRONGHOLD"
+      ],
+      "value": 900
+    },
+    "requiresAchievement": "WS_40K_Rescue_CommissarYarrick"
+  },
+  "WS_40K_Survive_ChaplainFoBaran": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 10 minutes with Chaplain Fo'Baran",
+    "weaponToUnlock": "WS_40K_CROZIUS_ARCANUM",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_FOBARAN"
+      ],
+      "value": 600
+    },
+    "requiresAchievement": "WS_40K_RecoverWounds_EavyMetal"
+  },
+  "WS_40K_Survive_Mephiston": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 15 minutes with Mephiston",
+    "weaponToUnlock": "WS_40K_SMITE",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_MEPHISTON"
+      ],
+      "value": 900
+    },
+    "requiresAchievement": "WS_40K_Collect_Paint_Mephiston"
+  },
+  "WS_40K_DealDamage_TorGaradon": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Deal 10000 damage with Tor",
+    "weaponToUnlock": "WS_CORRUPTION",
+    "completionRequirements": {
+      "category": "DAMAGE_INFLICTED",
+      "lifetime": true,
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_GARADON"
+      ],
+      "damageInflicted": 10000
+    },
+    "requiresAchievement": "WS_40K_Defeat_Enemies"
+  },
+  "WS_40K_RecoverWounds_EavyMetal": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Recover a total of 1000 Wounds in 'Eavy Metal Mode.",
+    "completionRequirements": {
+      "overrideShowProgressBar": true,
+      "value": 1000
+    },
+    "characterToUnlock": "WS_40K_FOBARAN",
+    "requiresAchievement": "WS_40K_Survive_OrkStronghold_Short"
+  },
+  "WS_40K_ReachLevel_SergeantFuran": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 20 with Sergeant Furan. ",
+    "weaponToUnlock": "WS_40K_STORM_BOLTER",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_FURAN"
+      ],
+      "level": 20
+    },
+    "requiresAchievement": "WS_40K_ReachWeaponLevel_Gauntlet_LightningBolt_OrkStronghold"
+  },
+  "WS_40K_ReachLevel_Astartes": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Get to Level 100 with an Astartes",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "playerFactionType": [
+        "ADEPTUS_ASTARTES"
+      ],
+      "level": 100
+    },
+    "pickupToUnlock": "WS_40K_PURITY_SEAL",
+    "requiresAchievement": "WS_40K_Survive_Large"
+  },
+  "WS_40K_ReachWeaponLevel_BugmansTankard_GreenStuff": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Get Bugman's Tankard and Liquid Green Stuff to level 5",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
+      "requireAll": true,
       "weaponType": [
-        "WS_STRENGTH"
+        "WS_TOUGHNESS",
+        "WS_WOUNDS"
       ],
       "level": 5
     },
+    "pickupToUnlock": "WS_40K_RECAFF",
+    "requiresAchievement": "WS_40K_HaveFollowers_Small"
+  },
+  "WS_40K_ReachWeaponLevel_Lasgun": {
     "silos": [
       "WH_40K"
-    ]
-  },
-
-  "WS_40K_Evolve_Boltgun": {
-    "description": "Evolve the Boltgun",
-    "goldPrize": 500,
-    "weaponIcon": "WS_40K_HEAVY_BOLTER",
+    ],
+    "description": "Get the Lasgun to Level 6",
+    "weaponToUnlock": "WS_40K_LASGUN",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
+      "requireAll": true,
       "weaponType": [
-        "WS_40K_HEAVY_BOLTER"
+        "WS_40K_LASGUN"
       ],
-      "level": 0
+      "level": 6
     },
+    "requiresAchievement": "WS_40K_Rescue_Kozlowski"
+  },
+  "WS_40K_ReachWeaponLevel_PowerFist": {
     "silos": [
       "WH_40K"
+    ],
+    "description": "Get the Power Fist to level 8",
+    "weaponToUnlock": "WS_40K_POWER_FIST",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_POWER_FIST"
+      ],
+      "level": 8
+    },
+    "requiresAchievement": "WS_40K_Rescue_MarneusCalgar"
+  },
+  "WS_40K_ReachWeaponLevel_TacticalRock": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Get Tactical Rock to Max Level",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_ABILITY"
+      ],
+      "level": 9
+    },
+    "powerUpToUnlock": "ABILITY",
+    "requiresAchievement": "WS_40K_Collect_TacticalRock"
+  },
+  "WS_40K_ReachWeaponLevel_Gauntlet_LightningBolt_OrkStronghold": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Get the Gauntlet and Lightning Bolt to Level 5 on Ork Stronghold.",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_ORK_STRONGHOLD"
+      ],
+      "weaponType": [
+        "WS_STRENGTH",
+        "WS_SKILL"
+      ],
+      "level": 5
+    },
+    "characterToUnlock": "WS_40K_FURAN",
+    "requiresAchievement": "WS_40K_Survive_OrkStronghold_Short"
+  },
+  "WS_40K_Defeat_Nurglings_InRun": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat a total of 1000 nurglings in a single run",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "enemyType": [
+        "WS_40K_DEA_NURGLING"
+      ],
+      "killCount": 1000
+    },
+    "characterToUnlock": "WS_40K_VIGILANT",
+    "requiresAchievement": "WS_40K_Survive_Gallowdark_Short"
+  },
+  "WS_40K_Defeat_Enemies": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat a total of 10,000 enemies total across all runs",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "killCount": 10000
+    },
+    "characterToUnlock": "WS_40K_GARADON",
+    "requiresAchievement": "WS_40K_Survive_Gallowdark_Short"
+  },
+  "WS_40K_Defeat_Enemies_Orks_Vehicles": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat a total of 100 Ork Vehicles.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyFactionType": [
+        "ORKS"
+      ],
+      "enemyKeywordType": [
+        "VEHICLE"
+      ],
+      "killCount": 100
+    },
+    "characterToUnlock": "WS_40K_PASK",
+    "requiresAchievement": "WS_40K_Survive_OrkStronghold_Short",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0006"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0006"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "7"
+      }
     ]
   },
+  "WS_40K_Collect_Relics": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Collect 10 Relics.",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "overrideShowProgressBar": true,
+      "value": 10
+    },
+    "characterToUnlock": "WS_40K_CELESTIAN_SACRESANT_AVELINE",
+    "requiresAchievement": "WS_40K_Survive_OrkStronghold_Short"
+  },
+  "WS_40K_Defeat_VulnerableEnemies_SaintCelestine": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Kill 1000 Vulnerable Enemies with Saint Celestine",
+    "weaponToUnlock": "WS_40K_ARDENT_BLADE",
+    "completionRequirements": {
+      "overrideShowProgressBar": true,
+      "killCount": 1000
+    },
+    "requiresAchievement": "WS_40K_Rescue_SaintCelestine"
+  },
+  "WS_40K_Defeat_Enemies_InRun_MorvennVahl": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat 100000 enemies as Morvenn Vahl in a single run",
+    "weaponToUnlock": "WS_40K_FIDELIS",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_VAHL"
+      ],
+      "killCount": 100000
+    },
+    "requiresAchievement": "WS_40K_UnlockAll_StandardCharacters"
+  },
+  "WS_40K_ApplyBurning_DeathGuard": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Apply Burning Status Effect to 100 Death Guard Enemies",
+    "completionRequirements": {
+      "overrideShowProgressBar": true,
+      "value": 100
+    },
+    "characterToUnlock": "WS_40K_VERITAS",
+    "requiresAchievement": "WS_40K_ReachLevel_ImperialBastion"
+  },
+  "WS_40K_Perform_TankShock_Boss_CommanderPask": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Tank Shock a boss with Pask",
+    "weaponToUnlock": "WS_40K_BATTLE_CANNON",
+    "completionRequirements": {
+      "value": 1
+    },
+    "requiresAchievement": "WS_40K_Defeat_Enemies_Orks_Vehicles"
+  },
+  "WS_40K_Perform_SecondaryStrikes_Aveline": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Perform 20 secondary strikes with Aveline",
+    "weaponToUnlock": "WS_40K_SPEAR_OF_THE_FAITHFUL",
+    "completionRequirements": {
+      "overrideShowProgressBar": true,
+      "value": 20
+    },
+    "requiresAchievement": "WS_40K_Collect_Relics"
+  },
+  "WS_40K_CompleteStageWithRetinue_ArbitesVigilant_K9": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Complete a stage with both of them in your retinue",
+    "skinsToUnlock": [
+      {
+        "character": "WS_40K_VIGILANT",
+        "skin": "SKIN_WS_40K_VIGILANT_WITH_K9"
+      },
+      {
+        "character": "WS_40K_K9_MASTIFF",
+        "skin": "SKIN_WS_40K_K9_WITH_VIGILANT"
+      }
+    ]
+  },
+  "WS_40K_UnlockAll_StandardEvolution": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Unlock every standard evolution and union",
+    "weaponToUnlock": "WS_40K_ARCHEOTECH",
+    "completionRequirements": {
+      "sortOrder": 5,
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_HEAVY_BOLTER",
+        "WS_40K_EVISCERATORCHAINSWORD",
+        "WS_40K_EMPERORS_WRATH",
+        "WS_40K_ORBITAL_BOMBARDMENT",
+        "WS_40K_GAUNTLETS_OF_ULTRAMAR",
+        "WS_40K_MELTAGUN",
+        "WS_40K_WEAPON_OF_THE_MATRIARCH",
+        "WS_40K_HEAVY_FLAMER",
+        "WS_40K_THORN_OF_THE_WHITE_ROSE",
+        "WS_40K_EXECUTIONER_SHOTGUN",
+        "WS_40K_BENEDICTION_OF_FURY",
+        "WS_40K_REMOTE_DETONATION",
+        "WS_40K_DEATHSTRIKE_MISSILE",
+        "WS_MORDANT_EARTH",
+        "WS_SUSTAINED_FIRE_DICE"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Survive_OrkStronghold_Short"
+  },
+  "WS_40K_UnlockAll_StandardEvolution_2": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Unlock every standard evolution and union",
+    "weaponToUnlock": "WS_40K_RELIQUARY",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "category": "REQUIRE_ACHIEVEMENTS",
+      "lifetime": true,
+      "requireAll": true,
+      "achievements": [
+        "WS_40K_UnlockAll_StandardEvolution"
+      ]
+    },
+    "requiresAchievement": "WS_40K_UnlockAll_StandardEvolution"
+  },
+  "WS_40K_UnlockAll_StandardCharacters": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Unlock every standard character",
+    "characterToUnlock": "WS_40K_VAHL",
+    "requiresAchievement": "WS_40K_Encounter_Merchant",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0010"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0010"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "11"
+      }
+    ]
+  },
+  "WS_40K_Collect_Magnet": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Pick up 3 magnet pickups",
+    "weaponToUnlock": "WS_AURA",
+    "completionRequirements": {
+      "category": "PICKUP_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "VACUUM"
+      ],
+      "value": 3
+    }
+  },
+  "WS_40K_Collect_MedicaeKit": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Pick up 100 Medicae Kits",
+    "completionRequirements": {
+      "category": "PICKUP_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_MEDIPACK"
+      ],
+      "value": 100
+    },
+    "pickupToUnlock": "WS_40K_MEDICAE_BAG"
+  },
+  "WS_40K_Collect_Onslaught": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Pick up 5 Onslaught",
+    "weaponToUnlock": "WS_MOVE",
+    "completionRequirements": {
+      "category": "PICKUP_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_ONSLAUGHT"
+      ],
+      "value": 5
+    },
+    "requiresAchievement": "WS_40K_Survive_Gallowdark_Onslaught"
+  },
+  "WS_40K_Collect_FragGrenade": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Pick up 5 Frag Grenades",
+    "completionRequirements": {
+      "category": "PICKUP_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_FRAG_GRENADE"
+      ],
+      "value": 5
+    },
+    "pickupToUnlock": "WS_40K_KRAK_GRENADE"
+  },
+  "WS_40K_Collect_BlastTemplate": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Collect 5 Blast Templates",
+    "weaponToUnlock": "WS_CHANCE",
+    "completionRequirements": {
+      "category": "PICKUP_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_BLAST_TEMPLATE"
+      ],
+      "value": 5
+    },
+    "requiresAchievement": "WS_40K_ReachWeaponLevel_TapeMeasure"
+  },
+  "WS_40K_Collect_KrakGrenades": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Pick up 5 Krak Grenades",
+    "completionRequirements": {
+      "category": "PICKUP_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_KRAK_GRENADE"
+      ],
+      "value": 5
+    },
+    "pickupToUnlock": "WS_40K_MELTA_BOMB",
+    "requiresAchievement": "WS_40K_Collect_BlastTemplate"
+  },
+  "WS_40K_Collect_HellfireAmmo": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Find it on Imperial Shipyard",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_HELLFIRE_AMMO"
+      ]
+    },
+    "pickupToUnlock": "WS_40K_HELLFIRE_AMMO",
+    "requiresAchievement": "WS_40K_ReachLevel_OrkStronghold"
+  },
+  "WS_40K_Collect_Auspex": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Find the Auspex on Desert Wasteland",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_AUSPEX"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_AUSPEX",
+    "requiresAchievement": "WS_40K_Unlock_EavyMetal",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0034"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0034"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "35"
+      }
+    ]
+  },
+  "WS_40K_Collect_CodexAstartes": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Use the Auspex to find this on Imperial Bastion",
+    "weaponToUnlock": "WS_40K_CODEX_ASTARTES",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_CODEX_ASTARTES"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Collect_Auspex"
+  },
+  "WS_40K_Collect_MunitorumDataslate": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Find the Munitorum Dataslate on Gallowdark",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_MUNITORUM_DATASLATE"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_MUNITORUM_DATASLATE",
+    "requiresAchievement": "WS_40K_ReachLevel_ImperialBastion"
+  },
+  "WS_40K_Collect_TomeOfEctolades": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Find the Tome of Ectolades on Gallowdark",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_TOME_OF_ECTOLADES"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_TOME_OF_ECTOLADES",
+    "requiresAchievement": "WS_40K_ReachLevel_ImperialBastion"
+  },
+  "WS_40K_Collect_SignumArray": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Find the Signum Array on Ork Stronghold",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_SIGNUM_ARRAY"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_SIGNUM_ARRAY",
+    "requiresAchievement": "WS_40K_Collect_Auspex"
+  },
+  "WS_40K_Collect_DaLuckyStikk": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Use the Auspex to find Makari on Ork Stronghold",
+    "weaponToUnlock": "WS_40K_DA_LUCKY_STIKK",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_40K_ORK_MAKARI"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_40K_Collect_Auspex"
+  },
+  "WS_40K_Collect_TacticalRock": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Use the Auspex to find the Tactical Rock in the Imperial Shipyard.",
+    "weaponToUnlock": "WS_ABILITY",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "weaponType": [
+        "WS_ABILITY"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Collect_Auspex"
+  },
+  "WS_40K_Collect_MaelstromKey": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Find the Maelstrom Key on the Imperial Shipyard",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_MAELSTROM_KEY"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_MAELSTROM_KEY",
+    "requiresAchievement": "WS_40K_ReachLevel_OrkStronghold"
+  },
+  "WS_40K_Collect_BookOfTzeentch": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Find the Book of Tzeentch on Death World",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_THE_BOOK_OF_TZEENTCH"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_THE_BOOK_OF_TZEENTCH",
+    "requiresAchievement": "WS_40K_ReachLevel_OrbitalShipyard",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0035"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0035"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "36"
+      }
+    ]
+  },
+  "WS_40K_Collect_BookOfWoe": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Find the Book of Woe on The Warp",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_BOOK_OF_WOE"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_BOOK_OF_WOE",
+    "requiresAchievement": "WS_40K_Defeat_ExtremisBosses"
+  },
+  "WS_40K_Collect_ArdCoat": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Pick up the 'Ard Coat on the Hobby Table",
+    "weaponToUnlock": "WS_INVULNERABILITY",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "weaponType": [
+        "WS_INVULNERABILITY"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Encounter_ExtremisBosses"
+  },
+  "WS_40K_CompleteStage_HobbyTable_Daedalosus": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Purchase Ferrosantic Orrery",
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_DAEDALOSUS"
+      ],
+      "stageType": [
+        "WS_40K_HOBBY_TABLE"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_FERROSANCTIC_ORRERY",
+    "requiresAchievement": "WS_40K_Encounter_Merchant"
+  },
+  "WS_40K_Collect_FerrosanticOrrery": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Purchase Ferrosantic Orrery",
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "lifetime": true,
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_DAEDALOSUS"
+      ],
+      "stageType": [
+        "WS_40K_HOBBY_TABLE"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_FERROSANCTIC_ORRERY"
+  },
+  "WS_40K_Rescue_Any": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Rescue any character",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "value": 1
+    }
+  },
+  "WS_40K_Rescue_LegendOfCatachan": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Imperial Bastion Rescue Scenario",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_CATACHAN_LEGEND"
+      ],
+      "value": 1
+    },
+    "characterToUnlock": "WS_40K_CATACHAN_LEGEND",
+    "requiresAchievement": "WS_40K_Rescue_Any",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0013"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0013"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "14"
+      }
+    ]
+  },
+  "WS_40K_Rescue_Any_LaudHailer": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Complete 1 Rescue",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "value": 1
+    },
+    "pickupToUnlock": "WS_40K_LAUD_HAILER",
+    "requiresAchievement": "WS_40K_Rescue_Any"
+  },
+  "WS_40K_Rescue_K9": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Gallowdark Rescue Scenario",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_K9_MASTIFF"
+      ],
+      "value": 1
+    },
+    "characterToUnlock": "WS_40K_K9_MASTIFF",
+    "requiresAchievement": "WS_40K_Rescue_Any",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0005"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0005"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "6"
+      }
+    ]
+  },
+  "WS_40K_Rescue_CommissarYarrick": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Ork Stronghold Rescue Scenario",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_YARRICK"
+      ],
+      "value": 1
+    },
+    "characterToUnlock": "WS_40K_YARRICK",
+    "requiresAchievement": "WS_40K_Rescue_Any",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0004"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0004"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "5"
+      }
+    ]
+  },
+  "WS_40K_Rescue_SaintCelestine": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Imperial Shipyard Rescue Scenario",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_SAINT_CELESTINE"
+      ],
+      "value": 1
+    },
+    "characterToUnlock": "WS_40K_SAINT_CELESTINE",
+    "requiresAchievement": "WS_40K_ReachLevel_OrkStronghold",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0011"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0011"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "12"
+      }
+    ]
+  },
+  "WS_40K_Rescue_MarneusCalgar": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Death World Rescue Scenario",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_CALGAR"
+      ],
+      "value": 1
+    },
+    "characterToUnlock": "WS_40K_CALGAR",
+    "requiresAchievement": "WS_40K_ReachLevel_OrbitalShipyard",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0008"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0008"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "9"
+      }
+    ]
+  },
+  "WS_40K_Defeat_Carnifex_ImperialBastion": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat a Carnifex in Imperial Bastion",
+    "hyperToUnlock": "WS_40K_IMPERIAL_BASTION",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_IMPERIAL_BASTION"
+      ],
+      "enemyType": [
+        "WS_40K_TYR_CARNIFEX"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_40K_Survive_Med"
+  },
+  "WS_40K_Defeat_Typhus_Gallowdark": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat Typhus in Gallowdark",
+    "hyperToUnlock": "WS_40K_GALLOWDARK",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_GALLOWDARK"
+      ],
+      "enemyType": [
+        "WS_40K_DEA_TYPHUS"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_40K_ReachLevel_ImperialBastion"
+  },
+  "WS_40K_Defeat_GrukkFaceRippa_OrkStronghold": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat Face-Rippa in Ork Stronghold",
+    "hyperToUnlock": "WS_40K_ORK_STRONGHOLD",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_ORK_STRONGHOLD"
+      ],
+      "enemyType": [
+        "WS_40K_ORK_GRUKK_FACE_RIPPA"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_40K_Survive_OrkStronghold_Short"
+  },
+  "WS_40K_TakeNoDamage_ImperialShipyard": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Take no damage on minute 7 on Imperial Shipyard",
+    "hyperToUnlock": "WS_40K_IMPERIAL_SHIPYARD",
+    "completionRequirements": {},
+    "requiresAchievement": "WS_40K_ReachLevel_OrkStronghold"
+  },
+  "WS_40K_Defeat_HiveTyrant_DeathWorldInvasion": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat Hive Tyrant on Death World Invasion",
+    "hyperToUnlock": "WS_40K_DEATH_WORLD",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_DEATH_WORLD"
+      ],
+      "enemyType": [
+        "WS_40K_TYR_HIVETYRANT"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_40K_ReachLevel_OrbitalShipyard"
+  },
+  "WS_40K_Defeat_ExtremisBoss_Any": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "forcedUnlockTips": "Unlocks Limitless Mode",
+    "description": "Defeat any Extremis Boss",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "enemyType": [
+        "WS_40K_TYR_BOSS_NORN_EMISSARY",
+        "WS_40K_ORK_BOSS_GHAZGHKULL",
+        "WS_40K_DEA_GREAT_UNCLEAN_ONE"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_40K_Survive_Large"
+  },
+  "WS_40K_Defeat_Enemy_Mortarion": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Complete the Warp.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_40K_DEA_BOSS_MORTARION"
+      ],
+      "killCount": 1
+    },
+    "relicToUnlock": "WS_40K_RELIC_STANDARD_OF_THE_EMPEROR_ASCENDANT",
+    "requiresAchievement": "WS_40K_Defeat_ExtremisBosses",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0040"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0040"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "41"
+      }
+    ]
+  },
+  "WS_40K_Collect_GyrotemporalVault": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Find the Gyrotemporal Vault on Deathworld Invasion",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_GYROTEMPORAL_VAULT"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_GYROTEMPORAL_VAULT",
+    "requiresAchievement": "WS_40K_ReachLevel_OrbitalShipyard"
+  },
+  "WS_40K_Unlock_EavyMetal": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Unlock 'Eavy Metal mode for any stage",
+    "stageToUnlock": "WS_40K_DESERT_WASTELAND",
+    "completionRequirements": {
+      "value": 1
+    },
+    "requiresAchievement": "WS_40K_Survive_Med"
+  },
+  "WS_40K_Collect_EmperorsTarot_2": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Find The Emperor's Tarot in Imperial Shipyard",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_EMPERORS_TAROT_DECK"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_EMPERORS_TAROT_DECK",
+    "requiresAchievement": "WS_40K_ReachLevel_OrkStronghold",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0036"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0036"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "37"
+      }
+    ]
+  },
+  "WS_40K_ReachLevel_TrooperBartoskKozlowski": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 50 with Trooper Bartosz Kozlowski",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_40K_Collect_EmperorsTarot_1"
+      ],
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_KOZLOWSKI"
+      ],
+      "level": 50
+    },
+    "arcanaToUnlock": "WS_40K_THE_GOD_EMPEROR",
+    "requiresAchievement": "WS_40K_Collect_EmperorsTarot_2"
+  },
+  "WS_40K_Defeat_Enemies_InRun": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Kill 9876 enemies in a single run",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_40K_Collect_EmperorsTarot_1"
+      ],
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "killCount": 9876
+    },
+    "arcanaToUnlock": "WS_40K_THE_WARP",
+    "requiresAchievement": "WS_40K_Collect_EmperorsTarot_2"
+  },
+  "WS_40K_Collect_Currency_InRun_Small": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Collect 1000 currency in a single run",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_40K_Collect_EmperorsTarot_1"
+      ],
+      "category": "CURRENCY",
+      "requireAll": true,
+      "value": 1000
+    },
+    "arcanaToUnlock": "WS_40K_THE_FOOL",
+    "requiresAchievement": "WS_40K_Collect_EmperorsTarot_2"
+  },
+  "WS_40K_Defeat_MajorisBoss_LowLevel": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat any Majoris Boss at Level 20 or lower",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_40K_Collect_EmperorsTarot_1"
+      ],
+      "category": "ENEMIES_KILLED",
+      "enemyType": [
+        "WS_40K_TYR_CARNIFEX",
+        "WS_40K_ORK_GRUKK_FACE_RIPPA",
+        "WS_40K_DEA_TYPHUS"
+      ],
+      "killCount": 1,
+      "level": 20
+    },
+    "arcanaToUnlock": "WS_40K_THE_YOUNG_WARRIOR",
+    "requiresAchievement": "WS_40K_Collect_EmperorsTarot_2"
+  },
+  "WS_40K_Collect_EmperorsTarot_1": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Find The Emperor's Tarot in Imperial Shipyard",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_EMPERORS_TAROT_DECK"
+      ]
+    },
+    "arcanaToUnlock": "WS_40K_THE_TREE_OF_LIFE",
+    "requiresAchievement": "WS_40K_Collect_EmperorsTarot_2"
+  },
+  "WS_40K_ReachLevel_CelestianSacresantAveline": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 50 with Celestian Sacresant Aveline",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_40K_Collect_EmperorsTarot_1"
+      ],
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_CELESTIAN_SACRESANT_AVELINE"
+      ],
+      "level": 50
+    },
+    "arcanaToUnlock": "WS_40K_DAEMON",
+    "requiresAchievement": "WS_40K_Collect_EmperorsTarot_2"
+  },
+  "WS_40K_ReachLevel_CommanderPask": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 50 with Knight Commander Pask",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_40K_Collect_EmperorsTarot_1"
+      ],
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_PASK"
+      ],
+      "level": 50
+    },
+    "arcanaToUnlock": "WS_40K_THE_HULK",
+    "requiresAchievement": "WS_40K_Collect_EmperorsTarot_2"
+  },
+  "WS_40K_ReachLevel_MalumCaedo": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 50 with Malum Caedo",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_40K_Collect_EmperorsTarot_1"
+      ],
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_MALUM"
+      ],
+      "level": 50
+    },
+    "arcanaToUnlock": "WS_40K_ASTARTES",
+    "requiresAchievement": "WS_40K_Collect_EmperorsTarot_2"
+  },
+  "WS_40K_Defeat_FinalEnemy_PerilsOfTheWarp": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat the final enemy in Perils of the Warp",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_40K_Collect_EmperorsTarot_1"
+      ],
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_40K_DEA_BOSS_MORTARION"
+      ],
+      "killCount": 1
+    },
+    "arcanaToUnlock": "WS_40K_GALAXY",
+    "requiresAchievement": "WS_40K_Collect_EmperorsTarot_2"
+  },
+  "WS_40K_ReachLevel_CanonessAuroraVeritas": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 50 with Canoness Aurora Veritas",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_40K_Collect_EmperorsTarot_1"
+      ],
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_VERITAS"
+      ],
+      "level": 50
+    },
+    "arcanaToUnlock": "WS_40K_THE_SILVER_KEY",
+    "requiresAchievement": "WS_40K_Collect_EmperorsTarot_2"
+  },
+  "WS_40K_CollectAll_EmperorsTarot": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Obtain all of the Emperor's Tarot Cards",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "sortOrder": 15,
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "arcanaType": [
+        "WS_40K_THE_GOD_EMPEROR",
+        "WS_40K_THE_WARP",
+        "WS_40K_THE_FOOL",
+        "WS_40K_THE_YOUNG_WARRIOR",
+        "WS_40K_THE_TREE_OF_LIFE",
+        "WS_40K_DAEMON",
+        "WS_40K_THE_HULK",
+        "WS_40K_ASTARTES",
+        "WS_40K_GALAXY",
+        "WS_40K_THE_SILVER_KEY"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Collect_EmperorsTarot_2",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0025"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0025"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "26"
+      }
+    ]
+  },
+  "WS_40K_ReachLevel_Novena": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 80 with Novena.",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_SISTER_SUPERIOR"
+      ],
+      "level": 80
+    },
+    "powerUpToUnlock": "WS_REROLL",
+    "requiresAchievement": "WS_40K_Survive_Large"
+  },
+  "WS_40K_ReachLevel_ArbitesVigilant": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 80 with Arbites Max Mahon.",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_VIGILANT"
+      ],
+      "level": 80
+    },
+    "powerUpToUnlock": "WS_REROLL",
+    "requiresAchievement": "WS_40K_Defeat_Nurglings_InRun"
+  },
+  "WS_40K_ReachLevel_TorGaradon": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 80 with Tor Garadon.",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_GARADON"
+      ],
+      "level": 80
+    },
+    "powerUpToUnlock": "WS_REROLL",
+    "requiresAchievement": "WS_40K_Defeat_Enemies"
+  },
+  "WS_40K_ReachLevel_Pask": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 80 with Pask.",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_PASK"
+      ],
+      "level": 80
+    },
+    "powerUpToUnlock": "WS_REROLL",
+    "requiresAchievement": "WS_40K_Defeat_Enemies_Orks_Vehicles"
+  },
+  "WS_40K_Survive_DesertWasteland": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 15 minutes on Desert Wasteland.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_DESERT_WASTELAND"
+      ],
+      "value": 900
+    },
+    "powerUpToUnlock": "WS_REROLL",
+    "requiresAchievement": "WS_40K_Unlock_EavyMetal"
+  },
+  "WS_40K_Survive_SingleWeapon_1": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 5 minutes with a single weapon.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "weaponCount": 1,
+      "value": 300
+    },
+    "powerUpToUnlock": "WS_SEAL",
+    "requiresAchievement": "WS_40K_Survive_Large"
+  },
+  "WS_40K_Survive_SingleWeapon_2": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 10 minutes with a single weapon.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "weaponCount": 1,
+      "value": 600
+    },
+    "powerUpToUnlock": "WS_SEAL",
+    "requiresAchievement": "WS_40K_Survive_Large"
+  },
+  "WS_40K_Survive_SingleWeapon_3": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 15 minutes with a single weapon.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "weaponCount": 1,
+      "value": 900
+    },
+    "powerUpToUnlock": "WS_SEAL",
+    "requiresAchievement": "WS_40K_Survive_Large"
+  },
+  "WS_40K_Survive_SingleWeapon_4": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 20 minutes with a single weapon.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "weaponCount": 1,
+      "value": 1200
+    },
+    "powerUpToUnlock": "WS_SEAL",
+    "requiresAchievement": "WS_40K_Survive_Large"
+  },
+  "WS_40K_Survive_SingleWeapon_5": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 25 minutes with a single weapon.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "weaponCount": 1,
+      "value": 1500
+    },
+    "powerUpToUnlock": "WS_SEAL",
+    "requiresAchievement": "WS_40K_Survive_Large"
+  },
+  "WS_40K_ReachLevel_Luca": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Reach level 80 with Brother Luca.",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_LUCA"
+      ],
+      "level": 80
+    },
+    "powerUpToUnlock": "WS_SKIP",
+    "requiresAchievement": "WS_40K_Survive_Large"
+  },
+  "WS_40K_Survive_HobbyTable": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Survive 15 minutes on Hobby Table.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_HOBBY_TABLE"
+      ],
+      "value": 900
+    },
+    "powerUpToUnlock": "WS_SKIP",
+    "requiresAchievement": "WS_40K_Encounter_ExtremisBosses"
+  },
+  "WS_40K_Defeat_Enemies_Tyranids": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat a total of 100000 Tyranids.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyFactionType": [
+        "TYRANIDS"
+      ],
+      "killCount": 100000
+    },
+    "powerUpToUnlock": "WS_BANISH",
+    "requiresAchievement": "WS_40K_ReachLevel_ImperialBastion"
+  },
+  "WS_40K_Defeat_Enemies_DeathGuard": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat a total of 100000 Death Guard.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyFactionType": [
+        "DEATH_GUARD"
+      ],
+      "killCount": 100000
+    },
+    "powerUpToUnlock": "WS_BANISH",
+    "requiresAchievement": "WS_40K_ReachLevel_ImperialBastion"
+  },
+  "WS_40K_Defeat_Enemies_Orks": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Defeat a total of 100000 Orks.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyFactionType": [
+        "ORKS"
+      ],
+      "killCount": 100000
+    },
+    "powerUpToUnlock": "WS_BANISH",
+    "requiresAchievement": "WS_40K_ReachLevel_Gallowdark"
+  },
   "WS_40K_Evolve_Chainsword": {
+    "silos": [
+      "WH_40K"
+    ],
     "description": "Evolve the Chainsword",
     "goldPrize": 500,
     "weaponIcon": "WS_40K_EVISCERATORCHAINSWORD",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
+      "requireAll": true,
       "weaponType": [
         "WS_40K_EVISCERATORCHAINSWORD"
-      ],
-      "level": 0
+      ]
     },
-    "silos": [
-      "WH_40K"
-    ]
+    "requiresAchievement": "WS_40K_Survive_Small"
   },
   "WS_40K_Evolve_Lasgun": {
+    "silos": [
+      "WH_40K"
+    ],
     "description": "Evolve the Lasgun",
-    "requiresAchievement": "WS_40K_Rescue_Kozlowski",
     "goldPrize": 500,
     "weaponIcon": "WS_40K_MELTAGUN",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
       "requireAll": true,
-      "lifetime": false,
       "weaponType": [
         "WS_40K_MELTAGUN"
-      ],
-      "level": 0
+      ]
     },
+    "requiresAchievement": "WS_40K_Rescue_Kozlowski"
+  },
+  "WS_40K_Evolve_Boltgun": {
     "silos": [
       "WH_40K"
-    ]
-  },
-  "WS_40K_Evolve_FragGrenade": {
-    "description": "Evolve the Frag Grenade",
-    "requiresAchievement": "WS_40K_Rescue_LegendOfCatachan",
+    ],
+    "description": "Evolve the Boltgun",
     "goldPrize": 500,
-    "weaponIcon": "WS_40K_RIPPER_PISTOL",
+    "weaponIcon": "WS_40K_HEAVY_BOLTER",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
+      "requireAll": true,
       "weaponType": [
-        "WS_40K_RIPPER_PISTOL"
-      ],
-      "level": 0
+        "WS_40K_HEAVY_BOLTER"
+      ]
     },
+    "requiresAchievement": "WS_Shared_Evolve_AnyWeapon"
+  },
+  "WS_40K_Evolve_ShieldOfFaith": {
     "silos": [
       "WH_40K"
-    ]
-  },
-  "WS_40K_Evolve_WhirlwindBattery": {
-    "description": "Evolve the Whirlwind Battery",
+    ],
+    "description": "Evolve the Shield of Faith",
     "goldPrize": 500,
-    "weaponIcon": "WS_40K_ORBITAL_BOMBARDMENT",
+    "weaponIcon": "WS_40K_EMPERORS_WRATH",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
+      "requireAll": true,
       "weaponType": [
-        "WS_40K_ORBITAL_BOMBARDMENT"
-      ],
-      "level": 0
+        "WS_40K_EMPERORS_WRATH"
+      ]
     },
+    "requiresAchievement": "WS_Shared_Evolve_AnyWeapon"
+  },
+  "WS_40K_Evolve_D6Dice": {
     "silos": [
       "WH_40K"
-    ]
+    ],
+    "description": "Evolve the D6 Dice",
+    "goldPrize": 500,
+    "weaponIcon": "WS_SUSTAINED_FIRE_DICE",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_SUSTAINED_FIRE_DICE"
+      ]
+    },
+    "requiresAchievement": "WS_Shared_Evolve_AnyWeapon"
   },
   "WS_40K_Evolve_NulnOil": {
+    "silos": [
+      "WH_40K"
+    ],
     "description": "Evolve Nuln Oil",
     "goldPrize": 500,
     "weaponIcon": "WS_MORDANT_EARTH",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
+      "requireAll": true,
       "weaponType": [
         "WS_MORDANT_EARTH"
-      ],
-      "level": 0
+      ]
     },
+    "requiresAchievement": "WS_Shared_Evolve_AnyWeapon"
+  },
+  "WS_40K_Evolve_Flamer": {
     "silos": [
       "WH_40K"
-    ]
-  },
-  
-  "WS_40K_Feature_Bestiary": {
-    "description": "Complete 3 runs",
-    "forcedUnlockTips": "achievementLang/{WS_40K_Feature_Bestiary}forcedUnlockTips",
-    "forcedTexture": "40K_items",
-    "forcedFrameName": "Relic_TomeOfEctolades.png",
-    "hasDemoLoc": true,
+    ],
+    "description": "Evolve the Flamer",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_HEAVY_FLAMER",
     "completionRequirements": {
-      "category": "MANUAL",
-      "value": 3
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_HEAVY_FLAMER"
+      ]
     },
+    "requiresAchievement": "WS_40K_ApplyBurning_DeathGuard"
+  },
+  "WS_40K_Evolve_CombatShotgun": {
     "silos": [
       "WH_40K"
+    ],
+    "description": "Evolve the Combat Shotgun",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_EXECUTIONER_SHOTGUN",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_EXECUTIONER_SHOTGUN"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Defeat_Nurglings_InRun"
+  },
+  "WS_40K_Evolve_WhirlwindBattery": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Evolve the Whirlwind Battery",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_ORBITAL_BOMBARDMENT",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_ORBITAL_BOMBARDMENT"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Defeat_Enemies"
+  },
+  "WS_40K_Evolve_FragGrenade": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Evolve the Frag Grenade",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_RIPPER_PISTOL",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_RIPPER_PISTOL"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Rescue_LegendOfCatachan"
+  },
+  "WS_40K_Evolve_MechanicalBite": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Evolve the Mechanical Bite",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_REMOTE_DETONATION",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_REMOTE_DETONATION"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Rescue_K9"
+  },
+  "WS_40K_Evolve_PowerClaw": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Evolve the Power Klaw",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_BALE_EYE",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_BALE_EYE"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Rescue_CommissarYarrick"
+  },
+  "WS_40K_Evolve_ArdentBlade": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Evolve the Ardent Blade",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_WEAPON_OF_THE_MATRIARCH",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_WEAPON_OF_THE_MATRIARCH"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Rescue_SaintCelestine"
+  },
+  "WS_40K_Evolve_PowerFist": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Evolve the Power Fist",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_GAUNTLETS_OF_ULTRAMAR",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_GAUNTLETS_OF_ULTRAMAR"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Rescue_MarneusCalgar"
+  },
+  "WS_40K_Evolve_StormBolter": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Evolve the Storm Bolter.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_ASSAULT_CANNON",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_ASSAULT_CANNON"
+      ]
+    },
+    "requiresAchievement": "WS_40K_ReachWeaponLevel_Gauntlet_LightningBolt_OrkStronghold"
+  },
+  "WS_40K_Evolve_BattleCannon": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Evolve Battle Cannon",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_SIDE_SPONSONS",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_SIDE_SPONSONS"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Defeat_Enemies_Orks_Vehicles"
+  },
+  "WS_40K_Evolve_SpearOfTheFaithful": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Evolve the Spear of the Faithful",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_THORN_OF_THE_WHITE_ROSE",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_THORN_OF_THE_WHITE_ROSE"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Collect_Relics"
+  },
+  "WS_40K_Evolve_CroziusArcanum": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Evolve the Crozius Arcanum",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_BENEDICTION_OF_FURY",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_BENEDICTION_OF_FURY"
+      ]
+    },
+    "requiresAchievement": "WS_40K_RecoverWounds_EavyMetal"
+  },
+  "WS_40K_Evolve_Smite": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Evolve Smite.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_FURY_OF_THE_ANCIENTS",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_FURY_OF_THE_ANCIENTS"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Collect_Paint_Mephiston"
+  },
+  "WS_40K_Evolve_StormEagleRocket": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Evolve the Storm Eagle Rocket",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_DEATHSTRIKE_MISSILE",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_DEATHSTRIKE_MISSILE"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Survive_Large",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0049"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0049"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "50"
+      }
     ]
   },
-  
-  // ---
-
-  "WS_AOS_Collect_Warscroll": {
-    "description": "Find the Warscroll in The Great Parch.",
-    "relicToUnlock": "WS_AOS_RELIC_WARSCROLL",
-    "hasDemoLoc": true,
+  "WS_40K_Evolve_Fidelis": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Evolve the Fidelis",
+    "goldPrize": 500,
+    "weaponIcon": "WS_40K_PURGATOR_MIRABILIS",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_40K_PURGATOR_MIRABILIS"
+      ]
+    },
+    "requiresAchievement": "WS_40K_UnlockAll_StandardCharacters"
+  },
+  "WS_40K_Encounter_Merchant": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Encounter the Merchant",
+    "completionRequirements": {}
+  },
+  "WS_40K_Buy_Teleportarium": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Buy the Teleportarium from Daedalosus",
     "completionRequirements": {
       "category": "COLLECTED",
       "lifetime": true,
+      "requireAll": true,
       "itemType": [
-        "WS_AOS_RELIC_WARSCROLL"
+        "WS_40K_RELIC_TELEPORTARIUM_STC"
       ]
     },
+    "relicToUnlock": "WS_40K_RELIC_TELEPORTARIUM_STC",
+    "requiresAchievement": "WS_40K_Encounter_Merchant"
+  },
+  "WS_40K_Buy_BrokenSword": {
     "silos": [
-      "WH_AOS"
+      "WH_40K"
+    ],
+    "description": "Buy the Broken Sword from Balphamus Vaulk",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_RELIC_BROKEN_SWORD"
+      ]
+    },
+    "relicToUnlock": "WS_RELIC_BROKEN_SWORD",
+    "requiresAchievement": "WS_40K_Collect_FerrosanticOrrery"
+  },
+  "WS_40K_Buy_HuntingTrap": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Buy the Hunting Trap from Balphamus Vaulk",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_RELIC_HUNTING_TRAP"
+      ]
+    },
+    "relicToUnlock": "WS_RELIC_HUNTING_TRAP",
+    "requiresAchievement": "WS_40K_Collect_FerrosanticOrrery"
+  },
+  "WS_40K_Buy_BalphamusVaulk": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Buy Vaulk as a playable character from Vaulk.",
+    "characterToUnlock": "WS_40K_TECHPRIEST_MANIPULUS",
+    "requiresAchievement": "WS_40K_Collect_FerrosanticOrrery",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0003"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0003"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "4"
+      }
     ]
   },
-
-  "WS_AOS_Rescue_Ulgromthier": {
-    "description": "The Great Parch Rescue Scenario",
-    "characterToUnlock": "WS_AOS_ULGROMTHIER",
-    "hasDemoLoc": true,
+  "WS_40K_Activate_AstropathicRelay_DeathWorldInvasion": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Activate the Astropathic Relay on Death World Invasion",
     "completionRequirements": {
-      "category": "RESCUED",
+      "category": "COLLECTED",
       "lifetime": true,
-      "characterType": [
-        "WS_AOS_ULGROMTHIER"
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_RELAY_DEATH_WORLD_1"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_RELAY_DEATH_WORLD_1",
+    "requiresAchievement": "WS_40K_ReachLevel_OrbitalShipyard"
+  },
+  "WS_40K_Activate_AstropathicRelay_HobbyTable": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Activate the Astropathic Relay on Hobby Table",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_RELAY_HOBBY_TABLE_1"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_RELAY_HOBBY_TABLE_1",
+    "requiresAchievement": "WS_40K_Activate_AstropathicRelay_DeathWorldInvasion"
+  },
+  "WS_40K_Activate_AstropathicRelay_ImperialBastion": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Activate the Astropathic Relay on Imperial Bastion",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_RELAY_IMPERIAL_BASTION_1"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_RELAY_IMPERIAL_BASTION_1",
+    "requiresAchievement": "WS_40K_Activate_AstropathicRelay_DeathWorldInvasion"
+  },
+  "WS_40K_Activate_AstropathicRelay_ImperialShipyard": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Activate the Astropathic Relay on Imperial Shipyard",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_RELAY_IMPERIAL_SHIPYARD_1"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_RELAY_IMPERIAL_SHIPYARD_1",
+    "requiresAchievement": "WS_40K_Activate_AstropathicRelay_DeathWorldInvasion"
+  },
+  "WS_40K_Activate_AstropathicRelay_OrkStronghold": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Activate the Astropathic Relay on Ork Stronghold",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_RELAY_ORK_STRONGHOLD_1"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_RELAY_ORK_STRONGHOLD_1",
+    "requiresAchievement": "WS_40K_Activate_AstropathicRelay_DeathWorldInvasion"
+  },
+  "WS_40K_Activate_AstropathicRelay_Gallowdark": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Activate the Astropathic Relay on Gallowdark.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_RELIC_RELAY_GALLOWDARK_1"
+      ]
+    },
+    "relicToUnlock": "WS_40K_RELIC_RELAY_GALLOWDARK_1",
+    "requiresAchievement": "WS_40K_Activate_AstropathicRelay_DeathWorldInvasion"
+  },
+  "WS_40K_Activate_AstropathicRelay_All": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Turn on all the Astropathic Relays",
+    "completionRequirements": {
+      "sortOrder": 100,
+      "category": "REQUIRE_ACHIEVEMENTS",
+      "lifetime": true,
+      "requireAll": true,
+      "achievements": [
+        "WS_40K_Activate_AstropathicRelay_DeathWorldInvasion",
+        "WS_40K_Activate_AstropathicRelay_HobbyTable",
+        "WS_40K_Activate_AstropathicRelay_ImperialBastion",
+        "WS_40K_Activate_AstropathicRelay_ImperialShipyard",
+        "WS_40K_Activate_AstropathicRelay_OrkStronghold",
+        "WS_40K_Activate_AstropathicRelay_Gallowdark"
+      ]
+    },
+    "characterToUnlock": "WS_40K_DAEDALOSUS",
+    "requiresAchievement": "WS_40K_Activate_AstropathicRelay_DeathWorldInvasion",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0012"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0012"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "13"
+      }
+    ]
+  },
+  "WS_40K_CompleteStage_ImperialBastion": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Complete the Imperial Bastion mission in the Warhammer 40,000 universe.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_IMPERIAL_BASTION"
+      ]
+    },
+    "requiresAchievement": "WS_40K_ReachLevel_ImperialBastion"
+  },
+  "WS_40K_CompleteStage_Gallowdark": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Complete the Gallowdark mission in the Warhammer 40,000 universe.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_GALLOWDARK"
+      ]
+    },
+    "requiresAchievement": "WS_40K_ReachLevel_ImperialBastion"
+  },
+  "WS_40K_CompleteStage_OrkStronghold": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Complete the Ork Stronghold mission in the Warhammer 40,000 universe.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_ORK_STRONGHOLD"
+      ]
+    },
+    "requiresAchievement": "WS_40K_ReachLevel_Gallowdark"
+  },
+  "WS_40K_CompleteStage_ImperialShipyard": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Complete the Imperial Shipyard mission in the Warhammer 40,000 universe.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_IMPERIAL_SHIPYARD"
+      ]
+    },
+    "requiresAchievement": "WS_40K_ReachLevel_OrbitalShipyard"
+  },
+  "WS_40K_CompleteStage_DeathWorldInvasion": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Complete the Death World Invasion mission in the Warhammer 40,000 universe.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_DEATH_WORLD"
+      ]
+    },
+    "requiresAchievement": "WS_40K_ReachLevel_OrbitalShipyard"
+  },
+  "WS_40K_CompleteStage_DesertWasteland": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Complete the Desert Wasteland mission in the Warhammer 40,000 universe.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_DESERT_WASTELAND"
+      ]
+    },
+    "requiresAchievement": "WS_40K_Unlock_EavyMetal"
+  },
+  "WS_40K_Collect_Paint_Tiny": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Collect 1 Paint Pot in 40K",
+    "completionRequirements": {
+      "category": "PAINTPOT_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "siloType": [
+        "WH_40K"
       ],
       "value": 1
     },
-    "silos": [
-      "WH_AOS"
-    ]
+    "requiresAchievement": "WS_Shared_Collect_Paint_AbaddonBlack"
   },
-  "WS_AOS_Rescue_Lyssa": {
-    "description": "The Great Parch Rescue Scenario",
-    "characterToUnlock": "WS_AOS_LYSSA_REVENYA",
-    "hasDemoLoc": true,
+  "WS_40K_Collect_Paint_Small": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Collect 3 Paint Pots",
+    "weaponToUnlock": "WS_TITHE",
     "completionRequirements": {
-      "category": "RESCUED",
+      "category": "PAINTPOT_AMOUNT",
       "lifetime": true,
-      "characterType": [
-        "WS_AOS_LYSSA_REVENYA"
+      "requireAll": true,
+      "siloType": [
+        "WH_40K"
       ],
-      "value": 1
+      "value": 3
     },
+    "requiresAchievement": "WS_Shared_Collect_Paint_AbaddonBlack"
+  },
+  "WS_40K_Collect_Paint_TheCastellan": {
     "silos": [
-      "WH_AOS"
+      "WH_40K"
+    ],
+    "description": "Paint Pot - Abaddon Black",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_40K_Collect_Paint_Tiny"
+      ],
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "paintPotType": [
+        "ABADDON_BLACK"
+      ]
+    },
+    "characterToUnlock": "WS_40K_CASTELLAN",
+    "requiresAchievement": "WS_40K_Collect_Paint_Tiny"
+  },
+  "WS_40K_Collect_Paint_Mephiston": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Paint Pot",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_40K_Collect_Paint_Tiny"
+      ],
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "paintPotType": [
+        "ABADDON_BLACK",
+        "LEADBELCHER",
+        "MEPHISTON_RED",
+        "RAKARTH_FLESH"
+      ]
+    },
+    "characterToUnlock": "WS_40K_MEPHISTON",
+    "requiresAchievement": "WS_40K_Collect_Paint_Tiny",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0009"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0009"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "10"
+      }
     ]
   },
-
+  "WS_40K_Collect_Paint_LieutenantTitus": {
+    "silos": [
+      "WH_40K"
+    ],
+    "description": "Paint Pot - Abaddon Black, Agrax Earthshade, Celestra Grey, Reikland Fleshade, Retributor Armour, MacCragge Blue",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_40K_Collect_Paint_Tiny"
+      ],
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "paintPotType": [
+        "ABADDON_BLACK",
+        "AGRAX_EARTHSHADE",
+        "CELESTRA_GREY",
+        "REIKLAND_FLESHSHADE",
+        "RETRIBUTOR_ARMOUR",
+        "MACRAGGE_BLUE"
+      ]
+    },
+    "characterToUnlock": "WS_40K_TITUS",
+    "requiresAchievement": "WS_40K_Collect_Paint_Tiny",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0007"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0007"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "8"
+      }
+    ]
+  },
+  "WS_40K_Defeat_Carnifex": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat a Carnifex",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_40K_TYR_CARNIFEX"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_40K_Survive_Med",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0027"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0027"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "28"
+      }
+    ]
+  },
+  "WS_40K_Defeat_Typhus": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat Typhus",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_40K_DEA_TYPHUS"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_40K_Survive_Gallowdark_Short",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0026"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0026"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "27"
+      }
+    ]
+  },
+  "WS_40K_Defeat_GrukkFaceRippa": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat Grukk Face-Rippa",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_40K_ORK_GRUKK_FACE_RIPPA"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_40K_Survive_OrkStronghold_Short",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0028"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0028"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "29"
+      }
+    ]
+  },
+  "WS_40K_Defeat_NornEmissary": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat the Norn Emissary",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_40K_TYR_BOSS_NORN_EMISSARY"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_40K_Survive_Large",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0045"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0045"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "46"
+      }
+    ]
+  },
+  "WS_40K_Defeat_GreatUncleanOne": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat the Great Unclean One",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_40K_DEA_GREAT_UNCLEAN_ONE"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_40K_Survive_Gallowdark_Short",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0043"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0043"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "44"
+      }
+    ]
+  },
+  "WS_40K_Defeat_GasghkullMagUrukThraka": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat Ghazghkull Mag Uruk Thraka",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_40K_ORK_BOSS_GHAZGHKULL"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_40K_Survive_OrkStronghold_Short",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0044"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0044"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "45"
+      }
+    ]
+  },
+  "WS_40K_Defeat_ExtremisBoss_WithPurityMode": {
+    "silos": [
+      "WH_40K"
+    ],
+    "forcedTexture": "40K_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat any 40K Extremis Boss with Purity Mode enabled",
+    "goldPrize": 500,
+    "completionRequirements": {},
+    "requiresAchievement": "WS_40K_Defeat_Enemy_Mortarion",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0024"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0024"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "25"
+      }
+    ]
+  },
   "WS_AOS_Survive_Small": {
+    "silos": [
+      "WH_AOS"
+    ],
     "description": "Survive 1 minute with any character.",
     "weaponToUnlock": "WS_MOVE",
     "completionRequirements": {
       "category": "TIME_SURVIVED",
-      "lifetime": false,
+      "requireAll": true,
       "value": 60
-    },
+    }
+  },
+  "WS_AOS_Survive_Callis": {
     "silos": [
       "WH_AOS"
-    ]
+    ],
+    "description": "Survive 5 minutes playing as Callis.",
+    "weaponToUnlock": "WS_AOS_BRACE_OF_PISTOLS",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_CALLIS"
+      ],
+      "value": 300
+    },
+    "requiresAchievement": "WS_AOS_Rescue_Callis"
+  },
+  "WS_AOS_Survive_Lorai": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 5 minutes playing as Lorai.",
+    "weaponToUnlock": "WS_AOS_NEBULOUS_SEAFOG",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_LORAI"
+      ],
+      "value": 300
+    },
+    "requiresAchievement": "WS_AOS_Survive_Small"
   },
   "WS_AOS_Survive_Medium": {
+    "silos": [
+      "WH_AOS"
+    ],
     "description": "Survive 10 minutes with any character (single run).",
     "weaponToUnlock": "WS_SUSTAIN",
     "completionRequirements": {
       "category": "TIME_SURVIVED",
-      "lifetime": false,
+      "requireAll": true,
       "value": 600
-    },
+    }
+  },
+  "WS_AOS_TakeDamage": {
     "silos": [
       "WH_AOS"
-    ]
-  },
-  "WS_AOS_Survive_Ulgromthier": {
-    "description": "Survive 10 minutes playing as Ulgromthier.",
-    "weaponToUnlock": "WS_AOS_BRAZIER_STAFF",
+    ],
+    "description": "Take 250 damage.",
+    "weaponToUnlock": "WS_SAVES",
     "completionRequirements": {
-      "category": "TIME_SURVIVED",
-      "lifetime": false,
-      "characterType": [
-        "WS_AOS_ULGROMTHIER"
-      ],
-      "value": 600
-    },
+      "category": "DAMAGE_TAKEN",
+      "lifetime": true,
+      "requireAll": true,
+      "damageTaken": 250
+    }
+  },
+  "WS_AOS_DealDamage": {
     "silos": [
       "WH_AOS"
-    ]
+    ],
+    "description": "Deal 10000 damage",
+    "weaponToUnlock": "WS_SKILL",
+    "completionRequirements": {
+      "category": "DAMAGE_INFLICTED",
+      "lifetime": true,
+      "requireAll": true,
+      "damageInflicted": 10000
+    }
   },
-  
+  "WS_AOS_Rescue_Callis": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Great Parch Rescue Scenario",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_CALLIS"
+      ],
+      "value": 1
+    },
+    "characterToUnlock": "WS_AOS_CALLIS"
+  },
   "WS_AOS_Carry_Weapons_Max": {
+    "silos": [
+      "WH_AOS"
+    ],
     "description": "Hold 4 weapons.",
     "weaponToUnlock": "WS_ATTACKS",
     "completionRequirements": {
-      "category": "MANUAL",
       "value": 4
-    },
+    }
+  },
+  "WS_AOS_Collect_Chests": {
     "silos": [
       "WH_AOS"
-    ]
+    ],
+    "description": "Open 2 chests in a single run.",
+    "weaponToUnlock": "WS_RANGE",
+    "completionRequirements": {
+      "category": "PICKUP_AMOUNT",
+      "requireAll": true,
+      "itemType": [
+        "TREASURE"
+      ],
+      "value": 2
+    }
+  },
+  "WS_AOS_Collect_Magnet": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Pick up 3 magnet pickups.",
+    "weaponToUnlock": "WS_AURA",
+    "completionRequirements": {
+      "category": "PICKUP_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "VACUUM"
+      ],
+      "value": 3
+    }
   },
   "WS_AOS_HaveFollowers_Small": {
+    "silos": [
+      "WH_AOS"
+    ],
     "description": "Have 2 followers.",
     "weaponToUnlock": "WS_TOUGHNESS",
     "completionRequirements": {
       "category": "FOLLOWERS",
       "requireAll": true,
-      "lifetime": false,
       "value": 2
-    },
+    }
+  },
+  "WS_AOS_HaveFollowers_Med": {
     "silos": [
       "WH_AOS"
-    ]
+    ],
+    "description": "Have 5 Followers.",
+    "weaponToUnlock": "WS_REDEPLOYMENT",
+    "completionRequirements": {
+      "category": "FOLLOWERS",
+      "requireAll": true,
+      "value": 5
+    },
+    "requiresAchievement": "WS_AOS_HaveFollowers_Small"
   },
   "WS_AOS_ReachLevel": {
+    "silos": [
+      "WH_AOS"
+    ],
     "description": "Reach level 10.",
     "weaponToUnlock": "WS_VETERANCY",
     "completionRequirements": {
       "category": "REACH_CHARACTER_LEVEL",
-      "level": 10,
-      "lifetime": false
-    },
+      "requireAll": true,
+      "level": 10
+    }
+  },
+  "WS_AOS_ReachLevel_GreatParch": {
     "silos": [
       "WH_AOS"
-    ]
-  },
-  
-  "WS_AOS_Destroy_LightSources": {
-    "description": "Destroy 20 light sources.",
-    "pickupToUnlock": "WS_AOS_PURPLE_SUN_OF_SHYISH",
+    ],
+    "description": "Reach level 20 in The Great Parch.",
+    "stageToUnlock": "WS_AOS_SKRAPPA_SPILL",
     "completionRequirements": {
-      "category": "MANUAL",
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_GREAT_PARCH"
+      ],
+      "level": 20
+    }
+  },
+  "WS_AOS_ReachLevel_SkrappaSpill": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Reach level 40 in Skrappa Spill.",
+    "stageToUnlock": "WS_AOS_BLOODWIND_SPOIL",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_SKRAPPA_SPILL"
+      ],
+      "level": 40
+    },
+    "requiresAchievement": "WS_AOS_ReachLevel_GreatParch"
+  },
+  "WS_AOS_ReachLevel_BloodwindSpoil": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Reach level 50 in Bloodwind Spoil.",
+    "stageToUnlock": "WS_AOS_UNDER_EMPIRE",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_BLOODWIND_SPOIL"
+      ],
+      "level": 50
+    },
+    "requiresAchievement": "WS_AOS_ReachLevel_SkrappaSpill"
+  },
+  "WS_AOS_ReachLevel_UnderEmpire": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Reach level 60 in Under-Empire.",
+    "stageToUnlock": "WS_AOS_HAMMERHAL",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_UNDER_EMPIRE"
+      ],
+      "level": 60
+    },
+    "requiresAchievement": "WS_AOS_ReachLevel_BloodwindSpoil"
+  },
+  "WS_AOS_Encounter_ExtremisBosses": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Encounter the 3 Extremis Bosses.",
+    "stageToUnlock": "WS_AOS_HOBBY_TABLE",
+    "completionRequirements": {
+      "overrideShowProgressBar": true,
+      "enemyType": [
+        "WS_AOS_BOK_BOSS_SKARBRAND",
+        "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING",
+        "WS_AOS_SKA_BOSS_VIZZIK"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Survive_Medium"
+  },
+  "WS_AOS_Defeat_ExtremisBosses": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat the 3 Extremis Bosses.",
+    "stageToUnlock": "WS_AOS_CITADEL_OF_SKULLS",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_AOS_BOK_BOSS_SKARBRAND",
+        "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING",
+        "WS_AOS_SKA_BOSS_VIZZIK"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_AOS_ReachLevel_GreatParch"
+  },
+  "WS_AOS_Survive_SkrappaSpill": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 1 minute in Skrappa Spill",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_SKRAPPA_SPILL"
+      ],
+      "value": 60
+    }
+  },
+  "WS_AOS_Survive_BloodwindSpoil_1": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 1 minute in Bloodwind Spoil.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_BLOODWIND_SPOIL"
+      ],
+      "value": 60
+    }
+  },
+  "WS_AOS_Survive_Sharynn": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 10 minutes playing as Sharynn.",
+    "weaponToUnlock": "WS_AOS_GRANDBLADE",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_SHARYNN"
+      ],
+      "value": 600
+    },
+    "requiresAchievement": "WS_AOS_Defeat_Troggoths"
+  },
+  "WS_AOS_Survive_Hendrick": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 15 minutes with Hendrick.",
+    "weaponToUnlock": "WS_AOS_CYCLONE_SWORD",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_HENDRICK"
+      ],
+      "value": 900
+    },
+    "requiresAchievement": "WS_AOS_Defeat_GloomspiteGitz_Neave"
+  },
+  "WS_AOS_Survive_Toll": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 10 minutes playing as Toll.",
+    "weaponToUnlock": "WS_AOS_FLINTLOCK_PISTOLS",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_TOLL"
+      ],
+      "value": 600
+    },
+    "requiresAchievement": "WS_AOS_Rescue_Toll"
+  },
+  "WS_AOS_Survive_Ulgromthier": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 10 minutes playing as Ulgromthier.",
+    "weaponToUnlock": "WS_AOS_BRAZIER_STAFF",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_ULGROMTHIER"
+      ],
+      "value": 600
+    },
+    "requiresAchievement": "WS_AOS_Rescue_Ulgromthier"
+  },
+  "WS_AOS_Survive_Gotrek": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 10 minutes playing as Gotrek.",
+    "weaponToUnlock": "WS_AOS_FYRESLAYER_AXE",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_GOTREK"
+      ],
+      "value": 600
+    },
+    "requiresAchievement": "WS_AOS_Rescue_Gotrek"
+  },
+  "WS_AOS_Survive_Rostus": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "",
+    "weaponToUnlock": "WS_AOS_STORMCHARGED_HAMMER",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_ROSTUS"
+      ],
+      "value": 600
+    },
+    "requiresAchievement": "WS_AOS_Rescue_Oxenhammer"
+  },
+  "WS_AOS_Survive_LadyVerentia": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 10 minutes playing as Lady Verentia.",
+    "weaponToUnlock": "WS_AOS_TWIN_TAILED_CAT",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_MISTRESS_VERENTIA"
+      ],
+      "value": 600
+    },
+    "requiresAchievement": "WS_AOS_Rescue_Verentia"
+  },
+  "WS_AOS_Destroy_LightSources": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Destroy 20 light sources.",
+    "completionRequirements": {
       "overrideShowProgressBar": true,
       "value": 20
     },
+    "pickupToUnlock": "WS_AOS_PURPLE_SUN_OF_SHYISH"
+  },
+  "WS_AOS_ReachLevel_FreeguildFusilier": {
     "silos": [
       "WH_AOS"
-    ]
-  },
-
-  "WS_AOS_TakeDamage": {
-    "description": "Take 250 damage.",
-    "weaponToUnlock": "WS_SAVES",
+    ],
+    "description": "Get to level 10 with Juntar Bernskyn.",
+    "weaponToUnlock": "WS_AOS_FUSIL_CANNON",
     "completionRequirements": {
-      "category": "DAMAGE_TAKEN",
+      "category": "REACH_CHARACTER_LEVEL",
       "requireAll": true,
+      "characterType": [
+        "WS_AOS_FREEGUILD_FUSILIER"
+      ],
+      "level": 10
+    }
+  },
+  "WS_AOS_CharacterMorph_FreeguildFusilier": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Character Morph",
+    "characterToUnlock": "WS_AOS_MAJOR_DOCHEVAL",
+    "requiresAchievement": "WS_AOS_Survive_BloodwindSpoil_1",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0018"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0018"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "19"
+      }
+    ]
+  },
+  "WS_AOS_DealDamage_Retaliatory_MajorDocheval": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Deal 10000 Retaliatory Damage with Major Docheval.",
+    "weaponToUnlock": "WS_AOS_LONG_FUSIL",
+    "completionRequirements": {
+      "category": "DAMAGE_RETALIATED",
       "lifetime": true,
-      "damageTaken": 250
-    },
-    "silos": [
-      "WH_AOS"
-    ]
-  },
-
-  
-  "WS_AOS_DealDamage": {
-    "description": "Deal 10000 damage",
-    "weaponToUnlock": "WS_SKILL",
-    "completionRequirements": {
-      "category": "DAMAGE_INFLICTED",
-      "damageInflicted": 10000,
-      "lifetime": true
-    },
-    "silos": [
-      "WH_AOS"
-    ]
-  },
-  "WS_AOS_Weapon_Grandblade": {
-    "description": "Defeat 500 Vermintide",
-    "weaponToUnlock": "WS_AOS_GRANDBLADE",
-    "hasDemoLoc": true,
-    "completionRequirements": {
-      "category": "ENEMIES_KILLED",
       "requireAll": true,
-      "lifetime": true,
-      "enemyType": [
-        "WS_AOS_SKA_VERMINTIDE"
+      "characterType": [
+        "WS_AOS_MAJOR_DOCHEVAL"
       ],
-      "killCount": 500
+      "damageInflicted": 10000
     },
-    "silos": [
-      "WH_AOS"
-    ]
-  },
-  "WS_AOS_Collect_Chests": {
-    "description": "Open 2 chests in a single run.",
-    "weaponToUnlock": "WS_RANGE",
-    "completionRequirements": {
-      "category": "PICKUP_AMOUNT",
-      "lifetime": false,
-      "itemType": [
-        "TREASURE"
-      ],
-      "value": 2
-    },
-    "silos": [
-      "WH_AOS"
-    ]
-  },
-  "WS_AOS_DragEnemies_Lyssa": {
-    "description": "Drag 100 enemies off screen with Lyssa.",
-    "weaponToUnlock": "WS_AOS_ROPE_AND_GRAPNEL",
-    "completionRequirements": {
-      "category": "MANUAL",
-      "overrideShowProgressBar": true,
-      "value": 100
-    },
-    "silos": [
-      "WH_AOS"
-    ]
-  },
-
-  "WS_AOS_Weapon_NebulousSeafog": {
-    "description": "Get Sabaton to Level 3",
-    "weaponToUnlock": "WS_AOS_NEBULOUS_SEAFOG",
-    "hasDemoLoc": true,
-    "completionRequirements": {
-      "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
-      "weaponType": [
-        "WS_MOVE"
-      ],
-      "level": 3
-    },
-    "silos": [
-      "WH_AOS"
-    ]
+    "requiresAchievement": "WS_AOS_CharacterMorph_FreeguildFusilier"
   },
   "WS_AOS_ReachWeaponLevel_BoltstormPistol": {
+    "silos": [
+      "WH_AOS"
+    ],
     "description": "Get Boltstorm Pistol to Level 4.",
     "weaponToUnlock": "WS_RELOAD",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
+      "requireAll": true,
       "weaponType": [
         "WS_AOS_BOLTSTORM_PISTOL"
       ],
       "level": 4
-    },
+    }
+  },
+  "WS_AOS_ReachWeaponLevel_LightningBolt": {
     "silos": [
       "WH_AOS"
+    ],
+    "description": "Get lightning bolt to level 5.",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_SKILL"
+      ],
+      "level": 5
+    },
+    "pickupToUnlock": "WS_AOS_QUICKSILVER_BLADES",
+    "requiresAchievement": "WS_AOS_DealDamage"
+  },
+  "WS_AOS_ReachWeaponLevel_TacticalRock": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Get Tactical Rock to Max Level.",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_ABILITY"
+      ],
+      "level": 9
+    },
+    "powerUpToUnlock": "ABILITY",
+    "requiresAchievement": "WS_AOS_Collect_TacticalRock"
+  },
+  "WS_AOS_ReachWeaponLevel_BarMagnet": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Get Bar Magnet to level 5.",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AURA"
+      ],
+      "level": 5
+    },
+    "pickupToUnlock": "WS_AOS_MALEVOLENT_MAELSTROM",
+    "requiresAchievement": "WS_AOS_Collect_Magnet"
+  },
+  "WS_AOS_Defeat_Troggoths": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat 10 Troggoths.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyFactionType": [
+        "TROGGOTH"
+      ],
+      "killCount": 10
+    },
+    "characterToUnlock": "WS_AOS_SHARYNN",
+    "requiresAchievement": "WS_AOS_Survive_SkrappaSpill"
+  },
+  "WS_AOS_Defeat_GloomspiteGitz_Neave": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat 10000 Gloomspite Gitz in a single run with Neave.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_NEAVE"
+      ],
+      "enemyFactionType": [
+        "GLOOMSPITE_GITZ"
+      ],
+      "killCount": 10000
+    },
+    "characterToUnlock": "WS_AOS_HENDRICK",
+    "requiresAchievement": "WS_AOS_Survive_SkrappaSpill"
+  },
+  "WS_AOS_Defeat_KhorneDemons": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat 10000 Khorne Demons.",
+    "weaponToUnlock": "WS_CORRUPTION",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyFactionType": [
+        "BLADES_OF_KHORNE"
+      ],
+      "enemyKeywordType": [
+        "DAEMON"
+      ],
+      "killCount": 10000
+    },
+    "requiresAchievement": "WS_AOS_ReachLevel_SkrappaSpill"
+  },
+  "WS_AOS_Defeat_ManglerSquig_Gnarlwood": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat a Mangler Squig on Gnarlwood.",
+    "characterToUnlock": "WS_AOS_YNDRASTA",
+    "requiresAchievement": "WS_AOS_Unlock_EavyMetal"
+  },
+  "WS_AOS_ApplySlowed": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Apply slowed status effect to 100 enemies.",
+    "completionRequirements": {
+      "category": "APPLY_STATUS",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyStatusEffect": [
+        "SLOWED"
+      ],
+      "value": 100
+    },
+    "characterToUnlock": "WS_AOS_GOLDENBLADE",
+    "requiresAchievement": "WS_AOS_Survive_SkrappaSpill"
+  },
+  "WS_AOS_ApplyPoison_Maleneth": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Poison 100 enemies with Maleneth.",
+    "weaponToUnlock": "WS_AOS_POISONED_THROWING_KNIVES",
+    "completionRequirements": {
+      "overrideShowProgressBar": true,
+      "value": 100
+    },
+    "requiresAchievement": "WS_AOS_Collect_Paint_Maleneth"
+  },
+  "WS_AOS_ApplyBattleShock_Yndrasta": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Apply the Battleshock status effect 1000 times with Yndrasta.",
+    "weaponToUnlock": "WS_AOS_BLADE_OF_THE_HIGH_HEAVENS",
+    "completionRequirements": {
+      "overrideShowProgressBar": true,
+      "value": 1000
+    },
+    "requiresAchievement": "WS_AOS_Defeat_ManglerSquig_Gnarlwood"
+  },
+  "WS_AOS_DragEnemies_Lyssa": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Drag 100 enemies off screen with Lyssa.",
+    "weaponToUnlock": "WS_AOS_ROPE_AND_GRAPNEL",
+    "completionRequirements": {
+      "overrideShowProgressBar": true,
+      "value": 100
+    },
+    "requiresAchievement": "WS_AOS_Collect_Paint_Lyssa"
+  },
+  "WS_AOS_TakeNoDamage_Valius": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Take no damage for the first 5 minutes of a stage playing as Valius.",
+    "weaponToUnlock": "WS_AOS_MYSTICAL_WARD",
+    "completionRequirements": {},
+    "requiresAchievement": "WS_AOS_Collect_Paint_Valius"
+  },
+  "WS_AOS_UnlockAll_StandardEvolution": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Unlock every standard evolution and union.",
+    "weaponToUnlock": "WS_AOS_EXOTIC_WEAPONRY",
+    "completionRequirements": {
+      "sortOrder": 5,
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_DUELLING_PISTOLS",
+        "WS_AOS_ZANGROM_THAZ",
+        "WS_AOS_WHIRLWIND_AXES",
+        "WS_AOS_TYPHOON_CROSSBOW",
+        "WS_AOS_ANTI_WIZARD_FLINTLOCK",
+        "WS_AOS_AQUATIC_ILLUSIONS",
+        "WS_AOS_WARDING_LANTERN",
+        "WS_AOS_CELESTIAL_GREATSWORD",
+        "WS_AOS_THENGAVAR",
+        "WS_AOS_BLADED_VORTEX",
+        "WS_AOS_ENCHANTED_GLOVE",
+        "WS_AOS_LONG_FUSIL",
+        "WS_AOS_GRANDBLADE",
+        "WS_MORDANT_EARTH",
+        "WS_SUSTAINED_FIRE_DICE"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Survive_SkrappaSpill"
+  },
+  "WS_AOS_ApplyBurning": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Apply Burning Status Effect to 100 Enemies.",
+    "completionRequirements": {
+      "category": "APPLY_STATUS",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyStatusEffect": [
+        "BURNING"
+      ],
+      "value": 100
+    },
+    "pickupToUnlock": "WS_AOS_CINDERBLAST_BOMB",
+    "requiresAchievement": "WS_AOS_Rescue_Ulgromthier"
+  },
+  "WS_AOS_Collect_AquaGhyranis": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Pick up 100 Aqua Ghyranis Phials.",
+    "completionRequirements": {
+      "category": "PICKUP_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_AQUA_GHYRANIS"
+      ],
+      "value": 100
+    },
+    "pickupToUnlock": "WS_AOS_AQUA_GHYRANIS_VESSEL"
+  },
+  "WS_AOS_Collect_EndlessSpells": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Collect 10 Endless Spells.",
+    "weaponToUnlock": "WS_CHANCE",
+    "completionRequirements": {
+      "overrideShowProgressBar": true,
+      "value": 10
+    }
+  },
+  "WS_AOS_Collect_ChronomanticCog": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Find the Chronomantic Cog on Skrappa Spill.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_CHRONOMANTIC_COG"
+      ]
+    },
+    "pickupToUnlock": "WS_AOS_CHRONOMANTIC_COG",
+    "requiresAchievement": "WS_AOS_ReachLevel_GreatParch"
+  },
+  "WS_AOS_Death_Count": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Die 30 times.",
+    "completionRequirements": {
+      "category": "DEATHS",
+      "lifetime": true,
+      "requireAll": true,
+      "value": 30
+    },
+    "pickupToUnlock": "WS_AOS_SUFFOCATING_GRAVETIDE",
+    "requiresAchievement": "WS_AOS_TakeDamage"
+  },
+  "WS_AOS_Overheal": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Overheal by a total of 1000.",
+    "completionRequirements": {
+      "category": "OVERHEALED_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "playerHealing": 1000
+    },
+    "pickupToUnlock": "WS_AOS_EMERALD_LIFESWARM",
+    "requiresAchievement": "WS_AOS_TakeDamage"
+  },
+  "WS_AOS_NegateDamage_Save": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Negate 1000 damage with your save.",
+    "completionRequirements": {
+      "category": "DAMAGE_NEGATED",
+      "lifetime": true,
+      "requireAll": true,
+      "damageNegated": 1000
+    },
+    "pickupToUnlock": "WS_AOS_PRISMATIC_PALISADE",
+    "requiresAchievement": "WS_AOS_TakeDamage"
+  },
+  "WS_AOS_Collect_Warscroll": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Find the Warscroll in Skrappa Spill.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_RELIC_WARSCROLL"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_WARSCROLL",
+    "requiresAchievement": "WS_AOS_ReachLevel_GreatParch"
+  },
+  "WS_AOS_Collect_CreaturaMythologica": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Find the Creatura Mythologica in Skrappa Spill.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_RELIC_CREATURA_MYTHOLOGICA"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_CREATURA_MYTHOLOGICA",
+    "requiresAchievement": "WS_AOS_ReachLevel_GreatParch"
+  },
+  "WS_AOS_Collect_MasterRune": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Use the Arcanoscope to find the Master Rune on Skrappa Spill.",
+    "weaponToUnlock": "WS_AOS_MASTER_RUNE",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_MASTER_RUNE"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_ReachLevel_GreatParch"
+  },
+  "WS_AOS_Collect_CartoArcanobulum": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Find the Carto-Arcanobulum on Bloodwind Spoil.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_RELIC_CARTOARCANABULUM"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_CARTOARCANABULUM",
+    "requiresAchievement": "WS_AOS_ReachLevel_SkrappaSpill"
+  },
+  "WS_AOS_Collect_TacticalRock": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Use the Arcanoscope to find the Tactical Rock in the Twin-Tailed City.",
+    "weaponToUnlock": "WS_ABILITY",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "weaponType": [
+        "WS_ABILITY"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Collect_Arcanoscope"
+  },
+  "WS_AOS_Collect_Arcanoscope": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Find the Arcanoscope on Gnarlwood.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_RELIC_ARCANOSCOPE"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_ARCANOSCOPE",
+    "requiresAchievement": "WS_AOS_Unlock_EavyMetal",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0037"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0037"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "38"
+      }
     ]
   },
-
+  "WS_AOS_Collect_Amberbone": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Find the Amberbone Relic on Gnarlwood.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_RELIC_AMBERBONE"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_AMBERBONE",
+    "requiresAchievement": "WS_AOS_Unlock_EavyMetal"
+  },
+  "WS_AOS_Collect_EyeOfTzeentch": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Use the Arcanoscope to find the Eye of Tzeentch on Gnarlwood.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_RELIC_EYE_OF_TZEENTCH"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_EYE_OF_TZEENTCH",
+    "requiresAchievement": "WS_AOS_Unlock_EavyMetal",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0039"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0039"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "40"
+      }
+    ]
+  },
+  "WS_AOS_Collect_Glimmering": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Use the Arcanoscope to find Glimmering on Gnarlwood.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_RELIC_GLIMMERING"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_GLIMMERING",
+    "requiresAchievement": "WS_AOS_Unlock_EavyMetal"
+  },
+  "WS_AOS_Collect_Ardcoat": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Use the Arcanoscope to find the 'Ardcoat on the Hobby Table.",
+    "weaponToUnlock": "WS_INVULNERABILITY",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "weaponType": [
+        "WS_INVULNERABILITY"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Encounter_ExtremisBosses"
+  },
+  "WS_AOS_Rescue_Any": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Rescue any character.",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "value": 1
+    }
+  },
+  "WS_AOS_Rescue_Toll": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Great Parch Rescue Scenario",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_TOLL"
+      ],
+      "value": 1
+    },
+    "characterToUnlock": "WS_AOS_TOLL",
+    "requiresAchievement": "WS_AOS_Rescue_Any",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0022"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0022"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "23"
+      }
+    ]
+  },
+  "WS_AOS_Rescue_Gotrek": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Skrappa Spill Rescue Scenario",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_GOTREK"
+      ],
+      "value": 1
+    },
+    "characterToUnlock": "WS_AOS_GOTREK",
+    "requiresAchievement": "WS_AOS_ReachLevel_SkrappaSpill",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0016"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0016"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "17"
+      }
+    ]
+  },
+  "WS_AOS_Rescue_Oxenhammer": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Bloodwind Spoil Rescue Scenario",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_ROSTUS"
+      ],
+      "value": 1
+    },
+    "characterToUnlock": "WS_AOS_ROSTUS",
+    "requiresAchievement": "WS_AOS_ReachLevel_SkrappaSpill",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0021"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0021"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "22"
+      }
+    ]
+  },
+  "WS_AOS_Rescue_Ulgromthier": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Under-Empire Rescue Scenario",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_ULGROMTHIER"
+      ],
+      "value": 1
+    },
+    "characterToUnlock": "WS_AOS_ULGROMTHIER",
+    "requiresAchievement": "WS_AOS_ReachLevel_GreatParch",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0023"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0023"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "24"
+      }
+    ]
+  },
+  "WS_AOS_Rescue_Verentia": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Twin-Tailed City Rescue Scenario",
+    "completionRequirements": {
+      "category": "RESCUED",
+      "lifetime": true,
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_MISTRESS_VERENTIA"
+      ],
+      "value": 1
+    },
+    "characterToUnlock": "WS_AOS_MISTRESS_VERENTIA",
+    "requiresAchievement": "WS_AOS_ReachLevel_UnderEmpire",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0020"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0020"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "21"
+      }
+    ]
+  },
+  "WS_AOS_Defeat_PlagueFurnace_GreatParch": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat Plague Furnace on Great Parch.",
+    "hyperToUnlock": "WS_AOS_GREAT_PARCH",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_GREAT_PARCH"
+      ],
+      "enemyType": [
+        "WS_AOS_SKA_PLAGUEFURNACE"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_AOS_Survive_Medium"
+  },
+  "WS_AOS_Defeat_DankholdTroggoth_SkrappaSpill": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat Dankhold Troggoth on Skrappa Spill.",
+    "hyperToUnlock": "WS_AOS_SKRAPPA_SPILL",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_SKRAPPA_SPILL"
+      ],
+      "enemyType": [
+        "WS_AOS_GLO_DANKHOLD_TROGGOTH"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_AOS_ReachLevel_GreatParch"
+  },
+  "WS_AOS_Defeat_Khorgorath_BloodwindSpoil": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat Khorgorath on Bloodwind Spoil.",
+    "hyperToUnlock": "WS_AOS_BLOODWIND_SPOIL",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_BLOODWIND_SPOIL"
+      ],
+      "enemyType": [
+        "WS_AOS_BOK_KHORGORATH"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_AOS_ReachLevel_SkrappaSpill"
+  },
+  "WS_AOS_TakeNoDamage_UnderEmpire": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Take no damage on minute 13 on Under-Empire.",
+    "hyperToUnlock": "WS_AOS_UNDER_EMPIRE",
+    "completionRequirements": {},
+    "requiresAchievement": "WS_AOS_ReachLevel_BloodwindSpoil"
+  },
+  "WS_AOS_Defeat_PlagueFurnace_Khorgorath_TwinTailedCity": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat a Plague Furnace and a Khorgorath on Twin-Tailed City in a single run.",
+    "hyperToUnlock": "WS_AOS_HAMMERHAL",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_HAMMERHAL"
+      ],
+      "enemyType": [
+        "WS_AOS_BOK_KHORGORATH",
+        "WS_AOS_SKA_PLAGUEFURNACE"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_AOS_ReachLevel_UnderEmpire"
+  },
+  "WS_AOS_Collect_QuicksilverDraught": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Find the Quicksilver Draught in the Twin-Tailed City.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_RELIC_QUICKSILVER_DRAUGHT"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_QUICKSILVER_DRAUGHT",
+    "requiresAchievement": "WS_AOS_ReachLevel_UnderEmpire"
+  },
+  "WS_AOS_Collect_WarpstoneCharm": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Find the Warpstone Charm in the Necropolis.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_RELIC_WARPSTONE_TALISMAN"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_WARPSTONE_TALISMAN",
+    "requiresAchievement": "WS_AOS_Defeat_ExtremisBosses"
+  },
+  "WS_AOS_Defeat_ExtremisBoss_Any": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "forcedUnlockTips": "Unlocks Limitless Mode",
+    "description": "Defeat any Extremis Boss (AoS)",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "enemyType": [
+        "WS_AOS_BOK_BOSS_SKARBRAND",
+        "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING",
+        "WS_AOS_SKA_BOSS_VIZZIK"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_AOS_Survive_Medium"
+  },
+  "WS_AOS_Unlock_EavyMetal": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Unlock 'Eavy Metal mode for any stage in AoS.",
+    "stageToUnlock": "WS_AOS_GNARLWOOD",
+    "completionRequirements": {
+      "value": 1
+    },
+    "requiresAchievement": "WS_AOS_Survive_Medium"
+  },
+  "WS_AOS_Defeat_Nagash": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat Nagash.",
+    "weaponToUnlock": "WS_AOS_NULL_PENDANT",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_AOS_OBR_BOSS_NAGASH"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_AOS_Defeat_ExtremisBosses"
+  },
+  "WS_AOS_Collect_CelestialOrrery_2": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Find the Celestial Orrery in the Under Empire.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_RELIC_CELESTIAL_ORRERY"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_CELESTIAL_ORRERY",
+    "requiresAchievement": "WS_AOS_ReachLevel_BloodwindSpoil",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0038"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0038"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "39"
+      }
+    ]
+  },
+  "WS_AOS_ReachLevel_Ulgromthier": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Reach level 50 with Ulgromthier.",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_AOS_Collect_CelestialOrrery_1"
+      ],
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_ULGROMTHIER"
+      ],
+      "level": 50
+    },
+    "arcanaToUnlock": "WS_AOS_GLIMMERLUST",
+    "requiresAchievement": "WS_AOS_Collect_CelestialOrrery_2"
+  },
+  "WS_AOS_ReachLevel_Valius": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Reach level 50 with Valius.",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_AOS_Collect_CelestialOrrery_1"
+      ],
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_VALIUS"
+      ],
+      "level": 50
+    },
+    "arcanaToUnlock": "WS_AOS_ANVIL_OF_APOTHEOSIS",
+    "requiresAchievement": "WS_AOS_Collect_CelestialOrrery_2"
+  },
+  "WS_AOS_Survive_BloodwindSpoil_2": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 26 minutes on Bloodwind Spoil.",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_AOS_Collect_CelestialOrrery_1"
+      ],
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_BLOODWIND_SPOIL"
+      ],
+      "value": 1560
+    },
+    "arcanaToUnlock": "WS_AOS_THE_EIGHTPOINTS",
+    "requiresAchievement": "WS_AOS_Collect_CelestialOrrery_2"
+  },
+  "WS_AOS_Survive_GreatParch": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 26 minutes on the Great Parch.",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_AOS_Collect_CelestialOrrery_1"
+      ],
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_GREAT_PARCH"
+      ],
+      "value": 1560
+    },
+    "arcanaToUnlock": "WS_AOS_THE_NECROQUAKE",
+    "requiresAchievement": "WS_AOS_Collect_CelestialOrrery_2"
+  },
+  "WS_AOS_ReachLevel_Lyssa": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Reach level 50 with Lyssa.",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_AOS_Collect_CelestialOrrery_1"
+      ],
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_LYSSA_REVENYA"
+      ],
+      "level": 50
+    },
+    "arcanaToUnlock": "WS_AOS_THE_REALM_OF_ULGU",
+    "requiresAchievement": "WS_AOS_Collect_CelestialOrrery_2"
+  },
+  "WS_AOS_ReachLevel_Yndrasta": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat 100000 enemies as Yndrasta in a single run.",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_AOS_Collect_CelestialOrrery_1"
+      ],
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_YNDRASTA"
+      ],
+      "level": 50
+    },
+    "arcanaToUnlock": "WS_AOS_THE_REALM_OF_AZYR",
+    "requiresAchievement": "WS_AOS_Collect_CelestialOrrery_2"
+  },
+  "WS_AOS_Collect_CelestialOrrery_1": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Find the Celestial Orrery in the Under Empire.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_RELIC_CELESTIAL_ORRERY"
+      ]
+    },
+    "arcanaToUnlock": "WS_AOS_THE_REALM_OF_GHYRAN",
+    "requiresAchievement": "WS_AOS_ReachLevel_BloodwindSpoil"
+  },
+  "WS_AOS_Survive_TwinTailedCity": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 26 minutes on the Twin-Tailed City.",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_AOS_Collect_CelestialOrrery_1"
+      ],
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_HAMMERHAL"
+      ],
+      "value": 1560
+    },
+    "arcanaToUnlock": "WS_AOS_THE_TWIN_TAILED_COMET",
+    "requiresAchievement": "WS_AOS_Collect_CelestialOrrery_2"
+  },
+  "WS_AOS_ReachLevel_Gotrek": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Reach level 50 with Gotrek.",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_AOS_Collect_CelestialOrrery_1"
+      ],
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_GOTREK"
+      ],
+      "level": 50
+    },
+    "arcanaToUnlock": "WS_AOS_DRACOTHIAN",
+    "requiresAchievement": "WS_AOS_Collect_CelestialOrrery_2"
+  },
+  "WS_AOS_ReachLevel_Brokk": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Reach level 100 with Brokk.",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_AOS_Collect_CelestialOrrery_1"
+      ],
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_BROKK"
+      ],
+      "level": 100
+    },
+    "arcanaToUnlock": "WS_AOS_CURSED_SKIES",
+    "requiresAchievement": "WS_AOS_Collect_CelestialOrrery_2"
+  },
+  "WS_AOS_CollectAll_CelestialArcanas": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Obtain all of the Celestial Arcanas.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "sortOrder": 15,
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "arcanaType": [
+        "WS_AOS_GLIMMERLUST",
+        "WS_AOS_ANVIL_OF_APOTHEOSIS",
+        "WS_AOS_THE_EIGHTPOINTS",
+        "WS_AOS_THE_NECROQUAKE",
+        "WS_AOS_THE_REALM_OF_ULGU",
+        "WS_AOS_THE_REALM_OF_AZYR",
+        "WS_AOS_THE_REALM_OF_GHYRAN",
+        "WS_AOS_THE_TWIN_TAILED_COMET",
+        "WS_AOS_DRACOTHIAN",
+        "WS_AOS_CURSED_SKIES"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Collect_CelestialOrrery_2",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0029"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0029"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "30"
+      }
+    ]
+  },
+  "WS_AOS_ReachLevel_Neave": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Reach level 80 with Neave.",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_NEAVE"
+      ],
+      "level": 80
+    },
+    "powerUpToUnlock": "WS_REROLL",
+    "requiresAchievement": "WS_AOS_Survive_Medium"
+  },
+  "WS_AOS_ReachLevel_Callis": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Reach level 80 with Callis.",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_CALLIS"
+      ],
+      "level": 80
+    },
+    "powerUpToUnlock": "WS_REROLL",
+    "requiresAchievement": "WS_AOS_Rescue_Callis"
+  },
+  "WS_AOS_ReachLevel_Lorai": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Reach level 80 with Lorai.",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_LORAI"
+      ],
+      "level": 80
+    },
+    "powerUpToUnlock": "WS_REROLL",
+    "requiresAchievement": "WS_AOS_Survive_Medium"
+  },
+  "WS_AOS_ReachLevel_Shakana": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Reach level 80 with Shakana.",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_GOLDENBLADE"
+      ],
+      "level": 80
+    },
+    "powerUpToUnlock": "WS_REROLL",
+    "requiresAchievement": "WS_AOS_ApplySlowed"
+  },
+  "WS_AOS_ReachLevel_Verentia": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Reach level 80 with Mistress Verentia.",
+    "completionRequirements": {
+      "category": "REACH_CHARACTER_LEVEL",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_MISTRESS_VERENTIA"
+      ],
+      "level": 80
+    },
+    "powerUpToUnlock": "WS_REROLL",
+    "requiresAchievement": "WS_AOS_Rescue_Verentia"
+  },
+  "WS_AOS_Survive_SingleWeapon_1": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 5 minutes with a single weapon.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "weaponCount": 1,
+      "value": 300
+    },
+    "powerUpToUnlock": "WS_SEAL",
+    "requiresAchievement": "WS_AOS_Survive_Medium"
+  },
+  "WS_AOS_Survive_SingleWeapon_2": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 10 minutes with a single weapon.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "weaponCount": 1,
+      "value": 600
+    },
+    "powerUpToUnlock": "WS_SEAL",
+    "requiresAchievement": "WS_AOS_Survive_Medium"
+  },
+  "WS_AOS_Survive_SingleWeapon_3": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 15 minutes with a single weapon.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "weaponCount": 1,
+      "value": 900
+    },
+    "powerUpToUnlock": "WS_SEAL",
+    "requiresAchievement": "WS_AOS_Survive_Medium"
+  },
+  "WS_AOS_Survive_SingleWeapon_4": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 20 minutes with a single weapon.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "weaponCount": 1,
+      "value": 1200
+    },
+    "powerUpToUnlock": "WS_SEAL",
+    "requiresAchievement": "WS_AOS_Survive_Medium"
+  },
+  "WS_AOS_Survive_SingleWeapon_5": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 25 minutes with a single weapon.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "weaponCount": 1,
+      "value": 1500
+    },
+    "powerUpToUnlock": "WS_SEAL",
+    "requiresAchievement": "WS_AOS_Survive_Medium"
+  },
+  "WS_AOS_Survive_Gnarlwood": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 15 minutes on Gnarlwood.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_GNARLWOOD"
+      ],
+      "value": 900
+    },
+    "powerUpToUnlock": "WS_SKIP",
+    "requiresAchievement": "WS_AOS_Unlock_EavyMetal"
+  },
+  "WS_AOS_Survive_HobbyTable": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 15 minutes on Hobby Table.",
+    "completionRequirements": {
+      "category": "TIME_SURVIVED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_HOBBY_TABLE"
+      ],
+      "value": 900
+    },
+    "powerUpToUnlock": "WS_SKIP",
+    "requiresAchievement": "WS_AOS_Encounter_ExtremisBosses"
+  },
+  "WS_AOS_Defeat_Skaven": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat a total of 100000 Skaven.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyFactionType": [
+        "SKAVEN"
+      ],
+      "killCount": 100000
+    },
+    "powerUpToUnlock": "WS_BANISH",
+    "requiresAchievement": "WS_AOS_Survive_Medium"
+  },
+  "WS_AOS_Defeat_GloomspiteGitz": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat a total of 100000 Gloomspite Gitz.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyFactionType": [
+        "GLOOMSPITE_GITZ"
+      ],
+      "killCount": 100000
+    },
+    "powerUpToUnlock": "WS_BANISH",
+    "requiresAchievement": "WS_AOS_ReachLevel_GreatParch"
+  },
+  "WS_AOS_Defeat_BladesOfKhorne": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Defeat a total of 100000 Blades of Khorne.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyFactionType": [
+        "BLADES_OF_KHORNE"
+      ],
+      "killCount": 100000
+    },
+    "powerUpToUnlock": "WS_BANISH",
+    "requiresAchievement": "WS_AOS_ReachLevel_SkrappaSpill"
+  },
   "WS_AOS_Evolve_TempestAxes": {
+    "silos": [
+      "WH_AOS"
+    ],
     "description": "Evolve the Tempest Axes.",
     "goldPrize": 500,
     "weaponIcon": "WS_AOS_WHIRLWIND_AXES",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
+      "requireAll": true,
       "weaponType": [
         "WS_AOS_WHIRLWIND_AXES"
-      ],
-      "level": 0
+      ]
     },
+    "requiresAchievement": "WS_AOS_Survive_Small"
+  },
+  "WS_AOS_Evolve_BraceOfPistols": {
     "silos": [
       "WH_AOS"
-    ]
-  },
-  "WS_AOS_Evolve_BoltstormPistol": {
-    "description": "Evolve the Boltstorm Pistol.",
-	"goldPrize": 500,
-	"weaponIcon": "WS_AOS_TYPHOON_CROSSBOW",
-    "completionRequirements": {
-      "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
-      "weaponType": [
-        "WS_AOS_TYPHOON_CROSSBOW"
-      ],
-      "level": 0
-    },
-    "silos": [
-      "WH_AOS"
-    ]
-  },
-  "WS_AOS_Evolve_BrazierStaff": {
-    "description": "Evolve the Brazier Staff.",
-    "requiresAchievement": "WS_AOS_Rescue_Ulgromthier",
+    ],
+    "description": "Evolve the Brace of Pistols.",
     "goldPrize": 500,
-    "weaponIcon": "WS_AOS_MASTER_OF_RUNES",
+    "weaponIcon": "WS_AOS_DUELLING_PISTOLS",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
       "requireAll": true,
-      "lifetime": false,
       "weaponType": [
-        "WS_AOS_MASTER_OF_RUNES"
-      ],
-      "level": 0
+        "WS_AOS_DUELLING_PISTOLS"
+      ]
     },
-    "silos": [
-      "WH_AOS"
-    ]
-  },
-  "WS_AOS_Evolve_RopeAndGrapnel": {
-    "description": "Evolve the Rope & Grapnel.",
-	"goldPrize": 500,
-	"weaponIcon": "WS_AOS_GHOST_OF_RHEA",
-    "completionRequirements": {
-      "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
-      "weaponType": [
-        "WS_AOS_GHOST_OF_RHEA"
-      ],
-      "level": 0
-    },
-    "silos": [
-      "WH_AOS"
-    ]
+    "requiresAchievement": "WS_AOS_Rescue_Callis"
   },
   "WS_AOS_Evolve_NebulousSeaFog": {
+    "silos": [
+      "WH_AOS"
+    ],
     "description": "Evolve the Nebulous Sea Fog.",
     "goldPrize": 500,
     "weaponIcon": "WS_AOS_AQUATIC_ILLUSIONS",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
+      "requireAll": true,
       "weaponType": [
         "WS_AOS_AQUATIC_ILLUSIONS"
-      ],
-      "level": 0
+      ]
     },
+    "requiresAchievement": "WS_Shared_Evolve_AnyWeapon"
+  },
+  "WS_AOS_Evolve_D6Dice": {
     "silos": [
       "WH_AOS"
-    ]
+    ],
+    "description": "Evolve the D6 Dice.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_SUSTAINED_FIRE_DICE",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_SUSTAINED_FIRE_DICE"
+      ]
+    },
+    "requiresAchievement": "WS_Shared_Evolve_AnyWeapon"
   },
   "WS_AOS_Evolve_NulnOil": {
+    "silos": [
+      "WH_AOS"
+    ],
     "description": "Evolve the Nuln Oil.",
     "goldPrize": 500,
     "weaponIcon": "WS_MORDANT_EARTH",
     "completionRequirements": {
       "category": "REACH_WEAPON_RANK",
-      "lifetime": false,
+      "requireAll": true,
       "weaponType": [
         "WS_MORDANT_EARTH"
-      ],
-      "level": 0
+      ]
     },
+    "requiresAchievement": "WS_Shared_Evolve_AnyWeapon"
+  },
+  "WS_AOS_Evolve_BoltstormPistol": {
     "silos": [
       "WH_AOS"
+    ],
+    "description": "Evolve the Boltstorm Pistol.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_AOS_TYPHOON_CROSSBOW",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_TYPHOON_CROSSBOW"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_ApplySlowed"
+  },
+  "WS_AOS_Evolve_Grandblade": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Evolve the Grandblade.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_AOS_CELESTIAL_GREATSWORD",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_CELESTIAL_GREATSWORD"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Defeat_Troggoths"
+  },
+  "WS_AOS_Evolve_CycloneSword": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Evolve the Cyclone Sword.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_AOS_VOICE_OF_THE_GOD_KING",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_VOICE_OF_THE_GOD_KING"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Defeat_GloomspiteGitz_Neave"
+  },
+  "WS_AOS_Evolve_FlintlockPistol": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Survive 10 minutes playing as Toll.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_AOS_ANTI_WIZARD_FLINTLOCK",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_ANTI_WIZARD_FLINTLOCK"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Rescue_Toll"
+  },
+  "WS_AOS_Evolve_FyrestormGreataxe": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Evolve the Fyrestorm Greataxe.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_AOS_ZANGROM_THAZ",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_ZANGROM_THAZ"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Rescue_Gotrek"
+  },
+  "WS_AOS_Evolve_StormchargedWarhammer": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Evolve the Stormcharged Warhammer.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_AOS_USKAVAR_THE_SUNDERER",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_USKAVAR_THE_SUNDERER"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Rescue_Oxenhammer"
+  },
+  "WS_AOS_Evolve_StormchargedWarhammer_2": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Evolve the Stormcharged Warhammer.",
+    "characterToUnlock": "WS_AOS_CARTHALOS",
+    "requiresAchievement": "WS_AOS_Survive_BloodwindSpoil_1"
+  },
+  "WS_AOS_Evolve_BrazierStaff": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Evolve the Brazier Staff.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_AOS_MASTER_OF_RUNES",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_MASTER_OF_RUNES"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Rescue_Ulgromthier"
+  },
+  "WS_AOS_Evolve_TwinTailedCat": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Evolve the Twin-Tailed Cat.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_AOS_ENCHANTED_GLOVE",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_ENCHANTED_GLOVE"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Rescue_Verentia"
+  },
+  "WS_AOS_Evolve_PoisonedThrowingKnives": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Evolve the Poisoned Throwing Knives.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_AOS_BLADED_VORTEX",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_BLADED_VORTEX"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Collect_Paint_Maleneth"
+  },
+  "WS_AOS_Evolve_RopeAndGrapnel": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Evolve the Rope & Grapnel.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_AOS_GHOST_OF_RHEA",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_GHOST_OF_RHEA"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Collect_Paint_Lyssa"
+  },
+  "WS_AOS_Evolve_MysticalWard": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Evolve the Mystical Ward.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_AOS_WARDING_LANTERN",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_WARDING_LANTERN"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Collect_Paint_Valius"
+  },
+  "WS_AOS_Evolve_BladeOfTheHighHeavens": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Evolve the Blade of the High Heavens.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_AOS_THENGAVAR",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_THENGAVAR"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Defeat_ManglerSquig_Gnarlwood"
+  },
+  "WS_AOS_Evolve_UskavarTheSunderer": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Evolve Uskavar the Sunderer.",
+    "goldPrize": 500,
+    "weaponIcon": "WS_AOS_GHAL_MARAZ",
+    "completionRequirements": {
+      "category": "REACH_WEAPON_RANK",
+      "requireAll": true,
+      "weaponType": [
+        "WS_AOS_GHAL_MARAZ"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Evolve_StormchargedWarhammer",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0050"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0050"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "51"
+      }
     ]
   },
-  
-  
-  "WS_AOS_Feature_Bestiary": {
-    "description": "Complete 3 runs",
-    "forcedUnlockTips": "achievementLang/{WS_AOS_Feature_Bestiary}forcedUnlockTips",
-    "forcedTexture": "AOS_items",
-    "forcedFrameName": "Relic_CreaturaMythologica.png",
-    "hasDemoLoc": true,
-    "completionRequirements": {
-      "category": "MANUAL",
-      "value": 3
-    },
+  "WS_AOS_Evolve_UskavarTheSunderer_2": {
     "silos": [
       "WH_AOS"
+    ],
+    "description": "Evolve Uskavar the Sunderer.",
+    "characterToUnlock": "WS_AOS_CELESTANT_PRIME",
+    "requiresAchievement": "WS_AOS_Encounter_Merchant"
+  },
+  "WS_AOS_Encounter_Merchant": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Encounter the Merchant."
+  },
+  "WS_AOS_Buy_BarakNar_GreatParch": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Nar Contract with Brokk in The Great Parch.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_GREAT_PARCH"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR",
+    "requiresAchievement": "WS_AOS_Encounter_Merchant"
+  },
+  "WS_AOS_Buy_BarakNar_SkrappaSpill": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Nar Contract with Brokk on Skrappa Spill.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_SKRAPPA_SPILL"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR",
+    "requiresAchievement": "WS_AOS_Encounter_Merchant"
+  },
+  "WS_AOS_Buy_BarakNar_BloodwindSpoil": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Nar Contract with Brokk in Bloodwind Spoil.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_BLOODWIND_SPOIL"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR",
+    "requiresAchievement": "WS_AOS_Encounter_Merchant"
+  },
+  "WS_AOS_Buy_BarakNar_UnderEmpire": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Nar Contract with Brokk in the Under-Empire.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_UNDER_EMPIRE"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR",
+    "requiresAchievement": "WS_AOS_Encounter_Merchant"
+  },
+  "WS_AOS_Buy_BarakNar_TwinTailedCity": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Nar Contract with Brokk in the Twin-Tailed City.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_HAMMERHAL"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR",
+    "requiresAchievement": "WS_AOS_Encounter_Merchant"
+  },
+  "WS_AOS_Buy_BarakNar_Gnarlwood": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Nar Contract with Brokk in Gnarlwood.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_GNARLWOOD"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR",
+    "requiresAchievement": "WS_AOS_Encounter_Merchant"
+  },
+  "WS_AOS_Buy_BarakNar_HobbyTable": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Nar Contract with Brokk on the Hobby Table.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_HOBBY_TABLE"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_NAR",
+    "requiresAchievement": "WS_AOS_Encounter_Merchant"
+  },
+  "WS_AOS_Collect_AtmosphericAnatomiser": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign all Barak-Nar contracts and find the Atmospheric Anatomiser on Bloodwind Spoil.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_RELIC_ATMOSPHERIC_ANATOMISER"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_ATMOSPHERIC_ANATOMISER",
+    "requiresAchievement": "WS_AOS_Encounter_Merchant"
+  },
+  "WS_AOS_Buy_BarakMhornar_GreatParch": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Mhornar Contract with Drekki in The Great Parch.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_GREAT_PARCH"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR",
+    "requiresAchievement": "WS_AOS_Buy_BarakMhornar_BloodwindSpoil"
+  },
+  "WS_AOS_Buy_BarakMhornar_SkrappaSpill": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Mhornar Contract with Drekki on Skrappa Spill.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_SKRAPPA_SPILL"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR",
+    "requiresAchievement": "WS_AOS_Buy_BarakMhornar_BloodwindSpoil"
+  },
+  "WS_AOS_Buy_BarakMhornar_BloodwindSpoil": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Mhornar Contract with Drekki in Bloodwind Spoil.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_BLOODWIND_SPOIL"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR",
+    "requiresAchievement": "WS_AOS_Collect_AtmosphericAnatomiser"
+  },
+  "WS_AOS_Buy_BarakMhornar_UnderEmpire": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Mhornar Contract with Drekki in the Under-Empire.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_UNDER_EMPIRE"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR",
+    "requiresAchievement": "WS_AOS_Buy_BarakMhornar_BloodwindSpoil"
+  },
+  "WS_AOS_Buy_BarakMhornar_TwinTailedCity": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Mhornar Contract with Drekki in the Twin-Tailed City.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_HAMMERHAL"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR",
+    "requiresAchievement": "WS_AOS_Buy_BarakMhornar_BloodwindSpoil"
+  },
+  "WS_AOS_Buy_BarakMhornar_Gnarlwood": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Mhornar Contract with Drekki in Gnarlwood.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_GNARLWOOD"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR",
+    "requiresAchievement": "WS_AOS_Buy_BarakMhornar_BloodwindSpoil"
+  },
+  "WS_AOS_Buy_BarakMhornar_HobbyTable": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Sign the Barak-Mhornar Contract with Drekki on the Hobby Table.",
+    "completionRequirements": {
+      "category": "TRADE_AGREEMENT",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_HOBBY_TABLE"
+      ],
+      "itemType": [
+        "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR"
+      ]
+    },
+    "relicToUnlock": "WS_AOS_RELIC_TRADE_AGREEMENT_BARAK_MHORNAR",
+    "requiresAchievement": "WS_AOS_Buy_BarakMhornar_BloodwindSpoil"
+  },
+  "WS_AOS_Buy_BrokenSword": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Buy the Broken Sword from Drekki Flynt.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_RELIC_BROKEN_SWORD"
+      ]
+    },
+    "relicToUnlock": "WS_RELIC_BROKEN_SWORD",
+    "requiresAchievement": "WS_AOS_Buy_BarakMhornar_BloodwindSpoil"
+  },
+  "WS_AOS_Buy_HuntingTrap": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Buy the Hunting Trap from Drekki Flynt.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_RELIC_HUNTING_TRAP"
+      ]
+    },
+    "relicToUnlock": "WS_RELIC_HUNTING_TRAP",
+    "requiresAchievement": "WS_AOS_Buy_BarakMhornar_BloodwindSpoil"
+  },
+  "WS_AOS_Buy_TradeAgreement_Brokk_AllStages": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Purchase Trade Agreement with Brokk on every stage.",
+    "characterToUnlock": "WS_AOS_BROKK",
+    "requiresAchievement": "WS_AOS_Encounter_Merchant",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0014"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0014"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "15"
+      }
     ]
+  },
+  "WS_AOS_Buy_TradeAgreement_Drekki_AllStages": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Purchase Trade Agreement with Drekki on every stage.",
+    "characterToUnlock": "WS_AOS_DREKKI",
+    "requiresAchievement": "WS_AOS_Collect_AtmosphericAnatomiser",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0015"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0015"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "16"
+      }
+    ]
+  },
+  "WS_AOS_CompleteStage_GreatParch": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Complete the Great Parch mission in the Warhammer Age of Sigmar universe.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_GREAT_PARCH"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Survive_Medium"
+  },
+  "WS_AOS_CompleteStage_SkrappaSpill": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Complete the Skrappa Spill mission in the Warhammer Age of Sigmar universe.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_SKRAPPA_SPILL"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_ReachLevel_GreatParch"
+  },
+  "WS_AOS_CompleteStage_BloodwindSpoil": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Complete the Bloodwind Spoil mission in the Warhammer Age of Sigmar universe.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_BLOODWIND_SPOIL"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_ReachLevel_SkrappaSpill"
+  },
+  "WS_AOS_CompleteStage_UnderEmpire": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Complete the Under-Empire mission in the Warhammer Age of Sigmar universe.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_UNDER_EMPIRE"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_ReachLevel_BloodwindSpoil"
+  },
+  "WS_AOS_CompleteStage_Hammerhal": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Complete the Twin-Tailed City mission in the Warhammer Age of Sigmar universe.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_HAMMERHAL"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_ReachLevel_UnderEmpire"
+  },
+  "WS_AOS_CompleteStage_Gnarlwood": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Complete the Gnarlwood mission in the Warhammer Age of Sigmar universe.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "STAGE_COMPLETED",
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_GNARLWOOD"
+      ]
+    },
+    "requiresAchievement": "WS_AOS_Unlock_EavyMetal"
+  },
+  "WS_AOS_CompleteStage_Necropolis": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Complete the Necropolis.",
+    "relicToUnlock": "WS_AOS_RELIC_OATHSTONE",
+    "requiresAchievement": "WS_AOS_Defeat_ExtremisBosses",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0041"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0041"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "42"
+      }
+    ]
+  },
+  "WS_AOS_CompleteStageWithRetinue_Callis_Toll": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Complete a stage with both of them in your retinue.",
+    "skinsToUnlock": [
+      {
+        "character": "WS_AOS_CALLIS",
+        "skin": "SKIN_WS_AOS_CALLIS_WITH_TOLL"
+      },
+      {
+        "character": "WS_AOS_TOLL",
+        "skin": "SKIN_WS_AOS_TOLL_WITH_CALLIS"
+      }
+    ]
+  },
+  "WS_AOS_CompleteStageWithRetinue_Gotrek_Maleneth": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Complete a stage with both of them in your retinue.",
+    "skinsToUnlock": [
+      {
+        "character": "WS_AOS_GOTREK",
+        "skin": "SKIN_WS_AOS_GOTREK_WITH_MALENETH"
+      },
+      {
+        "character": "WS_AOS_MALENETH_WITCHBLADE",
+        "skin": "SKIN_WS_AOS_MALENETH_WITH_GOTREK"
+      }
+    ]
+  },
+  "WS_AOS_Collect_Paint_1": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Collect 1 Paint Pot in AoS.",
+    "completionRequirements": {
+      "category": "PAINTPOT_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "siloType": [
+        "WH_AOS"
+      ],
+      "value": 1
+    },
+    "requiresAchievement": "WS_Shared_Collect_Paint_Leadbelcher"
+  },
+  "WS_AOS_Collect_Paint_2": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Collect 3 Paint Pots.",
+    "weaponToUnlock": "WS_TITHE",
+    "completionRequirements": {
+      "category": "PAINTPOT_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "siloType": [
+        "WH_AOS"
+      ],
+      "value": 3
+    },
+    "requiresAchievement": "WS_Shared_Collect_Paint_Leadbelcher"
+  },
+  "WS_AOS_Collect_Paint_Maleneth": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Paint Pot - Leadbelcher",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_AOS_Collect_Paint_1"
+      ],
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "paintPotType": [
+        "LEADBELCHER"
+      ]
+    },
+    "characterToUnlock": "WS_AOS_MALENETH_WITCHBLADE",
+    "requiresAchievement": "WS_AOS_Collect_Paint_1",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0019"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0019"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "20"
+      }
+    ]
+  },
+  "WS_AOS_Collect_Paint_Lyssa": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Paint Pot - Leadbelcher, Abaddon Black, Agrax Earthshade, Mechanicus Standard Grey.",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_AOS_Collect_Paint_1"
+      ],
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "paintPotType": [
+        "ABADDON_BLACK",
+        "AGRAX_EARTHSHADE",
+        "MECHANICUS_STANDARD_GREY",
+        "LEADBELCHER"
+      ]
+    },
+    "characterToUnlock": "WS_AOS_LYSSA_REVENYA",
+    "requiresAchievement": "WS_AOS_Collect_Paint_1",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0017"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0017"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "18"
+      }
+    ]
+  },
+  "WS_AOS_Collect_Paint_Valius": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "description": "Paint Pot - Leadbelcher, Celestra Grey, Reikland Fleshshade, Retributor Armour, Drakenhof Nightshade, Runelord Brass.",
+    "completionRequirements": {
+      "sortOrder": 10,
+      "preliminaryAchievements": [
+        "WS_AOS_Collect_Paint_1"
+      ],
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "paintPotType": [
+        "LEADBELCHER",
+        "CELESTRA_GREY",
+        "REIKLAND_FLESHSHADE",
+        "RETRIBUTOR_ARMOUR",
+        "RUNELORD_BRASS"
+      ]
+    },
+    "characterToUnlock": "WS_AOS_VALIUS",
+    "requiresAchievement": "WS_AOS_Collect_Paint_1"
+  },
+  "WS_AOS_Defeat_PlagueFurnace": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat a Plague Furnace.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_AOS_SKA_PLAGUEFURNACE"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_AOS_Survive_Medium",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0031"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0031"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "32"
+      }
+    ]
+  },
+  "WS_AOS_Defeat_ManglerSquigs": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat a pair of Mangler Squigs.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_AOS_GLO_MANGLER_SQUIG"
+      ],
+      "killCount": 2
+    },
+    "requiresAchievement": "WS_AOS_Survive_SkrappaSpill",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0032"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0032"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "33"
+      }
+    ]
+  },
+  "WS_AOS_Defeat_SkullCannons": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat a pair of Skull Cannons.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_AOS_BOK_SKULLCANNON_BS"
+      ],
+      "killCount": 2
+    },
+    "requiresAchievement": "WS_AOS_Survive_BloodwindSpoil_1",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0033"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0033"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "34"
+      }
+    ]
+  },
+  "WS_AOS_Defeat_VizzikSkour": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat Vizzik Skour.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_AOS_SKA_BOSS_VIZZIK"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_AOS_Survive_Medium",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0047"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0047"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "48"
+      }
+    ]
+  },
+  "WS_AOS_Defeat_Trugg": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat Trugg the Troggoth King.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_AOS_Survive_SkrappaSpill",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0048"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0048"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "49"
+      }
+    ]
+  },
+  "WS_AOS_Defeat_Skarbrand": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat Skarbrand.",
+    "goldPrize": 500,
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "enemyType": [
+        "WS_AOS_BOK_BOSS_SKARBRAND"
+      ],
+      "killCount": 1
+    },
+    "requiresAchievement": "WS_AOS_Survive_BloodwindSpoil_1",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0046"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0046"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "47"
+      }
+    ]
+  },
+  "WS_AOS_Defeat_ExtremisBoss_WithPurityMode": {
+    "silos": [
+      "WH_AOS"
+    ],
+    "forcedTexture": "AOS_UI_New",
+    "forcedFrameName": "ObjectiveIcon_Trophy.png",
+    "description": "Defeat any AoS Extremis Boss with Purity Mode enabled.",
+    "goldPrize": 500,
+    "completionRequirements": {},
+    "requiresAchievement": "WS_AOS_Defeat_Nagash",
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0030"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0030"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "31"
+      }
+    ]
+  },
+  "WS_Shared_Collect_Trophies_All": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Obtain all other Trophies in Warhammer Survivors.",
+    "completionRequirements": {
+      "sortOrder": 1000,
+      "category": "REQUIRE_ACHIEVEMENTS",
+      "lifetime": true,
+      "requireAll": true,
+      "useMainGameConfig": true,
+      "achievements": [
+        "WS_Shared_Collect_Paint_Large",
+        "WS_Shared_Carry_EvolvedWeapons_Max",
+        "WS_Shared_Evolve_AnyWeapon",
+        "WS_40K_Buy_BalphamusVaulk",
+        "WS_40K_Rescue_CommissarYarrick",
+        "WS_40K_Rescue_K9",
+        "WS_40K_Defeat_Enemies_Orks_Vehicles",
+        "WS_40K_Collect_Paint_LieutenantTitus",
+        "WS_40K_Rescue_MarneusCalgar",
+        "WS_40K_Collect_Paint_Mephiston",
+        "WS_40K_UnlockAll_StandardCharacters",
+        "WS_40K_Rescue_SaintCelestine",
+        "WS_40K_Activate_AstropathicRelay_All",
+        "WS_40K_Rescue_LegendOfCatachan",
+        "WS_AOS_Buy_TradeAgreement_Brokk_AllStages",
+        "WS_AOS_Buy_TradeAgreement_Drekki_AllStages",
+        "WS_AOS_Rescue_Gotrek",
+        "WS_AOS_Collect_Paint_Lyssa",
+        "WS_AOS_CharacterMorph_FreeguildFusilier",
+        "WS_AOS_Collect_Paint_Maleneth",
+        "WS_AOS_Rescue_Verentia",
+        "WS_AOS_Rescue_Oxenhammer",
+        "WS_AOS_Rescue_Toll",
+        "WS_AOS_Rescue_Ulgromthier",
+        "WS_40K_Defeat_GreatUncleanOne",
+        "WS_40K_Defeat_GasghkullMagUrukThraka",
+        "WS_40K_Defeat_NornEmissary",
+        "WS_40K_Defeat_ExtremisBoss_WithPurityMode",
+        "WS_40K_CollectAll_EmperorsTarot",
+        "WS_40K_Defeat_Typhus",
+        "WS_40K_Defeat_Carnifex",
+        "WS_40K_Defeat_GrukkFaceRippa",
+        "WS_AOS_Defeat_Skarbrand",
+        "WS_AOS_Defeat_VizzikSkour",
+        "WS_AOS_Defeat_Trugg",
+        "WS_AOS_CollectAll_CelestialArcanas",
+        "WS_AOS_Defeat_ExtremisBoss_WithPurityMode",
+        "WS_AOS_Defeat_PlagueFurnace",
+        "WS_AOS_Defeat_ManglerSquigs",
+        "WS_AOS_Defeat_SkullCannons",
+        "WS_40K_Collect_Auspex",
+        "WS_40K_Defeat_Enemy_Mortarion",
+        "WS_40K_Collect_BookOfTzeentch",
+        "WS_40K_Collect_EmperorsTarot_2",
+        "WS_AOS_Collect_Arcanoscope",
+        "WS_AOS_Collect_CelestialOrrery_2",
+        "WS_AOS_CompleteStage_Necropolis",
+        "WS_AOS_Collect_EyeOfTzeentch",
+        "WS_40K_Evolve_StormEagleRocket",
+        "WS_AOS_Evolve_UskavarTheSunderer"
+      ]
+    },
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0000"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0000"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "1"
+      }
+    ]
+  },
+  "WS_Shared_Collect_Paint_Large": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Collect 12 Warhammer Paint Pots.",
+    "completionRequirements": {
+      "category": "PAINTPOT_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "siloType": [
+        "WH_40K",
+        "WH_AOS"
+      ],
+      "value": 12
+    },
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0042"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0042"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "43"
+      }
+    ]
+  },
+  "WS_Shared_Collect_Currency_InRun": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Gather 9999 Coins in a single run.",
+    "completionRequirements": {
+      "category": "CURRENCY",
+      "requireAll": true,
+      "value": 9999
+    },
+    "pickupToUnlock": "GILDED",
+    "requiresAchievement": "WS_Shared_Evolve_AnyWeapon"
+  },
+  "WS_Shared_Collect_Gilded": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Gather 5 Gilded",
+    "completionRequirements": {
+      "category": "PICKUP_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "GILDED"
+      ],
+      "value": 5
+    },
+    "powerUpToUnlock": "FERVOUR",
+    "requiresAchievement": "WS_Shared_Collect_Currency_InRun"
+  },
+  "WS_Shared_Collect_Paint_AbaddonBlack": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Find Abaddon Black in the Imperial Bastion.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "paintPotType": [
+        "ABADDON_BLACK"
+      ]
+    },
+    "paintPotToUnlock": "ABADDON_BLACK"
+  },
+  "WS_Shared_Collect_Paint_Leadbelcher": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Find Leadbelcher in the Great Parch.",
+    "completionRequirements": {
+      "category": "COLLECTED",
+      "lifetime": true,
+      "requireAll": true,
+      "paintPotType": [
+        "LEADBELCHER"
+      ]
+    },
+    "paintPotToUnlock": "LEADBELCHER"
+  },
+  "WS_Shared_Collect_SuffocatingGravetide": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Use Suffocating Gravetide 10 times.",
+    "completionRequirements": {
+      "category": "PICKUP_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_AOS_SUFFOCATING_GRAVETIDE"
+      ],
+      "value": 10
+    },
+    "paintPotToUnlock": "DRAKENHOF_NIGHTSHADE"
+  },
+  "WS_Shared_Collect_Onslaught": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Use Onslaught 10 times.",
+    "completionRequirements": {
+      "category": "PICKUP_AMOUNT",
+      "lifetime": true,
+      "requireAll": true,
+      "itemType": [
+        "WS_40K_ONSLAUGHT"
+      ],
+      "value": 10
+    },
+    "paintPotToUnlock": "MEPHISTON_RED"
+  },
+  "WS_Shared_Evolve_AnyWeapon": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Evolve any weapon.",
+    "completionRequirements": {
+      "value": 1
+    },
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0002"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0002"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "3"
+      }
+    ]
+  },
+  "WS_Shared_Carry_EvolvedWeapons_Max": {
+    "alwaysHidden": true,
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Have any 6 evolved weapons at the same time.",
+    "completionRequirements": {
+      "value": 6
+    },
+    "PlatformsData": [
+      {
+        "Platfrom": "Steam",
+        "Data": "ws_achievement_0001"
+      },
+      {
+        "Platfrom": "PS5",
+        "Data": "0001"
+      },
+      {
+        "Platfrom": "GameCore",
+        "Data": "2"
+      }
+    ]
+  },
+  "WS_Shared_Defeat_Enemies_NulnOil": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Defeat 100,000 enemies with Nuln Oil.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "weaponType": [
+        "WS_NULN_OIL"
+      ],
+      "killCount": 100000
+    },
+    "paintPotToUnlock": "AGRAX_EARTHSHADE"
+  },
+  "WS_Shared_Defeat_Enemies_OrkStronghold": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Defeat 10,000 enemies in the Ork Stronghold.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_40K_ORK_STRONGHOLD"
+      ],
+      "killCount": 10000
+    },
+    "paintPotToUnlock": "CELESTRA_GREY"
+  },
+  "WS_Shared_Defeat_Skaven_StormcastEternals": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Defeat 10,000 Skaven with a character from the Stormcast Eternals.",
+    "completionRequirements": {
+      "overrideShowProgressBar": true,
+      "killCount": 10000
+    },
+    "paintPotToUnlock": "RETRIBUTOR_ARMOUR"
+  },
+  "WS_Shared_Defeat_Tyranids_Ultramarine": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Defeat 10,000 Tyranids with a character from the Ultramarines.",
+    "completionRequirements": {
+      "overrideShowProgressBar": true,
+      "killCount": 10000
+    },
+    "paintPotToUnlock": "MACRAGGE_BLUE"
+  },
+  "WS_Shared_Defeat_Carnifex_Daedalosus": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Defeat a Carnifex while playing as Technoarcheologist Daedalosus.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "characterType": [
+        "WS_40K_DAEDALOSUS"
+      ],
+      "enemyType": [
+        "WS_40K_TYR_CARNIFEX"
+      ],
+      "killCount": 1
+    },
+    "paintPotToUnlock": "MECHANICUS_STANDARD_GREY"
+  },
+  "WS_Shared_Defeat_Enemies_Gnarlwood": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Defeat 10,000 enemies in Gnarlwood.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "stageType": [
+        "WS_AOS_GNARLWOOD"
+      ],
+      "killCount": 10000
+    },
+    "paintPotToUnlock": "RAKARTH_FLESH"
+  },
+  "WS_Shared_Defeat_Enemies_D6Dice": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Defeat 100,000 enemies with D6 Dice.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "lifetime": true,
+      "requireAll": true,
+      "weaponType": [
+        "WS_D6_DICE"
+      ],
+      "killCount": 100000
+    },
+    "paintPotToUnlock": "REIKLAND_FLESHSHADE"
+  },
+  "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
+    "silos": [
+      "WH_40K",
+      "WH_AOS"
+    ],
+    "description": "Defeat a Plague Furnace while playing as Gotrek Gurnisson.",
+    "completionRequirements": {
+      "category": "ENEMIES_KILLED",
+      "requireAll": true,
+      "characterType": [
+        "WS_AOS_GOTREK"
+      ],
+      "enemyType": [
+        "WS_AOS_SKA_PLAGUEFURNACE"
+      ],
+      "killCount": 1
+    },
+    "paintPotToUnlock": "RUNELORD_BRASS"
   }
 }

@@ -9,7 +9,13 @@
       "WH_40K"
     ],
     "trackList" : [
-      "WS_40K_ImperialBastion"
+      "WS_40K_DesertWasteland",
+      "WS_40K_OrkStronghold",
+      "WS_40K_ImperialShipyard",
+      "WS_40K_ImperialBastion",
+      "WS_40K_Gallowdark",
+      "WS_40K_DeathWorldInvasion",
+      "WS_40K_HobbyTable"
     ]
   },
   "WH_AOS": {
@@ -22,7 +28,14 @@
       "WH_AOS"
     ],
     "trackList" : [
-      "WS_AOS_GreatParch"
+      "WS_AOS_GreatParch",
+      "WS_AOS_BloodwindSpoil",
+      "WS_AOS_SkrappaSpill",
+      "WS_AOS_UnderEmpire",
+      "WS_AOS_TwinTailedCity",
+      "WS_AOS_Necropolis",
+      "WS_AOS_Gnarlwood",
+      "WS_AOS_HobbyTable"
     ]
   }
 }

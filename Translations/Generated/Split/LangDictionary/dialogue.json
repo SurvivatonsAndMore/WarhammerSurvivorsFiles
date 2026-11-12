@@ -418,5 +418,75 @@
         "uk": "В атаку!"
       }
     }
+  },
+  "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+    "description": {
+      "_value": {
+        "en": "The light! It hurts… I. Will. Make. It. STOP!!!",
+        "fr": "La lumière ! Elle brûle... Je. Vais. En. FINIR !!!",
+        "it": "La luce! Fa male... Devo. assolutamente. SPEGNERLA!!!",
+        "de": "Das Licht! Es tut weh … Ich. Werde. Es. Auslöschen!!!",
+        "es": "¡La luz! Duele… ¡¡¡Yo. Haré. Que. Pare!!!",
+        "ja": "光だ！痛い…私は…止める…必ず止める！！！",
+        "ko": "빛이! 아프다… 내. 가. 반드시. 멈. 춘. 다!!!",
+        "pl": "Światło! Boli… Ja. To. POWSTRZYMAM!!!",
+        "pt-BR": "A luz! Está doendo... Eu. Vou Fazer. Isso. PARAR!!!",
+        "ru": "Свет! Он жжется… Я. Заставлю. Его. ПОГАСНУТЬ!!!",
+        "zh-CN": "这光！要刺眼……我……要……让它……熄灭！",
+        "tr": "Işık! Canımı yakıyor… Ben. Bunu. DURDURACAĞIM!!!",
+        "uk": "Світло! Пече... Я. Це. ЗУПИНЮ!"
+      }
+    },
+    "button": {
+      "_value": {
+        "en": "For Sigmar!",
+        "fr": "Pour Sigmar !",
+        "it": "Per Sigmar!",
+        "de": "Für Sigmar!",
+        "es": "¡Por Sigmar!",
+        "ja": "シグマーの御名において！",
+        "ko": "시그마를 위하여!",
+        "pl": "W imię Sigmara!",
+        "pt-BR": "Por Sigmar!",
+        "ru": "За Сигмара!",
+        "zh-CN": "为了西格玛！",
+        "tr": "Sigmar için!",
+        "uk": "За Сігмара!"
+      }
+    },
+    "descriptionInvulnerable": {
+      "_value": {
+        "en": "Haha your club don't hurt Trugg… Trugg will crush you!",
+        "fr": "Ha ha ha. Bâton pas faire mal à Trugg... Trugg t'écraser !",
+        "it": "Ah ah, tua mazza non fa male a Trugg... Trugg ti schiaccia!",
+        "de": "Haha! Deine Keule kann Trugg nichts anhaben … Trugg wird dich zermalmen!",
+        "es": "Ja, ja, tu garrote no hace daño a Trugg… ¡Trugg te aplastará!",
+        "ja": "ハハ！そんな棍棒じゃトラグは痛くもない…トラグがお前を叩き潰してやる！",
+        "ko": "하하! 네 몽둥이 따윈 트러그한테 안 아프다… 트러그가 널 짓뭉개 주마!",
+        "pl": "Ha, ha! Twoja pałka nie boli Trugga… Trugg Cię zmiażdży!",
+        "pt-BR": "Haha, sua clava não faz nem cócegas no Trugg... Trugg vai te esmagar!",
+        "ru": "Ха-ха, твоя дубина не делает Траггу больно… Трагг тебя раздавит!",
+        "zh-CN": "哈哈，你的棒子伤不了特鲁格……而特鲁格会把你碾碎！",
+        "tr": "Haha, senin sopan Trugg’ın canını yakmaz… Trugg seni ezecek!",
+        "uk": "Ха-ха, твоя палиця не робить боляче Труґґу... Труґґ тебе розчавить!"
+      }
+    },
+    "buttonInvulnerable": {
+      "_value": {
+        "en": "Attack!",
+        "fr": "À l'attaque !",
+        "it": "All'attacco!",
+        "de": "Angriff!",
+        "es": "¡Ataca!",
+        "ja": "攻撃！",
+        "ko": "공격!",
+        "pl": "Do ataku!",
+        "pt-BR": "Atacar!",
+        "ru": "В атаку!",
+        "zh-CN": "攻击！",
+        "tr": "Saldır!",
+        "uk": "В атаку!"
+      }
+    }
   }
 }

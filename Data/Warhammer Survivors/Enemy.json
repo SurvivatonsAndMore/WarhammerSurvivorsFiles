@@ -4807,7 +4807,7 @@
     {
       "placeholder": true,
       "level": 4,
-      "maxHp": 12,
+      "maxHp": 30,
       "speed": 100,
       "power": 25,
       "res_Defang": 0,
@@ -4828,7 +4828,6 @@
       "end": 18,
       "killedAmount": 0,
       "skills": [
-        0
       ],
       "bName": "Meganobz",
       "bDesc": "Placeholder",
@@ -5693,7 +5692,7 @@
   "WS_40K_DEA_PLAGUEMARINE_BOSS": [
     {
       "level": 2,
-      "maxHp": 25,
+      "maxHp": 60,
       "speed": 150,
       "power": 12,
       "knockback": 1,
@@ -5740,7 +5739,7 @@
         "DEATH_GUARD"
       ],
       "skills": [
-        0
+        
       ],
       "damageTypeResistances": {
         "POISON": 0.5
@@ -7046,7 +7045,7 @@
       "level": 1,
       "maxHp": 2.1,
       "speed": 110,
-      "power": 7,
+      "power": 6,
       "knockback": 0.3,
       "maxKnockback": 3,
       "deathKB": 2,
@@ -7172,7 +7171,7 @@
       "level": 1,
       "maxHp": 13,
       "speed": 110,
-      "power": 7,
+      "power": 6,
       "knockback": 0.3,
       "maxKnockback": 3,
       "deathKB": 2,
@@ -7227,7 +7226,7 @@
       "level": 1,
       "maxHp": 2.1,
       "speed": 150,
-      "power": 8,
+      "power": 7,
       "knockback": 0.3,
       "maxKnockback": 3,
       "deathKB": 2,

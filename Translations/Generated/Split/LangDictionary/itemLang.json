@@ -12,7 +12,7 @@
         "pl": "Za każdy kolejny zdobyty poziom zyskuje 30 punktów życia. Ekran awansu nie będzie już wyświetlany do końca tej rozgrywki.",
         "pt-BR": "A cada nível subsequente, você ganha 30 feridas. A tela para subir de nível não será mais exibida nesta sessão.",
         "ru": "Восстанавливайте по 30 ран за каждое последующее повышение уровня. Экран повышения уровня больше не будет отображаться для этого прохождения.",
-        "zh-CN": "此后每次升级将增加30点承伤。本轮游戏中将不再显示升级界面。",
+        "zh-CN": "此后每次升级将增加30点耐伤。本轮游戏中将不再显示升级界面。",
         "tr": "Sonraki her seviye atlayışında +30 yara kazanılır. Bu turda seviye atlama ekranı artık gösterilmez.",
         "uk": "За кожен наступний рівень отримує 30 ран. Екран підвищення рівня більше не з’являтиметься на цей забіг."
       }
@@ -523,7 +523,7 @@
         "pl": "Przywraca 30 punktów życia.",
         "pt-BR": "Cura 30 feridas.",
         "ru": "Восстанавливает 30 ран.",
-        "zh-CN": "恢复30点承伤。",
+        "zh-CN": "恢复30点耐伤。",
         "tr": "30 yarayı iyileştirir.",
         "uk": "Загоює 30 ран."
       }
@@ -576,7 +576,7 @@
         "pl": "Przywraca 60 punktów życia.",
         "pt-BR": "Cura 60 feridas.",
         "ru": "Восстанавливает 60 ран.",
-        "zh-CN": "恢复60点承伤。",
+        "zh-CN": "恢复60点耐伤。",
         "tr": "60 yarayı iyileştirir.",
         "uk": "Загоює 60 ран."
       }
@@ -593,7 +593,7 @@
         "pl": "Torba Medicae",
         "pt-BR": "Bolsa Médica",
         "ru": "Сумка медикэ",
-        "zh-CN": "医疗袋",
+        "zh-CN": "医疗包",
         "tr": "Medicae Çantası",
         "uk": "Сумка з медкомлектом"
       }
@@ -627,7 +627,7 @@
         "pl": "Torby Medicae",
         "pt-BR": "Bolsas Médicas",
         "ru": "Сумки медикэ",
-        "zh-CN": "医疗袋",
+        "zh-CN": "医疗包",
         "tr": "Medicae Çantaları",
         "uk": "Сумки з медкомлектами"
       }
@@ -1422,7 +1422,7 @@
         "pl": "Przywraca 30 punktów życia.",
         "pt-BR": "Cura 30 feridas.",
         "ru": "Восстанавливает 30 ран.",
-        "zh-CN": "恢复30点承伤。",
+        "zh-CN": "恢复30点耐伤。",
         "tr": "30 yarayı iyileştirir.",
         "uk": "Загоює 30 ран."
       }
@@ -1475,7 +1475,7 @@
         "pl": "Przywraca 30 punktów życia.",
         "pt-BR": "Cura 30 feridas.",
         "ru": "Восстанавливает 30 ран.",
-        "zh-CN": "恢复30点承伤。",
+        "zh-CN": "恢复30点耐伤。",
         "tr": "30 yarayı iyileştirir.",
         "uk": "Загоює 30 ран."
       }
@@ -1528,7 +1528,7 @@
         "pl": "Za każdy kolejny zdobyty poziom zyskuje 30 punktów życia. Ekran awansu nie będzie już wyświetlany do końca tej rozgrywki.",
         "pt-BR": "A cada nível subsequente, você ganha 30 feridas. A tela de subida de nível não será mais exibida nesta sessão.",
         "ru": "Восстанавливайте по 30 ран за каждое последующее повышение уровня. Экран повышения уровня больше не будет отображаться для этого прохождения.",
-        "zh-CN": "此后每次升级将增加30点承伤。本轮游戏中将不再显示升级界面。",
+        "zh-CN": "此后每次升级将增加30点耐伤。本轮游戏中将不再显示升级界面。",
         "tr": "Sonraki her seviye atlayışında +30 yara kazanılır. Bu turda seviye atlama ekranı artık gösterilmez.",
         "uk": "За кожен наступний рівень отримує 30 ран. Екран підвищення рівня більше не з’являтиметься на цей забіг."
       }
@@ -1564,7 +1564,7 @@
         "pl": "Przywraca 60 punktów życia.",
         "pt-BR": "Cura 60 feridas.",
         "ru": "Восстанавливает 60 ран.",
-        "zh-CN": "恢复60点承伤。",
+        "zh-CN": "恢复60点耐伤。",
         "tr": "60 yarayı iyileştirir.",
         "uk": "Загоює 60 ран."
       }
@@ -1677,7 +1677,7 @@
   "WS_AOS_CHRONOMANTIC_COG": {
     "description": {
       "_value": {
-        "en": "Induces a Hastened state, temporarily heightens {[SKILL]} , making enemies slower.",
+        "en": "Induces a Hastened state, temporarily heightens {[SKILL]}, making enemies slower.",
         "fr": "Provoque un état de Précipitation, augmentant temporairement la {[SKILL]} et ralentissant les ennemis.",
         "it": "Induce uno stato Accelerato, aumenta temporaneamente {[SKILL]} e rende i nemici più lenti.",
         "de": "Versetzt dich in den Zustand „Beschleunigt“, erhöht vorübergehend {[SKILL]} und verlangsamt Gegner.",
@@ -2073,7 +2073,7 @@
         "pl": "Złowrogi Wir Magii",
         "pt-BR": "Vórtice Maléfico",
         "ru": "Зловещий Мальстрим",
-        "zh-CN": "恶毒漩涡",
+        "zh-CN": "歹毒漩涡",
         "tr": "Maelstrom Anahtarı",
         "uk": "Лиховісний Мальстрем"
       }
@@ -2107,7 +2107,7 @@
         "pl": "Nieskończone Zaklęcie Złowrogi Wir Magii",
         "pt-BR": "Feitiço Infinito do Vórtice Maléfico",
         "ru": "Бесконечное заклинание «Зловещий Мальстрим»",
-        "zh-CN": "无尽法术之恶毒漩涡",
+        "zh-CN": "无尽法术之歹毒漩涡",
         "tr": "Maelstrom Anahtarı Sonsuz Büyüsü",
         "uk": "Нескінченне закляття «Лиховісний Мальстрем»"
       }
@@ -2353,7 +2353,7 @@
         "pl": "Dusząca Grobowa Fala",
         "pt-BR": "Maré Sufocante",
         "ru": "Удушающая Могильная Волна",
-        "zh-CN": "窒息坟潮",
+        "zh-CN": "窒息墓潮",
         "tr": "Boğucu Mezar Gelgiti",
         "uk": "Задушлива хвиля смерті"
       }
@@ -2387,7 +2387,7 @@
         "pl": "Nieskończone Zaklęcie Dusząca Grobowa Fala",
         "pt-BR": "Feitiço Infinito da Maré Sufocante",
         "ru": "Бесконечное заклинание «Удушающая Могильная Волна»",
-        "zh-CN": "无尽法术之窒息坟潮",
+        "zh-CN": "无尽法术之窒息墓潮",
         "tr": "Boğucu Mezar Gelgiti Sonsuz Büyüsü",
         "uk": "Нескінченне закляття «Задушлива хвиля смерті»"
       }
@@ -2849,7 +2849,7 @@
         "pl": "Przywraca 1 punkt życia.",
         "pt-BR": "Cura 1 ferida.",
         "ru": "Восстанавливает 1 рану.",
-        "zh-CN": "恢复1点承伤。",
+        "zh-CN": "恢复1点耐伤。",
         "tr": "1 yarayı iyileştirir.",
         "uk": "Загоює 1 рану."
       }
@@ -3676,7 +3676,7 @@
   "WS_40K_RELIC_FERROSANCTIC_ORRERY": {
     "description": {
       "_value": {
-        "en": "Summons  the merchant Balphamus Vaulk on all other Warhammer 40,000 stages.",
+        "en": "Summons the merchant Balphamus Vaulk on all other Warhammer 40,000 stages.",
         "fr": "Invoque le marchand Balphamus Vaulk dans toutes les autres scènes de Warhammer 40 000.",
         "it": "Evoca il mercante Balphamus Vaulk in tutti gli altri livelli di Warhammer 40.000.",
         "de": "Beschwört astropathische Relaisstationen für den Händler Balphamus Vaulk in allen anderen Levels von Warhammer 40.000.",
@@ -3941,7 +3941,7 @@
     },
     "name": {
       "_value": {
-        "en": "Astropathic Relay - Gallowdark -  Daedalosus",
+        "en": "Astropathic Relay - Gallowdark - Daedalosus",
         "fr": "Relais astropathique - Gallowdark - Daedalosus",
         "it": "Astropathic Relay - Patibolo Nero - Daedalosus",
         "de": "Astropathische Relaisstation – Galgenschatten – Daedalosus",
@@ -4305,7 +4305,7 @@
         "pl": "Umożliwia dostęp do menu sekretów Warhammer 40 000.​",
         "pt-BR": "Concede acesso ao menu de segredos do Warhammer 40.000.​",
         "ru": "Дает доступ к меню секретов в Warhammer 40,000.​",
-        "zh-CN": "解锁《战锤40000》秘密关卡菜单的访问权限。​",
+        "zh-CN": "解锁《战锤40000》隐藏关卡菜单的访问权限。​",
         "tr": "Warhammer 40,000 Sırlar menüsüne erişim sağlar.​",
         "uk": "Відкриває доступ до меню таємниць Warhammer 40 000.​"
       }
@@ -4782,7 +4782,7 @@
         "pl": "Umożliwia dostęp do menu sekretów Warhammer Age of Sigmar.​",
         "pt-BR": "Concede acesso ao menu de segredos de Warhammer Era de Sigmar.​",
         "ru": "Дает доступ к меню секретов в Warhammer Age of Sigmar.​",
-        "zh-CN": "解锁《战锤西格玛时代》秘密关卡菜单的访问权限。​",
+        "zh-CN": "解锁《战锤西格玛时代》隐藏关卡菜单的访问权限。​",
         "tr": "Warhammer Age of Sigmar Sırlar menüsüne erişim sağlar.​",
         "uk": "Відкриває доступ до меню таємниць Warhammer Age of Sigmar.​"
       }

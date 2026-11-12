@@ -1591,7 +1591,7 @@
     },
     "WS_Shared_Defeat_Enemies_D6Dice": {
       "unlockName": {
-        "_value": "Defeat 100,000 enemies with the D6 Dice."
+        "_value": "Defeat 10,000 enemies with the D6 Dice."
       }
     },
     "WS_Shared_Defeat_Carnifex_Daedalosus": {
@@ -1601,7 +1601,7 @@
     },
     "WS_Shared_Defeat_Enemies_NulnOil": {
       "unlockName": {
-        "_value": "Defeat 100,000 enemies with Nuln Oil."
+        "_value": "Defeat 10,000 enemies with Nuln Oil."
       }
     },
     "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
@@ -3623,7 +3623,7 @@
     },
     "WS_Shared_Defeat_Enemies_D6Dice": {
       "unlockName": {
-        "_value": "Battez 100 000 ennemis avec les dés D6."
+        "_value": "Battez 10 000 ennemis avec les dés D6."
       }
     },
     "WS_Shared_Defeat_Carnifex_Daedalosus": {
@@ -3633,7 +3633,7 @@
     },
     "WS_Shared_Defeat_Enemies_NulnOil": {
       "unlockName": {
-        "_value": "Battez 100 000 ennemis avec l’huile de Nuln."
+        "_value": "Battez 10 000 ennemis avec l’huile de Nuln."
       }
     },
     "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
@@ -5655,7 +5655,7 @@
     },
     "WS_Shared_Defeat_Enemies_D6Dice": {
       "unlockName": {
-        "_value": "Sconfiggi 100.000 nemici con il Dado D6."
+        "_value": "Sconfiggi 10.000 nemici con il Dado D6."
       }
     },
     "WS_Shared_Defeat_Carnifex_Daedalosus": {
@@ -5665,7 +5665,7 @@
     },
     "WS_Shared_Defeat_Enemies_NulnOil": {
       "unlockName": {
-        "_value": "Sconfiggi 100.000 nemici con Nuln Oil."
+        "_value": "Sconfiggi 10.000 nemici con Nuln Oil."
       }
     },
     "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
@@ -7687,7 +7687,7 @@
     },
     "WS_Shared_Defeat_Enemies_D6Dice": {
       "unlockName": {
-        "_value": "Vernichte 100.000 Gegner mit dem W6-Würfel."
+        "_value": "Vernichte 10.000 Gegner mit dem W6-Würfel."
       }
     },
     "WS_Shared_Defeat_Carnifex_Daedalosus": {
@@ -7697,7 +7697,7 @@
     },
     "WS_Shared_Defeat_Enemies_NulnOil": {
       "unlockName": {
-        "_value": "Vernichte 100.000 Gegner mit Nuln Oil."
+        "_value": "Vernichte 10.000 Gegner mit Nuln Oil."
       }
     },
     "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
@@ -9719,7 +9719,7 @@
     },
     "WS_Shared_Defeat_Enemies_D6Dice": {
       "unlockName": {
-        "_value": "Derrota a 100.000 enemigos con el dado D6."
+        "_value": "Derrota a 10.000 enemigos con el dado D6."
       }
     },
     "WS_Shared_Defeat_Carnifex_Daedalosus": {
@@ -9729,7 +9729,7 @@
     },
     "WS_Shared_Defeat_Enemies_NulnOil": {
       "unlockName": {
-        "_value": "Derrota a 100.000 enemigos con aceite de Nuln."
+        "_value": "Derrota a 10.000 enemigos con aceite de Nuln."
       }
     },
     "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
@@ -11751,7 +11751,7 @@
     },
     "WS_Shared_Defeat_Enemies_D6Dice": {
       "unlockName": {
-        "_value": "D6ダイスで敵100,000体を倒す。"
+        "_value": "D6ダイスで敵10,000体を倒す。"
       }
     },
     "WS_Shared_Defeat_Carnifex_Daedalosus": {
@@ -11761,7 +11761,7 @@
     },
     "WS_Shared_Defeat_Enemies_NulnOil": {
       "unlockName": {
-        "_value": "ナルンオイルの敵100,000体を倒す。"
+        "_value": "ナルンオイルの敵10,000体を倒す。"
       }
     },
     "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
@@ -13783,7 +13783,7 @@
     },
     "WS_Shared_Defeat_Enemies_D6Dice": {
       "unlockName": {
-        "_value": "D6 주사위로 적 100,000마리를 처치하세요."
+        "_value": "D6 주사위로 적 10,000마리를 처치하세요."
       }
     },
     "WS_Shared_Defeat_Carnifex_Daedalosus": {
@@ -13793,7 +13793,7 @@
     },
     "WS_Shared_Defeat_Enemies_NulnOil": {
       "unlockName": {
-        "_value": "눌른 오일로 적 100,000마리를 처치하세요."
+        "_value": "눌른 오일로 적 10,000마리를 처치하세요."
       }
     },
     "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
@@ -15815,7 +15815,7 @@
     },
     "WS_Shared_Defeat_Enemies_D6Dice": {
       "unlockName": {
-        "_value": "Pokonaj 100 000 wrogów za pomocą Kości k6."
+        "_value": "Pokonaj 10 000 wrogów za pomocą Kości k6."
       }
     },
     "WS_Shared_Defeat_Carnifex_Daedalosus": {
@@ -15825,7 +15825,7 @@
     },
     "WS_Shared_Defeat_Enemies_NulnOil": {
       "unlockName": {
-        "_value": "Pokonaj 100 000 wrogów za pomocą Oleju Nuln."
+        "_value": "Pokonaj 10 000 wrogów za pomocą Oleju Nuln."
       }
     },
     "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
@@ -17847,7 +17847,7 @@
     },
     "WS_Shared_Defeat_Enemies_D6Dice": {
       "unlockName": {
-        "_value": "Derrote 100.000 inimigos com o Dado D6."
+        "_value": "Derrote 10.000 inimigos com o Dado D6."
       }
     },
     "WS_Shared_Defeat_Carnifex_Daedalosus": {
@@ -17857,7 +17857,7 @@
     },
     "WS_Shared_Defeat_Enemies_NulnOil": {
       "unlockName": {
-        "_value": "Derrote 100.000 inimigos com o Óleo de Nuln."
+        "_value": "Derrote 10.000 inimigos com o Óleo de Nuln."
       }
     },
     "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
@@ -19879,7 +19879,7 @@
     },
     "WS_Shared_Defeat_Enemies_D6Dice": {
       "unlockName": {
-        "_value": "Уничтожьте 100 000 врагов с помощью кубика D6."
+        "_value": "Уничтожьте 10 000 врагов с помощью кубика D6."
       }
     },
     "WS_Shared_Defeat_Carnifex_Daedalosus": {
@@ -19889,7 +19889,7 @@
     },
     "WS_Shared_Defeat_Enemies_NulnOil": {
       "unlockName": {
-        "_value": "Уничтожьте 100 000 врагов с помощью нульнского масла."
+        "_value": "Уничтожьте 10 000 врагов с помощью нульнского масла."
       }
     },
     "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
@@ -20775,7 +20775,7 @@
     },
     "WS_40K_Survive_Large": {
       "unlockName": {
-        "_value": "在布道所中使用任意角色存活20分钟。"
+        "_value": "在关卡中使用任意角色存活20分钟。"
       }
     },
     "WS_40K_Survive_CommissarYarrick_OrkStronghold": {
@@ -20795,72 +20795,72 @@
     },
     "WS_40K_Evolve_Boltgun": {
       "unlockName": {
-        "_value": "进阶爆矢枪。"
+        "_value": "进化爆矢枪。"
       }
     },
     "WS_40K_Evolve_Chainsword": {
       "unlockName": {
-        "_value": "进阶链锯剑。"
+        "_value": "进化链锯剑。"
       }
     },
     "WS_40K_Evolve_Flamer": {
       "unlockName": {
-        "_value": "进阶火焰喷射器。"
+        "_value": "进化火焰喷射器。"
       }
     },
     "WS_40K_Evolve_Lasgun": {
       "unlockName": {
-        "_value": "进阶激光枪。"
+        "_value": "进化激光枪。"
       }
     },
     "WS_40K_Evolve_FragGrenade": {
       "unlockName": {
-        "_value": "进阶破片手雷。"
+        "_value": "进化破片手雷。"
       }
     },
     "WS_40K_Evolve_WhirlwindBattery": {
       "unlockName": {
-        "_value": "进阶旋风火箭炮阵。"
+        "_value": "进化旋风火箭炮阵。"
       }
     },
     "WS_40K_Evolve_ShieldOfFaith": {
       "unlockName": {
-        "_value": "进阶信仰之盾。"
+        "_value": "进化信仰之盾。"
       }
     },
     "WS_40K_Evolve_PowerFist": {
       "unlockName": {
-        "_value": "进阶动力拳。"
+        "_value": "进化动力拳。"
       }
     },
     "WS_40K_Evolve_PowerClaw": {
       "unlockName": {
-        "_value": "进阶动力爪。"
+        "_value": "进化动力爪。"
       }
     },
     "WS_40K_Evolve_CombatShotgun": {
       "unlockName": {
-        "_value": "进阶战斗霰弹枪。"
+        "_value": "进化战斗霰弹枪。"
       }
     },
     "WS_40K_Evolve_MechanicalBite": {
       "unlockName": {
-        "_value": "进阶机械啃咬。"
+        "_value": "进化机械啃咬。"
       }
     },
     "WS_40K_Evolve_StormEagleRocket": {
       "unlockName": {
-        "_value": "进阶风暴鹰火箭弹。"
+        "_value": "进化风暴鹰火箭弹。"
       }
     },
     "WS_40K_Evolve_NulnOil": {
       "unlockName": {
-        "_value": "进阶努恩油。"
+        "_value": "进化努恩油。"
       }
     },
     "WS_40K_Evolve_D6Dice": {
       "unlockName": {
-        "_value": "进阶D6骰子。"
+        "_value": "进化D6骰子。"
       }
     },
     "WS_40K_TakeDamage": {
@@ -20870,7 +20870,7 @@
     },
     "WS_40K_HaveFollowers_Small": {
       "unlockName": {
-        "_value": "拥有2名随从。"
+        "_value": "拥有2名随行人员。"
       }
     },
     "WS_40K_DealDamage_TorGaradon": {
@@ -20880,7 +20880,7 @@
     },
     "WS_40K_HaveFollowers_Med": {
       "unlockName": {
-        "_value": "拥有5名随从。"
+        "_value": "拥有5名随行人员。"
       }
     },
     "WS_40K_ReachLevel": {
@@ -20945,7 +20945,7 @@
     },
     "WS_40K_HaveFollowers_Large": {
       "unlockName": {
-        "_value": "拥有8名随从。"
+        "_value": "拥有8名随行人员。"
       }
     },
     "WS_40K_Collect_ArdCoat": {
@@ -21053,27 +21053,27 @@
     },
     "WS_40K_Evolve_CroziusArcanum": {
       "unlockName": {
-        "_value": "进阶克罗修斯法杖。"
+        "_value": "进化克罗修斯法杖。"
       }
     },
     "WS_40K_Evolve_Fidelis": {
       "unlockName": {
-        "_value": "进阶忠贞。"
+        "_value": "进化忠贞。"
       }
     },
     "WS_40K_Evolve_SpearOfTheFaithful": {
       "unlockName": {
-        "_value": "进阶信徒之矛。"
+        "_value": "进化信徒之矛。"
       }
     },
     "WS_40K_Evolve_ArdentBlade": {
       "unlockName": {
-        "_value": "进阶热诚之刃。"
+        "_value": "进化热诚之刃。"
       }
     },
     "WS_40K_Evolve_BattleCannon": {
       "unlockName": {
-        "_value": "进阶战斗加农炮。"
+        "_value": "进化战斗加农炮。"
       }
     },
     "WS_AOS_Defeat_Skarbrand": {
@@ -21583,7 +21583,7 @@
     },
     "WS_AOS_Evolve_Any": {
       "unlockName": {
-        "_value": "进阶一件武器。"
+        "_value": "进化一件武器。"
       }
     },
     "WS_AOS_Survive_Sharynn": {
@@ -21663,12 +21663,12 @@
     },
     "WS_AOS_Evolve_FyrestormGreataxe": {
       "unlockName": {
-        "_value": "进阶烈焰风暴巨斧。"
+        "_value": "进化烈焰风暴巨斧。"
       }
     },
     "WS_AOS_Evolve_Grandblade": {
       "unlockName": {
-        "_value": "进阶巨剑。"
+        "_value": "进化巨剑。"
       }
     },
     "WS_AOS_DealDamage_Retaliatory_MajorDocheval": {
@@ -21678,80 +21678,80 @@
     },
     "WS_AOS_Evolve_BoltstormPistol": {
       "unlockName": {
-        "_value": "进阶爆矢风暴手枪。"
+        "_value": "进化爆矢风暴手枪。"
       }
     },
     "WS_AOS_Evolve_FlintlockPistol": {
       "unlockName": {
-        "_value": "进阶燧发手枪。"
+        "_value": "进化燧发手枪。"
       }
     },
     "WS_AOS_Evolve_BraceOfPistols": {
       "unlockName": {
-        "_value": "进阶双枪齐发。"
+        "_value": "进化双枪齐发。"
       }
     },
     "WS_AOS_Evolve_NebulousSeaFog": {
       "unlockName": {
-        "_value": "进阶溟濛海雾。"
+        "_value": "进化溟濛海雾。"
       }
     },
     "WS_AOS_Evolve_RopeAndGrapnel": {
       "unlockName": {
-        "_value": "进阶束缚钩爪。"
+        "_value": "进化束缚钩爪。"
       }
     },
     "WS_AOS_Evolve_CycloneSword": {
       "unlockName": {
-        "_value": "进阶旋风之剑。"
+        "_value": "进化旋风之剑。"
       }
     },
     "WS_AOS_Evolve_MysticalWard": {
       "unlockName": {
-        "_value": "进阶神秘屏障。"
+        "_value": "进化神秘屏障。"
       }
     },
     "WS_AOS_Evolve_TwinTailedCat": {
       "unlockName": {
-        "_value": "进阶双尾猫。"
+        "_value": "进化双尾猫。"
       }
     },
     "WS_AOS_Evolve_StormchargedWarhammer": {
       "unlockName": {
-        "_value": "进阶风暴蓄能战锤。"
+        "_value": "进化风暴蓄能战锤。"
       }
     },
     "WS_AOS_Evolve_UskavarTheSunderer": {
       "unlockName": {
-        "_value": "进阶乌斯卡瓦·粉碎者。"
+        "_value": "进化乌斯卡瓦·粉碎者。"
       }
     },
     "WS_AOS_Evolve_NulnOil": {
       "unlockName": {
-        "_value": "进阶努恩油。"
+        "_value": "进化努恩油。"
       }
     },
     "WS_AOS_Evolve_D6Dice": {
       "unlockName": {
-        "_value": "进阶D6骰子。"
+        "_value": "进化D6骰子。"
       }
     },
     "WS_AOS_Secret_Evolve_UskavarTheSunderer": {
       "unlockName": {
-        "_value": "进阶乌斯卡瓦·粉碎者。"
+        "_value": "进化乌斯卡瓦·粉碎者。"
       }
     },
     "WS_AOS_Evolve_UskavarTheSunderer_2": {
       "unlockName": {
-        "_value": "进阶乌斯卡瓦·粉碎者。"
+        "_value": "进化乌斯卡瓦·粉碎者。"
       },
       "description": {
-        "_value": "进阶乌斯卡瓦·粉碎者。"
+        "_value": "进化乌斯卡瓦·粉碎者。"
       }
     },
     "WS_AOS_Evolve_TempestAxes": {
       "unlockName": {
-        "_value": "进阶风暴战斧。"
+        "_value": "进化风暴战斧。"
       }
     },
     "WS_AOS_TakeDamage": {
@@ -21761,7 +21761,7 @@
     },
     "WS_AOS_HaveFollowers_Small": {
       "unlockName": {
-        "_value": "拥有2名随从。"
+        "_value": "拥有2名随行人员。"
       }
     },
     "WS_AOS_Defeat_KhorneDemons": {
@@ -21771,7 +21771,7 @@
     },
     "WS_AOS_HaveFollowers_Med": {
       "unlockName": {
-        "_value": "拥有5名随从。"
+        "_value": "拥有5名随行人员。"
       }
     },
     "WS_AOS_ReachLevel": {
@@ -21846,7 +21846,7 @@
     },
     "WS_AOS_Evolve_PoisonedThrowingKnives": {
       "unlockName": {
-        "_value": "进阶淬毒飞刃。"
+        "_value": "进化淬毒飞刃。"
       }
     },
     "WS_Shared_Collect_Paint_Large": {
@@ -21856,12 +21856,12 @@
     },
     "WS_Shared_Carry_EvolvedWeapons_Max": {
       "unlockName": {
-        "_value": "在任意宇宙中同时持有6件进阶版武器。"
+        "_value": "在任意宇宙中同时持有6件进化版武器。"
       }
     },
     "WS_Shared_Evolve_AnyWeapon": {
       "unlockName": {
-        "_value": "在任意宇宙中进阶任意武器。"
+        "_value": "在任意宇宙中进化任意武器。"
       }
     },
     "WS_Shared_Collect_Trophies_All": {
@@ -21891,7 +21891,7 @@
     },
     "WS_Shared_Defeat_Tyranids_Ultramarine": {
       "unlockName": {
-        "_value": "使用一名极限战士角色击败10,000只泰伦虫族。"
+        "_value": "以一名极限战士角色的身份击败10,000只泰伦虫族。"
       }
     },
     "WS_Shared_Defeat_Enemies_Gnarlwood": {
@@ -21906,12 +21906,12 @@
     },
     "WS_Shared_Defeat_BladesOfKhorne_DaughtersOfKhaine": {
       "unlockName": {
-        "_value": "使用一名凯恩之女阵营角色击败10,000只恐虐之刃。"
+        "_value": "以一名凯恩之女阵营角色的身份击败10,000只恐虐之刃。"
       }
     },
     "WS_Shared_Defeat_Enemies_D6Dice": {
       "unlockName": {
-        "_value": "使用D6骰子击败100,000名敌人。"
+        "_value": "使用D6骰子击败10,000名敌人。"
       }
     },
     "WS_Shared_Defeat_Carnifex_Daedalosus": {
@@ -21921,7 +21921,7 @@
     },
     "WS_Shared_Defeat_Enemies_NulnOil": {
       "unlockName": {
-        "_value": "使用努恩油击败100,000名敌人。"
+        "_value": "使用努恩油击败10,000名敌人。"
       }
     },
     "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
@@ -22049,7 +22049,7 @@
     },
     "WS_Shared_Collect_SuffocatingGravetide": {
       "unlockName": {
-        "_value": "使用窒息坟潮10次。"
+        "_value": "使用窒息墓潮10次。"
       }
     },
     "WS_Shared_Collect_Onslaught": {
@@ -22168,12 +22168,12 @@
     },
     "WS_40K_Evolve_Smite": {
       "unlockName": {
-        "_value": "进阶惩击。"
+        "_value": "进化惩击。"
       }
     },
     "WS_40K_Evolve_StormBolter": {
       "unlockName": {
-        "_value": "进阶风暴爆矢枪。"
+        "_value": "进化风暴爆矢枪。"
       }
     },
     "WS_40K_ReachLevel_SergeantFuran": {
@@ -22231,7 +22231,7 @@
     },
     "WS_AOS_Evolve_BrazierStaff": {
       "unlockName": {
-        "_value": "进阶火炬之杖。"
+        "_value": "进化火炬之杖。"
       }
     },
     "WS_AOS_CompleteStage_GreatParch": {
@@ -22297,10 +22297,10 @@
     },
     "WS_AOS_Evolve_StormchargedWarhammer_2": {
       "unlockName": {
-        "_value": "进阶风暴蓄能战锤。"
+        "_value": "进化风暴蓄能战锤。"
       },
       "description": {
-        "_value": "进阶风暴蓄能战锤。"
+        "_value": "进化风暴蓄能战锤。"
       }
     },
     "WS_40K_Activate_AstropathicRelay_All": {
@@ -22339,10 +22339,10 @@
     },
     "WS_40K_RecoverWounds_EavyMetal": {
       "unlockName": {
-        "_value": "在'Eavy Metal模式中累计恢复1000点承伤。"
+        "_value": "在'Eavy Metal模式中累计恢复1000点耐伤。"
       },
       "description": {
-        "_value": "在'Eavy Metal模式中累计恢复1000点承伤。"
+        "_value": "在'Eavy Metal模式中累计恢复1000点耐伤。"
       }
     },
     "WS_AOS_Evolve_BladeOfTheHighHeavens": {
@@ -23943,7 +23943,7 @@
     },
     "WS_Shared_Defeat_Enemies_D6Dice": {
       "unlockName": {
-        "_value": "D6 Zarı ile 100.000 düşmanı yen."
+        "_value": "D6 Zarı ile 10.000 düşmanı yen."
       }
     },
     "WS_Shared_Defeat_Carnifex_Daedalosus": {
@@ -23953,7 +23953,7 @@
     },
     "WS_Shared_Defeat_Enemies_NulnOil": {
       "unlockName": {
-        "_value": "Nuln Oil ile 100.000 düşmanı yen."
+        "_value": "Nuln Oil ile 10.000 düşmanı yen."
       }
     },
     "WS_Shared_Defeat_PlagueFurnace_Gotrek": {
@@ -25975,7 +25975,7 @@
     },
     "WS_Shared_Defeat_Enemies_D6Dice": {
       "unlockName": {
-        "_value": "Здолайте 100 000 ворогів кубиком К-6."
+        "_value": "Здолайте 10 000 ворогів кубиком К-6."
       }
     },
     "WS_Shared_Defeat_Carnifex_Daedalosus": {
@@ -25985,7 +25985,7 @@
     },
     "WS_Shared_Defeat_Enemies_NulnOil": {
       "unlockName": {
-        "_value": "Здолайте 100 000 ворогів нульнською оливою."
+        "_value": "Здолайте 10 000 ворогів нульнською оливою."
       }
     },
     "WS_Shared_Defeat_PlagueFurnace_Gotrek": {

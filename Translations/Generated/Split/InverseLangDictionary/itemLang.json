@@ -347,7 +347,7 @@
     },
     "WS_AOS_CHRONOMANTIC_COG": {
       "description": {
-        "_value": "Induces a Hastened state, temporarily heightens {[SKILL]} , making enemies slower."
+        "_value": "Induces a Hastened state, temporarily heightens {[SKILL]}, making enemies slower."
       },
       "name": {
         "_value": "Chronomantic Cog"
@@ -764,7 +764,7 @@
     },
     "WS_40K_RELIC_FERROSANCTIC_ORRERY": {
       "description": {
-        "_value": "Summons  the merchant Balphamus Vaulk on all other Warhammer 40,000 stages."
+        "_value": "Summons the merchant Balphamus Vaulk on all other Warhammer 40,000 stages."
       },
       "name": {
         "_value": "Ferrosanctic Orrery"
@@ -819,7 +819,7 @@
         "_value": "Allows the merchant Daedalosus to appear on this stage."
       },
       "name": {
-        "_value": "Astropathic Relay - Gallowdark -  Daedalosus"
+        "_value": "Astropathic Relay - Gallowdark - Daedalosus"
       },
       "achievementTips": {
         "_value": "Gallowdark merchant."
@@ -11342,7 +11342,7 @@
   "zh-CN": {
     "WS_40K_ALWAYS_MEDIPACK": {
       "description": {
-        "_value": "此后每次升级将增加30点承伤。本轮游戏中将不再显示升级界面。"
+        "_value": "此后每次升级将增加30点耐伤。本轮游戏中将不再显示升级界面。"
       },
       "name": {
         "_value": "[常驻]医疗包"
@@ -11447,7 +11447,7 @@
     },
     "WS_40K_MEDIPACK": {
       "description": {
-        "_value": "恢复30点承伤。"
+        "_value": "恢复30点耐伤。"
       },
       "name": {
         "_value": "医疗包"
@@ -11458,16 +11458,16 @@
     },
     "WS_40K_MEDICAE_BAG": {
       "description": {
-        "_value": "恢复60点承伤。"
+        "_value": "恢复60点耐伤。"
       },
       "name": {
-        "_value": "医疗袋"
+        "_value": "医疗包"
       },
       "tips": {
         "_value": "掉落率受{[CHANCE]}影响。"
       },
       "achievementTips": {
-        "_value": "医疗袋"
+        "_value": "医疗包"
       }
     },
     "WS_40K_MELTA_BOMB": {
@@ -11632,7 +11632,7 @@
     },
     "WS_AOS_AQUA_SMALL": {
       "description": {
-        "_value": "恢复30点承伤。"
+        "_value": "恢复30点耐伤。"
       },
       "name": {
         "_value": "盖伊岚之水瓶"
@@ -11643,7 +11643,7 @@
     },
     "WS_AOS_AQUA_GHYRANIS": {
       "description": {
-        "_value": "恢复30点承伤。"
+        "_value": "恢复30点耐伤。"
       },
       "name": {
         "_value": "盖伊岚之水瓶"
@@ -11654,7 +11654,7 @@
     },
     "WS_AOS_ALWAYS_AQUA_GHYRANIS": {
       "description": {
-        "_value": "此后每次升级将增加30点承伤。本轮游戏中将不再显示升级界面。"
+        "_value": "此后每次升级将增加30点耐伤。本轮游戏中将不再显示升级界面。"
       },
       "name": {
         "_value": "[常驻]盖伊岚之水瓶"
@@ -11662,7 +11662,7 @@
     },
     "WS_AOS_AQUA_GHYRANIS_VESSEL": {
       "description": {
-        "_value": "恢复60点承伤。"
+        "_value": "恢复60点耐伤。"
       },
       "name": {
         "_value": "盖伊岚之水器皿"
@@ -11765,13 +11765,13 @@
         "_value": "不稳定的死亡魔法，会对处于爆炸范围内的敌人造成伤害。"
       },
       "name": {
-        "_value": "恶毒漩涡"
+        "_value": "歹毒漩涡"
       },
       "tips": {
         "_value": "掉落率受{[CHANCE]}影响。"
       },
       "achievementTips": {
-        "_value": "无尽法术之恶毒漩涡"
+        "_value": "无尽法术之歹毒漩涡"
       }
     },
     "WS_AOS_PRISMATIC_PALISADE": {
@@ -11821,13 +11821,13 @@
         "_value": "幽灵般的、势不可挡的不死军团从地底涌出，使敌人陷入眩晕与战斗休克状态。"
       },
       "name": {
-        "_value": "窒息坟潮"
+        "_value": "窒息墓潮"
       },
       "tips": {
         "_value": "掉落率受{[CHANCE]}影响。"
       },
       "achievementTips": {
-        "_value": "无尽法术之窒息坟潮"
+        "_value": "无尽法术之窒息墓潮"
       }
     },
     "WS_AOS_TREASURE_CHEST_LARGE": {
@@ -11925,7 +11925,7 @@
     },
     "WS_BLOOD_DROP": {
       "description": {
-        "_value": "恢复1点承伤。"
+        "_value": "恢复1点耐伤。"
       },
       "name": {
         "_value": "鲜血之坠"
@@ -12233,7 +12233,7 @@
     },
     "WS_40K_RELIC_THE_BOOK_OF_TZEENTCH": {
       "description": {
-        "_value": "解锁《战锤40000》秘密关卡菜单的访问权限。​"
+        "_value": "解锁《战锤40000》隐藏关卡菜单的访问权限。​"
       },
       "name": {
         "_value": "奸奇之书"
@@ -12332,7 +12332,7 @@
     },
     "WS_AOS_RELIC_EYE_OF_TZEENTCH": {
       "description": {
-        "_value": "解锁《战锤西格玛时代》秘密关卡菜单的访问权限。​"
+        "_value": "解锁《战锤西格玛时代》隐藏关卡菜单的访问权限。​"
       },
       "name": {
         "_value": "奸奇魔眼"

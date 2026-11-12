@@ -12,7 +12,7 @@
         "Za każdy kolejny zdobyty poziom zyskuje 30 punktów życia. Ekran awansu nie będzie już wyświetlany do końca tej rozgrywki.",
         "A cada nível subsequente, você ganha 30 feridas. A tela para subir de nível não será mais exibida nesta sessão.",
         "Восстанавливайте по 30 ран за каждое последующее повышение уровня. Экран повышения уровня больше не будет отображаться для этого прохождения.",
-        "此后每次升级将增加30点承伤。本轮游戏中将不再显示升级界面。",
+        "此后每次升级将增加30点耐伤。本轮游戏中将不再显示升级界面。",
         "Sonraki her seviye atlayışında +30 yara kazanılır. Bu turda seviye atlama ekranı artık gösterilmez.",
         "За кожен наступний рівень отримує 30 ран. Екран підвищення рівня більше не з’являтиметься на цей забіг."
       ]
@@ -523,7 +523,7 @@
         "Przywraca 30 punktów życia.",
         "Cura 30 feridas.",
         "Восстанавливает 30 ран.",
-        "恢复30点承伤。",
+        "恢复30点耐伤。",
         "30 yarayı iyileştirir.",
         "Загоює 30 ран."
       ]
@@ -576,7 +576,7 @@
         "Przywraca 60 punktów życia.",
         "Cura 60 feridas.",
         "Восстанавливает 60 ран.",
-        "恢复60点承伤。",
+        "恢复60点耐伤。",
         "60 yarayı iyileştirir.",
         "Загоює 60 ран."
       ]
@@ -593,7 +593,7 @@
         "Torba Medicae",
         "Bolsa Médica",
         "Сумка медикэ",
-        "医疗袋",
+        "医疗包",
         "Medicae Çantası",
         "Сумка з медкомлектом"
       ]
@@ -627,7 +627,7 @@
         "Torby Medicae",
         "Bolsas Médicas",
         "Сумки медикэ",
-        "医疗袋",
+        "医疗包",
         "Medicae Çantaları",
         "Сумки з медкомлектами"
       ]
@@ -1422,7 +1422,7 @@
         "Przywraca 30 punktów życia.",
         "Cura 30 feridas.",
         "Восстанавливает 30 ран.",
-        "恢复30点承伤。",
+        "恢复30点耐伤。",
         "30 yarayı iyileştirir.",
         "Загоює 30 ран."
       ]
@@ -1475,7 +1475,7 @@
         "Przywraca 30 punktów życia.",
         "Cura 30 feridas.",
         "Восстанавливает 30 ран.",
-        "恢复30点承伤。",
+        "恢复30点耐伤。",
         "30 yarayı iyileştirir.",
         "Загоює 30 ран."
       ]
@@ -1528,7 +1528,7 @@
         "Za każdy kolejny zdobyty poziom zyskuje 30 punktów życia. Ekran awansu nie będzie już wyświetlany do końca tej rozgrywki.",
         "A cada nível subsequente, você ganha 30 feridas. A tela de subida de nível não será mais exibida nesta sessão.",
         "Восстанавливайте по 30 ран за каждое последующее повышение уровня. Экран повышения уровня больше не будет отображаться для этого прохождения.",
-        "此后每次升级将增加30点承伤。本轮游戏中将不再显示升级界面。",
+        "此后每次升级将增加30点耐伤。本轮游戏中将不再显示升级界面。",
         "Sonraki her seviye atlayışında +30 yara kazanılır. Bu turda seviye atlama ekranı artık gösterilmez.",
         "За кожен наступний рівень отримує 30 ран. Екран підвищення рівня більше не з’являтиметься на цей забіг."
       ]
@@ -1564,7 +1564,7 @@
         "Przywraca 60 punktów życia.",
         "Cura 60 feridas.",
         "Восстанавливает 60 ран.",
-        "恢复60点承伤。",
+        "恢复60点耐伤。",
         "60 yarayı iyileştirir.",
         "Загоює 60 ран."
       ]
@@ -1677,7 +1677,7 @@
   "WS_AOS_CHRONOMANTIC_COG": {
     "description": {
       "_value": [
-        "Induces a Hastened state, temporarily heightens {[SKILL]} , making enemies slower.",
+        "Induces a Hastened state, temporarily heightens {[SKILL]}, making enemies slower.",
         "Provoque un état de Précipitation, augmentant temporairement la {[SKILL]} et ralentissant les ennemis.",
         "Induce uno stato Accelerato, aumenta temporaneamente {[SKILL]} e rende i nemici più lenti.",
         "Versetzt dich in den Zustand „Beschleunigt“, erhöht vorübergehend {[SKILL]} und verlangsamt Gegner.",
@@ -2073,7 +2073,7 @@
         "Złowrogi Wir Magii",
         "Vórtice Maléfico",
         "Зловещий Мальстрим",
-        "恶毒漩涡",
+        "歹毒漩涡",
         "Maelstrom Anahtarı",
         "Лиховісний Мальстрем"
       ]
@@ -2107,7 +2107,7 @@
         "Nieskończone Zaklęcie Złowrogi Wir Magii",
         "Feitiço Infinito do Vórtice Maléfico",
         "Бесконечное заклинание «Зловещий Мальстрим»",
-        "无尽法术之恶毒漩涡",
+        "无尽法术之歹毒漩涡",
         "Maelstrom Anahtarı Sonsuz Büyüsü",
         "Нескінченне закляття «Лиховісний Мальстрем»"
       ]
@@ -2353,7 +2353,7 @@
         "Dusząca Grobowa Fala",
         "Maré Sufocante",
         "Удушающая Могильная Волна",
-        "窒息坟潮",
+        "窒息墓潮",
         "Boğucu Mezar Gelgiti",
         "Задушлива хвиля смерті"
       ]
@@ -2387,7 +2387,7 @@
         "Nieskończone Zaklęcie Dusząca Grobowa Fala",
         "Feitiço Infinito da Maré Sufocante",
         "Бесконечное заклинание «Удушающая Могильная Волна»",
-        "无尽法术之窒息坟潮",
+        "无尽法术之窒息墓潮",
         "Boğucu Mezar Gelgiti Sonsuz Büyüsü",
         "Нескінченне закляття «Задушлива хвиля смерті»"
       ]
@@ -2849,7 +2849,7 @@
         "Przywraca 1 punkt życia.",
         "Cura 1 ferida.",
         "Восстанавливает 1 рану.",
-        "恢复1点承伤。",
+        "恢复1点耐伤。",
         "1 yarayı iyileştirir.",
         "Загоює 1 рану."
       ]
@@ -3676,7 +3676,7 @@
   "WS_40K_RELIC_FERROSANCTIC_ORRERY": {
     "description": {
       "_value": [
-        "Summons  the merchant Balphamus Vaulk on all other Warhammer 40,000 stages.",
+        "Summons the merchant Balphamus Vaulk on all other Warhammer 40,000 stages.",
         "Invoque le marchand Balphamus Vaulk dans toutes les autres scènes de Warhammer 40 000.",
         "Evoca il mercante Balphamus Vaulk in tutti gli altri livelli di Warhammer 40.000.",
         "Beschwört astropathische Relaisstationen für den Händler Balphamus Vaulk in allen anderen Levels von Warhammer 40.000.",
@@ -3941,7 +3941,7 @@
     },
     "name": {
       "_value": [
-        "Astropathic Relay - Gallowdark -  Daedalosus",
+        "Astropathic Relay - Gallowdark - Daedalosus",
         "Relais astropathique - Gallowdark - Daedalosus",
         "Astropathic Relay - Patibolo Nero - Daedalosus",
         "Astropathische Relaisstation – Galgenschatten – Daedalosus",
@@ -4305,7 +4305,7 @@
         "Umożliwia dostęp do menu sekretów Warhammer 40 000.​",
         "Concede acesso ao menu de segredos do Warhammer 40.000.​",
         "Дает доступ к меню секретов в Warhammer 40,000.​",
-        "解锁《战锤40000》秘密关卡菜单的访问权限。​",
+        "解锁《战锤40000》隐藏关卡菜单的访问权限。​",
         "Warhammer 40,000 Sırlar menüsüne erişim sağlar.​",
         "Відкриває доступ до меню таємниць Warhammer 40 000.​"
       ]
@@ -4782,7 +4782,7 @@
         "Umożliwia dostęp do menu sekretów Warhammer Age of Sigmar.​",
         "Concede acesso ao menu de segredos de Warhammer Era de Sigmar.​",
         "Дает доступ к меню секретов в Warhammer Age of Sigmar.​",
-        "解锁《战锤西格玛时代》秘密关卡菜单的访问权限。​",
+        "解锁《战锤西格玛时代》隐藏关卡菜单的访问权限。​",
         "Warhammer Age of Sigmar Sırlar menüsüne erişim sağlar.​",
         "Відкриває доступ до меню таємниць Warhammer Age of Sigmar.​"
       ]

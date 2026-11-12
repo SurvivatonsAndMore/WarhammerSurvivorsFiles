@@ -130,7 +130,7 @@
     },
     "6007": {
       "description": {
-        "_value": "Healing is doubled. You are immune to Bleeding, Burning, Cursed, Poisoned, Slowed, Stunned, and Vulnerable status effects. Gain additional {[WOUNDS]}, {[TOUGHNESS]} and {[CORRUPTION]} every level. All enemy bosses have the Healing status effect"
+        "_value": "Healing is doubled. You are immune to Bleeding, Burning, Cursed, Poisoned, Slowed, Stunned, and Vulnerable status effects. Gain additional {[WOUNDS]}, {[TOUGHNESS]} and {[CORRUPTION]} every level. All enemy bosses have the Healing status effect."
       },
       "name": {
         "_value": "XVI - The Realm of Ghyran"
@@ -1426,7 +1426,7 @@
     },
     "6007": {
       "description": {
-        "_value": "A cura é dobrada. Você fica imune aos efeitos de estado Sangramento, Queimadura, Maldição, Envenenamento, Desaceleração, Atordoamento e Vulnerabilidade. Ganhe {[WOUNDS]}, {[TOUGHNESS]} e {[CORRUPTION]} adicionais a cada nível. Todos os chefões inimigos têm o efeito de estado “Cura”"
+        "_value": "A cura é dobrada. Você fica imune aos efeitos de estado Sangramento, Queimadura, Maldição, Envenenamento, Desaceleração, Atordoamento e Vulnerabilidade. Ganhe {[WOUNDS]}, {[TOUGHNESS]} e {[CORRUPTION]} adicionais a cada nível. Todos os chefões inimigos têm o efeito de estado “Cura”."
       },
       "name": {
         "_value": "XVI - O Reino de Ghyran"
@@ -1638,7 +1638,7 @@
     },
     "5003": {
       "description": {
-        "_value": "提高找到“收集大作战”掉落物的几率。当生命值极低时，每次{[REDEPLOYMENT]}可触发一次“收集大作战”。收集的任何货币都有几率恢复生命值或增加{[CORRUPTION]}。"
+        "_value": "提高“收集大作战”掉落物的出现几率。当处于低血量时，每次{[REDEPLOYMENT]}可触发一次“收集大作战”。收集任意货币均有几率恢复生命值或增加{[CORRUPTION]}。"
       },
       "name": {
         "_value": "0 - 愚者"
@@ -1646,7 +1646,7 @@
     },
     "5004": {
       "description": {
-        "_value": "+5次{[REROLL]}。每拥有一名随从，+10%{[VETERANCY]}，同时-5%{[RELOAD]}。更容易找到颂歌。"
+        "_value": "+5次{[REROLL]}。每拥有一名随行人员，+10%{[VETERANCY]}，同时-5%{[RELOAD]}。更容易找到颂歌。"
       },
       "name": {
         "_value": "XIV - 年轻战士"
@@ -1702,7 +1702,7 @@
     },
     "6001": {
       "description": {
-        "_value": "提高找到“收集大作战”掉落物的几率。+25%{[TITHE]}。货币可恢复生命值。治疗类掉落物将不再提供治疗效果，转而给予货币。如果1分钟内未拾取任何货币，将获得流血状态效果。"
+        "_value": "提高“收集大作战”掉落物的出现几率。+25%{[TITHE]}。货币可恢复生命值。治疗类掉落物将不再提供治疗效果，转而给予货币。如果1分钟内未拾取任何货币，将获得流血状态效果。"
       },
       "name": {
         "_value": "VI - 流光贪欲"
@@ -1726,7 +1726,7 @@
     },
     "6004": {
       "description": {
-        "_value": "攻击斯卡文鼠人敌人时有几率造成双倍伤害。生成一个无尽法术并每分钟增加{[SUSTAIN]}。更容易找到无尽法术。无尽法术在失效后有几率再次触发。"
+        "_value": "对敌人斯卡文鼠人发动攻击时有几率造成双倍伤害。每分钟召唤一个无尽法术，并增加{[SUSTAIN]}。召唤无尽法术的几率提升。无尽法术在失效后有几率再次触发。"
       },
       "name": {
         "_value": "XIV - 死灵震"
@@ -1734,7 +1734,7 @@
     },
     "6005": {
       "description": {
-        "_value": "+2{[REROLL]}、{[SKIP]}和{[BANISH]}。{[SUSTAIN]}和{[STRENGTH]}获得提升。这些增益会因随从数量增加而递减。承伤值低于临界点时，所有敌人陷入战斗休克状态，而你将获得10秒的加速状态。"
+        "_value": "+2{[REROLL]}、{[SKIP]}和{[BANISH]}。{[SUSTAIN]}和{[STRENGTH]}获得提升。这些增益会因随行人员数量增加而递减。耐伤值低于临界点时，所有敌人陷入战斗休克状态，而你将获得10秒的加速状态。"
       },
       "name": {
         "_value": "0 - 噩尔古界域"
@@ -1912,7 +1912,7 @@
     },
     "6007": {
       "description": {
-        "_value": "İyileştirme iki katına çıkar. Kanama, Yanma, Lanetli, Zehirli, Yavaşlatma, Sersemletme ve Savunmasızlık durum etkilerine karşı bağışıklık sahibisin. Her seviyede ek olarak {[WOUNDS]}, {[TOUGHNESS]} ve {[CORRUPTION]} kazanırsın. Tüm düşman patronları, İyiliştirme durum etkilerine sahiptir"
+        "_value": "İyileştirme iki katına çıkar. Kanama, Yanma, Lanetli, Zehirli, Yavaşlatma, Sersemletme ve Savunmasızlık durum etkilerine karşı bağışıklık sahibisin. Her seviyede ek olarak {[WOUNDS]}, {[TOUGHNESS]} ve {[CORRUPTION]} kazanırsın. Tüm düşman patronları, İyiliştirme durum etkilerine sahiptir."
       },
       "name": {
         "_value": "XV - Ghyran Diyarı"

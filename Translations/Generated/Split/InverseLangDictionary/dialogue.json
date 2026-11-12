@@ -83,6 +83,20 @@
       "buttonInvulnerable": {
         "_value": "Attack!"
       }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "description": {
+        "_value": "The light! It hurts… I. Will. Make. It. STOP!!!"
+      },
+      "button": {
+        "_value": "For Sigmar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Haha your club don't hurt Trugg… Trugg will crush you!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Attack!"
+      }
     }
   },
   "fr": {
@@ -157,6 +171,20 @@
       }
     },
     "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "La lumière ! Elle brûle... Je. Vais. En. FINIR !!!"
+      },
+      "button": {
+        "_value": "Pour Sigmar !"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ha ha ha. Bâton pas faire mal à Trugg... Trugg t'écraser !"
+      },
+      "buttonInvulnerable": {
+        "_value": "À l'attaque !"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
       "description": {
         "_value": "La lumière ! Elle brûle... Je. Vais. En. FINIR !!!"
       },
@@ -255,6 +283,20 @@
       "buttonInvulnerable": {
         "_value": "All'attacco!"
       }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "description": {
+        "_value": "La luce! Fa male... Devo. assolutamente. SPEGNERLA!!!"
+      },
+      "button": {
+        "_value": "Per Sigmar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ah ah, tua mazza non fa male a Trugg... Trugg ti schiaccia!"
+      },
+      "buttonInvulnerable": {
+        "_value": "All'attacco!"
+      }
     }
   },
   "de": {
@@ -329,6 +371,20 @@
       }
     },
     "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "Das Licht! Es tut weh … Ich. Werde. Es. Auslöschen!!!"
+      },
+      "button": {
+        "_value": "Für Sigmar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Haha! Deine Keule kann Trugg nichts anhaben … Trugg wird dich zermalmen!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Angriff!"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
       "description": {
         "_value": "Das Licht! Es tut weh … Ich. Werde. Es. Auslöschen!!!"
       },
@@ -427,6 +483,20 @@
       "buttonInvulnerable": {
         "_value": "¡Ataca!"
       }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "description": {
+        "_value": "¡La luz! Duele… ¡¡¡Yo. Haré. Que. Pare!!!"
+      },
+      "button": {
+        "_value": "¡Por Sigmar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ja, ja, tu garrote no hace daño a Trugg… ¡Trugg te aplastará!"
+      },
+      "buttonInvulnerable": {
+        "_value": "¡Ataca!"
+      }
     }
   },
   "ja": {
@@ -501,6 +571,20 @@
       }
     },
     "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "光だ！痛い…私は…止める…必ず止める！！！"
+      },
+      "button": {
+        "_value": "シグマーの御名において！"
+      },
+      "descriptionInvulnerable": {
+        "_value": "ハハ！そんな棍棒じゃトラグは痛くもない…トラグがお前を叩き潰してやる！"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻撃！"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
       "description": {
         "_value": "光だ！痛い…私は…止める…必ず止める！！！"
       },
@@ -599,6 +683,20 @@
       "buttonInvulnerable": {
         "_value": "공격!"
       }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "description": {
+        "_value": "빛이! 아프다… 내. 가. 반드시. 멈. 춘. 다!!!"
+      },
+      "button": {
+        "_value": "시그마를 위하여!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "하하! 네 몽둥이 따윈 트러그한테 안 아프다… 트러그가 널 짓뭉개 주마!"
+      },
+      "buttonInvulnerable": {
+        "_value": "공격!"
+      }
     }
   },
   "pl": {
@@ -673,6 +771,20 @@
       }
     },
     "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "Światło! Boli… Ja. To. POWSTRZYMAM!!!"
+      },
+      "button": {
+        "_value": "W imię Sigmara!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ha, ha! Twoja pałka nie boli Trugga… Trugg Cię zmiażdży!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Do ataku!"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
       "description": {
         "_value": "Światło! Boli… Ja. To. POWSTRZYMAM!!!"
       },
@@ -771,6 +883,20 @@
       "buttonInvulnerable": {
         "_value": "Atacar!"
       }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "description": {
+        "_value": "A luz! Está doendo... Eu. Vou Fazer. Isso. PARAR!!!"
+      },
+      "button": {
+        "_value": "Por Sigmar!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Haha, sua clava não faz nem cócegas no Trugg... Trugg vai te esmagar!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Atacar!"
+      }
     }
   },
   "ru": {
@@ -845,6 +971,20 @@
       }
     },
     "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "Свет! Он жжется… Я. Заставлю. Его. ПОГАСНУТЬ!!!"
+      },
+      "button": {
+        "_value": "За Сигмара!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ха-ха, твоя дубина не делает Траггу больно… Трагг тебя раздавит!"
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
       "description": {
         "_value": "Свет! Он жжется… Я. Заставлю. Его. ПОГАСНУТЬ!!!"
       },
@@ -943,6 +1083,20 @@
       "buttonInvulnerable": {
         "_value": "攻击！"
       }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "description": {
+        "_value": "这光！要刺眼……我……要……让它……熄灭！"
+      },
+      "button": {
+        "_value": "为了西格玛！"
+      },
+      "descriptionInvulnerable": {
+        "_value": "哈哈，你的棒子伤不了特鲁格……而特鲁格会把你碾碎！"
+      },
+      "buttonInvulnerable": {
+        "_value": "攻击！"
+      }
     }
   },
   "tr": {
@@ -1029,6 +1183,20 @@
       "buttonInvulnerable": {
         "_value": "Saldır!"
       }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "description": {
+        "_value": "Işık! Canımı yakıyor… Ben. Bunu. DURDURACAĞIM!!!"
+      },
+      "button": {
+        "_value": "Sigmar için!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Haha, senin sopan Trugg’ın canını yakmaz… Trugg seni ezecek!"
+      },
+      "buttonInvulnerable": {
+        "_value": "Saldır!"
+      }
     }
   },
   "uk": {
@@ -1103,6 +1271,20 @@
       }
     },
     "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING": {
+      "description": {
+        "_value": "Світло! Пече... Я. Це. ЗУПИНЮ!"
+      },
+      "button": {
+        "_value": "За Сігмара!"
+      },
+      "descriptionInvulnerable": {
+        "_value": "Ха-ха, твоя палиця не робить боляче Труґґу... Труґґ тебе розчавить!"
+      },
+      "buttonInvulnerable": {
+        "_value": "В атаку!"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
       "description": {
         "_value": "Світло! Пече... Я. Це. ЗУПИНЮ!"
       },

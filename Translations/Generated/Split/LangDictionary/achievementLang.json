@@ -1823,7 +1823,7 @@
         "pl": "Przetrwaj 20 minut w misji, grając dowolną postacią.",
         "pt-BR": "Sobreviva por 20 minutos em uma missão com qualquer personagem.",
         "ru": "Выживите в течение 20 минут во время миссии, играя за любого персонажа.",
-        "zh-CN": "在布道所中使用任意角色存活20分钟。",
+        "zh-CN": "在关卡中使用任意角色存活20分钟。",
         "tr": "Herhangi bir karakterle bir Görevde 20 dakika hayatta kal.",
         "uk": "Протримайтеся 20 хвилин на завданні будь-яким персонажем."
       }
@@ -1899,7 +1899,7 @@
         "pl": "Ulepsz Bolter.",
         "pt-BR": "Evolua a Boltgun.",
         "ru": "Усовершенствуйте болтер.",
-        "zh-CN": "进阶爆矢枪。",
+        "zh-CN": "进化爆矢枪。",
         "tr": "Patlayıcı Tüfek’i geliştir.",
         "uk": "Удоскональте гвинтовик."
       }
@@ -1918,7 +1918,7 @@
         "pl": "Ulepsz Miecz Łańcuchowy.",
         "pt-BR": "Evolua a Espada de Corrente.",
         "ru": "Усовершенствуйте цепной меч.",
-        "zh-CN": "进阶链锯剑。",
+        "zh-CN": "进化链锯剑。",
         "tr": "Zincırkılıç’ı geliştir.",
         "uk": "Удоскональте ланцюговий меч."
       }
@@ -1937,7 +1937,7 @@
         "pl": "Ulepsz Miotacz Ognia.",
         "pt-BR": "Evolua o Lança-chamas.",
         "ru": "Усовершенствуйте огнемёт.",
-        "zh-CN": "进阶火焰喷射器。",
+        "zh-CN": "进化火焰喷射器。",
         "tr": "Alev Püskürtücü’yü geliştir.",
         "uk": "Удоскональте вогнемет."
       }
@@ -1956,7 +1956,7 @@
         "pl": "Ulepsz Karabin Laserowy.",
         "pt-BR": "Evolua a Lasgun.",
         "ru": "Усовершенствуйте лазружьё.",
-        "zh-CN": "进阶激光枪。",
+        "zh-CN": "进化激光枪。",
         "tr": "Lazer Tüfeği’ni geliştir.",
         "uk": "Удоскональте лазестріл."
       }
@@ -1975,7 +1975,7 @@
         "pl": "Ulepsz Granat Odłamkowy.",
         "pt-BR": "Evolua a Granada de Fragmentação.",
         "ru": "Усовершенствуйте осколочную гранату.",
-        "zh-CN": "进阶破片手雷。",
+        "zh-CN": "进化破片手雷。",
         "tr": "Parçalı El Bombası’nı geliştir.",
         "uk": "Удоскональте осколкову гранату."
       }
@@ -1994,7 +1994,7 @@
         "pl": "Ulepsz Baterię Wiru.",
         "pt-BR": "Evolua a Bateria de Redemoinho.",
         "ru": "Усовершенствуйте батарею «Вихрь».",
-        "zh-CN": "进阶旋风火箭炮阵。",
+        "zh-CN": "进化旋风火箭炮阵。",
         "tr": "Kasırga Bataryası’nı geliştir.",
         "uk": "Удоскональте вихрову батарею."
       }
@@ -2013,7 +2013,7 @@
         "pl": "Ulepsz Tarczę Wiary.",
         "pt-BR": "Evolua o Escudo da Fé.",
         "ru": "Усовершенствуйте щит веры.",
-        "zh-CN": "进阶信仰之盾。",
+        "zh-CN": "进化信仰之盾。",
         "tr": "İnanç Kalkanı’nı geliştir.",
         "uk": "Удоскональте щит віри."
       }
@@ -2032,7 +2032,7 @@
         "pl": "Ulepsz Pięść Mocy.",
         "pt-BR": "Evolua o Punho de Força.",
         "ru": "Усовершенствуйте силовой кулак.",
-        "zh-CN": "进阶动力拳。",
+        "zh-CN": "进化动力拳。",
         "tr": "Güç Yumruğu’nu geliştir.",
         "uk": "Удоскональте силовий кулак."
       }
@@ -2051,7 +2051,7 @@
         "pl": "Ulepsz Potężny Pazur.",
         "pt-BR": "Evolua a Garra de Força.",
         "ru": "Усовершенствуйте силовую клишню.",
-        "zh-CN": "进阶动力爪。",
+        "zh-CN": "进化动力爪。",
         "tr": "Güç Pençesi’ni geliştir.",
         "uk": "Удоскональте силову клешню."
       }
@@ -2070,7 +2070,7 @@
         "pl": "Ulepsz Strzelbę Bojową.",
         "pt-BR": "Evolua a Espingarda de Combate.",
         "ru": "Усовершенствуйте боевой дробовик.",
-        "zh-CN": "进阶战斗霰弹枪。",
+        "zh-CN": "进化战斗霰弹枪。",
         "tr": "Savaş Pompalısı’nı geliştir.",
         "uk": "Удоскональте бойову рушницю."
       }
@@ -2089,7 +2089,7 @@
         "pl": "Ulepsz Mechaniczne Ugryzienie.",
         "pt-BR": "Evolua a Mordida Mecânica.",
         "ru": "Усовершенствуйте механическую челюсть.",
-        "zh-CN": "进阶机械啃咬。",
+        "zh-CN": "进化机械啃咬。",
         "tr": "Mekanik Isırık’ı geliştir.",
         "uk": "Удоскональте механічну щелепу."
       }
@@ -2108,7 +2108,7 @@
         "pl": "Ulepsz Rakietę Burzowego Orła.",
         "pt-BR": "Evolua o Foguete Storm Eagle.",
         "ru": "Усовершенствуйте ракету «Грозовой орёл».",
-        "zh-CN": "进阶风暴鹰火箭弹。",
+        "zh-CN": "进化风暴鹰火箭弹。",
         "tr": "Fırtına Kartalı Roketi’ni geliştir.",
         "uk": "Удоскональте ракету «Штормовий орел»."
       }
@@ -2127,7 +2127,7 @@
         "pl": "Ulepsz Olej Nuln.",
         "pt-BR": "Evolua o Óleo de Nuln.",
         "ru": "Усовершенствуйте нульнское масло.",
-        "zh-CN": "进阶努恩油。",
+        "zh-CN": "进化努恩油。",
         "tr": "Nuln Oil’i geliştir.",
         "uk": "Удоскональте нульнську оливу."
       }
@@ -2146,7 +2146,7 @@
         "pl": "Ulepsz Kość k6.",
         "pt-BR": "Evolua o Dado D6.",
         "ru": "Усовершенствуйте кубик D6.",
-        "zh-CN": "进阶D6骰子。",
+        "zh-CN": "进化D6骰子。",
         "tr": "D6 Zarı’nı geliştir.",
         "uk": "Удоскональте кубик К-6."
       }
@@ -2184,7 +2184,7 @@
         "pl": "Posiadaj 2 towarzyszy.",
         "pt-BR": "Tenha 2 seguidores.",
         "ru": "Привлеките 2 последователей.",
-        "zh-CN": "拥有2名随从。",
+        "zh-CN": "拥有2名随行人员。",
         "tr": "2 Takipçi elde et.",
         "uk": "Залучіть 2 послідовників."
       }
@@ -2222,7 +2222,7 @@
         "pl": "Posiadaj 5 towarzyszy.",
         "pt-BR": "Tenha 5 seguidores.",
         "ru": "Привлеките 5 последователей.",
-        "zh-CN": "拥有5名随从。",
+        "zh-CN": "拥有5名随行人员。",
         "tr": "5 Takipçi elde et.",
         "uk": "Залучіть 5 послідовників."
       }
@@ -2469,7 +2469,7 @@
         "pl": "Posiadaj 8 towarzyszy.",
         "pt-BR": "Tenha 8 seguidores.",
         "ru": "Привлеките 8 последователей.",
-        "zh-CN": "拥有8名随从。",
+        "zh-CN": "拥有8名随行人员。",
         "tr": "8 Takipçi elde et.",
         "uk": "Залучіть 8 послідовників."
       }
@@ -2885,7 +2885,7 @@
         "pl": "Ulepsz Crozius Arcanum.",
         "pt-BR": "Evolua a Crozius Arcanum.",
         "ru": "Усовершенствуйте крозиус арканум.",
-        "zh-CN": "进阶克罗修斯法杖。",
+        "zh-CN": "进化克罗修斯法杖。",
         "tr": "Crozius Arcanum’u geliştir.",
         "uk": "Удоскональте крозіус арканум."
       }
@@ -2904,7 +2904,7 @@
         "pl": "Ulepsz Fidelis.",
         "pt-BR": "Evolua o Fidelis.",
         "ru": "Усовершенствуйте Фиделис.",
-        "zh-CN": "进阶忠贞。",
+        "zh-CN": "进化忠贞。",
         "tr": "Fidelis’i geliştir.",
         "uk": "Удоскональте Фіделіс."
       }
@@ -2923,7 +2923,7 @@
         "pl": "Ulepsz Włócznię Wiernych.",
         "pt-BR": "Evolua a Lança dos Fiéis.",
         "ru": "Усовершенствуйте копьё верующих.",
-        "zh-CN": "进阶信徒之矛。",
+        "zh-CN": "进化信徒之矛。",
         "tr": "İnançlıların Mızrağı’nı geliştir.",
         "uk": "Удоскональте cпис Вірних."
       }
@@ -2942,7 +2942,7 @@
         "pl": "Ulepsz Żarliwe Ostrze.",
         "pt-BR": "Evolua a Lâmina Ardente.",
         "ru": "Усовершенствуйте пылкий клинок.",
-        "zh-CN": "进阶热诚之刃。",
+        "zh-CN": "进化热诚之刃。",
         "tr": "Alevli Bıçak’ı geliştir.",
         "uk": "Удоскональте палкий клинок."
       }
@@ -2961,7 +2961,7 @@
         "pl": "Ulepsz Działo Bitewne.",
         "pt-BR": "Evolua o Canhão de Batalha.",
         "ru": "Усовершенствуйте боевую пушку.",
-        "zh-CN": "进阶战斗加农炮。",
+        "zh-CN": "进化战斗加农炮。",
         "tr": "Savaş Topu’nu geliştir.",
         "uk": "Удоскональте бойову гармату."
       }
@@ -4983,7 +4983,7 @@
         "pl": "Ulepsz broń.",
         "pt-BR": "Evolua uma Arma.",
         "ru": "Усовершенствуйте оружие.",
-        "zh-CN": "进阶一件武器。",
+        "zh-CN": "进化一件武器。",
         "tr": "Bir Silah geliştir.",
         "uk": "Удоскональте будь-яку зброю."
       }
@@ -5287,7 +5287,7 @@
         "pl": "Ulepsz Wielki Topór Burzy Ognia.",
         "pt-BR": "Evolua o Machado Grandioso da Tempestade de Fogo.",
         "ru": "Усовершенствуйте двуручный топор Огненного Шторма.",
-        "zh-CN": "进阶烈焰风暴巨斧。",
+        "zh-CN": "进化烈焰风暴巨斧。",
         "tr": "Ateşfırtınalı Büyük Balta’yı geliştir.",
         "uk": "Удоскональте велику сокиру Вогнебурі."
       }
@@ -5306,7 +5306,7 @@
         "pl": "Ulepsz Wielkie Ostrze.",
         "pt-BR": "Evolua a Grande Lâmina.",
         "ru": "Усовершенствуйте великий клинок.",
-        "zh-CN": "进阶巨剑。",
+        "zh-CN": "进化巨剑。",
         "tr": "Büyük Kılıç’ı geliştir.",
         "uk": "Удоскональте великий клинок."
       }
@@ -5344,7 +5344,7 @@
         "pl": "Ulepsz Pistolet Boltstorm.",
         "pt-BR": "Evolua a Pistola Boltstorm.",
         "ru": "Усовершенствуйте штормболт-пистолет.",
-        "zh-CN": "进阶爆矢风暴手枪。",
+        "zh-CN": "进化爆矢风暴手枪。",
         "tr": "Deşici Tabanca’yı geliştir.",
         "uk": "Удоскональте пістолет «Гвинтова буря»."
       }
@@ -5363,7 +5363,7 @@
         "pl": "Ulepsz Pistolet Skałkowy.",
         "pt-BR": "Evolua a Pistola de Pederneira.",
         "ru": "Усовершенствуйте кремневый пистолет.",
-        "zh-CN": "进阶燧发手枪。",
+        "zh-CN": "进化燧发手枪。",
         "tr": "Çakmaklı Tabanca’yı geliştir.",
         "uk": "Удоскональте кременевий пістоль."
       }
@@ -5382,7 +5382,7 @@
         "pl": "Ulepsz Parę Pistoletów.",
         "pt-BR": "Evolua o Par de Pistolas.",
         "ru": "Усовершенствуйте сдвоенные пистолеты.",
-        "zh-CN": "进阶双枪齐发。",
+        "zh-CN": "进化双枪齐发。",
         "tr": "Tabanca Çifti’ni geliştir.",
         "uk": "Удоскональте пару пістолів."
       }
@@ -5401,7 +5401,7 @@
         "pl": "Ulepsz Migoczącą Morską Mgłę.",
         "pt-BR": "Evolua a Névoa Marinha Nebulosa.",
         "ru": "Усовершенствуйте Туманное Марево.",
-        "zh-CN": "进阶溟濛海雾。",
+        "zh-CN": "进化溟濛海雾。",
         "tr": "Sisli Deniz Pusu’nu geliştir.",
         "uk": "Удоскональте Маревний морський серпанок."
       }
@@ -5420,7 +5420,7 @@
         "pl": "Ulepsz Linę i Hak.",
         "pt-BR": "Evolua a Corda e Gancho.",
         "ru": "Усовершенствуйте веревку с крюком.",
-        "zh-CN": "进阶束缚钩爪。",
+        "zh-CN": "进化束缚钩爪。",
         "tr": "Halat ve Kıskaç’ı geliştir.",
         "uk": "Удоскональте мотузку й гак."
       }
@@ -5439,7 +5439,7 @@
         "pl": "Ulepsz Miecz Cyklonu.",
         "pt-BR": "Evolua a Espada Ciclone.",
         "ru": "Усовершенствуйте циклонический меч.",
-        "zh-CN": "进阶旋风之剑。",
+        "zh-CN": "进化旋风之剑。",
         "tr": "Siklon Kılıcı’nı geliştir.",
         "uk": "Удоскональте меч циклону."
       }
@@ -5458,7 +5458,7 @@
         "pl": "Ulepsz Mistyczną Barierę.",
         "pt-BR": "Evolua a Barreira Mística.",
         "ru": "Усовершенствуйте мистический оберег.",
-        "zh-CN": "进阶神秘屏障。",
+        "zh-CN": "进化神秘屏障。",
         "tr": "Mistik Muhafaza’yı geliştir.",
         "uk": "Удоскональте містичний оберіг."
       }
@@ -5477,7 +5477,7 @@
         "pl": "Ulepsz Dwuogoniastego Kota.",
         "pt-BR": "Evolua o Gato de Duas Caudas.",
         "ru": "Усовершенствуйте Двухвостого Кота.",
-        "zh-CN": "进阶双尾猫。",
+        "zh-CN": "进化双尾猫。",
         "tr": "Çift Kuyruklu Kedi’yi geliştir.",
         "uk": "Удоскональте Двохвостого кота."
       }
@@ -5496,7 +5496,7 @@
         "pl": "Ulepsz Burzowy Młot Bojowy.",
         "pt-BR": "Evolua o Martelo de Guerra Fulminante.",
         "ru": "Усовершенствуйте штормовой боевой молот.",
-        "zh-CN": "进阶风暴蓄能战锤。",
+        "zh-CN": "进化风暴蓄能战锤。",
         "tr": "Fırtına Yüklü Savaş Çekici’yi geliştir.",
         "uk": "Удоскональте грозовий бойовий молот."
       }
@@ -5515,7 +5515,7 @@
         "pl": "Ulepsz Uskavara Rozdzieracza.",
         "pt-BR": "Evolua Uskavar, o Arrasador",
         "ru": "Усовершенствуйте Ускавар Раскалыватель.",
-        "zh-CN": "进阶乌斯卡瓦·粉碎者。",
+        "zh-CN": "进化乌斯卡瓦·粉碎者。",
         "tr": "Parçalayıcı Uskuvar’ı geliştir.",
         "uk": "Удоскональте Ускавара Розламника."
       }
@@ -5534,7 +5534,7 @@
         "pl": "Ulepsz Olej Nuln.",
         "pt-BR": "Evolua o Óleo de Nuln.",
         "ru": "Усовершенствуйте нульнское масло.",
-        "zh-CN": "进阶努恩油。",
+        "zh-CN": "进化努恩油。",
         "tr": "Nuln Oil’i geliştir.",
         "uk": "Удоскональте нульнську оливу."
       }
@@ -5553,7 +5553,7 @@
         "pl": "Ulepsz Kość k6.",
         "pt-BR": "Evolua o Dado D6.",
         "ru": "Усовершенствуйте кубик D6.",
-        "zh-CN": "进阶D6骰子。",
+        "zh-CN": "进化D6骰子。",
         "tr": "D6 Zarı’nı geliştir.",
         "uk": "Удоскональте кубик К-6."
       }
@@ -5572,7 +5572,7 @@
         "pl": "Ulepsz Uskavara Rozdzieracza.",
         "pt-BR": "Evolua Uskavar, o Arrasador",
         "ru": "Усовершенствуйте Ускавар Раскалыватель.",
-        "zh-CN": "进阶乌斯卡瓦·粉碎者。",
+        "zh-CN": "进化乌斯卡瓦·粉碎者。",
         "tr": "Parçalayıcı Uskuvar’ı geliştir.",
         "uk": "Удоскональте Ускавара Розламника."
       }
@@ -5591,7 +5591,7 @@
         "pl": "Ulepsz Uskavara Rozdzieracza.",
         "pt-BR": "Evolua Uskavar, o Arrasador",
         "ru": "Усовершенствуйте Ускавар Раскалыватель.",
-        "zh-CN": "进阶乌斯卡瓦·粉碎者。",
+        "zh-CN": "进化乌斯卡瓦·粉碎者。",
         "tr": "Parçalayıcı Uskuvar’ı geliştir.",
         "uk": "Удоскональте Ускавара Розламника."
       }
@@ -5608,7 +5608,7 @@
         "pl": "Ulepsz Uskavara Rozdzieracza.",
         "pt-BR": "Evolua Uskavar, o Arrasador",
         "ru": "Усовершенствуйте Ускавар Раскалыватель.",
-        "zh-CN": "进阶乌斯卡瓦·粉碎者。",
+        "zh-CN": "进化乌斯卡瓦·粉碎者。",
         "tr": "Parçalayıcı Uskuvar’ı geliştir.",
         "uk": "Удоскональте Ускавара Розламника."
       }
@@ -5627,7 +5627,7 @@
         "pl": "Ulepsz Topory Burzowe.",
         "pt-BR": "Evolua os Machados da Tempestade",
         "ru": "Усовершенствуйте топоры бури.",
-        "zh-CN": "进阶风暴战斧。",
+        "zh-CN": "进化风暴战斧。",
         "tr": "Fırtına Baltaları’nı geliştir.",
         "uk": "Удоскональте сокири бурі."
       }
@@ -5665,7 +5665,7 @@
         "pl": "Posiadaj 2 towarzyszy.",
         "pt-BR": "Tenha 2 seguidores.",
         "ru": "Привлеките 2 последователей.",
-        "zh-CN": "拥有2名随从。",
+        "zh-CN": "拥有2名随行人员。",
         "tr": "2 Takipçi elde et.",
         "uk": "Залучіть 2 послідовників."
       }
@@ -5703,7 +5703,7 @@
         "pl": "Posiadaj 5 towarzyszy.",
         "pt-BR": "Tenha 5 seguidores.",
         "ru": "Привлеките 5 последователей.",
-        "zh-CN": "拥有5名随从。",
+        "zh-CN": "拥有5名随行人员。",
         "tr": "5 Takipçi elde et.",
         "uk": "Залучіть 5 послідовників."
       }
@@ -5988,7 +5988,7 @@
         "pl": "Ulepsz Zatrute Noże do Rzucania.",
         "pt-BR": "Evolua as Facas de Arremesso Envenenadas.",
         "ru": "Усовершенствуйте отравленные метательные ножи.",
-        "zh-CN": "进阶淬毒飞刃。",
+        "zh-CN": "进化淬毒飞刃。",
         "tr": "Zehirli Fırlatma Bıçakları’nı geliştir.",
         "uk": "Удоскональте отруєні метальні ножі."
       }
@@ -6026,7 +6026,7 @@
         "pl": "Miej jednocześnie 6 ulepszonych broni w dowolnym uniwersum.",
         "pt-BR": "Tenha 6 Armas Evoluídas ao mesmo tempo em qualquer Universo.",
         "ru": "Соберите 6 видов усовершенствованного оружия одновременно в любой из вселенных.",
-        "zh-CN": "在任意宇宙中同时持有6件进阶版武器。",
+        "zh-CN": "在任意宇宙中同时持有6件进化版武器。",
         "tr": "Herhangi bir Evrende aynı anda 6 Evrimleşmiş Silah’a sahip ol.",
         "uk": "Удоскональте 6 одиниць зброї в будь-якому з Усесвітів."
       }
@@ -6045,7 +6045,7 @@
         "pl": "Ulepsz dowolną broń w dowolnym uniwersum.",
         "pt-BR": "Evolua qualquer arma em qualquer Universo.",
         "ru": "Усовершенствуйте любое оружие в любой вселенной.",
-        "zh-CN": "在任意宇宙中进阶任意武器。",
+        "zh-CN": "在任意宇宙中进化任意武器。",
         "tr": "Herhangi bir Evrende bir Silah geliştir.",
         "uk": "Удоскональте будь-яку зброю в будь-якому з Усесвітів."
       }
@@ -6159,7 +6159,7 @@
         "pl": "Pokonaj 10 000 Tyranidów postacią Ultramarine.",
         "pt-BR": "Derrote 10.000 Tiranídeos com um personagem dos Ultramarinos.",
         "ru": "Уничтожьте 10 000 тиранидов, играя за одного из Ультрамаринов.",
-        "zh-CN": "使用一名极限战士角色击败10,000只泰伦虫族。",
+        "zh-CN": "以一名极限战士角色的身份击败10,000只泰伦虫族。",
         "tr": "Ultramarines karakteriyle 10.000 Tiranid’i yen.",
         "uk": "Здолайте 10 000 тиранідів представником ультрамаринів."
       }
@@ -6216,7 +6216,7 @@
         "pl": "Pokonaj 10 000 wrogów z Ostrzy Khorne’a postacią z Córek Khaine’a.",
         "pt-BR": "Derrote 10.000 inimigos das Lâminas de Khorne com uma personagem das Filhas de Khaine.",
         "ru": "Уничтожьте 10 000 Клинков Кхорна, играя за одну из Дочерей Кхаина.",
-        "zh-CN": "使用一名凯恩之女阵营角色击败10,000只恐虐之刃。",
+        "zh-CN": "以一名凯恩之女阵营角色的身份击败10,000只恐虐之刃。",
         "tr": "Daughters of Khaine karakteriyle 10.000 Khorne Kılıçları düşmanını yen.",
         "uk": "Здолайте 10 000 клинків Хорна однією з доньок Хайна."
       }
@@ -6225,19 +6225,19 @@
   "WS_Shared_Defeat_Enemies_D6Dice": {
     "unlockName": {
       "_value": {
-        "en": "Defeat 100,000 enemies with the D6 Dice.",
-        "fr": "Battez 100 000 ennemis avec les dés D6.",
-        "it": "Sconfiggi 100.000 nemici con il Dado D6.",
-        "de": "Vernichte 100.000 Gegner mit dem W6-Würfel.",
-        "es": "Derrota a 100.000 enemigos con el dado D6.",
-        "ja": "D6ダイスで敵100,000体を倒す。",
-        "ko": "D6 주사위로 적 100,000마리를 처치하세요.",
-        "pl": "Pokonaj 100 000 wrogów za pomocą Kości k6.",
-        "pt-BR": "Derrote 100.000 inimigos com o Dado D6.",
-        "ru": "Уничтожьте 100 000 врагов с помощью кубика D6.",
-        "zh-CN": "使用D6骰子击败100,000名敌人。",
-        "tr": "D6 Zarı ile 100.000 düşmanı yen.",
-        "uk": "Здолайте 100 000 ворогів кубиком К-6."
+        "en": "Defeat 10,000 enemies with the D6 Dice.",
+        "fr": "Battez 10 000 ennemis avec les dés D6.",
+        "it": "Sconfiggi 10.000 nemici con il Dado D6.",
+        "de": "Vernichte 10.000 Gegner mit dem W6-Würfel.",
+        "es": "Derrota a 10.000 enemigos con el dado D6.",
+        "ja": "D6ダイスで敵10,000体を倒す。",
+        "ko": "D6 주사위로 적 10,000마리를 처치하세요.",
+        "pl": "Pokonaj 10 000 wrogów za pomocą Kości k6.",
+        "pt-BR": "Derrote 10.000 inimigos com o Dado D6.",
+        "ru": "Уничтожьте 10 000 врагов с помощью кубика D6.",
+        "zh-CN": "使用D6骰子击败10,000名敌人。",
+        "tr": "D6 Zarı ile 10.000 düşmanı yen.",
+        "uk": "Здолайте 10 000 ворогів кубиком К-6."
       }
     }
   },
@@ -6263,19 +6263,19 @@
   "WS_Shared_Defeat_Enemies_NulnOil": {
     "unlockName": {
       "_value": {
-        "en": "Defeat 100,000 enemies with Nuln Oil.",
-        "fr": "Battez 100 000 ennemis avec l’huile de Nuln.",
-        "it": "Sconfiggi 100.000 nemici con Nuln Oil.",
-        "de": "Vernichte 100.000 Gegner mit Nuln Oil.",
-        "es": "Derrota a 100.000 enemigos con aceite de Nuln.",
-        "ja": "ナルンオイルの敵100,000体を倒す。",
-        "ko": "눌른 오일로 적 100,000마리를 처치하세요.",
-        "pl": "Pokonaj 100 000 wrogów za pomocą Oleju Nuln.",
-        "pt-BR": "Derrote 100.000 inimigos com o Óleo de Nuln.",
-        "ru": "Уничтожьте 100 000 врагов с помощью нульнского масла.",
-        "zh-CN": "使用努恩油击败100,000名敌人。",
-        "tr": "Nuln Oil ile 100.000 düşmanı yen.",
-        "uk": "Здолайте 100 000 ворогів нульнською оливою."
+        "en": "Defeat 10,000 enemies with Nuln Oil.",
+        "fr": "Battez 10 000 ennemis avec l’huile de Nuln.",
+        "it": "Sconfiggi 10.000 nemici con Nuln Oil.",
+        "de": "Vernichte 10.000 Gegner mit Nuln Oil.",
+        "es": "Derrota a 10.000 enemigos con aceite de Nuln.",
+        "ja": "ナルンオイルの敵10,000体を倒す。",
+        "ko": "눌른 오일로 적 10,000마리를 처치하세요.",
+        "pl": "Pokonaj 10 000 wrogów za pomocą Oleju Nuln.",
+        "pt-BR": "Derrote 10.000 inimigos com o Óleo de Nuln.",
+        "ru": "Уничтожьте 10 000 врагов с помощью нульнского масла.",
+        "zh-CN": "使用努恩油击败10,000名敌人。",
+        "tr": "Nuln Oil ile 10.000 düşmanı yen.",
+        "uk": "Здолайте 10 000 ворогів нульнською оливою."
       }
     }
   },
@@ -6765,7 +6765,7 @@
         "pl": "Użyj Duszącej Grobowej Fali 10 razy.",
         "pt-BR": "Use a Maré Sufocante 10 vezes.",
         "ru": "Используйте Удушающую Могильную Волну 10 раз.",
-        "zh-CN": "使用窒息坟潮10次。",
+        "zh-CN": "使用窒息墓潮10次。",
         "tr": "Boğucu Mezar Gelgiti’ni 10 kez kullan.",
         "uk": "Скористайтеся «Задушливою хвилею смерті» 10 разів."
       }
@@ -7234,7 +7234,7 @@
         "pl": "Ulepsz Porażenie.",
         "pt-BR": "Evolua o Castigo.",
         "ru": "Усовершенствуйте кару.",
-        "zh-CN": "进阶惩击。",
+        "zh-CN": "进化惩击。",
         "tr": "Smite’ı geliştir.",
         "uk": "Удоскональте Кару."
       }
@@ -7253,7 +7253,7 @@
         "pl": "Ulepsz Burzowy Bolter.",
         "pt-BR": "Evolua a Bolter de Assalto",
         "ru": "Усовершенствуйте штормовой болтер.",
-        "zh-CN": "进阶风暴爆矢枪。",
+        "zh-CN": "进化风暴爆矢枪。",
         "tr": "Fırtına Tüfeği’ni geliştir.",
         "uk": "Удоскональте штурмовий гвинтовик."
       }
@@ -7479,7 +7479,7 @@
         "pl": "Ulepsz Żarokostur.",
         "pt-BR": "Evolua o Cajado de Chamas.",
         "ru": "Усовершенствуйте посох-жаровню.",
-        "zh-CN": "进阶火炬之杖。",
+        "zh-CN": "进化火炬之杖。",
         "tr": "Kor Asa’yı geliştir.",
         "uk": "Удоскональте посох-жаровню."
       }
@@ -7741,7 +7741,7 @@
         "pl": "Ulepsz Burzowy Młot Bojowy.",
         "pt-BR": "Evolua o Martelo de Guerra Fulminante.",
         "ru": "Усовершенствуйте штормовой боевой молот.",
-        "zh-CN": "进阶风暴蓄能战锤。",
+        "zh-CN": "进化风暴蓄能战锤。",
         "tr": "Fırtına Yüklü Savaş Çekici’ni geliştir.",
         "uk": "Удоскональте грозовий бойовий молот."
       }
@@ -7758,7 +7758,7 @@
         "pl": "Ulepsz Burzowy Młot Bojowy.",
         "pt-BR": "Evolua o Martelo de Guerra Fulminante.",
         "ru": "Усовершенствуйте штормовой боевой молот.",
-        "zh-CN": "进阶风暴蓄能战锤。",
+        "zh-CN": "进化风暴蓄能战锤。",
         "tr": "Fırtına Yüklü Savaş Çekici’yi geliştir.",
         "uk": "Удоскональте грозовий бойовий молот."
       }
@@ -7923,7 +7923,7 @@
         "pl": "Wylecz łącznie 1000 punktów życia w trybie ’Eavy Metal.",
         "pt-BR": "Recupere um total de 1000 Feridas no modo 'Eavy Metal.",
         "ru": "Восстановите в общей сложности 1000 ран в режиме 'Eavy Metal.",
-        "zh-CN": "在'Eavy Metal模式中累计恢复1000点承伤。",
+        "zh-CN": "在'Eavy Metal模式中累计恢复1000点耐伤。",
         "tr": "Ağır Metal modunda toplam 1000 Yarayı iyileştir.",
         "uk": "Загойте загалом 1000 ран в режимі 'Eavy Metal."
       }
@@ -7940,7 +7940,7 @@
         "pl": "Wylecz łącznie 1000 punktów życia w trybie ’Eavy Metal.",
         "pt-BR": "Recupere um total de 1000 Feridas no modo 'Eavy Metal.",
         "ru": "Восстановите в общей сложности 1000 ран в режиме 'Eavy Metal.",
-        "zh-CN": "在'Eavy Metal模式中累计恢复1000点承伤。",
+        "zh-CN": "在'Eavy Metal模式中累计恢复1000点耐伤。",
         "tr": "Ağır Metal modunda toplam 1000 Yarayı iyileştir.",
         "uk": "Загойте загалом 1000 ран в режимі 'Eavy Metal."
       }

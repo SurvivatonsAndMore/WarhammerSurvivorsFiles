@@ -29,7 +29,7 @@
         "Ulepszony Olej Nuln. Strefy obrażeń podążają za tobą i spowalniają wrogów.",
         "Óleo de Nuln Evoluído. As zonas de dano seguem você e retardam os inimigos.",
         "Усовершенствованное нульнское масло. Зоны поражения следуют за вами и замедляют врагов.",
-        "进阶版努恩油。伤害区域将跟随你移动，并使敌人减速。",
+        "进化版努恩油。伤害区域将跟随你移动，并使敌人减速。",
         "Evrimleşmiş Nuln Oil. Hasar alanları ederek takip ederek düşmanları yavaşlatır.",
         "Покращена нульнська олива. Зони ураження тягнуться за вами і сповільнюють ворогів."
       ]
@@ -127,7 +127,7 @@
   "WS_40K_ARDENT_BLADE": {
     "tips": {
       "_value": [
-        "This sword is wielded by none other than the Living Saint, Celestine, in the name of Emperer. Its petals scatter, just as they did when the Saint emerged from the tomb of Saint Katherine.",
+        "This sword is wielded by none other than the Living Saint, Celestine, in the name of Emperor. Its petals scatter, just as they did when the Saint emerged from the tomb of Saint Katherine.",
         "Cette épée n'est maniée par nulle autre que la Sainte Vivante Célestine au nom de l'Empereur. Ses pétales se dispersent comme lorsque la Sainte sortit du tombeau de Sainte Katherine.",
         "Questo mondo è stato forgiato nientedimeno che dalla Santa Vivente, Celestine, in nome dell'Imperatore. I suoi petali si sparpagliano, proprio come fecero quando la Santa emerse dalla tomba di Santa Caterina.",
         "Dieses Schwert wird von niemand anderem als der lebenden Heiligen Celestine im Namen des Imperators geführt. Die Blütenblätter der Klinge fallen zu Boden, wie schon damals, als sie dem Grab der Heiligen Katherine entstieg.",
@@ -224,7 +224,7 @@
         "Ulepszony Burzowy Bolter. Strzela coraz szybciej, aż w końcu broń się przegrzewa.",
         "Bolter de Assalto evoluída. Os tiros são disparados cada vez mais rápido até a arma superaquecer.",
         "Усовершенствованный штормовой болтер. Стреляет всё быстрее и быстрее, пока не перегреется.",
-        "进阶版风暴爆矢枪。射速会逐渐提升，直至武器过热。",
+        "进化版风暴爆矢枪。射速会逐渐提升，直至武器过热。",
         "Geliştirilmiş Fırtına Tüfeği. Silah aşırı ısınana kadar atış hızı giderek artar.",
         "Удосконалений штурмовий гвинтовик. Стріляє усе швидше й швидше, доки не перегріється."
       ]
@@ -267,19 +267,19 @@
     },
     "description": {
       "_value": [
-        "Gift of Power Klaw. An 'evil eye' implant firing a short ranged laser, Battle-Shocks Orks. Bane of Ghazghkull Thraka",
-        "Don de pince énergétik’. Il s'agit d'un implant « mauvais zœil » qui tire un laser à courte portée et ébranle les Orks. Fléau de Ghazghkull Thraka",
+        "Gift of Power Klaw. An 'evil eye' implant firing a short ranged laser, Battle-Shocks Orks. Bane of Ghazghkull Thraka.",
+        "Don de pince énergétik’. Il s'agit d'un implant « mauvais zœil » qui tire un laser à courte portée et ébranle les Orks. Fléau de Ghazghkull Thraka.",
         "Dono della Kela potenziata. Un impianto con un \"occhio malvagio\" che spara un laser a corto raggio e causa shock agli Orki in battaglia. La rovina di Ghazghkull Thraka.",
         "Eine Gabe der Energiekralle. Ein „Böser Blick“-Implantat, das einen Laser auf kurze Reichweite abfeuert und Orks „erschüttert“. Fluch des Ghazghkull Thraka.",
         "Don de garra d'energía. Un implante de «mal de ojo» que dispara un láser de corto alcance y conmociona a los Orkos. Némesis de Ghazghkull Thraka.",
-        "パワークロオの賜物。射程の短いレーザーを発射するインプラントの邪眼。オルクを戦闘ショックに陥れる。ガズグッカル・ザラカの天敵",
+        "パワークロオの賜物。射程の短いレーザーを発射するインプラントの邪眼。オルクを戦闘ショックに陥れる。ガズグッカル・ザラカの天敵。",
         "파워 클로의 선물입니다. 단거리 레이저를 발사하는 '이블 아이' 임플란트로, 오크에게 전투충격을 유발합니다. 가즈쿨 스라카의 천적입니다.",
         "Dar Potężnego Pazura. Implant „złego oka” wystrzeliwujący laser krótkiego zasięgu, który wywołuje Panikę Bitewną u orków. Zmora Ghazghkulla Thraki.",
         "Dádiva de Garra de Força. Um implante do tipo “olho maligno” que dispara um laser de curto alcance, causando Choques de Batalha aos Orks. Pesadelo de Ghazghkull Thraka.",
         "Дар силовой клишни. Имплантат «дурного глаза», который стреляет лазером на близком расстоянии и поражает орков в бою. Проклятие Газгкулла Трака.",
         "能量爪的馈赠。一种“邪眼”植入体，短程激光发射器，能在战斗中震慑欧克蛮人。专克碎骨者·斯拉卡。",
         "Güç Pençesi Lütfu. Kısa menzilli lazer ateşleyen bir “şeytani göz” implantı. Orkları Şok Bozgununa uğratır. Ghazghkull Thraka’nın Belalısı.",
-        "Дар силової клешні. Імплант «Лихе око» стріляє лазером малої дальності й контузить орків. Страшний сон Ґазгкулла Траки"
+        "Дар силової клешні. Імплант «Лихе око» стріляє лазером малої дальності й контузить орків. Страшний сон Ґазгкулла Траки."
       ]
     },
     "name": {
@@ -356,7 +356,7 @@
   "WS_40K_BENEDICTION_OF_FURY": {
     "tips": {
       "_value": [
-        "This ancient, relic crozius arcanum has absorbed the righteous fury of every Chaplain to ever wield it. Now it unleashes those centuries of fury in thunderous fervour.",
+        "The ancient relic, the crozius arcanum, has absorbed the righteous fury of every Chaplain to ever wield it. Now it unleashes those centuries of fury in thunderous fervour.",
         "Cette ancienne relique, le crozius arcanum, a absorbé la vertueuse fureur de tous les Chapelains qui l'ont portée au fil des siècles. Elle la déchaîne désormais dans un fracas tonitruant.",
         "Il Crozius Arcanum è un'antica reliquia che ha assorbito la sacrosanta furia di tutti i Cappellani che l'abbiano mai brandito. Adesso scatena l'ira accumulata nei secoli con un fervore tonante.",
         "In dem antiken Relikt Crozius Arcanum ruht die rechtschaffene Wut all jener Ordenspriester, die es je geführt haben. Nun entfesselt es die Wut all dieser Jahrhunderte in donnernder Inbrunst.",
@@ -383,7 +383,7 @@
         "Ulepszony Crozius Arcanum. Atakuje z przodu i z tyłu, wywołując potężne fale uderzeniowe.",
         "Crozius Arcanum evoluído. Ataca pela frente e por trás, causando ondas de choque estrondosas.",
         "Усовершенствованный крозиус арканум. Наносит удары спереди и сзади, вызывая мощные ударные волны.",
-        "进阶版克罗修斯法杖。向敌人前后方发起猛击，每一击都迸发雷鸣般的冲击波。",
+        "进化版克罗修斯法杖。向敌人前后方发起猛击，每一击都迸发雷鸣般的冲击波。",
         "Evrimleşmiş Crozius Arcanum. Önünde ve arkasında vurarak gürleyen şok dalgaları oluşturur.",
         "Удосконалений крозіус арканум. Влучає спереду й позаду, створюючи громові ударні хвилі."
       ]
@@ -654,42 +654,6 @@
       ]
     }
   },
-  "WS_40K_CONDEMNOR_BOLTGUN": {
-    "description": {
-      "_value": [
-        "Drops flaming projectiles while moving, unleashing a deadly barrage while stopped.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Condemnor Boltgun",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    }
-  },
   "WS_40K_CROZIUS_ARCANUM": {
     "tips": {
       "_value": [
@@ -930,7 +894,7 @@
         "Ulepszony miecz łańcuchowy. Brutalny poziomy atak tnący powoduje Krwawienie.",
         "Espada de Corrente Evoluída. Ataque brutal de corte horizontal que causa Sangramento.",
         "Усовершенствованный цепной меч. Мощная рубящая атака по горизонтали, которая вызывает кровотечение.",
-        "进阶版开膛链锯剑。发动狂暴横斩，对敌人施加流血效果。",
+        "进化版链锯剑。发动狂暴横斩，对敌人施加流血效果。",
         "Evrimleşmiş Zincirkılıç. Kanamaya neden olan vahşi bir yatay saldırı savurur.",
         "Удосконалений ланцюговий меч. Сильний горизонтальний розсічний удар, що спричиняє кровотечу."
       ]
@@ -983,7 +947,7 @@
         "Ulepszona strzelba bojowa. Pociski typu Kat automatycznie wyszukują cel.",
         "Espingarda de Combate aprimorada. As munições Executoras rastreiam o alvo.",
         "Усовершенствованный боевой дробовик. Патроны «Палач» сами находят свою цель.",
-        "进阶版战斗霰弹枪。处决弹会追踪目标。",
+        "进化版战斗霰弹枪。处决弹会追踪目标。",
         "Evrimleşmiş Savaş Pompalısı. İnfazcı mermileri hedefini bulur.",
         "Удосконалена бойова рушниця. Набої «Ката» самі знаходять свою ціль."
       ]
@@ -1231,7 +1195,7 @@
         "Ulepszone Porażenie. Wystrzeliwuje wiązkę energii nasyconej mocą Osnowy, która zadaje obrażenia wszystkim wrogom na swojej drodze. Wszyscy wrogowie mogą eksplodować w zależności od zepsucia.",
         "Golpe Evoluído. Dispara um feixe de energia imbuída de mutação que causa dano a todos os inimigos em seu caminho. Os inimigos têm uma chance de explodir, dependendo do nível de corrupção.",
         "Усовершенствованная кара. Выпускает поток варп-энергии, который поражает всех врагов на своем пути. Враги взрываются с вероятностью, которая зависит от уровня скверны.",
-        "进阶版惩击。发射一道凝聚了亚空间能量的光束，对路径上的所有敌人造成伤害。敌人在此冲击下有概率爆炸，概率取决于其腐化程度。",
+        "进化版惩击。发射一道凝聚了亚空间能量的光束，对路径上的所有敌人造成伤害。敌人在此冲击下有概率爆炸，概率取决于其腐化程度。",
         "Geliştirilmiş Smite. Warp enerjisiyle dolu bir ışın ateşler ve yolundaki tüm düşmanlara hasar verir. Düşmanların yozlaşma seviyelerine göre patlama ihtimali vardır.",
         "Удосконалена Кара. Вистрілює просоченим енергією викривлення променем, що завдає шкоди усім ворогам на шляху. Уражені вороги можуть вибухати (це залежить від рівня скверни)."
       ]
@@ -1284,7 +1248,7 @@
         "Ulepszona Pięść Mocy. Dwie pięści, które miażdżą wrogów i wystrzeliwują pociski. Zmora Emisariusza Norn.",
         "Punho de Força Evoluído. Dois punhos que esmagam inimigos e lançam projéteis. Pesadelo do Emissário de Norn.",
         "Усовершенствованный силовой кулак. Два кулака, которые сокрушают врагов и разбрасывают снаряды. Проклятие норн-эмиссара.",
-        "进阶版能量拳。双拳可发动重创打击并倾泻弹雨。专克诺恩使者。",
+        "进化版能量拳。双拳可发动重创打击并倾泻弹雨。专克诺恩使者。",
         "Evrimleşmiş Güç Yumruğu. Düşmanları ezen ve mermi saçan iki yumruk. Norn Emireli’nin Belalısı.",
         "Удосконалений Силовий кулак. Два кулаки трощать ворогів і розкидують снаряди. Страшний сон норнського емісара."
       ]
@@ -1304,42 +1268,6 @@
         "奥特拉玛臂铠",
         "Ultramar Zırhlı Eldivenleri",
         "Кулаки Ультрамара"
-      ]
-    }
-  },
-  "WS_40K_GUARDIAN_SKULL": {
-    "description": {
-      "_value": [
-        "Releases electrical explosions when bouncing and shoots projectiles as it flies around.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Guardian Skull",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
       ]
     }
   },
@@ -1373,7 +1301,7 @@
         "Ulepszony Bolter. Prowadzi nieustanny ogień osłaniający.",
         "Boltgun Evoluída. Lança uma rajada constante de fogo de supressão.",
         "Усовершенствованный болтер. Создает непрерывный шквал огня на подавление.",
-        "进阶版爆矢枪。无限火力压制。",
+        "进化版爆矢枪。无限火力压制。",
         "Evrimleşmiş Patlayıcı Tüfek. Ardı arkası kesilmeyen bastırıcı ateş yağdırır.",
         "Удосконалений гвинтовик. З нього можна вести шквлальний вогонь на подавлення."
       ]
@@ -1426,7 +1354,7 @@
         "Ulepszony Miotacz Ognia. Wystrzeliwuje dwa strumienie płonącego promethium, rozprzestrzeniając ogień na pobliskich wrogów.",
         "Lança-chamas Evoluído. Dispara dois jatos de prometio em chamas, espalhando fogo pelos inimigos próximos.",
         "Усовершенствованный огнемёт. Выпускает двойные струи горящего прометия, поливая огнем ближайших врагов.",
-        "进阶版火焰喷射器。喷射两道灼热的钷素流，点燃附近的敌人。",
+        "进化版火焰喷射器。喷射两道灼热的钷素流，点燃附近的敌人。",
         "Evrimleşmiş Alev Püskürtücü. Yakındaki düşmanlara ateş yayan çift promethium alevi püskürtür.",
         "Удосконалений вогнемет. Стріляє подвійним струменем палаючого прометію, підпалюючи ворогів поблизу."
       ]
@@ -1515,7 +1443,7 @@
         "Ulepszona Tarcza Wiary. Płonąca aura, która spala pobliskich wrogów i leczy użytkownika.",
         "Escudo da Fé Evoluído. Uma aura flamejante que queima os inimigos próximos e cura quem o empunha.",
         "Усовершенствованный щит веры. Пылающая аура, которая обжигает ближайших врагов и исцеляет носителя.",
-        "进阶版信仰之盾。炽热光环会对附近敌人造成灼烧伤害，并为自身回复生命。",
+        "进化版信仰之盾。炽热光环会对附近敌人造成灼烧伤害，并为自身回复生命。",
         "Evrimleşmiş İnanç Kalkanı. Yakındaki düşmanları kavuran ve taşıyıcısını iyileştiren alevli bir aura.",
         "Удосконалений щит віри. Полум’яна аура обпалює ворогів поблизу й зцілює носія."
       ]
@@ -1541,7 +1469,7 @@
   "WS_40K_LASGUN": {
     "tips": {
       "_value": [
-        "The lasgun is favoured by the Astra Militarum troops as a realiable weapon against the enemies of the Emperor, though not as powerful as many of the kinetic weapons of the Imperium.",
+        "The lasgun is favoured by the Astra Militarum troops as a reliable weapon against the enemies of the Emperor, though not as powerful as many of the kinetic weapons of the Imperium.",
         "Le fusil laser est l'arme privilégiée des troupes de l'Astra Militarum. C'est une arme fiable pour combattre les ennemis de l'Empereur, même si sa puissance de feu n'égale pas celle des armes cinétiques de l'Imperium.",
         "Il fucile laser è l'arma prediletta delle truppe dell'Astra Militarum, una compagna affidabile contro i nemici dell'Imperatore, sebbene non sia potente quanto molte delle armi cinetiche dell'Impero.",
         "Bei den Truppen des Astra Militarum gilt das Lasergewehr als zuverlässige Waffe gegen die Feinde des Imperators, trotz dass sie nicht so mächtig wie viele der kinetischen Waffen des Imperiums ist.",
@@ -1585,7 +1513,7 @@
         "Wystrzeliwuje wiązką laserową w kierunku najbliższego wroga. Obrażenia maleją wraz z odległością.",
         "Dispara um raio de laser contra o inimigo mais próximo. O dano diminui com a distância.",
         "Выпускает лазерный заряд в ближайшего врага. С расстоянием урон уменьшается.",
-        "向距离最近的敌人发射一道激光束，造成的伤害值随距离的增加而减少。",
+        "朝最近的敌人射出一道激光束，距离越远，伤害越低。",
         "En yakın düşmana bir lazer patlaması ateşler. Hasarı mesafeyle azalır.",
         "Вистрілює лазерним гвинтом у найближчого ворога. Шкода зменшується з відстанню."
       ]
@@ -1611,7 +1539,7 @@
   "WS_40K_DEATHSTRIKE_MISSILE": {
     "tips": {
       "_value": [
-        "A weapon of Mass Destruction utilised by the Astra Militarum, a rarity on the battlefield in current times they are only used in the most apocalyptic situations.",
+        "A weapon of Mass Destruction utilised by the Astra Militarum; a rarity on the battlefield in current times, they are only used in the most apocalyptic situations.",
         "Arme de destruction massive utilisée par l'Astra Militarum. Elle est rarement employée sur le champ de bataille, car elle est réservée aux situations les plus désespérées.",
         "Un'arma di Distruzione di Massa utilizzata dall'Astra Militarum, una rarità sul campo di battaglia. Al giorno d'oggi, viene utilizzata solo nelle situazioni più disperate.",
         "Eine Massenvernichtungswaffe, verwendet vom Astra Militarum. Heutzutage ist sie nur selten auf dem Schlachtfeld anzutreffen und wird nur in den verheerendsten Situationen eingesetzt.",
@@ -1655,7 +1583,7 @@
         "Ulepszona Rakieta Burzowego Orła. Anihiluje wrogów, zbiera dodatkowe PD.",
         "Foguete Storm Eagle Evoluído. Aniquila os inimigos e acumula EXP bônus.",
         "Усовершенствованная ракета «Грозовой орёл». Уничтожает врагов и накапливает дополнительный опыт.",
-        "进阶版风暴鹰火箭弹。消灭敌人将获得额外的经验奖励。",
+        "进化版风暴鹰火箭弹。消灭敌人将获得额外的经验奖励。",
         "Evrimleşmiş Fırtına Kartalı Roketi. Düşmanları yok eder, bonus XP biriktirir.",
         "Покращена ракета «Штормовий орел». Анігілює ворогів і накопичує бонусний досвід."
       ]
@@ -1761,7 +1689,7 @@
         "Ulepszony Karabin Laserowy. Niezwykle potężny promień o krótkim zasięgu. Zadaje dodatkowe obrażenia bossom i wrogom znajdującym się w niewielkiej odległości.",
         "Lasgun Evoluída. Feixe de curto alcance extremamente poderoso. Causa dano adicional a chefões e inimigos próximos.",
         "Усовершенствованное лазружьё. Чрезвычайно мощный лазер ближнего действия. Наносит дополнительный урон боссам и ближайшим врагам.",
-        "进阶版激光枪。短程高能光束，对首领及近身敌人造成额外伤害。",
+        "进化版激光枪。短程高能光束，对首领及近身敌人造成额外伤害。",
         "Evrimleşmiş Lazer Tüfeği. Son derece güçlü, kısa menzilli bir ışın. Patronlara ve yakındaki düşmanlara bonus hasarı verir.",
         "Удосконалений лазестріл. Надзвичайно потужний промінь малої дальності дії. Завдає додаткової шкоди босам і ворогам, що знаходяться неподалік."
       ]
@@ -1781,78 +1709,6 @@
         "热熔枪",
         "Eritici Silah",
         "Плавостріл"
-      ]
-    }
-  },
-  "WS_40K_NARTHECIUM": {
-    "description": {
-      "_value": [
-        "Restores {[WOUNDS]} based on {[SKILL]} and {[TOUGHNESS]}",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Narthecium",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    }
-  },
-  "WS_40K_NEURO_GAUNTLET": {
-    "description": {
-      "_value": [
-        "Sharp talons slash horizontally in front of the player",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Neuro Gauntlet",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
       ]
     }
   },
@@ -1939,7 +1795,7 @@
         "Ulepszona Bateria Wiru. Niszczy wrogów, pozostawiając po sobie jedynie spalone ruiny.",
         "Bateria de Redemoinho Evoluída. Aniquila os inimigos, deixando para trás nada além de ruínas carbonizadas.",
         "Усовершенствованная батарея «Вихрь». Уничтожает врагов, не оставляя ничего, кроме выжженных руин.",
-        "进阶版旋风火箭炮阵。对敌人造成毁灭性打击，只留下焦土废墟。",
+        "进化版旋风火箭炮阵。对敌人造成毁灭性打击，只留下焦土废墟。",
         "Evrimleşmiş Kasırga Bataryası. Ardında kavrulmuş harabelerden başka hiçbir şey bırakmadan düşmanları yok eder.",
         "Покращення вихрової батареї. Стирає ворогів в попіл, лишаючи по собі тільки випалену землю."
       ]
@@ -2240,7 +2096,7 @@
         "Dar Archeotechnologii. Wybierz dowolną odblokowaną ulepszoną broń.",
         "Dádiva da Arqueotecnologia. Escolha qualquer arma evoluída desbloqueada.",
         "Дар Археотеха. Выберите любое разблокированное усовершенствованное оружие.",
-        "远古科技的馈赠。可任选一件已解锁的进阶版武器。",
+        "远古科技的馈赠。可任选一件已解锁的进化版武器。",
         "Antik Teknoloji Lütfu. Kilidi açılmış herhangi bir evrimleşmiş silahı seç.",
         "Дар Археотеху. Виберіть будь-яку розблоковану удосконалену зброю."
       ]
@@ -2293,7 +2149,7 @@
         "Ulepszone Mechaniczne Ugryzienie. Wywołuje elektryczną eksplozję w wybranym obszarze, ogłusza wrogów.",
         "Mordida Mecânica Evoluída. Provoca uma explosão elétrica na área alvo, atordoando os inimigos.",
         "Усовершенствованная механическая челюсть. Дополнительно вызывает электрический взрыв в зоне поражения, оглушает врагов.",
-        "进阶版机械啃咬。在目标区域引发一场电击爆炸，使敌人陷入眩晕状态。",
+        "进化版机械啃咬。在目标区域引发一场电击爆炸，使敌人陷入眩晕状态。",
         "Evrimleşmiş Mekanik Isırık. Hedef bölgede elektrikli bir patlama oluşturur, düşmanları sersemletir.",
         "Удосконалена механічна щелепа. Провокує електричний вибух у зоні ураження й приголомшує ворогів."
       ]
@@ -2453,93 +2309,6 @@
         "信仰之盾",
         "İnanç Kalkanı",
         "Щит віри"
-      ]
-    }
-  },
-  "WS_40K_SERVOSKULL": {
-    "customDescValue": {
-      "_value": [
-        "Skulls accelerate by x after each bounce.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "customDescValue2": {
-      "_value": [
-        "Bounces create a tiny shock blast",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "customDescValue3": {
-      "_value": [
-        "Upon expiry an explosion deals 100% shock damage in a small area.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "description": {
-      "_value": [
-        "Skulls that bounce off terrain and pass through enemies, dealing shock damage.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Servo-Skull",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
       ]
     }
   },
@@ -2840,7 +2609,7 @@
         "Ulepszona Włócznia Wiernych. Ciosy w górę spalają heretyków.",
         "Lança dos Fiéis evoluída. Os golpes descendentes queimam os hereges.",
         "Усовершенствованное копьё верующих. Удары снизу вверх сжигают еретиков.",
-        "进阶版信徒之矛。上挑挥击，焚尽异端。",
+        "进化版信徒之矛。上挑挥击，焚尽异端。",
         "Evrimleşmiş İnançlıların Mızrağı. Yukarı savrulan darbeler sapkınları yakar.",
         "Удосконалений спис Вірних. Удари згори донизу, що спалюють єретиків."
       ]
@@ -2933,82 +2702,10 @@
       ]
     }
   },
-  "WS_40K_VIVISPECTRUM": {
-    "description": {
-      "_value": [
-        "TBC - Desc",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Vivispectrum",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    }
-  },
-  "WS_40K_VORTEX_GRENADE": {
-    "description": {
-      "_value": [
-        "“Gift” evolution of the Condemnor. Grenades create vortexes pulling enemies into its AoE.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Vortex Grenade",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    }
-  },
   "WS_40K_WEAPON_OF_THE_MATRIARCH": {
     "tips": {
       "_value": [
-        "Saint Celestine’s blade, once borne by one of the matriarch’s of the Adepta Sororitas. It is wreathed in flowers, as it was when Celestine arose from the tomb of Saint Katherine, and can unleash the Sister’s pious fury in a jet of flames.",
+        "Saint Celestine’s blade, once borne by one of the matriarchs of the Adepta Sororitas. It is wreathed in flowers, as it was when Celestine arose from the tomb of Saint Katherine, and can unleash the Sister’s pious fury in a jet of flames.",
         "Cette arme est la lame de Sainte Célestine, jadis maniée par l'une des matriarches de l'Adepta Sororitas. Elle est ornée de fleurs, comme lorsque Célestine sortit de la tombe de Sainte Katherine, et déchaîne la pieuse colère de la sœur dans une gerbe de flammes.",
         "La lama di Santa Celestine, un tempo impugnata da una delle matriarche dell'Adepta Sororitas. È adornata di fiori, proprio come quando Celestine sorse dalla tomba di Santa Caterina, ed è in grado di scatenare la pia furia della Sorella in una vampata di fiamme.",
         "Die Klinge der Heiligen Celestine, einst von einer der Matriarchinnen des Adepta Sororitas getragen. Sie ist von Blumen umrankt, wie damals, als Celestine aus dem Grab der Heiligen Katherine stieg und kann den heiligen Zorn der Schwester in einem in einem Flammenstrahl entfesseln.",
@@ -3035,7 +2732,7 @@
         "Ulepszone Żarliwe Ostrze. Wykonuje płonące uderzenie w poziomie. Zmora Wielkiego Nieczystego.",
         "Lâmina Ardente Evoluída. Desencadeia um golpe horizontal em chamas. Pesadelo do Grande Imundo.",
         "Усовершенствованный пылкий клинок. Наносит обжигающий удар по горизонтали. Проклятие Великого Нечистого.",
-        "进阶版热诚之刃。打出一记炽热横扫攻击。专克大不净者。",
+        "进化版热诚之刃。打出一记炽热横扫攻击。专克大不净者。",
         "Evrimleşmiş Alevli Bıçak. Yatay bir alev saldırısı savurur. Ulu Kirli’nin Belalısı.",
         "Удосконалений палкий клинок. Вивільняє полум’яний удар по горизонталі. Страшний сон нечистотника."
       ]
@@ -3177,7 +2874,7 @@
         "Ulepszony Pistolet Skałkowy. Pociski odbijają się w nieskończoność, zadając dodatkowe obrażenia użytkownikom magii. Zmora Vizzika Skoura.",
         "Pistola de pederneira aprimorada. Ricocheteia infinitamente e causa dano adicional a usuários de magia. Pesadelo de Vizzik Skour.",
         "Усовершенствованный кремневый пистолет. Бесконечно рикошетит, наносит дополнительный урон врагам, использующим магию. Проклятие Виззика Скура.",
-        "进阶版燧发手枪。持续发射子弹，对魔法使用者可造成额外伤害。专克维兹克·斯考尔。",
+        "进化版燧发手枪。持续发射子弹，对魔法使用者可造成额外伤害。专克维兹克·斯考尔。",
         "Evrimleşmiş Çakmaklı Tabanca. Sonsuza dek seken mermiler, büyü kullanıcılarına fazladan hasar verir. Vizzik Skour’un Belalısı.",
         "Удосконалений кременевий пістоль. Нескінченно рикошетить і завдає додаткової шкоди чаклунам. Страшний сон Віззіка Скура."
       ]
@@ -3230,7 +2927,7 @@
         "Ulepszona Migocząca Morska Mgła. Wywołuje iluzje, które wciągają wrogów w aurę zadającą obrażenia. Może wywołać obrażenia odwetowe.",
         "Névoa Marinha Nebulosa Evoluída. Invoca ilusões que atraem os inimigos para uma aura causadora de dano. Pode causar dano de retaliação.",
         "Усовершенствованное Туманное Марево. Вызывает иллюзии, которые затягивают врагов в разрушительную ауру. Может нанести ответный урон.",
-        "进阶版溟濛海雾。召唤幻象将敌人拖拽进一股灵气之中，对其造成伤害并有几率触发反击伤害。",
+        "进化版溟濛海雾。召唤幻象将敌人拖拽进一股灵气之中，对其造成伤害并有几率触发反击伤害。",
         "Evrimleşmiş Sisli Deniz Pusu. Düşmanları hasar veren bir auranın içine çeken illüzyonlar çağırır. Misilleme hasarını tetikleyebilir.",
         "Удосконалений Маревний морський серпанок. Прикликає ілюзії, що затягують ворогів в зону дії аури, яка завдає їм шкоди. Може завдавати шкоди у відповідь."
       ]
@@ -3266,7 +2963,7 @@
         "Dar Egzotycznej Broni. Wybierz dowolną ulepszoną broń.",
         "Dádiva de Armas Exóticas. Escolha qualquer arma evoluída.",
         "Дар Экзотического оружия. Выберите любое усовершенствованное оружие.",
-        "异种武器的馈赠。可任选一件进阶版武器。",
+        "异种武器的馈赠。可任选一件进化版武器。",
         "Egzotik Silahlar Lütfu. Herhangi bir evrimleşmiş silahı seç.",
         "Дар екзотичної зброї. Виберіть будь-яку удосконалену зброю."
       ]
@@ -3286,42 +2983,6 @@
         "权柄圣物",
         "Güç Artefaktları",
         "Артефакти сили"
-      ]
-    }
-  },
-  "WS_AOS_BATTLE_HORN": {
-    "description": {
-      "_value": [
-        "Fires growing pulses of sound in the faced direction.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Battle Horn",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
       ]
     }
   },
@@ -3355,7 +3016,7 @@
         "Ulepszone Zatrute Noże do Rzucania. Wystrzeliwuje kilka wirujących ostrzy, które powodują zatrucie i krwawienie.",
         "Facas de Arremesso Envenenadas Aprimoradas. Lançam várias lâminas giratórias que causam os efeitos “Envenenamento” e “Sangramento”.",
         "Усовершенствованные отравленные метательные ножи. Используются для атаки множеством вращающихся клинков, вызывающих отравление и кровотечение.",
-        "进阶版淬毒飞刃。投掷多把旋转飞刃，对敌人施加中毒与流血效果。",
+        "进化版淬毒飞刃。投掷多把旋转飞刃，对敌人施加中毒与流血效果。",
         "Evrimleşmiş Zehirli Fırlatma Bıçakları. Zehirlenme ve Kanamaya neden olan çok sayıda dönen bıçak fırlatır.",
         "Удосконалені отруєні метальні ножі. Кидає кілька обертових клинків, що спричиняють отруєння й кровотечу."
       ]
@@ -3375,95 +3036,6 @@
         "毒刃旋飞",
         "Bıçaklı Girdap",
         "Клинковий вихор"
-      ]
-    }
-  },
-  "WS_AOS_BLOOD_ARROWS": {
-    "descriptions": {
-      "_value": [
-        "“Gift” evolution from Heartseeker Bow. A hail of arrows rains down from the skies, causing enemies to suffer the Bleeding status effect.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Blood Arrows",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    }
-  },
-  "WS_AOS_BLOOD_RITUAL": {
-    "customDescValue": {
-      "_value": [
-        "Arcing magma projectiles.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "description": {
-      "_value": [
-        "Casting blood into the brazier sacrifices everything on screen.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Blood Ritual",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
       ]
     }
   },
@@ -3656,7 +3228,7 @@
         "Ulepszone Wielkie Ostrze. Wykonuje dodatkowe cięcia i wielokrotnie wyprowadza potężne zamachy.",
         "Grande Lâmina evoluída. Ataca com golpes adicionais e realiza vários ataques amplos de varredura.",
         "Усовершенствованный великий клинок. Наносит дополнительные рубящие удары и проводит множество мощных размашистых атак.",
-        "进阶版巨剑。攻击时会附加劈砍伤害，并发动多次广域横扫攻击。",
+        "进化版巨剑。攻击时会附加劈砍伤害，并发动多次广域横扫攻击。",
         "Evrimleşmiş Büyük Kılıç. Ek saldırılarla vurur ve çok sayıda geniş süpürme saldırısı gerçekleştirir.",
         "Удосконалений великий клинок. Завдає додаткових рубальних ударів і виконує кілька великих розмашистих атак."
       ]
@@ -3779,7 +3351,7 @@
         "Ulepszona Para Pistoletów. Pociski mogą się rozpryskiwać i sprawiać, że wrogowie stają się podatni na obrażenia.",
         "Par de pistolas aprimoradas. Os projéteis podem se fragmentar e deixar os inimigos vulneráveis.",
         "Усовершенствованные сдвоенные пистолеты. Пули могут разлетаться на части и приводить к уязвимости врагов.",
-        "进阶版双枪齐发。弹壳在命中时会碎裂，使敌人陷入脆弱状态。",
+        "进化版双枪齐发。弹壳在命中时会碎裂，使敌人陷入脆弱状态。",
         "Evrimleşmiş Tabanca Çifti. Mermiler parçalanabilir ve düşmanları Savunmasız hâle getirebilir.",
         "Удосконалена пара пістолів. Кулі можуть розпадатися на уламки й робити ворогів уразливими."
       ]
@@ -3832,7 +3404,7 @@
         "Ulepszony Dwuogoniasty Kot. „Mali strażnicy” zapewniają pozytywny efekt ze zbierania przedmiotów.",
         "Gato de Duas Caudas evoluído. Os \"Pequenos Observadores\" concedem um efeito positivo ao coletar itens.",
         "Усовершенствованный Двухвостый Кот. «Маленькие наблюдатели» дают положительный эффект при сборе предметов.",
-        "进阶版双尾猫。“小守望者”在拾取物品时可提供增益效果。",
+        "进化版双尾猫。“小守望者”在拾取物品时可提供增益效果。",
         "Evrimleşmiş Çift Kuyruklu Kedi. “Küçük Gözcüler”, toplanabilirleri getirirken olumlu etkiler sağlar.",
         "Удосконалений Двохвостий кіт. «Маленькі наглядачі» дають позитивний ефект від підбирання предметів."
       ]
@@ -4209,42 +3781,6 @@
       ]
     }
   },
-  "WS_AOS_GLAIVE_OF_KHAINE": {
-    "description": {
-      "_value": [
-        "TBC - Desc (not designed)",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Glaive of Khaine",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    }
-  },
   "WS_AOS_GNASHING_JAWS": {
     "description": {
       "_value": [
@@ -4348,42 +3884,6 @@
         "巨剑",
         "Büyük Kılıç",
         "Великий клинок"
-      ]
-    }
-  },
-  "WS_AOS_HEARTSEEKER_BOW": {
-    "description": {
-      "_value": [
-        "Shoots lethal arrows in the faced direction. Has a special heavy attack. Critical Damage could drop Blood Drops.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Heartseeker Bow",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
       ]
     }
   },
@@ -4525,7 +4025,7 @@
         "Ulepszony Żarokostur. Pociski wybuchają na ziemi, powodując efekt Podpalenia.",
         "Cajado de Chamas Evoluído. Os projéteis explodem ao atingir o solo, causando o efeito de Queimadura.",
         "Усовершенствованный посох-жаровня. Снаряды взрываются на земле и поджигают цели.",
-        "进阶版火炬之杖。投射物在击中地面时会爆炸，使敌人陷入燃烧状态。",
+        "进化版火炬之杖。投射物在击中地面时会爆炸，使敌人陷入燃烧状态。",
         "Geliştirilmiş Kor Asa. Mermiler yere çarparak patlar ve Yanma uygular.",
         "Удосконалений посох-жаровня. Снаряди вибухають під час контакту з землею та спричиняють загоряння."
       ]
@@ -4581,42 +4081,6 @@
         "大师级卡拉格·黑锤符文",
         "Kragg Blackhammer’ın Usta Rünü",
         "Майстер-руна Краґґа Чорномолота"
-      ]
-    }
-  },
-  "WS_AOS_MURDER_OF_CROWS": {
-    "description": {
-      "_value": [
-        "TBC - Desc (not designed)",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Murder of Crows",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
       ]
     }
   },
@@ -4763,7 +4227,7 @@
   "WS_AOS_NULL_PENDANT": {
     "customDescValue2": {
       "_value": [
-        "Generic Enemy Healing  is slowed by 50%",
+        "Generic Enemy Healing is slowed by 50%",
         "La guérison générique des ennemis est ralentie de 50 %",
         "La Guarigione dei nemici generici viene rallentata del 50%.",
         "Die Heilung gewöhnlicher Gegner wird um 50 % verlangsamt.",
@@ -5020,148 +4484,6 @@
         "束缚钩爪",
         "Halat ve Kıskaç",
         "Мотузка й гак"
-      ]
-    }
-  },
-  "WS_AOS_RUNIC_POWER": {
-    "description": {
-      "_value": [
-        "Whirling vertical Runic War Irons and chains.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "TBC - Runic Power",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    }
-  },
-  "WS_AOS_RUNIC_WARIRON": {
-    "description": {
-      "_value": [
-        "Whirling vertical War Irons and runes.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Runic War-Iron",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    }
-  },
-  "WS_AOS_SACRIFICIAL_WEAPON": {
-    "customDescValue0": {
-      "_value": [
-        "+%0% chance to inflict Bleeding onto enemies.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "customDescValue1": {
-      "_value": [
-        "`+%0% chance to Disarm enemies.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "description": {
-      "_value": [
-        "Attacks nearby enemies with a chance to inflict Bleeding. {[SKILL]} affects damage.",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
-      ]
-    },
-    "name": {
-      "_value": [
-        "Sacrificial Weapon",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A",
-        "#N/A"
       ]
     }
   },
@@ -5511,7 +4833,7 @@
         "Ulepszony Pistolet Boltstorm. Wystrzeliwuje potężne błyskawice w kierunku wrogów Sigmara.",
         "Pistola Boltstorm Evoluída. Dispara poderosos raios estrondosos contra os inimigos de Sigmar.",
         "Усовершенствованный штормболт-пистолет. Стреляет мощными разрядами грозовых молний во врагов Сигмара.",
-        "进阶版爆矢风暴手枪。发射狂暴的雷霆闪电击溃西格玛之敌。",
+        "进化版爆矢风暴手枪。发射狂暴的雷霆闪电击溃西格玛之敌。",
         "Evrimleşmiş Deşici Tabanca. Sigmar’ın düşmanlarına gürleyen yıldırımlardan oluşan güçlü mermiler ateşler.",
         "Удосконалений пістолет «Гвинтова буря». Стріляє потужними гвинтами, зарядженими громовою блискавкою, у ворогів Сігмара."
       ]
@@ -5687,7 +5009,7 @@
         "Ulepszona Mistyczna Bariera. Gdy wszystkie bariery zostaną wyczerpane, wywołuje promienistą eksplozję, która może wywołać efekt podpalenia wrogów.",
         "Barreira Mística Evoluída. Quando todas as barreiras se esgotam, libera uma explosão radiante capaz de causar o efeito “Queimadura”.",
         "Усовершенствованный мистический оберег. Когда все обереги израсходованы, происходит ослепительный взрыв, который вызывает горение.",
-        "进阶版神秘屏障。当所有屏障消失之际，引发一记璀璨爆炸，并使燃烧效果蔓延。",
+        "进化版神秘屏障。当所有屏障消失之际，引发一记璀璨爆炸，并使燃烧效果蔓延。",
         "Evrimleşmiş Mistik Muhafaza. Tüm muhafazalar tükendiğinde, Yanma etkisi yayabilen ışıldayan bir patlama uygular.",
         "Удосконалений містичний оберіг. Коли всі обереги вичерпано, вивільняє сяйний вибух, який може поширювати загоряння."
       ]
@@ -5740,7 +5062,7 @@
         "Ulepszona Ciężka Fuzja. Celny strzał snajperski, Ogor używa swojej tarczy.",
         "Fuzil-canhão evoluído. Tiro certeiro de longa distância. Ogors usam seu escudo.",
         "Усовершенствованная фузил-пушка. Прицельный снайперский выстрел под прикрытием щита огора.",
-        "进阶版爆矢手枪。面对精准狙击，即使是食人魔也只能举盾防御。",
+        "进化版爆矢手枪。面对精准狙击，即使是食人魔也只能举盾防御。",
         "Evrimleşmiş Füzyon Topu. Hedefli keskin nişancı atışı, Ogor kalkanını kullanır.",
         "Удосконалена фузил-гармата. Снайпер стріляє, огор прикриває щитом."
       ]
@@ -5793,7 +5115,7 @@
         "Ulepszone Topory Burzowe. Topory wirujące poziomo naładowane błyskawicami.",
         "Machados da Tempestade Evoluídos. Machados horizontais giratórios imbuídos de raios.",
         "Усовершенствованные топоры бури. Вращающиеся топоры, летящие по горизонтали и пронизанные молниями.",
-        "进阶版风暴战斧。裹挟着闪电的战斧发动旋斩攻击，横扫战场。",
+        "进化版风暴战斧。裹挟着闪电的战斧发动旋斩攻击，横扫战场。",
         "Evrimleşmiş Fırtına Baltaları. Yıldırımla güçlendirilmiş dönen yatay baltalar.",
         "Удосконалені сокири бурі. Пронизані блискавкою сокири, що обертаються."
       ]
@@ -5846,7 +5168,7 @@
         "Ulepszony Wielki Topór Burzy Ognia. Szybki topór, który podpala wrogów. Zmora Trugga.",
         "Machado Grandioso da Tempestade de Fogo Evoluído. Um machado de golpe rápido que queima os inimigos. Pesadelo de Trugg.",
         "Усовершенствованный двуручный топор Огненного Шторма. Топор с быстрым замахом, сжигающий врагов. Проклятие Трагга.",
-        "进阶版烈焰风暴巨斧。高速挥舞的战斧，可使敌人进入灼烧状态。专克特鲁格。",
+        "进化版烈焰风暴巨斧。高速挥舞的战斧，可使敌人进入灼烧状态。专克特鲁格。",
         "Evrimleşmiş Ateşfırtınası Büyük Baltası. Düşmanları yakarak hızlıca savrulan bir balta. Trugg’un Belalısı.",
         "Удосконалена велика сокира Вогнебурі. Сокира, що з розмаху підпалює ворогів. Страшний сон Труґґа."
       ]
@@ -5901,7 +5223,7 @@
         "Złowrogi Wir Magii",
         "Vórtice Maléfico",
         "Зловещий Мальстрём",
-        "恶毒漩涡",
+        "歹毒漩涡",
         "Maelstrom Anahtarı",
         "Лиховісний Мальстрем"
       ]
@@ -5958,7 +5280,7 @@
         "Dusząca Grobowa Fala",
         "Maré Sufocante",
         "Удушающая Могильная Волна",
-        "窒息坟潮",
+        "窒息墓潮",
         "Boğucu Mezar Gelgiti",
         "Задушлива хвиля смерті"
       ]
@@ -6212,7 +5534,7 @@
         "Ulepszona Kość k6. Pierwszy rzut kostką może podzielić się na dodatkowe kostki i eksplodować wielokrotnie.",
         "Dados D6 evoluídos. O lançamento inicial pode se dividir em dados adicionais e explodir várias vezes.",
         "Усовершенствованный кубик D6. При броске кубик может разделиться на дополнительные кубики и взорваться несколько раз.",
-        "进阶版 D6 骰子。初始掷骰的结果将分裂生成多枚额外骰子，且触发多次爆炸。",
+        "进化版 D6 骰子。初始掷骰的结果将分裂生成多枚额外骰子，且触发多次爆炸。",
         "Evrimleşmiş D6 Zarı. İlk zar atışı ek zarlara ayrılabilir ve birden fazla kez patlayabilir.",
         "Удосконалений кубик К-6. Кубик може розділитися на додаткові кубики й вибухнути кілька разів."
       ]
@@ -6447,7 +5769,7 @@
         "Kość Rozrzutu",
         "Dado Disperso",
         "Кубик отклонения",
-        "散射骰子",
+        "偏移骰",
         "Sapma Zarı",
         "Шестигранник"
       ]
@@ -6631,7 +5953,7 @@
         "Jedno odrodzenie z 50% punktów życia.",
         "Reposicione uma vez com 50% das feridas.",
         "Передислоцирует один раз, восстанавливая 50% ран.",
-        "以50%承伤重新部署一次。",
+        "以50%耐伤重新部署一次。",
         "%50 yarayla bir kez yeniden konuşlandırılır.",
         "Передислоковує один раз з 50% ран."
       ]
@@ -6883,7 +6205,7 @@
         "Postać odzyskuje 0,2 pkt. życia na sekundę.",
         "O personagem recupera 0,2 ferida por segundo.",
         "Персонаж восстанавливает 0,2 раны в секунду.",
-        "角色每秒恢复0.2承伤。",
+        "角色每秒恢复0.2耐伤。",
         "Karakter saniyede 0,2 yarayı iyileştirir.",
         "Персонаж загоює 0,2 рани за секунду."
       ]

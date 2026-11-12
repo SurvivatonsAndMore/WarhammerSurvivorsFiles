@@ -277,7 +277,7 @@
       "_value": "{[AURA]} +%0"
     },
     "limitBreak_area": {
-      "_value": "{[RANGE]}  +%0%"
+      "_value": "{[RANGE]} +%0%"
     },
     "limitBreak_chance": {
       "_value": "{[CHANCE]} +%0%"
@@ -349,7 +349,7 @@
       "_value": "Forsaken"
     },
     "musicMod_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "musicMod_normal": {
       "_value": "Normal"
@@ -673,7 +673,7 @@
       "_value": "Refund Enhancements"
     },
     "preload_warning_text": {
-      "_value": "This game contains imagery that may trigger Trypophobia in some players. \n\nThis game also contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing."
+      "_value": "This game contains imagery that may trigger Trypophobia in some players.\n\nThis game also contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing."
     },
     "preload_warning_title": {
       "_value": "TRYPOPHOBIA AND PHOTOSENSITIVITY WARNINGS"
@@ -751,7 +751,7 @@
       "_value": "Fast Attack"
     },
     "stageConfirm_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "stageConfirm_inverse": {
       "_value": "Grim Darkness"
@@ -1339,7 +1339,7 @@
       "_value": "Six Peaks Games"
     },
     "ws_credit_coherence": {
-      "_value": "Supported by the coherence team \nwith special Thanks to Miguel Ferradáns Valdés"
+      "_value": "Supported by the coherence team\nwith special Thanks to Miguel Ferradáns Valdés"
     },
     "ws_credit_special_thanks": {
       "_value": "Auroch Digital Special Thanks"
@@ -1513,7 +1513,7 @@
       "_value": "Photoshop"
     },
     "ws_waaagh_erewego": {
-      "_value": "'ERE WE GO!"
+      "_value": "ERE WE GO!"
     },
     "ws_dialog_030": {
       "_value": "I am Nagash, Supreme Lord of the Undead. Your soul will be mine. Die, mortal!"
@@ -1954,7 +1954,7 @@
       "_value": "Fast Attack"
     },
     "ws_stage_modes_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "ws_stage_modes_limitless": {
       "_value": "Limitless"
@@ -2382,7 +2382,7 @@
       }
     },
     "genericPopup_unlocksHyper": {
-      "_value": "'Eavy Metal mode"
+      "_value": "Eavy Metal mode"
     },
     "bestiary_weaknesses": {
       "_value": "Weaknesses:"
@@ -3185,7 +3185,7 @@
       "_value": "Attaque rapide"
     },
     "stageConfirm_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "stageConfirm_inverse": {
       "_value": "Obscurité sinistre"
@@ -4388,7 +4388,7 @@
       "_value": "Attaque rapide"
     },
     "ws_stage_modes_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "ws_stage_modes_limitless": {
       "_value": "Sans limite"
@@ -5619,7 +5619,7 @@
       "_value": "Attacco Veloce"
     },
     "stageConfirm_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "stageConfirm_inverse": {
       "_value": "Tetra oscurità"
@@ -6822,7 +6822,7 @@
       "_value": "Attacco Veloce"
     },
     "ws_stage_modes_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "ws_stage_modes_limitless": {
       "_value": "Senza limiti"
@@ -8053,7 +8053,7 @@
       "_value": "Blitzangriff"
     },
     "stageConfirm_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "stageConfirm_inverse": {
       "_value": "Unheilvolle Finsternis"
@@ -9256,7 +9256,7 @@
       "_value": "Blitzangriff"
     },
     "ws_stage_modes_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "ws_stage_modes_limitless": {
       "_value": "Grenzenlos"
@@ -10487,7 +10487,7 @@
       "_value": "Ataque Rápido"
     },
     "stageConfirm_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "stageConfirm_inverse": {
       "_value": "Oscuridad Siniestra"
@@ -11690,7 +11690,7 @@
       "_value": "Ataque Rápido"
     },
     "ws_stage_modes_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "ws_stage_modes_limitless": {
       "_value": "Sin límite"
@@ -15355,7 +15355,7 @@
       "_value": "신속 공격"
     },
     "stageConfirm_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "stageConfirm_inverse": {
       "_value": "그림 다크니스"
@@ -16558,7 +16558,7 @@
       "_value": "신속 공격"
     },
     "ws_stage_modes_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "ws_stage_modes_limitless": {
       "_value": "한계 돌파"
@@ -16986,7 +16986,7 @@
       }
     },
     "genericPopup_unlocksHyper": {
-      "_value": "'Eavy Metal 모드"
+      "_value": "Eavy Metal 모드"
     },
     "bestiary_weaknesses": {
       "_value": "약점:"
@@ -17789,7 +17789,7 @@
       "_value": "Fast Attack"
     },
     "stageConfirm_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "stageConfirm_inverse": {
       "_value": "Grim Darkness"
@@ -18992,7 +18992,7 @@
       "_value": "Fast Attack"
     },
     "ws_stage_modes_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "ws_stage_modes_limitless": {
       "_value": "Limitless"
@@ -20223,7 +20223,7 @@
       "_value": "Ataque Rápido"
     },
     "stageConfirm_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "stageConfirm_inverse": {
       "_value": "Escuridão Sombria"
@@ -21426,7 +21426,7 @@
       "_value": "Ataque Rápido"
     },
     "ws_stage_modes_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "ws_stage_modes_limitless": {
       "_value": "Sem limites"
@@ -22657,7 +22657,7 @@
       "_value": "Быстрая атака"
     },
     "stageConfirm_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "stageConfirm_inverse": {
       "_value": "Мрачная тьма"
@@ -23860,7 +23860,7 @@
       "_value": "Быстрая атака"
     },
     "ws_stage_modes_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "ws_stage_modes_limitless": {
       "_value": "Безграничный"
@@ -24443,7 +24443,7 @@
       "_value": "生命值："
     },
     "bestiary_wounds": {
-      "_value": "承伤："
+      "_value": "耐伤："
     },
     "bestiary_others": {
       "_value": "其他"
@@ -24782,7 +24782,7 @@
       "_value": "确定"
     },
     "options_damageNumbers": {
-      "_value": "伤害数字"
+      "_value": "伤害数字显示"
     },
     "options_dataRecovery": {
       "_value": "#N/A"
@@ -24842,7 +24842,7 @@
       "_value": "旧版"
     },
     "options_music": {
-      "_value": "音乐"
+      "_value": "音乐音量"
     },
     "options_no": {
       "_value": "否"
@@ -24869,7 +24869,7 @@
       "_value": "减少屏幕抖动"
     },
     "options_sounds": {
-      "_value": "音效"
+      "_value": "音效音量"
     },
     "options_tab_about": {
       "_value": "关于"
@@ -24878,7 +24878,7 @@
       "_value": "显示"
     },
     "options_tab_favourites": {
-      "_value": "收藏"
+      "_value": "常用"
     },
     "options_tab_gameplay": {
       "_value": "游戏玩法"
@@ -24890,7 +24890,7 @@
       "_value": "选项"
     },
     "options_use_custom_hardware_cursor": {
-      "_value": "自定义硬件光标"
+      "_value": "自定义硬件指针"
     },
     "options_view": {
       "_value": "查看"
@@ -25091,7 +25091,7 @@
       "_value": "速攻"
     },
     "stageConfirm_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "stageConfirm_inverse": {
       "_value": "暗黑"
@@ -25130,7 +25130,7 @@
       "_value": "硬币奖励"
     },
     "stageSelection_EnemyHealth": {
-      "_value": "敌方承伤"
+      "_value": "敌方耐伤"
     },
     "stageSelection_PlayerPxSpeed": {
       "_value": "移动速度"
@@ -25355,7 +25355,7 @@
       "_value": "进阶要求"
     },
     "ws_collection_misc_info": {
-      "_value": "其他信息"
+      "_value": "详细信息"
     },
     "ws_collection_sealed_state": {
       "_value": "已封印"
@@ -25439,10 +25439,10 @@
       "_value": "音频团队"
     },
     "ws_credit_auroch_digital": {
-      "_value": "#N/A"
+      "_value": "Auroch Digital Ltd"
     },
     "ws_credit_bastion": {
-      "_value": "#N/A"
+      "_value": "Bastion"
     },
     "ws_credit_business_director": {
       "_value": "商务拓展总监"
@@ -25469,13 +25469,13 @@
       "_value": "编程团队"
     },
     "ws_credit_company_audio_lead": {
-      "_value": "公司音频与音乐领导团队"
+      "_value": "公司音频与音乐负责人"
     },
     "ws_credit_concept_artist": {
       "_value": "概念设计师"
     },
     "ws_credit_cousin": {
-      "_value": "#N/A"
+      "_value": "COUSIN Media Group"
     },
     "ws_credit_creative_director": {
       "_value": "创意总监"
@@ -25487,7 +25487,7 @@
       "_value": "设计总监"
     },
     "ws_credit_designer_support": {
-      "_value": "设计支持"
+      "_value": "设计助理"
     },
     "ws_credit_designer_team": {
       "_value": "设计团队"
@@ -25502,10 +25502,10 @@
       "_value": "财务经理"
     },
     "ws_credit_games_workshop": {
-      "_value": "#N/A"
+      "_value": "Games Workshop"
     },
     "ws_credit_groundshatter": {
-      "_value": "#N/A"
+      "_value": "Ground Shatter"
     },
     "ws_credit_head_business": {
       "_value": "业务拓展主管"
@@ -25874,7 +25874,7 @@
       "_value": "剩余重新部署次数：%0"
     },
     "ws_gameover_stage_complete": {
-      "_value": "任务完成"
+      "_value": "关卡完成"
     },
     "ws_gameover_bonus_coins": {
       "_value": "奖励硬币"
@@ -25961,10 +25961,10 @@
       "_value": "退出"
     },
     "ws_menu_secrets": {
-      "_value": "秘密关卡"
+      "_value": "隐藏关卡"
     },
     "ws_menu_stageSelect": {
-      "_value": "任务选择"
+      "_value": "关卡选择"
     },
     "ws_menu_start": {
       "_value": "开始"
@@ -25997,7 +25997,7 @@
       "_value": "测试"
     },
     "ws_secrets_none": {
-      "_value": "所有秘密关卡均已通关。"
+      "_value": "所有隐藏关卡均已通关。"
     },
     "ws_music_selection_title": {
       "_value": "#N/A"
@@ -26030,7 +26030,7 @@
       "_value": "已售罄！"
     },
     "ws_options_apply_graphics": {
-      "_value": "应用图形设置"
+      "_value": "保存画面设置"
     },
     "ws_options_restore_default": {
       "_value": "恢复默认设置"
@@ -26090,7 +26090,7 @@
       "_value": "地图"
     },
     "ws_popup_accept": {
-      "_value": "同意"
+      "_value": "确定"
     },
     "ws_popup_cancel": {
       "_value": "取消"
@@ -26177,7 +26177,7 @@
       "_value": "掉落物"
     },
     "ws_recap_stage_stats": {
-      "_value": "任务统计"
+      "_value": "关卡数据"
     },
     "ws_recap_stage_stats_enemies_defeated": {
       "_value": "击败的敌人："
@@ -26249,7 +26249,7 @@
       "_value": "开始"
     },
     "ws_silo_selection_timeplayed": {
-      "_value": "游戏时长"
+      "_value": "累计游玩时间"
     },
     "ws_splash_start": {
       "_value": "点击开始/按任意键"
@@ -26267,7 +26267,7 @@
       "_value": "敌人更加强大，且力量会随时间增长。"
     },
     "ws_stage_modes_hurry_desc": {
-      "_value": "任务计时器以二倍速运行，且角色熟练度获取提升。"
+      "_value": "关卡计时器以二倍速运行，且角色熟练度获取提升。"
     },
     "ws_stage_modes_hyper_desc": {
       "_value": "敌人和角色的移动速度均会提高。角色的技能与什一税获得加成。"
@@ -26294,7 +26294,7 @@
       "_value": "速攻"
     },
     "ws_stage_modes_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "ws_stage_modes_limitless": {
       "_value": "无限模式"
@@ -26309,7 +26309,7 @@
       "_value": "修改器"
     },
     "ws_stage_select_music": {
-      "_value": "音乐"
+      "_value": "音乐音量"
     },
     "ws_stage_select_music_selection": {
       "_value": "音乐选择"
@@ -26318,7 +26318,7 @@
       "_value": "圣物："
     },
     "ws_stage_select_stage_stats": {
-      "_value": "任务统计"
+      "_value": "关卡数据"
     },
     "ws_stage_select_stage_type_bonus": {
       "_value": "奖励"
@@ -26327,7 +26327,7 @@
       "_value": "挑战"
     },
     "ws_stage_select_stage_type_secret": {
-      "_value": "秘密关卡"
+      "_value": "隐藏关卡"
     },
     "ws_stage_select_undiscovered_description": {
       "_value": "尚未解锁。"
@@ -26456,7 +26456,7 @@
       "_value": "硬币价值提升%0%。"
     },
     "weaponLevelUp_recovery": {
-      "_value": "生命值恢复速度每秒增加%0点承伤。"
+      "_value": "生命值恢复速度每秒增加%0点耐伤。"
     },
     "weaponLevelUp_xp": {
       "_value": "角色经验值获取量提高%0%。"
@@ -26649,13 +26649,13 @@
         "_value": "重新装填"
       },
       "WOUNDS": {
-        "_value": "承伤"
+        "_value": "耐伤"
       },
       "TOUGHNESS": {
-        "_value": "坚韧"
+        "_value": "韧性"
       },
       "SUSTAIN": {
-        "_value": "持续"
+        "_value": "持续作战能力"
       },
       "RANGE": {
         "_value": "范围"
@@ -26722,7 +26722,7 @@
       }
     },
     "genericPopup_unlocksHyper": {
-      "_value": "'Eavy Metal模式"
+      "_value": "Eavy Metal模式"
     },
     "bestiary_weaknesses": {
       "_value": "弱点："
@@ -27525,7 +27525,7 @@
       "_value": "Hızlı Saldırı"
     },
     "stageConfirm_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "stageConfirm_inverse": {
       "_value": "Kasvetli Karanlık"
@@ -28728,7 +28728,7 @@
       "_value": "Hızlı Saldırı"
     },
     "ws_stage_modes_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "ws_stage_modes_limitless": {
       "_value": "Sınırsız"
@@ -29959,7 +29959,7 @@
       "_value": "Швидкий напад"
     },
     "stageConfirm_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "stageConfirm_inverse": {
       "_value": "Похмура мряка"
@@ -31162,7 +31162,7 @@
       "_value": "Швидкий напад"
     },
     "ws_stage_modes_hyper": {
-      "_value": "'Eavy Metal"
+      "_value": "Eavy Metal"
     },
     "ws_stage_modes_limitless": {
       "_value": "Без обмежень"

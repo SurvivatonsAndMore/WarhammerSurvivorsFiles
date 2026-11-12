@@ -589,7 +589,7 @@
       "pl": "Rany:",
       "pt-BR": "Feridas:",
       "ru": "Ранения:",
-      "zh-CN": "承伤：",
+      "zh-CN": "耐伤：",
       "tr": "Yaralar:",
       "uk": "Рани:"
     }
@@ -1565,7 +1565,7 @@
   },
   "limitBreak_area": {
     "_value": {
-      "en": "{[RANGE]}  +%0%",
+      "en": "{[RANGE]} +%0%",
       "fr": "{[RANGE]} +%0 %",
       "it": "{[RANGE]} +%0%",
       "de": "{[RANGE]} +%0 %",
@@ -1973,7 +1973,7 @@
   },
   "musicMod_hyper": {
     "_value": {
-      "en": "'Eavy Metal",
+      "en": "Eavy Metal",
       "fr": "#N/A",
       "it": "#N/A",
       "de": "#N/A",
@@ -2510,7 +2510,7 @@
       "pl": "Wartości obrażeń",
       "pt-BR": "Valores de dano",
       "ru": "Количество повреждений",
-      "zh-CN": "伤害数字",
+      "zh-CN": "伤害数字显示",
       "tr": "Hasar Sayıları",
       "uk": "Показники шкоди"
     }
@@ -2850,7 +2850,7 @@
       "pl": "Muzyka",
       "pt-BR": "Música",
       "ru": "Музыка",
-      "zh-CN": "音乐",
+      "zh-CN": "音乐音量",
       "tr": "Müzik",
       "uk": "Музика"
     }
@@ -3003,7 +3003,7 @@
       "pl": "Dźwięk",
       "pt-BR": "Sons",
       "ru": "Звуки",
-      "zh-CN": "音效",
+      "zh-CN": "音效音量",
       "tr": "Sesler",
       "uk": "Звуки"
     }
@@ -3054,7 +3054,7 @@
       "pl": "Ulubione",
       "pt-BR": "Favoritos",
       "ru": "Избранное",
-      "zh-CN": "收藏",
+      "zh-CN": "常用",
       "tr": "Favoriler",
       "uk": "Вибране"
     }
@@ -3122,7 +3122,7 @@
       "pl": "Niestandardowy kursor sprzętowy",
       "pt-BR": "Cursor Personalizado de Hardware",
       "ru": "Пользовательский аппаратный курсор",
-      "zh-CN": "自定义硬件光标",
+      "zh-CN": "自定义硬件指针",
       "tr": "Özel Donanım İmleci",
       "uk": "Користувацький апаратний курсор"
     }
@@ -3809,7 +3809,7 @@
   },
   "preload_warning_text": {
     "_value": {
-      "en": "This game contains imagery that may trigger Trypophobia in some players. \n\nThis game also contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing.",
+      "en": "This game contains imagery that may trigger Trypophobia in some players.\n\nThis game also contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing.",
       "fr": "Ce jeu contient des images susceptibles de déclencher une trypophobie chez certains joueurs et joueuses.\n\nCe jeu contient également des lumières vives clignotantes. Veuillez arrêter immédiatement de jouer et consulter un médecin si vous ressentez des vertiges, des troubles de la vision, des spasmes au niveau des yeux ou du visage, des secousses ou des tremblements des bras ou des jambes, une désorientation, une confusion ou une perte momentanée de connaissance.\n\nSi vous ou l’un de vos proches avez des antécédents de crises d’épilepsie, consultez un médecin avant de jouer.",
       "it": "Questo gioco contiene immagini che potrebbero urtare chi soffre di tripofobia.\n\nQuesto gioco contiene inoltre delle luci lampeggianti. Smetti immediatamente di giocare e consulta un medico se avverti capogiri, alterazioni della vista, spasmi all'occhio o al volto, scatti o tremori di braccia o gambe, disorientamento, confusione o brevi perdite di coscienza.\n\nConsulta un dottore prima di giocare se in passato tu o un membro della tua famiglia avete sofferto di attacchi epilettici.",
       "de": "Dieses Spiel enthält Bilder, die bei manchen Spielern Trypophobie auslösen können.\n\nAußerdem enthält dieses Spiel helle, blinkende Lichteffekte. Bitte beende das Spiel sofort und suche einen Arzt auf, wenn Benommenheit, Sehstörungen, Zuckungen der Augen oder des Gesichts, Zuckungen oder Zittern der Arme oder Beine, Orientierungslosigkeit, Verwirrtheit oder kurze Bewusstseinsaussetzer auftreten.\n\nWenn du oder einer deiner Angehörigen schon einmal Krampfanfälle oder Epilepsie hatte, konsultiere bitte vor dem Spielen einen Arzt.",
@@ -4251,19 +4251,19 @@
   },
   "stageConfirm_hyper": {
     "_value": {
-      "en": "'Eavy Metal",
-      "fr": "'Eavy Metal",
-      "it": "'Eavy Metal",
-      "de": "'Eavy Metal",
-      "es": "'Eavy Metal",
+      "en": "Eavy Metal",
+      "fr": "Eavy Metal",
+      "it": "Eavy Metal",
+      "de": "Eavy Metal",
+      "es": "Eavy Metal",
       "ja": "「イーヴィ・メタル」",
-      "ko": "'Eavy Metal",
-      "pl": "'Eavy Metal",
-      "pt-BR": "'Eavy Metal",
-      "ru": "'Eavy Metal",
-      "zh-CN": "'Eavy Metal",
-      "tr": "'Eavy Metal",
-      "uk": "'Eavy Metal"
+      "ko": "Eavy Metal",
+      "pl": "Eavy Metal",
+      "pt-BR": "Eavy Metal",
+      "ru": "Eavy Metal",
+      "zh-CN": "Eavy Metal",
+      "tr": "Eavy Metal",
+      "uk": "Eavy Metal"
     }
   },
   "stageConfirm_inverse": {
@@ -4482,7 +4482,7 @@
       "pl": "Rany wroga",
       "pt-BR": "Feridas do Inimigo",
       "ru": "Ранения врагов",
-      "zh-CN": "敌方承伤",
+      "zh-CN": "敌方耐伤",
       "tr": "Düşman Yaraları",
       "uk": "Ворожі рани"
     }
@@ -5757,7 +5757,7 @@
       "pl": "Różne informacje",
       "pt-BR": "Informações adicionais",
       "ru": "Разное",
-      "zh-CN": "其他信息",
+      "zh-CN": "详细信息",
       "tr": "Çeşitli Bilgiler",
       "uk": "Додаткова інформація"
     }
@@ -6233,7 +6233,7 @@
       "pl": "#N/A",
       "pt-BR": "#N/A",
       "ru": "#N/A",
-      "zh-CN": "#N/A",
+      "zh-CN": "Auroch Digital Ltd",
       "tr": "#N/A",
       "uk": "#N/A"
     }
@@ -6250,7 +6250,7 @@
       "pl": "#N/A",
       "pt-BR": "#N/A",
       "ru": "#N/A",
-      "zh-CN": "#N/A",
+      "zh-CN": "Bastion",
       "tr": "#N/A",
       "uk": "#N/A"
     }
@@ -6403,7 +6403,7 @@
       "pl": "Kierownictwo ds. dźwięku i muzyki",
       "pt-BR": "Liderança em áudio e música da empresa",
       "ru": "Управление компании по аудио и музыке",
-      "zh-CN": "公司音频与音乐领导团队",
+      "zh-CN": "公司音频与音乐负责人",
       "tr": "Şirket Ses ve Müzik Lideri",
       "uk": "Керівництво компанії в аудіогалузі"
     }
@@ -6437,7 +6437,7 @@
       "pl": "#N/A",
       "pt-BR": "#N/A",
       "ru": "#N/A",
-      "zh-CN": "#N/A",
+      "zh-CN": "COUSIN Media Group",
       "tr": "#N/A",
       "uk": "#N/A"
     }
@@ -6505,7 +6505,7 @@
       "pl": "Wsparcie projektowe",
       "pt-BR": "Suporte ao design",
       "ru": "Поддержка геймдизайна",
-      "zh-CN": "设计支持",
+      "zh-CN": "设计助理",
       "tr": "Tasarım Desteği",
       "uk": "Підтримка дизайнерів"
     }
@@ -6590,7 +6590,7 @@
       "pl": "#N/A",
       "pt-BR": "#N/A",
       "ru": "#N/A",
-      "zh-CN": "#N/A",
+      "zh-CN": "Games Workshop",
       "tr": "#N/A",
       "uk": "#N/A"
     }
@@ -6607,7 +6607,7 @@
       "pl": "#N/A",
       "pt-BR": "#N/A",
       "ru": "#N/A",
-      "zh-CN": "#N/A",
+      "zh-CN": "Ground Shatter",
       "tr": "#N/A",
       "uk": "#N/A"
     }
@@ -7583,7 +7583,7 @@
   },
   "ws_credit_coherence": {
     "_value": {
-      "en": "Supported by the coherence team \nwith special Thanks to Miguel Ferradáns Valdés",
+      "en": "Supported by the coherence team\nwith special Thanks to Miguel Ferradáns Valdés",
       "fr": "Avec l’aide de l’équipe de Coherence\net un grand merci à Miguel Ferradáns Valdés",
       "it": "Supportati dal team coherence\ncon un ringraziamento speciale a Miguel Ferradáns Valdés",
       "de": "Unterstützt vom Coherence-Team\nmit besonderem Dank an Miguel Ferradáns Valdés.",
@@ -8569,7 +8569,7 @@
   },
   "ws_waaagh_erewego": {
     "_value": {
-      "en": "'ERE WE GO!",
+      "en": "ERE WE GO!",
       "fr": "ON Y VA !",
       "it": "NOI ZI VA!",
       "de": "LOS GEHT'S!",
@@ -8698,7 +8698,7 @@
       "pl": "MISJA ZAKOŃCZONA",
       "pt-BR": "MISSÃO COMPLETA",
       "ru": "МИССИЯ ЗАВЕРШЕНА",
-      "zh-CN": "任务完成",
+      "zh-CN": "关卡完成",
       "tr": "GÖREV TAMAMLANDI",
       "uk": "ЗАВДАННЯ ЗАВЕРШЕНО"
     }
@@ -9191,7 +9191,7 @@
       "pl": "Sekrety",
       "pt-BR": "Segredos",
       "ru": "Секреты",
-      "zh-CN": "秘密关卡",
+      "zh-CN": "隐藏关卡",
       "tr": "Sırlar",
       "uk": "Таємниці"
     }
@@ -9208,7 +9208,7 @@
       "pl": "Wybór misji",
       "pt-BR": "Selecionar Missão",
       "ru": "Выбор миссии",
-      "zh-CN": "任务选择",
+      "zh-CN": "关卡选择",
       "tr": "Görev Seçimi",
       "uk": "Вибір завдання"
     }
@@ -9395,7 +9395,7 @@
       "pl": "Nie pozostały żadne sekrety.",
       "pt-BR": "Não há mais Segredos pendentes.",
       "ru": "Не осталось нераскрытых секретов.",
-      "zh-CN": "所有秘密关卡均已通关。",
+      "zh-CN": "所有隐藏关卡均已通关。",
       "tr": "Keşfedilecek Sır kalmadı.",
       "uk": "Визначних таємниць не залишилося."
     }
@@ -9582,7 +9582,7 @@
       "pl": "Zastosuj ustawienia graficzne",
       "pt-BR": "Aplicar configurações gráficas",
       "ru": "Применить настройки графики",
-      "zh-CN": "应用图形设置",
+      "zh-CN": "保存画面设置",
       "tr": "Grafik Ayarlarını Uygula",
       "uk": "Застосувати налаштування"
     }
@@ -9922,7 +9922,7 @@
       "pl": "Zaakceptuj",
       "pt-BR": "Aceitar",
       "ru": "Принять",
-      "zh-CN": "同意",
+      "zh-CN": "确定",
       "tr": "Kabul et",
       "uk": "Прийняти"
     }
@@ -10415,7 +10415,7 @@
       "pl": "Statystyki misji",
       "pt-BR": "Estatísticas da Missão",
       "ru": "Характеристики миссии",
-      "zh-CN": "任务统计",
+      "zh-CN": "关卡数据",
       "tr": "Görev İstatistikleri",
       "uk": "Статистика завдання"
     }
@@ -10823,7 +10823,7 @@
       "pl": "Czas gry",
       "pt-BR": "Tempo de jogo",
       "ru": "Время в игре",
-      "zh-CN": "游戏时长",
+      "zh-CN": "累计游玩时间",
       "tr": "Oynama Süresi",
       "uk": "Зіграно"
     }
@@ -10925,7 +10925,7 @@
       "pl": "Czas misji upływa dwa razy szybciej, a Wprawa postaci wzrasta.",
       "pt-BR": "O cronômetro da missão corre duas vezes mais rápido e a experiência do personagem aumenta.",
       "ru": "Таймер миссии работает с удвоенной скоростью, а ветеранство персонажа увеличивается.",
-      "zh-CN": "任务计时器以二倍速运行，且角色熟练度获取提升。",
+      "zh-CN": "关卡计时器以二倍速运行，且角色熟练度获取提升。",
       "tr": "Görev sayacı iki kat hızda çalışır ve Karakterin Kıdemi artar.",
       "uk": "Час спливає вдвічі швидше, а воєнний досвід персонажа підвищено."
     }
@@ -11068,19 +11068,19 @@
   },
   "ws_stage_modes_hyper": {
     "_value": {
-      "en": "'Eavy Metal",
-      "fr": "'Eavy Metal",
-      "it": "'Eavy Metal",
-      "de": "'Eavy Metal",
-      "es": "'Eavy Metal",
+      "en": "Eavy Metal",
+      "fr": "Eavy Metal",
+      "it": "Eavy Metal",
+      "de": "Eavy Metal",
+      "es": "Eavy Metal",
       "ja": "「イーヴィ・メタル」",
-      "ko": "'Eavy Metal",
-      "pl": "'Eavy Metal",
-      "pt-BR": "'Eavy Metal",
-      "ru": "'Eavy Metal",
-      "zh-CN": "'Eavy Metal",
-      "tr": "'Eavy Metal",
-      "uk": "'Eavy Metal"
+      "ko": "Eavy Metal",
+      "pl": "Eavy Metal",
+      "pt-BR": "Eavy Metal",
+      "ru": "Eavy Metal",
+      "zh-CN": "Eavy Metal",
+      "tr": "Eavy Metal",
+      "uk": "Eavy Metal"
     }
   },
   "ws_stage_modes_limitless": {
@@ -11163,7 +11163,7 @@
       "pl": "Muzyka",
       "pt-BR": "Música",
       "ru": "Музыка",
-      "zh-CN": "音乐",
+      "zh-CN": "音乐音量",
       "tr": "Müzik",
       "uk": "Музика"
     }
@@ -11214,7 +11214,7 @@
       "pl": "Statystyki misji",
       "pt-BR": "Estatísticas da missão",
       "ru": "Характеристики миссии",
-      "zh-CN": "任务统计",
+      "zh-CN": "关卡数据",
       "tr": "Görev İstatistikleri:",
       "uk": "Характеристики завдання"
     }
@@ -11265,7 +11265,7 @@
       "pl": "Sekret",
       "pt-BR": "Secreto",
       "ru": "Секрет",
-      "zh-CN": "秘密关卡",
+      "zh-CN": "隐藏关卡",
       "tr": "Sır",
       "uk": "Таємниця"
     }
@@ -11996,7 +11996,7 @@
       "pl": "Odzyskiwanie zdrowia wzrasta o %0 pkt. życia na sekundę.",
       "pt-BR": "A recuperação de vida aumenta em %0 feridas por segundo.",
       "ru": "Восстановление здоровья увеличивается на %0 ед. ран в секунду.",
-      "zh-CN": "生命值恢复速度每秒增加%0点承伤。",
+      "zh-CN": "生命值恢复速度每秒增加%0点耐伤。",
       "tr": "Can yenilenmesi saniyede %0 yara artar.",
       "uk": "Відновлення здоров’я збільшено до %0 ран на секунду."
     }
@@ -13085,7 +13085,7 @@
         "pl": "Rany",
         "pt-BR": "Feridas",
         "ru": "Ранения",
-        "zh-CN": "承伤",
+        "zh-CN": "耐伤",
         "tr": "Yaralar",
         "uk": "Рани"
       }
@@ -13102,7 +13102,7 @@
         "pl": "Wytrzymałość",
         "pt-BR": "Resistência",
         "ru": "Стойкость",
-        "zh-CN": "坚韧",
+        "zh-CN": "韧性",
         "tr": "Sağlamlık",
         "uk": "Витривалість"
       }
@@ -13119,7 +13119,7 @@
         "pl": "Czas trwania",
         "pt-BR": "Sustentação",
         "ru": "Длительность",
-        "zh-CN": "持续",
+        "zh-CN": "持续作战能力",
         "tr": "Dayanıklılık",
         "uk": "Стійкість"
       }
@@ -13484,17 +13484,17 @@
   },
   "genericPopup_unlocksHyper": {
     "_value": {
-      "en": "'Eavy Metal mode",
+      "en": "Eavy Metal mode",
       "fr": "Mode 'Eavy Metal",
       "it": "Modalità 'Eavy Metal",
       "de": "’Eavy-Metal-Modus",
       "es": "Modo 'Eavy Metal",
       "ja": "「イーヴィ・メタル」モード",
-      "ko": "'Eavy Metal 모드",
+      "ko": "Eavy Metal 모드",
       "pl": "Tryb 'Eavy Metal",
       "pt-BR": "Modo 'Eavy Metal",
       "ru": "Режим 'Eavy Metal",
-      "zh-CN": "'Eavy Metal模式",
+      "zh-CN": "Eavy Metal模式",
       "tr": "Ağır Metal modu",
       "uk": "Режим 'Eavy Metal"
     }

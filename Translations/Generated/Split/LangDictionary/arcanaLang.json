@@ -84,7 +84,7 @@
         "pl": "Zwiększa szansę na znalezienie przedmiotu do zebrania z Collectathon. Uruchamia Collectathon przy krytycznym poziomie pkt. życia raz na {[REDEPLOYMENT]}. Każde zebranie waluty ma szansę uleczyć Cię lub zwiększyć {[CORRUPTION]}.",
         "pt-BR": "Aumenta a chance de encontrar um item do Collectathon. Aciona um Collectathon quando a vida estiver crítica, uma vez por {[REDEPLOYMENT]}. Qualquer moeda coletada tem chance de curar ou aumentar a {[CORRUPTION]}.",
         "ru": "Повышает шанс найти подбираемый предмет для Коллектатона. Запускает Коллектатон при критическом уровне ОЗ один раз за {[REDEPLOYMENT]}. Любая собранная валюта имеет шанс исцелить или же увеличить параметр {[CORRUPTION]}.",
-        "zh-CN": "提高找到“收集大作战”掉落物的几率。当生命值极低时，每次{[REDEPLOYMENT]}可触发一次“收集大作战”。收集的任何货币都有几率恢复生命值或增加{[CORRUPTION]}。",
+        "zh-CN": "提高“收集大作战”掉落物的出现几率。当处于低血量时，每次{[REDEPLOYMENT]}可触发一次“收集大作战”。收集任意货币均有几率恢复生命值或增加{[CORRUPTION]}。",
         "tr": "Collectathon toplanabilir nesnesi bulma şansını artırır. Kritik Can durumunda, her {[REDEPLOYMENT]} başına bir Collectathon’u tetikler. Toplanan herhangi bir para biriminin iyileştirme veya {[CORRUPTION]} artırma şansı vardır.",
         "uk": "Збільшує шанс знайти колектатон. Активує колектатон, коли показник ОЗ падає критично низько ({[REDEPLOYMENT]} дозволяє зробити це повторно). Будь-яка зібрана валюта може зцілити вас або посилиться {[CORRUPTION]}."
       }
@@ -120,7 +120,7 @@
         "pl": "{[REROLL]} +5. {[VETERANCY]} +10% i {[RELOAD]} -5% za każdego towarzysza. Głośniki Laudacyjne są łatwiejsze do znalezienia.",
         "pt-BR": "Concede +5 {[REROLL]}s. Concede +10% de {[VETERANCY]} e -5% de {[RELOAD]} por cada seguidor. Os Alto Faladores ficam mais fáceis de encontrar.",
         "ru": "Дает +5 навыков {[REROLL]}. Дает +10% к параметру {[VETERANCY]} и отнимает –5% от параметра {[RELOAD]} за каждого последователя. Легче найти громкославители.",
-        "zh-CN": "+5次{[REROLL]}。每拥有一名随从，+10%{[VETERANCY]}，同时-5%{[RELOAD]}。更容易找到颂歌。",
+        "zh-CN": "+5次{[REROLL]}。每拥有一名随行人员，+10%{[VETERANCY]}，同时-5%{[RELOAD]}。更容易找到颂歌。",
         "tr": "+5 {[REROLL]} verir. Her bir takipçi için +%10 {[VETERANCY]} ve -%5 {[RELOAD]} verir. İlahi Hoparlörleri daha kolay bulunur.",
         "uk": "{[REROLL]} +5. {[VETERANCY]} + 10% і {[RELOAD]} -5% за кожного послідовника. Легше знайти гучномовець."
       }
@@ -372,7 +372,7 @@
         "pl": "Zwiększa szansę na znalezienie przedmiotu do zebrania z Collectathon. {[TITHE]} +25%. Waluta Cię leczy. Przedmioty leczące zamiast leczyć dają walutę. Jeśli przez 1 minutę nie podniesiesz żadnej waluty, otrzymasz efekt statusu Krwawienie.",
         "pt-BR": "Aumenta a chance de encontrar um item do Collectathon. +25% de {[TITHE]}. Moedas curam você. Os itens de cura concedem moedas em vez de cura. Você recebe o efeito de estado “Sangramento” se não coletar nenhuma moeda por 1 minuto.",
         "ru": "Повышает шанс найти предмет для Коллектатона. +25% к параметру {[TITHE]}. Валюта исцеляет вас. Подбираемые предметы для исцеления дают валюту, а не исцеляют. Если в течение 1 минуты вы не найдете никакой валюты, то получите статусный эффект «Кровотечение».",
-        "zh-CN": "提高找到“收集大作战”掉落物的几率。+25%{[TITHE]}。货币可恢复生命值。治疗类掉落物将不再提供治疗效果，转而给予货币。如果1分钟内未拾取任何货币，将获得流血状态效果。",
+        "zh-CN": "提高“收集大作战”掉落物的出现几率。+25%{[TITHE]}。货币可恢复生命值。治疗类掉落物将不再提供治疗效果，转而给予货币。如果1分钟内未拾取任何货币，将获得流血状态效果。",
         "tr": "Collectathon toplanabilir nesnesi bulma şansını +%25 {[TITHE]} artırır. Para birimi seni iyileştirir. İyileştirme nesneleri, iyileştirme yerine para birimi verir. 1 dakika boyunca hiç para birimi toplamazsan Kanama durumu etkisi kazanırsın.",
         "uk": "Збільшує шанс знайти колектатон. {[TITHE]} +25%. Валюта зцілює вас. Зцілювальні бонуси приносять валюту замість того, аби зцілити. Ви страждатиме від кровотечі, якщо протягом 1 хвилини не підберете жодної валюти."
       }
@@ -480,7 +480,7 @@
         "pl": "Ataki przeciwko Skavenom mają szansę zadać podwójne obrażenia. Tworzy Nieskończone Zaklęcie i zwiększa {[SUSTAIN]} co minutę. Nieskończone Zaklęcia są łatwiejsze do znalezienia. Nieskończone Zaklęcia mogą aktywować się ponownie po wygaśnięciu.",
         "pt-BR": "Ataques contra inimigos Skaven têm chance de causar o dobro de dano. Gera um Feitiço Infinito e aumenta {[SUSTAIN]} a cada minuto. Feitiços Infinitos ficam mais fáceis de encontrar. Os Feitiços Infinitos podem ser ativados uma segunda vez após expirarem.",
         "ru": "Атаки на врагов-скавенов имеют шанс нанести двойной урон. Создает бесконечное заклинание и увеличивает параметр {[SUSTAIN]} каждую минуту. Легче найти бесконечные заклинания. Бесконечные заклинания могут активироваться во второй раз после истечения срока их действия.",
-        "zh-CN": "攻击斯卡文鼠人敌人时有几率造成双倍伤害。生成一个无尽法术并每分钟增加{[SUSTAIN]}。更容易找到无尽法术。无尽法术在失效后有几率再次触发。",
+        "zh-CN": "对敌人斯卡文鼠人发动攻击时有几率造成双倍伤害。每分钟召唤一个无尽法术，并增加{[SUSTAIN]}。召唤无尽法术的几率提升。无尽法术在失效后有几率再次触发。",
         "tr": "Skaven düşmanlarına karşı yapılan saldırılar, çift hasar verme şansına sahiptir. Her dakika, bir Sonsuz Büyü ortaya çıkar ve {[SUSTAIN]} artırır. Sonsuz Büyü’leri bulmak daha kolaydır. Sonsuz Büyüler’in süresi dolduktan sonra ikinci kez tetiklenebilirler.",
         "uk": "Атаки по скейвенам мають шанс завдати подвійної шкоди. Створює нескінченне закляття й посилює {[SUSTAIN]} кожну хвилину. Полегшує знаходження нескінченних заклять. Після закінчення дії нескінченного закляття є ймовірність, що воно активується знову."
       }
@@ -516,7 +516,7 @@
         "pl": "{[REROLL]}, {[SKIP]} i {[BANISH]} +2. {[SUSTAIN]} i {[STRENGTH]} zwiększają się. Premie te są zmniejszane za każdego posiadanego towarzysza. Przy krytycznym poziomie pkt. życia wszyscy wrogowie wpadają w Szok Bitewny, a Ty zyskujesz efekt statusu Przyspieszenie na 10 s.",
         "pt-BR": "Ganhe +2 {[REROLL]}, {[SKIP]} e {[BANISH]}. Aumenta {[SUSTAIN]} e {[STRENGTH]}. Os aumentos são reduzidos para cada seguidor que você tiver. Com feridas críticas, todos os inimigos ficam em estado de Choque de Batalha e você fica com o efeito Acelerado por 10 segundos.",
         "ru": "Получите +2 к параметрам {[REROLL]}, {[SKIP]} и {[BANISH]}. {[SUSTAIN]} и {[STRENGTH]} повышаются. Уровень повышения снижается за каждого вашего последователя. При критическом уровне ран все враги впадают в состояние боевого шока, а вы ускоряетесь на 10 секунд.",
-        "zh-CN": "+2{[REROLL]}、{[SKIP]}和{[BANISH]}。{[SUSTAIN]}和{[STRENGTH]}获得提升。这些增益会因随从数量增加而递减。承伤值低于临界点时，所有敌人陷入战斗休克状态，而你将获得10秒的加速状态。",
+        "zh-CN": "+2{[REROLL]}、{[SKIP]}和{[BANISH]}。{[SUSTAIN]}和{[STRENGTH]}获得提升。这些增益会因随行人员数量增加而递减。耐伤值低于临界点时，所有敌人陷入战斗休克状态，而你将获得10秒的加速状态。",
         "tr": "+2 {[REROLL]}, {[SKIP]} ve {[BANISH]} kazanırsın. {[SUSTAIN]} ve {[STRENGTH]} artar. Bu artışlar, sahip olduğun her takipçi için azalır. Kritik yaralanma durumunda tüm düşmanlar, Savaş Şokuna Girmiş olur ve sen de 10 saniye boyunca Hızlanmış olursun.",
         "uk": "{[REROLL]}, {[SKIP]} і {[BANISH]} +2. Збільшені {[SUSTAIN]} і {[STRENGTH]}. Ці посилення послаблюються за кожного вашого послідовника. Коли ви зазнаєте критичних ушкоджень, усі вороги навколо впадуть у стан бойового шоку, а ви отримаєте поспіх на 10 секунд."
       }
@@ -578,7 +578,7 @@
   "6007": {
     "description": {
       "_value": {
-        "en": "Healing is doubled. You are immune to Bleeding, Burning, Cursed, Poisoned, Slowed, Stunned, and Vulnerable status effects. Gain additional {[WOUNDS]}, {[TOUGHNESS]} and {[CORRUPTION]} every level. All enemy bosses have the Healing status effect",
+        "en": "Healing is doubled. You are immune to Bleeding, Burning, Cursed, Poisoned, Slowed, Stunned, and Vulnerable status effects. Gain additional {[WOUNDS]}, {[TOUGHNESS]} and {[CORRUPTION]} every level. All enemy bosses have the Healing status effect.",
         "fr": "Les soins sont doublés. Vous bénéficiez d’une immunité contre les effets de statut suivants : Saignement, Brûlure, Malédiction, Empoisonnement, Ralentissement, Étourdissement et Vulnérabilité. Vous obtenez {[WOUNDS]}, {[TOUGHNESS]} et {[CORRUPTION]} en supplément à chaque niveau. Tous les boss ennemis disposent de l’effet de statut Guérison.",
         "it": "La Guarigione viene raddoppiata. Sei immune agli effetti di stato Sanguinamento, Ustione, Maledetto, Avvelenato, Rallentato, Stordito e Vulnerabile. Ricevi {[WOUNDS]}, {[TOUGHNESS]} e {[CORRUPTION]} aggiuntivi a ogni livello. Tutti i boss nemici hanno l'effetto di stato Guarigione.",
         "de": "Heilung ist doppelt so effektiv. Du bist immun gegen die Statuseffekte Blutend, Brennend, Verflucht, Vergiftet, Verlangsamt, Betäubt und Verwundbar. Erhalte pro Stufe zusätzlich {[WOUNDS]}, {[TOUGHNESS]} und {[CORRUPTION]}. Alle gegnerischen Bosse erhalten den Statuseffekt Heilung.",
@@ -586,10 +586,10 @@
         "ja": "回復量が2倍になる。出血・燃焼・呪い・毒・スロウ・スタン・脆弱状態のすべてに対して耐性を得る。レベルごとに{[WOUNDS]}、{[TOUGHNESS]}、{[CORRUPTION]}を追加で獲得する。すべての敵ボスは回復状態になる。",
         "ko": "회복량이 두 배로 증가합니다. 출혈, 화상, 저주, 중독, 둔화, 기절, 취약 상태 효과에 면역이 됩니다. 레벨이 오를 때마다 {[WOUNDS]}, {[TOUGHNESS]}, {[CORRUPTION]}이(가) 증가합니다. 모든 적 보스에게 회복 상태 효과가 적용됩니다.",
         "pl": "Leczenie jest podwojone. Zyskujesz odporność na efekty Krwawienia, Podpalenia, Przekleństwa, Zatrucia, Spowolnienia, Ogłuszenia i Wrażliwości. Z każdym poziomem zyskujesz dodatkowo {[WOUNDS]}, {[TOUGHNESS]} i {[CORRUPTION]}. Wszyscy bossowie otrzymują efekt Leczenia.",
-        "pt-BR": "A cura é dobrada. Você fica imune aos efeitos de estado Sangramento, Queimadura, Maldição, Envenenamento, Desaceleração, Atordoamento e Vulnerabilidade. Ganhe {[WOUNDS]}, {[TOUGHNESS]} e {[CORRUPTION]} adicionais a cada nível. Todos os chefões inimigos têm o efeito de estado “Cura”",
+        "pt-BR": "A cura é dobrada. Você fica imune aos efeitos de estado Sangramento, Queimadura, Maldição, Envenenamento, Desaceleração, Atordoamento e Vulnerabilidade. Ganhe {[WOUNDS]}, {[TOUGHNESS]} e {[CORRUPTION]} adicionais a cada nível. Todos os chefões inimigos têm o efeito de estado “Cura”.",
         "ru": "Исцеление удваивается. Вы становитесь невосприимчивы к статусным эффектам Кровотечение, Горение, Проклятие, Отравление, Замедление, Оглушение и Уязвимость. Дополнительные {[WOUNDS]}, {[TOUGHNESS]} и {[CORRUPTION]} с каждым новым уровнем. Все вражеские боссы имеют статусный эффект Исцеление.",
         "zh-CN": "治疗效果翻倍。免疫流血、燃烧、诅咒、中毒、减速、眩晕和脆弱状态效果。每升一级，获得额外的{[WOUNDS]}、{[TOUGHNESS]}和{[CORRUPTION]}加成。所有敌方首领均获得治疗状态效果。",
-        "tr": "İyileştirme iki katına çıkar. Kanama, Yanma, Lanetli, Zehirli, Yavaşlatma, Sersemletme ve Savunmasızlık durum etkilerine karşı bağışıklık sahibisin. Her seviyede ek olarak {[WOUNDS]}, {[TOUGHNESS]} ve {[CORRUPTION]} kazanırsın. Tüm düşman patronları, İyiliştirme durum etkilerine sahiptir",
+        "tr": "İyileştirme iki katına çıkar. Kanama, Yanma, Lanetli, Zehirli, Yavaşlatma, Sersemletme ve Savunmasızlık durum etkilerine karşı bağışıklık sahibisin. Her seviyede ek olarak {[WOUNDS]}, {[TOUGHNESS]} ve {[CORRUPTION]} kazanırsın. Tüm düşman patronları, İyiliştirme durum etkilerine sahiptir.",
         "uk": "Зцілення подвоєно. Ви отримуєте імунітет від кровотечі, загоряння, прокляття, отруєння, сповільнення, приголомшення і вразливості. Такі показники зростають кожного рівня: {[WOUNDS]}, {[TOUGHNESS]} і {[CORRUPTION]}. Усі ворожі боси отримують ефект зцілення."
       }
     },

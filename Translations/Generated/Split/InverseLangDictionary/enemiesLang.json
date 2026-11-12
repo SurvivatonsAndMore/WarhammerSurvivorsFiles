@@ -437,6 +437,11 @@
         "_value": "Trugg the Troggoth King"
       }
     },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "bName": {
+        "_value": "Trugg the Troggoth King"
+      }
+    },
     "WS_AOS_GLO_DANKHOLD_TROGGOTH": {
       "bDesc": {
         "_value": "Loners even amongst the most anti-social troggoths, the Dankhold Troggoths grow – or shrink – to fit any cavern or crevice they squeeze themselves into. Should these reclusive Troggoths be summoned into battle by the will of the Bad Moon, they swat at everything within reach. Like all troggoths, they possess impressive regenerative capabilities, but are uniquely resistant to magic thanks to a diet of realmstone-infused fungi."
@@ -1093,6 +1098,11 @@
       "bDesc": {
         "_value": "Autrefois géant somnolent sous le royaume de Ghyran, Trugg, le plus puissant des Troggoths, fut réveillé par le Rite de Vie d’Alarielle. Puis, comme Braggit la Grand’ Gueule l’importunait tant qu’il n’arrivait pas à se rendormir, il fut proclamé Roi des Troggoths. Il porte sur son dos une ancienne clef de voûte mystérieuse qui crépite d’une puissance mystique, surtout lorsque Trugg lui assène un bon coup en espérant que cela arrêtera sa migraine incessante. Trugg a tracé son chemin à travers de nombreuses batailles, armé de sa massue en coquille d’escargot et d’éclats de magie imprévisibles."
       },
+      "bName": {
+        "_value": "Trugg le Roi des Troggoths"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
       "bName": {
         "_value": "Trugg le Roi des Troggoths"
       }
@@ -1757,6 +1767,11 @@
         "_value": "Trugg, il Re dei Troggoth"
       }
     },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "bName": {
+        "_value": "Trugg, il Re dei Troggoth"
+      }
+    },
     "WS_AOS_GLO_DANKHOLD_TROGGOTH": {
       "bDesc": {
         "_value": "Solitari persino tra i troggoth più asociali, i Troggoth delle Grotte Umide sono in grado di aumentare o ridurre la propria stazza per adattarsi a qualsiasi caverna o fessura in cui vogliano infilarsi. Se questi Troggoth solitari venissero chiamati in battaglia dalla volontà della Luna Kattiva, colpirebbero qualsiasi cosa senza distinzione. Come tutti i Troggoth, possiedono notevoli capacità rigenerative, ma sono particolarmente resistenti alla magia grazie a una dieta a base di funghi arricchiti con pietra del regno."
@@ -2413,6 +2428,11 @@
       "bDesc": {
         "_value": "Trugg, einst ein schlummerndes Ungetüm tief unter dem Reich Ghyran, entwickelte sich durch Alarielles Ritus des Lebens zum mächtigsten aller Troggoths. Als Braggit Aufschneida ihn schließlich so sehr nervte, dass er nicht mehr einschlafen konnte, wurde Trugg zum König der Troggoths gekrönt. Auf seinem Rücken trägt er einen uralten arkanen Schlussstein, dem eine knisternde, fremdartige Macht innewohnt. Immer wieder schlägt Trugg wuchtig darauf ein, in der Hoffnung, seine unerträglichen Kopfschmerzen loszuwerden. Mit seiner Schneckenpanzerkeule und den unberechenbaren Entladungen arkaner Energie hat er ganze Schlachtfelder verwüstet."
       },
+      "bName": {
+        "_value": "Troggothkönig Trugg"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
       "bName": {
         "_value": "Troggothkönig Trugg"
       }
@@ -3077,6 +3097,11 @@
         "_value": "Trugg el Rey Troggoth"
       }
     },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "bName": {
+        "_value": "Trugg el Rey Troggoth"
+      }
+    },
     "WS_AOS_GLO_DANKHOLD_TROGGOTH": {
       "bDesc": {
         "_value": "Solitarios incluso entre los troggoths más antisociales, los troggoths kubilmohozo crecen —o encogen— para adaptarse a cualquier caverna o grieta en la que se metan. Si estos troggoths huraños son convocados a la batalla por voluntad de la Luna Malvada, golpean todo cuanto tienen a su alcance. Como todos los troggoths, poseen unas capacidades regenerativas impresionantes, pero son especialmente resistentes a la magia gracias a una dieta de hongos impregnados de piedra del reino."
@@ -3733,6 +3758,11 @@
       "bDesc": {
         "_value": "かつて生命の領域、グューランの地下で眠りについていた巨獣であり、すべてのトロゴスの中で最も強大なトラグは、アラリエールの「生命の儀式」によって目を醒ました。自慢好きのブラギットにあまりにも苛立ち、二度と眠りにつくことができなくなったトラグは、それ以来「トロゴスの王」と名付けられることになった。トラグの背中には古代の神秘の要石が乗っている。異世界の力を帯びて音を立てるが、トラグが止むことのない頭痛を鎮めようとその石を思いっきりぶん殴ると、特に激しく沸き立つ。トラグはカタツムリの殻の棍棒と、予測不能に暴走する魔法を武器に、幾多の戦いを切り抜けてきた。"
       },
+      "bName": {
+        "_value": "トロゴスの王トラグ"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
       "bName": {
         "_value": "トロゴスの王トラグ"
       }
@@ -4397,6 +4427,11 @@
         "_value": "트로고스 왕 트러그"
       }
     },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "bName": {
+        "_value": "트로고스 왕 트러그"
+      }
+    },
     "WS_AOS_GLO_DANKHOLD_TROGGOTH": {
       "bDesc": {
         "_value": "원래 남과 어울리지 않는 트로고스 사이에서도 유독 외톨이인 눅눅요새 트로고스는 자신이 비집고 들어가는 동굴이나 틈새에 맞춰 몸집을 키우거나 줄입니다. 배드 문이 전장으로 불러내는 이 은둔형 트로고스는 뭐든 손에 닿는 대로 마구 후려칩니다. 다른 트로고스와 마찬가지로 재생력이 높고, 렐름스톤이 스며든 버섯을 먹고 살아가는 덕분에 마법에도 유난히 강한 저항력을 보입니다."
@@ -5053,6 +5088,11 @@
       "bDesc": {
         "_value": "Trugg, najpotężniejszy ze wszystkich Troggotów, przez długie wieki drzemał pod powierzchnią Ghyranu, aż obudził go Rytuał Życia Alarielle. A ponieważ Braggit Wielkogębowy tak go wkurzył, że nie mógł ponownie zasnąć, Trugg został od tamtej pory ogłoszony Królem Troggotów. Na plecach nosi prastary, tajemny kamień wieńczący, który tętni nieziemską mocą, zwłaszcza gdy Trugg mocno nim walnie z nadzieją, że to pomoże uśmierzyć jego niekończący się ból głowy. Trugg przetrwał niejedną bitwę, władając pałką z muszlą ślimaka i nieprzewidywalnymi erupcjami magicznej mocy."
       },
+      "bName": {
+        "_value": "Trugg, Król Troggotów"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
       "bName": {
         "_value": "Trugg, Król Troggotów"
       }
@@ -5717,6 +5757,11 @@
         "_value": "Trugg, o Rei dos Troggoths"
       }
     },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "bName": {
+        "_value": "Trugg, o Rei dos Troggoths"
+      }
+    },
     "WS_AOS_GLO_DANKHOLD_TROGGOTH": {
       "bDesc": {
         "_value": "Solitários até mesmo entre os Troggoths mais antissociais, os Troggoths das Grutas crescem ou encolhem para se adaptarem a qualquer caverna ou fenda em que consigam se espremer. Caso esses Troggoths reclusos sejam convocados para a batalha pela vontade da Lua Maligna, eles atacam tudo ao seu alcance. Como todos os Troggoths, possuem impressionantes capacidades regenerativas, mas são excepcionalmente resistentes à magia graças a uma dieta à base de fungos impregnados com pedras do reino."
@@ -6377,6 +6422,11 @@
         "_value": "Трагг, Король трогготов"
       }
     },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "bName": {
+        "_value": "Трагг, Король трогготов"
+      }
+    },
     "WS_AOS_GLO_DANKHOLD_TROGGOTH": {
       "bDesc": {
         "_value": "Одиночки даже по самым асоциальным меркам, трогготы Данкхолда способны вырастать (или уменьшаться), чтобы поместиться в любой пещере или расщелине. Если по воле Дурной Луны эти трогготы-затворники оказываются в гуще битвы, они нападают на всех, до кого могут дотянуться. Как и все трогготы, они обладают впечатляющими способностями к регенерации и при этом устойчивы к действию магии благодаря тому, что едят грибы, пропитанные камнем владения."
@@ -6730,7 +6780,7 @@
     },
     "WS_40K_ORK_BOY_A": {
       "bDesc": {
-        "_value": "蛮人小子是构成欧克蛮人大军中坚力量的众多战士。小子们的种类繁多，但彼此之间没有太大的区别。一个欧克蛮人可以同时是射枪小子、铁皮小子和卡车小子。在战场上，你最有可能遇到的是砍刀小子，不过，要是他们觉着哒咔弹的动静够大、光效也够炫目，他们也会很高兴地一边开枪射你一边迅速逼近，准备用他们那绿色的拳头好好揍你一顿。"
+        "_value": "蛮人小子是构成欧克蛮人大军中坚力量的众多战士。小子们的种类繁多，但彼此之间没有太大的区别。一个欧克蛮人可以同时是射枪小子、铁皮小子和卡车小子。在战场上，你最有可能遇到的是砍刀小子，不过，要是他们觉得哒咔弹的动静够大、光效也够炫目，他们也会很高兴地一边开枪射你一边迅速逼近，准备用他们那绿色的拳头好好揍你一顿。"
       },
       "bName": {
         "_value": "小子"
@@ -6826,7 +6876,7 @@
     },
     "WS_40K_TYR_BOSS_NORN_EMISSARY": {
       "bDesc": {
-        "_value": "这些由诺恩女王孕育而生的野蛮生物形态，仅被灌输了完成使命所需的知识——他们的使命便是杀死你。这些顶级掠食者将虫巢意志那骇人的灵能潜力，与泰伦虫族普通个体所不具备的速度、智力和力量融为一体。若想在遭遇这等可怖造物后幸存，逃离是唯一明智的选择。"
+        "_value": "这些由诺恩女王孕育而生的野蛮生物，仅被灌输了完成使命所需的知识——他们的使命便是杀死你。这些顶级掠食者将虫巢意志那骇人的灵能潜力，与泰伦虫族普通个体所不具备的速度、智力和力量融为一体。若想在遭遇这等可怖造物后幸存，逃跑是唯一明智的选择。"
       },
       "bName": {
         "_value": "诺恩使者"
@@ -6834,7 +6884,7 @@
     },
     "WS_40K_TYR_CARNIFEX": {
       "bDesc": {
-        "_value": "当如山峦般高耸的壳质装甲巨兽冲入战场，你的武器攻击竟被骤然弹开。即便是最重型的武器也难伤其分毫——这些虫巢舰队中最致命的生物在战场上肆虐，毫不费力地碾碎你的盟友，着实令人胆寒。"
+        "_value": "当如山峦般高耸的壳质装甲巨兽冲入战场，你的武器攻击竟被硬生生的弹开，连最重型的武器也难伤其分毫。这些虫巢舰队中最致命的生物在战场上横冲直撞，而你只能眼睁睁看着它们不费吹灰之力便碾碎你的盟友。"
       },
       "bName": {
         "_value": "刽子手"
@@ -6842,7 +6892,7 @@
     },
     "WS_40K_TYR_HIVETYRANT": {
       "bDesc": {
-        "_value": "作为泰伦虫群的巨型指挥官，虫巢暴君在战场上执行虫巢意志的旨意。它们躯体的每一部分都为致残、杀戮与吞噬而完美塑造——并引导低级生物形态完成同样的暴行。"
+        "_value": "虫巢暴君是泰伦虫族的统领，在战场上代行虫巢意志。它们身体的每一部分都被完美塑造，只为残害、杀戮与吞噬而生。同时，它们也驱使低级生物去完成同样的使命。"
       },
       "bName": {
         "_value": "虫巢暴君"
@@ -6898,7 +6948,7 @@
     },
     "WS_40K_TYR_WARRIOR_A": {
       "bDesc": {
-        "_value": "这些娴熟的杀戮机器娴熟是虫巢意志所有生物形态中适应性最强的存在，他们运用多种生物武器，既能担任远程射手也可成为近战尖兵，构成虫巢暴君传达指令的关键神经节点。"
+        "_value": "作为虫巢意志最具适应性的生物形态，这些精锐的杀戮机器配备了各式各样的生物武器。它们既可作为远程战力，亦可充当近战单位，并成为虫巢暴君传达指令链条上的重要一环。"
       },
       "bName": {
         "_value": "战士"
@@ -6911,7 +6961,7 @@
     },
     "WS_40K_TYR_WARRIOR_B": {
       "bDesc": {
-        "_value": "这些娴熟的杀戮机器娴熟是虫巢意志所有生物形态中适应性最强的存在，他们运用多种生物武器，既能担任远程射手也可成为近战尖兵，构成虫巢暴君传达指令的关键神经节点。"
+        "_value": "作为虫巢意志最具适应性的生物形态，这些精锐的杀戮机器配备了各式各样的生物武器。它们既可作为远程战力，亦可充当近战单位，并成为虫巢暴君传达指令链条上的重要一环。"
       },
       "bName": {
         "_value": "吞噬枪战士"
@@ -7037,6 +7087,11 @@
         "_value": "巨魔之王特鲁格"
       }
     },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+      "bName": {
+        "_value": "巨魔之王特鲁格"
+      }
+    },
     "WS_AOS_GLO_DANKHOLD_TROGGOTH": {
       "bDesc": {
         "_value": "即便在最不合群的巨魔中，黯湿巨魔也堪称彻头彻尾的独行侠。它们的身躯能伸能缩，无论挤进怎样的洞穴或裂缝，都能完美适应。若这些隐居的巨魔被恶月的意志召唤参战，它们会将触手可及的一切尽数拍碎。与所有巨魔一样，它们拥有惊人的再生能力，但因长期食用蕴含界石力量的菌菇，它们还具备了独特的魔法抗性。"
@@ -7063,7 +7118,7 @@
     },
     "WS_AOS_GLO_LOONSMASHA_FANATIC": {
       "bDesc": {
-        "_value": "这些屁精被疯帽蘑菇酒灌得神志不清，全然不顾自身安危。他们像被拧紧发条，像字面意思上的破坏球一样被径直推向敌阵。尽管体型如此矮小，屁精们却能够拳拳到肉，但往往很快会因为力竭或是被自己的武器缠住而败下阵来。当这些狂热的小家伙在战场上翻滚冲锋时，可千万要小心提防。"
+        "_value": "这些屁精被疯帽蘑菇酒灌得神志不清，压根不把命当回事。它们像被拧紧的发条，又像一颗破坏球被径直甩向敌阵，宛如攻城锤。别看它们个子矮小，揍人还挺疼，可下场基本一样：要么把自己累死，要么被自己的武器缠住摔个狗啃泥。遇到这群在战场上疯狂打转的小疯子，最好躲远点。"
       },
       "bName": {
         "_value": "疯月狂徒"
@@ -7135,7 +7190,7 @@
     },
     "WS_AOS_OBR_BOSS_NAGASH": {
       "bDesc": {
-        "_value": "不死之王、不死至尊、大背叛者——这些仅是纳加什诸多称号中的几个。他是黑暗的化身，死灵邪术的缔造者，煞伊许领域的主宰者。战场上，他执掌着强大的神器：用以引导死灵之力的阿卡纳什之杖，以及受诅咒的刀刃泽菲特-内布塔。而最重要的是，通过《纳加什九卷书》，他号令着死亡界域那令人敬畏战栗的魔法。\n直面他，即是直面死亡本身。纵使胜利或可争取，死亡终将降临于我们每个人。"
+        "_value": "纳迦什有众多名号，“不死之王”、“亡灵至高领主”与“大背叛者”不过是其中几个。他是黑暗的化身，是死灵术的缔造者，也是煞伊许领域的主宰者。在战场上，他挥舞着蕴含无上力量的神器：引导死灵术的法杖——阿卡纳什之杖，以及受诅咒的利刃——泽非·内塔。而最重要的，是他借《纳迦什九卷》掌控着死亡界域那令人敬畏而可怖的魔法。\n面对他，就等于面对死亡本身。就算能赢，死亡最后还是会找上我们每个人。"
       },
       "bName": {
         "_value": "纳加什，不死至尊"
@@ -7693,6 +7748,11 @@
       "bDesc": {
         "_value": "Bir zamanlar Ghyran diyarının altında uyuyan devasa bir mahluk olan, tüm Troggoth'ların en güçlüsü Trugg, Alarielle'in Yaşam Ritüeli ile uyandırıldı. Atıp Tutan Braggit’in onu tekrar uyuyamayacak kadar rahatsız etmesi yüzünden Trugg, o günden beri Troggoth'ların Kralı olarak anılmaktadır. Sırtında, bitmek bilmeyen baş ağrısını dindirme umuduyla ne zaman sağlam bir darbe indirse başka bir dünyaya ait güçle çatırdayan kadim, gizemli bir kilit taşı taşır. Trugg, salyangoz kabuğundan topuzu ve öngörülemez büyü patlamalarıyla sayısız savaşta yolunu yararak ilerlemiştir."
       },
+      "bName": {
+        "_value": "Troggoth Kralı Trugg"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
       "bName": {
         "_value": "Troggoth Kralı Trugg"
       }
@@ -8353,6 +8413,11 @@
       "bDesc": {
         "_value": "Під виміром Ґіран колись дрімав велетень Труґґ, наймогутніший з усіх троґотів, аж доки здійснений Аларієль обряд Життя не пробудив його. А через те, що Браґґіт Великепатякало вкрай його дратував, він уже не зміг заснути знову. Відтоді Труґа називають королем троґотів. На спині він носить прадавній таємничий ключ-камінь, що потріскує потойбічною силою, особливо коли Труґґ добряче його гатить, сподіваючись угамувати свій нескінченний головний біль. У багатьох битвах Труґґ прокладав собі шлях палицею з равликових мушель і непередбачуваними спалахами магії."
       },
+      "bName": {
+        "_value": "Труґґ, Король Троґотів"
+      }
+    },
+    "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
       "bName": {
         "_value": "Труґґ, Король Троґотів"
       }

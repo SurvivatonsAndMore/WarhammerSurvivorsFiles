@@ -1,10 +1,10 @@
-Warhammer Survivors - 2.1.4
-30/10/2026 12:25:03 [652-178089R]
+Warhammer Survivors - 2.1.6
+11/11/2026 02:06:09 [678-178573R]
 
 
 appid - 3669620
-buildid - 26324151
+buildid - 26581996
 
 
 InstalledDepots:
-3669622 - manifest: 8818278023229593226
+3669622 - manifest: 4601897554394028493

@@ -200,7 +200,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_Defeat_Nurglings_InRun}unlockName
       TermType: 0
       Languages:
-      - 'Defeat a total of 1,000 Nurglings in a single run. '
+      - Defeat a total of 1,000 Nurglings in a single run.
       - Battez 1 000 Nurglings en une seule partie.
       - 'Sconfiggi 1.000 Nurglini in un''unica partita. '
       - 'Vernichte in einem Durchlauf insgesamt 1.000 Nurglinge. '
@@ -218,7 +218,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_Defeat_Nurglings_InRun}description
       TermType: 0
       Languages:
-      - 'Defeat a total of 1,000 Nurglings in a single run. '
+      - Defeat a total of 1,000 Nurglings in a single run.
       - Battez 1 000 Nurglings en une seule partie.
       - 'Sconfiggi 1.000 Nurglini in un''unica partita. '
       - 'Vernichte in einem Durchlauf insgesamt 1.000 Nurglinge. '
@@ -236,7 +236,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_ApplyBurning_DeathGuard}description
       TermType: 0
       Languages:
-      - 'Apply the Burning status effect to 100 Death Guard Enemies. '
+      - Apply the Burning status effect to 100 Death Guard Enemies.
       - 'Appliquez l’effet de statut Brûlure à 100 ennemis de la Death Guard. '
       - 'Applica l''effetto di stato Ustione a 100 Death Guard nemiche. '
       - 'Belege 100 Death-Guard-Gegner mit dem Statuseffekt „Brennend“. '
@@ -812,7 +812,7 @@ MonoBehaviour:
     - Term: secretLang/{WS_40K_Secret_Activate_AstropathicRelay_All}unlockName
       TermType: 0
       Languages:
-      - 'With the teleportarium secured, ignite the beacons upon each world. '
+      - With the teleportarium secured, ignite the beacons upon each world.
       - 'Une fois le teleportarium sécurisé, allumez les flambeaux de chaque monde. '
       - 'Una volta messo al sicuro il teleportarium, accendi i segnali su ogni mondo. '
       - 'Entzünde die Signalfeuer auf allen Welten, sobald das Teleportarium gesichert ist. '
@@ -866,7 +866,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_Survive_OrkStronghold_Short}unlockName
       TermType: 0
       Languages:
-      - 'Survive 1 minute on Ork Stronghold. '
+      - Survive 1 minute on Ork Stronghold.
       - 'Survivez pendant 1 minute dans la forteresse ork. '
       - 'Sopravvivi 1 minuto nella Fortezza degli Orki. '
       - 'Überlebe 1 Minute in „Orkfestung“. '
@@ -1298,7 +1298,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_Collect_GyrotemporalVault}unlockName
       TermType: 0
       Languages:
-      - 'Find the Gyrotemporal Vault on Deathworld Invasion. '
+      - Find the Gyrotemporal Vault on Deathworld Invasion.
       - 'Trouvez la Crypte Gyrotemporelle dans l’Invasion du monde hostile. '
       - 'Trova lo Scrigno Girotemporale nell''Invasione del Mondo Assassino. '
       - 'Finde die Gyrotemporale Kammer in „Invasion der Todeswelt“. '
@@ -1730,7 +1730,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_Defeat_ExtremisBosses}unlockName
       TermType: 0
       Languages:
-      - 'Defeat the 3 Extremis Bosses. '
+      - Defeat the 3 Extremis Bosses.
       - 'Battez les 3 boss Extremis. '
       - 'Sconfiggi i 3 Boss Extremis. '
       - 'Besiege die 3 Extremis-Bosse. '
@@ -1866,7 +1866,7 @@ MonoBehaviour:
       - Przetrwaj 20 minut w misji, grając dowolną postacią.
       - Sobreviva por 20 minutos em uma missão com qualquer personagem.
       - Выживите в течение 20 минут во время миссии, играя за любого персонажа.
-      - 在布道所中使用任意角色存活20分钟。
+      - 在关卡中使用任意角色存活20分钟。
       - Herhangi bir karakterle bir Görevde 20 dakika hayatta kal.
       - Протримайтеся 20 хвилин на завданні будь-яким персонажем.
       Flags: 00000000000000000000000000
@@ -1938,7 +1938,7 @@ MonoBehaviour:
       - Ulepsz Bolter.
       - Evolua a Boltgun.
       - Усовершенствуйте болтер.
-      - 进阶爆矢枪。
+      - 进化爆矢枪。
       - Patlayıcı Tüfek’i geliştir.
       - Удоскональте гвинтовик.
       Flags: 00000000000000000000000000
@@ -1956,7 +1956,7 @@ MonoBehaviour:
       - Ulepsz Miecz Łańcuchowy.
       - Evolua a Espada de Corrente.
       - Усовершенствуйте цепной меч.
-      - 进阶链锯剑。
+      - 进化链锯剑。
       - Zincırkılıç’ı geliştir.
       - Удоскональте ланцюговий меч.
       Flags: 00000000000000000000000000
@@ -1974,7 +1974,7 @@ MonoBehaviour:
       - Ulepsz Miotacz Ognia.
       - Evolua o Lança-chamas.
       - Усовершенствуйте огнемёт.
-      - 进阶火焰喷射器。
+      - 进化火焰喷射器。
       - Alev Püskürtücü’yü geliştir.
       - Удоскональте вогнемет.
       Flags: 00000000000000000000000000
@@ -1982,7 +1982,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_Evolve_Lasgun}unlockName
       TermType: 0
       Languages:
-      - 'Evolve the Lasgun. '
+      - Evolve the Lasgun.
       - 'Améliorez le fusil laser. '
       - 'Migliora il Fucile Laser. '
       - 'Entwickle das Lasergewehr weiter. '
@@ -1992,7 +1992,7 @@ MonoBehaviour:
       - 'Ulepsz Karabin Laserowy. '
       - 'Evolua a Lasgun. '
       - 'Усовершенствуйте лазружьё. '
-      - '进阶激光枪。 '
+      - '进化激光枪。 '
       - 'Lazer Tüfeği’ni geliştir. '
       - 'Удоскональте лазестріл. '
       Flags: 00000000000000000000000000
@@ -2000,7 +2000,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_Evolve_FragGrenade}unlockName
       TermType: 0
       Languages:
-      - 'Evolve the Frag Grenade. '
+      - Evolve the Frag Grenade.
       - 'Améliorez la grenade Frag. '
       - 'Migliora la Granata a Frammentazione. '
       - 'Entwickle die Fragmentgranate weiter. '
@@ -2010,7 +2010,7 @@ MonoBehaviour:
       - 'Ulepsz Granat Odłamkowy. '
       - 'Evolua a Granada de Fragmentação. '
       - 'Усовершенствуйте осколочную гранату. '
-      - '进阶破片手雷。 '
+      - '进化破片手雷。 '
       - 'Parçalı El Bombası’nı geliştir. '
       - 'Удоскональте осколкову гранату. '
       Flags: 00000000000000000000000000
@@ -2028,7 +2028,7 @@ MonoBehaviour:
       - Ulepsz Baterię Wiru.
       - Evolua a Bateria de Redemoinho.
       - Усовершенствуйте батарею «Вихрь».
-      - 进阶旋风火箭炮阵。
+      - 进化旋风火箭炮阵。
       - Kasırga Bataryası’nı geliştir.
       - Удоскональте вихрову батарею.
       Flags: 00000000000000000000000000
@@ -2046,7 +2046,7 @@ MonoBehaviour:
       - Ulepsz Tarczę Wiary.
       - Evolua o Escudo da Fé.
       - Усовершенствуйте щит веры.
-      - 进阶信仰之盾。
+      - 进化信仰之盾。
       - İnanç Kalkanı’nı geliştir.
       - Удоскональте щит віри.
       Flags: 00000000000000000000000000
@@ -2064,7 +2064,7 @@ MonoBehaviour:
       - Ulepsz Pięść Mocy.
       - Evolua o Punho de Força.
       - Усовершенствуйте силовой кулак.
-      - 进阶动力拳。
+      - 进化动力拳。
       - Güç Yumruğu’nu geliştir.
       - Удоскональте силовий кулак.
       Flags: 00000000000000000000000000
@@ -2082,7 +2082,7 @@ MonoBehaviour:
       - Ulepsz Potężny Pazur.
       - Evolua a Garra de Força.
       - Усовершенствуйте силовую клишню.
-      - 进阶动力爪。
+      - 进化动力爪。
       - Güç Pençesi’ni geliştir.
       - Удоскональте силову клешню.
       Flags: 00000000000000000000000000
@@ -2100,7 +2100,7 @@ MonoBehaviour:
       - Ulepsz Strzelbę Bojową.
       - Evolua a Espingarda de Combate.
       - Усовершенствуйте боевой дробовик.
-      - 进阶战斗霰弹枪。
+      - 进化战斗霰弹枪。
       - Savaş Pompalısı’nı geliştir.
       - Удоскональте бойову рушницю.
       Flags: 00000000000000000000000000
@@ -2118,7 +2118,7 @@ MonoBehaviour:
       - Ulepsz Mechaniczne Ugryzienie.
       - Evolua a Mordida Mecânica.
       - Усовершенствуйте механическую челюсть.
-      - 进阶机械啃咬。
+      - 进化机械啃咬。
       - Mekanik Isırık’ı geliştir.
       - Удоскональте механічну щелепу.
       Flags: 00000000000000000000000000
@@ -2136,7 +2136,7 @@ MonoBehaviour:
       - Ulepsz Rakietę Burzowego Orła.
       - Evolua o Foguete Storm Eagle.
       - Усовершенствуйте ракету «Грозовой орёл».
-      - 进阶风暴鹰火箭弹。
+      - 进化风暴鹰火箭弹。
       - Fırtına Kartalı Roketi’ni geliştir.
       - Удоскональте ракету «Штормовий орел».
       Flags: 00000000000000000000000000
@@ -2154,7 +2154,7 @@ MonoBehaviour:
       - Ulepsz Olej Nuln.
       - Evolua o Óleo de Nuln.
       - Усовершенствуйте нульнское масло.
-      - 进阶努恩油。
+      - 进化努恩油。
       - Nuln Oil’i geliştir.
       - Удоскональте нульнську оливу.
       Flags: 00000000000000000000000000
@@ -2172,7 +2172,7 @@ MonoBehaviour:
       - Ulepsz Kość k6.
       - Evolua o Dado D6.
       - Усовершенствуйте кубик D6.
-      - 进阶D6骰子。
+      - 进化D6骰子。
       - D6 Zarı’nı geliştir.
       - Удоскональте кубик К-6.
       Flags: 00000000000000000000000000
@@ -2180,7 +2180,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_TakeDamage}unlockName
       TermType: 0
       Languages:
-      - 'Take 250 damage. '
+      - Take 250 damage.
       - 'Subissez 250 points de dégâts. '
       - 'Subisci 250 danni. '
       - 'Erleide 250 Schaden. '
@@ -2208,7 +2208,7 @@ MonoBehaviour:
       - Posiadaj 2 towarzyszy.
       - Tenha 2 seguidores.
       - Привлеките 2 последователей.
-      - 拥有2名随从。
+      - 拥有2名随行人员。
       - 2 Takipçi elde et.
       - Залучіть 2 послідовників.
       Flags: 00000000000000000000000000
@@ -2216,7 +2216,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_DealDamage_TorGaradon}unlockName
       TermType: 0
       Languages:
-      - 'Deal a total of 10,000 damage with Captain Tor Garadon. '
+      - Deal a total of 10,000 damage with Captain Tor Garadon.
       - 'Infligez 10 000 points de dégâts avec le Capitaine Tor Garadon. '
       - 'Infliggi 10.000 danni in totale al Capitano Tor Garadon. '
       - 'Verursache mit Captain Tor Garadon insgesamt 10.000 Schaden. '
@@ -2244,7 +2244,7 @@ MonoBehaviour:
       - Posiadaj 5 towarzyszy.
       - Tenha 5 seguidores.
       - Привлеките 5 последователей.
-      - 拥有5名随从。
+      - 拥有5名随行人员。
       - 5 Takipçi elde et.
       - Залучіть 5 послідовників.
       Flags: 00000000000000000000000000
@@ -2270,7 +2270,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_Collect_Onslaught}unlockName
       TermType: 0
       Languages:
-      - 'Collect 5 Onslaught. '
+      - Collect 5 Onslaught.
       - 'Récupérez 5 assauts. '
       - 'Raccogli Assalto 5 volte. '
       - 'Sammle 5 Ansturm. '
@@ -2306,7 +2306,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_Collect_Magnet}unlockName
       TermType: 0
       Languages:
-      - 'Collect 3 Magnet pickups. '
+      - Collect 3 Magnet pickups.
       - 'Récupérez 3 aimants à ramasser. '
       - 'Raccogli 3 Magneti. '
       - 'Sammle 3 Magnete. '
@@ -2414,7 +2414,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_DealDamage}unlockName
       TermType: 0
       Languages:
-      - 'Deal a total of 10,000 damage. '
+      - Deal a total of 10,000 damage.
       - 'Infligez 10 000 points de dégâts. '
       - 'Infliggi 10.000 danni in totale. '
       - 'Verursache insgesamt 10.000 Schaden. '
@@ -2432,7 +2432,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_Collect_DaLuckyStikk}unlockName
       TermType: 0
       Languages:
-      - 'Use the Auspex to find Makari on Ork Stronghold. '
+      - Use the Auspex to find Makari on Ork Stronghold.
       - 'Utilisez l’Auspex pour trouver Makari dans la forteresse ork. '
       - 'Usa l''Auspex per trovare Makari nella Fortezza degli Orki. '
       - 'Nutze den Auspex, um Makari in „Orkfestung“ zu finden. '
@@ -2450,7 +2450,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_Collect_CodexAstartes}unlockName
       TermType: 0
       Languages:
-      - 'Use the Auspex to find the Codex Astartes in Death World Invasion. '
+      - Use the Auspex to find the Codex Astartes in Death World Invasion.
       - 'Utilisez l’Auspex pour trouver le Codex Astartes dans l’Invasion du monde hostile. '
       - 'Usa l''Auspex per trovare il Codex Astartes nell''Invasione del Mondo Assassino. '
       - 'Nutze den Auspex, um den Codex Astartes in „Invasion der Todeswelt“ zu finden. '
@@ -2478,7 +2478,7 @@ MonoBehaviour:
       - Posiadaj 8 towarzyszy.
       - Tenha 8 seguidores.
       - Привлеките 8 последователей.
-      - 拥有8名随从。
+      - 拥有8名随行人员。
       - 8 Takipçi elde et.
       - Залучіть 8 послідовників.
       Flags: 00000000000000000000000000
@@ -2540,7 +2540,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_Defeat_Enemies_InRun}unlockName
       TermType: 0
       Languages:
-      - 'Defeat 9,876 enemies in a single run.  '
+      - Defeat 9,876 enemies in a single run.
       - Battez 9 876 ennemis en une seule partie.
       - 'Sconfiggi 9.876 nemici in una singola partita.  '
       - 'Vernichte 9.876 Gegner in einem einzelnen Durchlauf.  '
@@ -2576,7 +2576,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_Collect_Currency_InRun_Small}unlockName
       TermType: 0
       Languages:
-      - 'Collect 1,000 coins in a single run.  '
+      - Collect 1,000 coins in a single run.
       - Récupérez 1 000 pièces en une seule partie.
       - 'Raccogli 1.000 monete in un''unica partita.  '
       - 'Sammle 1.000 Münzen in einem einzelnen Durchlauf.  '
@@ -2612,7 +2612,7 @@ MonoBehaviour:
     - Term: achievementLang/{WS_40K_ReachLevel_CommanderPask}unlockName
       TermType: 0
       Languages:
-      - 'Reach level 50 with Knight-Commander Pask. '
+      - Reach level 50 with Knight-Commander Pask.
       - 'Atteignez le niveau 50 avec le Chevalier-Commandeur Pask. '
       - 'Raggiungi il livello 50 con il Cavaliere-Comandante Pask. '
       - Erreiche Stufe 50 mit Ritter-Kommandant Pask.
@@ -2856,7 +2856,7 @@ MonoBehaviour:
       - Ulepsz Crozius Arcanum.
       - Evolua a Crozius Arcanum.
       - Усовершенствуйте крозиус арканум.
-      - 进阶克罗修斯法杖。
+      - 进化克罗修斯法杖。
       - Crozius Arcanum’u geliştir.
       - Удоскональте крозіус арканум.
       Flags: 00000000000000000000000000
@@ -2874,7 +2874,7 @@ MonoBehaviour:
       - Ulepsz Fidelis.
       - Evolua o Fidelis.
       - Усовершенствуйте Фиделис.
-      - 进阶忠贞。
+      - 进化忠贞。
       - Fidelis’i geliştir.
       - Удоскональте Фіделіс.
       Flags: 00000000000000000000000000
@@ -2892,7 +2892,7 @@ MonoBehaviour:
       - Ulepsz Włócznię Wiernych.
       - Evolua a Lança dos Fiéis.
       - Усовершенствуйте копьё верующих.
-      - 进阶信徒之矛。
+      - 进化信徒之矛。
       - İnançlıların Mızrağı’nı geliştir.
       - Удоскональте cпис Вірних.
       Flags: 00000000000000000000000000
@@ -2910,7 +2910,7 @@ MonoBehaviour:
       - Ulepsz Żarliwe Ostrze.
       - Evolua a Lâmina Ardente.
       - Усовершенствуйте пылкий клинок.
-      - 进阶热诚之刃。
+      - 进化热诚之刃。
       - Alevli Bıçak’ı geliştir.
       - Удоскональте палкий клинок.
       Flags: 00000000000000000000000000
@@ -2928,7 +2928,7 @@ MonoBehaviour:
       - Ulepsz Działo Bitewne.
       - Evolua o Canhão de Batalha.
       - Усовершенствуйте боевую пушку.
-      - 进阶战斗加农炮。
+      - 进化战斗加农炮。
       - Savaş Topu’nu geliştir.
       - Удоскональте бойову гармату.
       Flags: 00000000000000000000000000
@@ -5142,7 +5142,7 @@ MonoBehaviour:
       - Ulepsz broń.
       - Evolua uma Arma.
       - Усовершенствуйте оружие.
-      - 进阶一件武器。
+      - 进化一件武器。
       - Bir Silah geliştir.
       - Удоскональте будь-яку зброю.
       Flags: 00000000000000000000000000
@@ -5430,7 +5430,7 @@ MonoBehaviour:
       - Ulepsz Wielki Topór Burzy Ognia.
       - Evolua o Machado Grandioso da Tempestade de Fogo.
       - Усовершенствуйте двуручный топор Огненного Шторма.
-      - 进阶烈焰风暴巨斧。
+      - 进化烈焰风暴巨斧。
       - Ateşfırtınalı Büyük Balta’yı geliştir.
       - Удоскональте велику сокиру Вогнебурі.
       Flags: 00000000000000000000000000
@@ -5448,7 +5448,7 @@ MonoBehaviour:
       - Ulepsz Wielkie Ostrze.
       - Evolua a Grande Lâmina.
       - Усовершенствуйте великий клинок.
-      - 进阶巨剑。
+      - 进化巨剑。
       - Büyük Kılıç’ı geliştir.
       - Удоскональте великий клинок.
       Flags: 00000000000000000000000000
@@ -5484,7 +5484,7 @@ MonoBehaviour:
       - Ulepsz Pistolet Boltstorm.
       - Evolua a Pistola Boltstorm.
       - Усовершенствуйте штормболт-пистолет.
-      - 进阶爆矢风暴手枪。
+      - 进化爆矢风暴手枪。
       - Deşici Tabanca’yı geliştir.
       - Удоскональте пістолет «Гвинтова буря».
       Flags: 00000000000000000000000000
@@ -5502,7 +5502,7 @@ MonoBehaviour:
       - Ulepsz Pistolet Skałkowy.
       - Evolua a Pistola de Pederneira.
       - Усовершенствуйте кремневый пистолет.
-      - 进阶燧发手枪。
+      - 进化燧发手枪。
       - Çakmaklı Tabanca’yı geliştir.
       - Удоскональте кременевий пістоль.
       Flags: 00000000000000000000000000
@@ -5520,7 +5520,7 @@ MonoBehaviour:
       - Ulepsz Parę Pistoletów.
       - Evolua o Par de Pistolas.
       - Усовершенствуйте сдвоенные пистолеты.
-      - 进阶双枪齐发。
+      - 进化双枪齐发。
       - Tabanca Çifti’ni geliştir.
       - Удоскональте пару пістолів.
       Flags: 00000000000000000000000000
@@ -5538,7 +5538,7 @@ MonoBehaviour:
       - Ulepsz Migoczącą Morską Mgłę.
       - Evolua a Névoa Marinha Nebulosa.
       - Усовершенствуйте Туманное Марево.
-      - 进阶溟濛海雾。
+      - 进化溟濛海雾。
       - Sisli Deniz Pusu’nu geliştir.
       - Удоскональте Маревний морський серпанок.
       Flags: 00000000000000000000000000
@@ -5556,7 +5556,7 @@ MonoBehaviour:
       - Ulepsz Linę i Hak.
       - Evolua a Corda e Gancho.
       - Усовершенствуйте веревку с крюком.
-      - 进阶束缚钩爪。
+      - 进化束缚钩爪。
       - Halat ve Kıskaç’ı geliştir.
       - Удоскональте мотузку й гак.
       Flags: 00000000000000000000000000
@@ -5574,7 +5574,7 @@ MonoBehaviour:
       - Ulepsz Miecz Cyklonu.
       - Evolua a Espada Ciclone.
       - Усовершенствуйте циклонический меч.
-      - 进阶旋风之剑。
+      - 进化旋风之剑。
       - Siklon Kılıcı’nı geliştir.
       - Удоскональте меч циклону.
       Flags: 00000000000000000000000000
@@ -5592,7 +5592,7 @@ MonoBehaviour:
       - Ulepsz Mistyczną Barierę.
       - Evolua a Barreira Mística.
       - Усовершенствуйте мистический оберег.
-      - 进阶神秘屏障。
+      - 进化神秘屏障。
       - Mistik Muhafaza’yı geliştir.
       - Удоскональте містичний оберіг.
       Flags: 00000000000000000000000000
@@ -5610,7 +5610,7 @@ MonoBehaviour:
       - Ulepsz Dwuogoniastego Kota.
       - Evolua o Gato de Duas Caudas.
       - Усовершенствуйте Двухвостого Кота.
-      - 进阶双尾猫。
+      - 进化双尾猫。
       - Çift Kuyruklu Kedi’yi geliştir.
       - Удоскональте Двохвостого кота.
       Flags: 00000000000000000000000000
@@ -5628,7 +5628,7 @@ MonoBehaviour:
       - Ulepsz Burzowy Młot Bojowy.
       - Evolua o Martelo de Guerra Fulminante.
       - Усовершенствуйте штормовой боевой молот.
-      - 进阶风暴蓄能战锤。
+      - 进化风暴蓄能战锤。
       - Fırtına Yüklü Savaş Çekici’yi geliştir.
       - Удоскональте грозовий бойовий молот.
       Flags: 00000000000000000000000000
@@ -5646,7 +5646,7 @@ MonoBehaviour:
       - Ulepsz Uskavara Rozdzieracza.
       - Evolua Uskavar, o Arrasador
       - Усовершенствуйте Ускавар Раскалыватель.
-      - 进阶乌斯卡瓦·粉碎者。
+      - 进化乌斯卡瓦·粉碎者。
       - Parçalayıcı Uskuvar’ı geliştir.
       - Удоскональте Ускавара Розламника.
       Flags: 00000000000000000000000000
@@ -5664,7 +5664,7 @@ MonoBehaviour:
       - Ulepsz Olej Nuln.
       - Evolua o Óleo de Nuln.
       - Усовершенствуйте нульнское масло.
-      - 进阶努恩油。
+      - 进化努恩油。
       - Nuln Oil’i geliştir.
       - Удоскональте нульнську оливу.
       Flags: 00000000000000000000000000
@@ -5682,7 +5682,7 @@ MonoBehaviour:
       - Ulepsz Kość k6.
       - Evolua o Dado D6.
       - Усовершенствуйте кубик D6.
-      - 进阶D6骰子。
+      - 进化D6骰子。
       - D6 Zarı’nı geliştir.
       - Удоскональте кубик К-6.
       Flags: 00000000000000000000000000
@@ -5700,7 +5700,7 @@ MonoBehaviour:
       - Ulepsz Uskavara Rozdzieracza.
       - Evolua Uskavar, o Arrasador
       - Усовершенствуйте Ускавар Раскалыватель.
-      - 进阶乌斯卡瓦·粉碎者。
+      - 进化乌斯卡瓦·粉碎者。
       - Parçalayıcı Uskuvar’ı geliştir.
       - Удоскональте Ускавара Розламника.
       Flags: 00000000000000000000000000
@@ -5736,7 +5736,7 @@ MonoBehaviour:
       - Ulepsz Uskavara Rozdzieracza.
       - Evolua Uskavar, o Arrasador
       - Усовершенствуйте Ускавар Раскалыватель.
-      - 进阶乌斯卡瓦·粉碎者。
+      - 进化乌斯卡瓦·粉碎者。
       - Parçalayıcı Uskuvar’ı geliştir.
       - Удоскональте Ускавара Розламника.
       Flags: 00000000000000000000000000
@@ -5754,7 +5754,7 @@ MonoBehaviour:
       - Ulepsz Uskavara Rozdzieracza.
       - Evolua Uskavar, o Arrasador
       - Усовершенствуйте Ускавар Раскалыватель.
-      - 进阶乌斯卡瓦·粉碎者。
+      - 进化乌斯卡瓦·粉碎者。
       - Parçalayıcı Uskuvar’ı geliştir.
       - Удоскональте Ускавара Розламника.
       Flags: 00000000000000000000000000
@@ -5772,7 +5772,7 @@ MonoBehaviour:
       - Ulepsz Topory Burzowe.
       - Evolua os Machados da Tempestade
       - Усовершенствуйте топоры бури.
-      - 进阶风暴战斧。
+      - 进化风暴战斧。
       - Fırtına Baltaları’nı geliştir.
       - Удоскональте сокири бурі.
       Flags: 00000000000000000000000000
@@ -5808,7 +5808,7 @@ MonoBehaviour:
       - Posiadaj 2 towarzyszy.
       - Tenha 2 seguidores.
       - Привлеките 2 последователей.
-      - 拥有2名随从。
+      - 拥有2名随行人员。
       - 2 Takipçi elde et.
       - Залучіть 2 послідовників.
       Flags: 00000000000000000000000000
@@ -5844,7 +5844,7 @@ MonoBehaviour:
       - Posiadaj 5 towarzyszy.
       - Tenha 5 seguidores.
       - Привлеките 5 последователей.
-      - 拥有5名随从。
+      - 拥有5名随行人员。
       - 5 Takipçi elde et.
       - Залучіть 5 послідовників.
       Flags: 00000000000000000000000000
@@ -6114,7 +6114,7 @@ MonoBehaviour:
       - Ulepsz Zatrute Noże do Rzucania.
       - Evolua as Facas de Arremesso Envenenadas.
       - Усовершенствуйте отравленные метательные ножи.
-      - 进阶淬毒飞刃。
+      - 进化淬毒飞刃。
       - Zehirli Fırlatma Bıçakları’nı geliştir.
       - Удоскональте отруєні метальні ножі.
       Flags: 00000000000000000000000000
@@ -6150,7 +6150,7 @@ MonoBehaviour:
       - Miej jednocześnie 6 ulepszonych broni w dowolnym uniwersum.
       - Tenha 6 Armas Evoluídas ao mesmo tempo em qualquer Universo.
       - Соберите 6 видов усовершенствованного оружия одновременно в любой из вселенных.
-      - 在任意宇宙中同时持有6件进阶版武器。
+      - 在任意宇宙中同时持有6件进化版武器。
       - Herhangi bir Evrende aynı anda 6 Evrimleşmiş Silah’a sahip ol.
       - Удоскональте 6 одиниць зброї в будь-якому з Усесвітів.
       Flags: 00000000000000000000000000
@@ -6168,7 +6168,7 @@ MonoBehaviour:
       - Ulepsz dowolną broń w dowolnym uniwersum.
       - Evolua qualquer arma em qualquer Universo.
       - Усовершенствуйте любое оружие в любой вселенной.
-      - 在任意宇宙中进阶任意武器。
+      - 在任意宇宙中进化任意武器。
       - Herhangi bir Evrende bir Silah geliştir.
       - Удоскональте будь-яку зброю в будь-якому з Усесвітів.
       Flags: 00000000000000000000000000
@@ -6276,7 +6276,7 @@ MonoBehaviour:
       - Pokonaj 10 000 Tyranidów postacią Ultramarine.
       - Derrote 10.000 Tiranídeos com um personagem dos Ultramarinos.
       - Уничтожьте 10 000 тиранидов, играя за одного из Ультрамаринов.
-      - 使用一名极限战士角色击败10,000只泰伦虫族。
+      - 以一名极限战士角色的身份击败10,000只泰伦虫族。
       - Ultramarines karakteriyle 10.000 Tiranid’i yen.
       - Здолайте 10 000 тиранідів представником ультрамаринів.
       Flags: 00000000000000000000000000
@@ -6330,7 +6330,7 @@ MonoBehaviour:
       - Pokonaj 10 000 wrogów z Ostrzy Khorne’a postacią z Córek Khaine’a.
       - Derrote 10.000 inimigos das Lâminas de Khorne com uma personagem das Filhas de Khaine.
       - Уничтожьте 10 000 Клинков Кхорна, играя за одну из Дочерей Кхаина.
-      - 使用一名凯恩之女阵营角色击败10,000只恐虐之刃。
+      - 以一名凯恩之女阵营角色的身份击败10,000只恐虐之刃。
       - Daughters of Khaine karakteriyle 10.000 Khorne Kılıçları düşmanını yen.
       - Здолайте 10 000 клинків Хорна однією з доньок Хайна.
       Flags: 00000000000000000000000000
@@ -6338,19 +6338,19 @@ MonoBehaviour:
     - Term: achievementLang/{WS_Shared_Defeat_Enemies_D6Dice}unlockName
       TermType: 0
       Languages:
-      - Defeat 100,000 enemies with the D6 Dice.
-      - Battez 100 000 ennemis avec les dés D6.
-      - Sconfiggi 100.000 nemici con il Dado D6.
-      - Vernichte 100.000 Gegner mit dem W6-Würfel.
-      - Derrota a 100.000 enemigos con el dado D6.
-      - D6ダイスで敵100,000体を倒す。
-      - D6 주사위로 적 100,000마리를 처치하세요.
-      - Pokonaj 100 000 wrogów za pomocą Kości k6.
-      - Derrote 100.000 inimigos com o Dado D6.
-      - Уничтожьте 100 000 врагов с помощью кубика D6.
-      - 使用D6骰子击败100,000名敌人。
-      - D6 Zarı ile 100.000 düşmanı yen.
-      - Здолайте 100 000 ворогів кубиком К-6.
+      - Defeat 10,000 enemies with the D6 Dice.
+      - Battez 10 000 ennemis avec les dés D6.
+      - Sconfiggi 10.000 nemici con il Dado D6.
+      - Vernichte 10.000 Gegner mit dem W6-Würfel.
+      - Derrota a 10.000 enemigos con el dado D6.
+      - D6ダイスで敵10,000体を倒す。
+      - D6 주사위로 적 10,000마리를 처치하세요.
+      - Pokonaj 10 000 wrogów za pomocą Kości k6.
+      - Derrote 10.000 inimigos com o Dado D6.
+      - Уничтожьте 10 000 врагов с помощью кубика D6.
+      - 使用D6骰子击败10,000名敌人。
+      - D6 Zarı ile 10.000 düşmanı yen.
+      - Здолайте 10 000 ворогів кубиком К-6.
       Flags: 00000000000000000000000000
       Languages_Touch: []
     - Term: achievementLang/{WS_Shared_Defeat_Carnifex_Daedalosus}unlockName
@@ -6374,19 +6374,19 @@ MonoBehaviour:
     - Term: achievementLang/{WS_Shared_Defeat_Enemies_NulnOil}unlockName
       TermType: 0
       Languages:
-      - Defeat 100,000 enemies with Nuln Oil.
-      - Battez 100 000 ennemis avec l’huile de Nuln.
-      - Sconfiggi 100.000 nemici con Nuln Oil.
-      - Vernichte 100.000 Gegner mit Nuln Oil.
-      - Derrota a 100.000 enemigos con aceite de Nuln.
-      - ナルンオイルの敵100,000体を倒す。
-      - 눌른 오일로 적 100,000마리를 처치하세요.
-      - Pokonaj 100 000 wrogów za pomocą Oleju Nuln.
-      - Derrote 100.000 inimigos com o Óleo de Nuln.
-      - Уничтожьте 100 000 врагов с помощью нульнского масла.
-      - 使用努恩油击败100,000名敌人。
-      - Nuln Oil ile 100.000 düşmanı yen.
-      - Здолайте 100 000 ворогів нульнською оливою.
+      - Defeat 10,000 enemies with Nuln Oil.
+      - Battez 10 000 ennemis avec l’huile de Nuln.
+      - Sconfiggi 10.000 nemici con Nuln Oil.
+      - Vernichte 10.000 Gegner mit Nuln Oil.
+      - Derrota a 10.000 enemigos con aceite de Nuln.
+      - ナルンオイルの敵10,000体を倒す。
+      - 눌른 오일로 적 10,000마리를 처치하세요.
+      - Pokonaj 10 000 wrogów za pomocą Oleju Nuln.
+      - Derrote 10.000 inimigos com o Óleo de Nuln.
+      - Уничтожьте 10 000 врагов с помощью нульнского масла.
+      - 使用努恩油击败10,000名敌人。
+      - Nuln Oil ile 10.000 düşmanı yen.
+      - Здолайте 10 000 ворогів нульнською оливою.
       Flags: 00000000000000000000000000
       Languages_Touch: []
     - Term: achievementLang/{WS_Shared_Defeat_PlagueFurnace_Gotrek}unlockName
@@ -6708,7 +6708,7 @@ MonoBehaviour:
       - Zwiększa szansę na znalezienie przedmiotu do zebrania z Collectathon. Uruchamia Collectathon przy krytycznym poziomie pkt. życia raz na {[REDEPLOYMENT]}. Każde zebranie waluty ma szansę uleczyć Cię lub zwiększyć {[CORRUPTION]}.
       - Aumenta a chance de encontrar um item do Collectathon. Aciona um Collectathon quando a vida estiver crítica, uma vez por {[REDEPLOYMENT]}. Qualquer moeda coletada tem chance de curar ou aumentar a {[CORRUPTION]}.
       - Повышает шанс найти подбираемый предмет для Коллектатона. Запускает Коллектатон при критическом уровне ОЗ один раз за {[REDEPLOYMENT]}. Любая собранная валюта имеет шанс исцелить или же увеличить параметр {[CORRUPTION]}.
-      - 提高找到“收集大作战”掉落物的几率。当生命值极低时，每次{[REDEPLOYMENT]}可触发一次“收集大作战”。收集的任何货币都有几率恢复生命值或增加{[CORRUPTION]}。
+      - 提高“收集大作战”掉落物的出现几率。当处于低血量时，每次{[REDEPLOYMENT]}可触发一次“收集大作战”。收集任意货币均有几率恢复生命值或增加{[CORRUPTION]}。
       - Collectathon toplanabilir nesnesi bulma şansını artırır. Kritik Can durumunda, her {[REDEPLOYMENT]} başına bir Collectathon’u tetikler. Toplanan herhangi bir para biriminin iyileştirme veya {[CORRUPTION]} artırma şansı vardır.
       - Збільшує шанс знайти колектатон. Активує колектатон, коли показник ОЗ падає критично низько ({[REDEPLOYMENT]} дозволяє зробити це повторно). Будь-яка зібрана валюта може зцілити вас або посилиться {[CORRUPTION]}.
       Flags: 00000000000000000000000000
@@ -6744,7 +6744,7 @@ MonoBehaviour:
       - '{[REROLL]} +5. {[VETERANCY]} +10% i {[RELOAD]} -5% za każdego towarzysza. Głośniki Laudacyjne są łatwiejsze do znalezienia.'
       - Concede +5 {[REROLL]}s. Concede +10% de {[VETERANCY]} e -5% de {[RELOAD]} por cada seguidor. Os Alto Faladores ficam mais fáceis de encontrar.
       - Дает +5 навыков {[REROLL]}. Дает +10% к параметру {[VETERANCY]} и отнимает –5% от параметра {[RELOAD]} за каждого последователя. Легче найти громкославители.
-      - +5次{[REROLL]}。每拥有一名随从，+10%{[VETERANCY]}，同时-5%{[RELOAD]}。更容易找到颂歌。
+      - +5次{[REROLL]}。每拥有一名随行人员，+10%{[VETERANCY]}，同时-5%{[RELOAD]}。更容易找到颂歌。
       - +5 {[REROLL]} verir. Her bir takipçi için +%10 {[VETERANCY]} ve -%5 {[RELOAD]} verir. İlahi Hoparlörleri daha kolay bulunur.
       - '{[REROLL]} +5. {[VETERANCY]} + 10% і {[RELOAD]} -5% за кожного послідовника. Легше знайти гучномовець.'
       Flags: 00000000000000000000000000
@@ -6996,7 +6996,7 @@ MonoBehaviour:
       - Zwiększa szansę na znalezienie przedmiotu do zebrania z Collectathon. {[TITHE]} +25%. Waluta Cię leczy. Przedmioty leczące zamiast leczyć dają walutę. Jeśli przez 1 minutę nie podniesiesz żadnej waluty, otrzymasz efekt statusu Krwawienie.
       - Aumenta a chance de encontrar um item do Collectathon. +25% de {[TITHE]}. Moedas curam você. Os itens de cura concedem moedas em vez de cura. Você recebe o efeito de estado “Sangramento” se não coletar nenhuma moeda por 1 minuto.
       - Повышает шанс найти предмет для Коллектатона. +25% к параметру {[TITHE]}. Валюта исцеляет вас. Подбираемые предметы для исцеления дают валюту, а не исцеляют. Если в течение 1 минуты вы не найдете никакой валюты, то получите статусный эффект «Кровотечение».
-      - 提高找到“收集大作战”掉落物的几率。+25%{[TITHE]}。货币可恢复生命值。治疗类掉落物将不再提供治疗效果，转而给予货币。如果1分钟内未拾取任何货币，将获得流血状态效果。
+      - 提高“收集大作战”掉落物的出现几率。+25%{[TITHE]}。货币可恢复生命值。治疗类掉落物将不再提供治疗效果，转而给予货币。如果1分钟内未拾取任何货币，将获得流血状态效果。
       - Collectathon toplanabilir nesnesi bulma şansını +%25 {[TITHE]} artırır. Para birimi seni iyileştirir. İyileştirme nesneleri, iyileştirme yerine para birimi verir. 1 dakika boyunca hiç para birimi toplamazsan Kanama durumu etkisi kazanırsın.
       - Збільшує шанс знайти колектатон. {[TITHE]} +25%. Валюта зцілює вас. Зцілювальні бонуси приносять валюту замість того, аби зцілити. Ви страждатиме від кровотечі, якщо протягом 1 хвилини не підберете жодної валюти.
       Flags: 00000000000000000000000000
@@ -7104,7 +7104,7 @@ MonoBehaviour:
       - 'Ataki przeciwko Skavenom mają szansę zadać podwójne obrażenia. Tworzy Nieskończone Zaklęcie i zwiększa {[SUSTAIN]} co minutę. Nieskończone Zaklęcia są łatwiejsze do znalezienia. Nieskończone Zaklęcia mogą aktywować się ponownie po wygaśnięciu. '
       - 'Ataques contra inimigos Skaven têm chance de causar o dobro de dano. Gera um Feitiço Infinito e aumenta {[SUSTAIN]} a cada minuto. Feitiços Infinitos ficam mais fáceis de encontrar. Os Feitiços Infinitos podem ser ativados uma segunda vez após expirarem. '
       - 'Атаки на врагов-скавенов имеют шанс нанести двойной урон. Создает бесконечное заклинание и увеличивает параметр {[SUSTAIN]} каждую минуту. Легче найти бесконечные заклинания. Бесконечные заклинания могут активироваться во второй раз после истечения срока их действия. '
-      - '攻击斯卡文鼠人敌人时有几率造成双倍伤害。生成一个无尽法术并每分钟增加{[SUSTAIN]}。更容易找到无尽法术。无尽法术在失效后有几率再次触发。 '
+      - '对敌人斯卡文鼠人发动攻击时有几率造成双倍伤害。每分钟召唤一个无尽法术，并增加{[SUSTAIN]}。召唤无尽法术的几率提升。无尽法术在失效后有几率再次触发。 '
       - 'Skaven düşmanlarına karşı yapılan saldırılar, çift hasar verme şansına sahiptir. Her dakika, bir Sonsuz Büyü ortaya çıkar ve {[SUSTAIN]} artırır. Sonsuz Büyü’leri bulmak daha kolaydır. Sonsuz Büyüler’in süresi dolduktan sonra ikinci kez tetiklenebilirler. '
       - 'Атаки по скейвенам мають шанс завдати подвійної шкоди. Створює нескінченне закляття й посилює {[SUSTAIN]} кожну хвилину. Полегшує знаходження нескінченних заклять. Після закінчення дії нескінченного закляття є ймовірність, що воно активується знову. '
       Flags: 00000000000000000000000000
@@ -7140,7 +7140,7 @@ MonoBehaviour:
       - '{[REROLL]}, {[SKIP]} i {[BANISH]} +2. {[SUSTAIN]} i {[STRENGTH]} zwiększają się. Premie te są zmniejszane za każdego posiadanego towarzysza. Przy krytycznym poziomie pkt. życia wszyscy wrogowie wpadają w Szok Bitewny, a Ty zyskujesz efekt statusu Przyspieszenie na 10 s. '
       - 'Ganhe +2 {[REROLL]}, {[SKIP]} e {[BANISH]}. Aumenta {[SUSTAIN]} e {[STRENGTH]}. Os aumentos são reduzidos para cada seguidor que você tiver. Com feridas críticas, todos os inimigos ficam em estado de Choque de Batalha e você fica com o efeito Acelerado por 10 segundos. '
       - 'Получите +2 к параметрам {[REROLL]}, {[SKIP]} и {[BANISH]}. {[SUSTAIN]} и {[STRENGTH]} повышаются. Уровень повышения снижается за каждого вашего последователя. При критическом уровне ран все враги впадают в состояние боевого шока, а вы ускоряетесь на 10 секунд. '
-      - '+2{[REROLL]}、{[SKIP]}和{[BANISH]}。{[SUSTAIN]}和{[STRENGTH]}获得提升。这些增益会因随从数量增加而递减。承伤值低于临界点时，所有敌人陷入战斗休克状态，而你将获得10秒的加速状态。 '
+      - '+2{[REROLL]}、{[SKIP]}和{[BANISH]}。{[SUSTAIN]}和{[STRENGTH]}获得提升。这些增益会因随行人员数量增加而递减。耐伤值低于临界点时，所有敌人陷入战斗休克状态，而你将获得10秒的加速状态。 '
       - '+2 {[REROLL]}, {[SKIP]} ve {[BANISH]} kazanırsın. {[SUSTAIN]} ve {[STRENGTH]} artar. Bu artışlar, sahip olduğun her takipçi için azalır. Kritik yaralanma durumunda tüm düşmanlar, Savaş Şokuna Girmiş olur ve sen de 10 saniye boyunca Hızlanmış olursun. '
       - '{[REROLL]}, {[SKIP]} і {[BANISH]} +2. Збільшені {[SUSTAIN]} і {[STRENGTH]}. Ці посилення послаблюються за кожного вашого послідовника. Коли ви зазнаєте критичних ушкоджень, усі вороги навколо впадуть у стан бойового шоку, а ви отримаєте поспіх на 10 секунд. '
       Flags: 00000000000000000000000000
@@ -7202,7 +7202,7 @@ MonoBehaviour:
     - Term: arcanaLang/{6007}description
       TermType: 0
       Languages:
-      - Healing is doubled. You are immune to Bleeding, Burning, Cursed, Poisoned, Slowed, Stunned, and Vulnerable status effects. Gain additional {[WOUNDS]}, {[TOUGHNESS]} and {[CORRUPTION]} every level. All enemy bosses have the Healing status effect
+      - Healing is doubled. You are immune to Bleeding, Burning, Cursed, Poisoned, Slowed, Stunned, and Vulnerable status effects. Gain additional {[WOUNDS]}, {[TOUGHNESS]} and {[CORRUPTION]} every level. All enemy bosses have the Healing status effect.
       - 'Les soins sont doublés. Vous bénéficiez d’une immunité contre les effets de statut suivants : Saignement, Brûlure, Malédiction, Empoisonnement, Ralentissement, Étourdissement et Vulnérabilité. Vous obtenez {[WOUNDS]}, {[TOUGHNESS]} et {[CORRUPTION]} en supplément à chaque niveau. Tous les boss ennemis disposent de l’effet de statut Guérison.'
       - La Guarigione viene raddoppiata. Sei immune agli effetti di stato Sanguinamento, Ustione, Maledetto, Avvelenato, Rallentato, Stordito e Vulnerabile. Ricevi {[WOUNDS]}, {[TOUGHNESS]} e {[CORRUPTION]} aggiuntivi a ogni livello. Tutti i boss nemici hanno l'effetto di stato Guarigione.
       - Heilung ist doppelt so effektiv. Du bist immun gegen die Statuseffekte Blutend, Brennend, Verflucht, Vergiftet, Verlangsamt, Betäubt und Verwundbar. Erhalte pro Stufe zusätzlich {[WOUNDS]}, {[TOUGHNESS]} und {[CORRUPTION]}. Alle gegnerischen Bosse erhalten den Statuseffekt Heilung.
@@ -7210,10 +7210,10 @@ MonoBehaviour:
       - 回復量が2倍になる。出血・燃焼・呪い・毒・スロウ・スタン・脆弱状態のすべてに対して耐性を得る。レベルごとに{[WOUNDS]}、{[TOUGHNESS]}、{[CORRUPTION]}を追加で獲得する。すべての敵ボスは回復状態になる。
       - 회복량이 두 배로 증가합니다. 출혈, 화상, 저주, 중독, 둔화, 기절, 취약 상태 효과에 면역이 됩니다. 레벨이 오를 때마다 {[WOUNDS]}, {[TOUGHNESS]}, {[CORRUPTION]}이(가) 증가합니다. 모든 적 보스에게 회복 상태 효과가 적용됩니다.
       - Leczenie jest podwojone. Zyskujesz odporność na efekty Krwawienia, Podpalenia, Przekleństwa, Zatrucia, Spowolnienia, Ogłuszenia i Wrażliwości. Z każdym poziomem zyskujesz dodatkowo {[WOUNDS]}, {[TOUGHNESS]} i {[CORRUPTION]}. Wszyscy bossowie otrzymują efekt Leczenia.
-      - A cura é dobrada. Você fica imune aos efeitos de estado Sangramento, Queimadura, Maldição, Envenenamento, Desaceleração, Atordoamento e Vulnerabilidade. Ganhe {[WOUNDS]}, {[TOUGHNESS]} e {[CORRUPTION]} adicionais a cada nível. Todos os chefões inimigos têm o efeito de estado “Cura”
+      - A cura é dobrada. Você fica imune aos efeitos de estado Sangramento, Queimadura, Maldição, Envenenamento, Desaceleração, Atordoamento e Vulnerabilidade. Ganhe {[WOUNDS]}, {[TOUGHNESS]} e {[CORRUPTION]} adicionais a cada nível. Todos os chefões inimigos têm o efeito de estado “Cura”.
       - Исцеление удваивается. Вы становитесь невосприимчивы к статусным эффектам Кровотечение, Горение, Проклятие, Отравление, Замедление, Оглушение и Уязвимость. Дополнительные {[WOUNDS]}, {[TOUGHNESS]} и {[CORRUPTION]} с каждым новым уровнем. Все вражеские боссы имеют статусный эффект Исцеление.
       - 治疗效果翻倍。免疫流血、燃烧、诅咒、中毒、减速、眩晕和脆弱状态效果。每升一级，获得额外的{[WOUNDS]}、{[TOUGHNESS]}和{[CORRUPTION]}加成。所有敌方首领均获得治疗状态效果。
-      - İyileştirme iki katına çıkar. Kanama, Yanma, Lanetli, Zehirli, Yavaşlatma, Sersemletme ve Savunmasızlık durum etkilerine karşı bağışıklık sahibisin. Her seviyede ek olarak {[WOUNDS]}, {[TOUGHNESS]} ve {[CORRUPTION]} kazanırsın. Tüm düşman patronları, İyiliştirme durum etkilerine sahiptir
+      - İyileştirme iki katına çıkar. Kanama, Yanma, Lanetli, Zehirli, Yavaşlatma, Sersemletme ve Savunmasızlık durum etkilerine karşı bağışıklık sahibisin. Her seviyede ek olarak {[WOUNDS]}, {[TOUGHNESS]} ve {[CORRUPTION]} kazanırsın. Tüm düşman patronları, İyiliştirme durum etkilerine sahiptir.
       - 'Зцілення подвоєно. Ви отримуєте імунітет від кровотечі, загоряння, прокляття, отруєння, сповільнення, приголомшення і вразливості. Такі показники зростають кожного рівня: {[WOUNDS]}, {[TOUGHNESS]} і {[CORRUPTION]}. Усі ворожі боси отримують ефект зцілення.'
       Flags: 00000000000000000000000000
       Languages_Touch: []
@@ -10154,7 +10154,7 @@ MonoBehaviour:
     - Term: characterLang/{WS_AOS_MAJOR_DOCHEVAL}descriptionOld
       TermType: 0
       Languages:
-      - Starts with +100 {[WOUNDS]}, -20% {[MOVE]} speed, +10% {[STRENGTH]} , +10% {[SKILL]}, +1 {[SAVE]}. Gains extra {[STRENGTH]} per {[SAVE]} increase.
+      - Starts with +100 {[WOUNDS]}, -20% {[MOVE]} speed, +10% {[STRENGTH]}, +10% {[SKILL]}, +1 {[SAVE]}. Gains extra {[STRENGTH]} per {[SAVE]} increase.
       - Commence avec +100 {[WOUNDS]}, -20 % de vitesse de {[MOVE]}, +10 % de {[STRENGTH]}, +10 % de {[SKILL]}, +1 {[SAVE]}. Obtient plus de {[STRENGTH]} par augmentation de {[SAVE]}.
       - Inizia con +100 {[WOUNDS]}, -20% velocità di {[MOVE]}, +10% {[STRENGTH]}, +10% {[SKILL]}, +1 {[SAVE]}. Ottiene {[STRENGTH]} extra ogni volta che aumenta il {[SAVE]}.
       - Beginnt mit +100 {[WOUNDS]}, -20 % {[MOVE]} Geschwindigkeit, +10 % {[STRENGTH]} , +10 % {[SKILL]}, +1 {[SAVE]}. Erhält zusätzlich {[STRENGTH]}, wenn {[SAVE]} erhöht wird.
@@ -11334,7 +11334,7 @@ MonoBehaviour:
       - Verentia
       - Verentia
       - Верентия
-      - 维伦蒂亚
+      - 夫人
       - Verentia
       - Верентія
       Flags: 00000000000000000000000000
@@ -11370,7 +11370,7 @@ MonoBehaviour:
       - Mistrzyni
       - Senhora
       - Госпожа
-      - 夫人
+      - 维伦蒂亚
       - Hanım
       - Володарка
       Flags: 00000000000000000000000000
@@ -12216,7 +12216,7 @@ MonoBehaviour:
       - Orkowe Chopaki to liczni wojownicy stanowiący trzon armii orków. Występują w wielu odmianach, które niewiele się od siebie różnią. Ork może być jednocześnie Szczelcem, Tfardzielem i Wozakiem. Na polu bitwy najczęściej spotkasz Rembaków, ale jeśli dakka będzie wystarczająco głośna i efektowna, z radością będą strzelać, by móc zmniejszyć dystans i rzucić się na ciebie ze swoimi zielonymi pięściami.
       - Os Rapaziz Ork formam o grosso dos exércitos Ork. Há vários tipos, mas pouco impede que um mesmo Ork carregue uma Bazuka, seja um Rapaiz Durão e de Kaminhão ao mesmo tempo. Em batalha, é mais provável que você encontre os Rapaziz fatiadores. Se você fizer barulho e for espalhafatoso, os Rapaziz vão partir para cima.
       - Орочьи парни – это многочисленные воины, которые составляют костяк армии орков. Существует много видов парней, но они не сильно отличаются друг от друга. Орк может быть стрелялой, крепышом и водилой тачилы одновременно. В бою чаще всего встречаются парни с рубилами, но если дакка достаточно громкая и блестящая, они с радостью будут палить по вам, пока сокращают дистанцию, чтобы добраться до вас своими зелеными кулаками.
-      - 蛮人小子是构成欧克蛮人大军中坚力量的众多战士。小子们的种类繁多，但彼此之间没有太大的区别。一个欧克蛮人可以同时是射枪小子、铁皮小子和卡车小子。在战场上，你最有可能遇到的是砍刀小子，不过，要是他们觉着哒咔弹的动静够大、光效也够炫目，他们也会很高兴地一边开枪射你一边迅速逼近，准备用他们那绿色的拳头好好揍你一顿。
+      - 蛮人小子是构成欧克蛮人大军中坚力量的众多战士。小子们的种类繁多，但彼此之间没有太大的区别。一个欧克蛮人可以同时是射枪小子、铁皮小子和卡车小子。在战场上，你最有可能遇到的是砍刀小子，不过，要是他们觉得哒咔弹的动静够大、光效也够炫目，他们也会很高兴地一边开枪射你一边迅速逼近，准备用他们那绿色的拳头好好揍你一顿。
       - Ork Erleri, Ork ordularının bel kemiğini oluşturan kalabalık bir savaşçı topluluğudur. Sürüsüyle Er türü vardır ve aralarındaki ayrım pek belirgin değildir. Bir Ork aynı anda bir Tarangaççı, bir Sert Er ve bir Kamyoncu Er olabilir. Savaşta en sık karşılaşacağın tür ise Tarangaç Erleridir. Bunlar; temel bir Patlangaç ya da Doğrangaç yerine, bir Tarangaç kuşanmış Erlerdir.
       - Орчі парубки — численні воїни, що становлять основу орчих армій. Існує багато видів парубків, і різниця між ними вкрай розмита. Орк може водночас бути стрілялом, кремезним парубком чи тачкопарубком. У бою ви найчастіше натрплятимете на парубків, які орудують стрілялами замість звичайних пулял і рубил.
       Flags: 00000000000000000000000000
@@ -12648,7 +12648,7 @@ MonoBehaviour:
       - Te brutalne bioformy zrodzone przez Królową Norn posiadają jedynie wiedzę niezbędną do wykonania swojej misji – zabicia ciebie. Te szczytowe drapieżniki łączą przerażający, psioniczny potencjał Umysłu Róju z szybkością, inteligencją i siłą, jakich nie spotyka się wśród zwykłych tyranidów. Jeśli chcesz przeżyć spotkanie z tą ohydną istotą, jedyną rozsądną opcją jest ucieczka.
       - 'Nascidas da Rainha Norn, essas formas de vida brutais possuem apenas o conhecimento necessário para cumprir sua missão: matar você. Esses predadores de ponta combinam o aterrorizante potencial psiônico da Mente da Colmeia com uma velocidade, inteligência e força que não se encontram nas fileiras dos Tiranídeos. Fugir é a única opção sensata, caso deseje sobreviver ao seu encontro com essa monstruosidade.'
       - 'Эти жестокие биоформы, порожденные норн-королевой, знают ровно столько, чтобы выполнить свою миссию – убить вас. В этих хищниках высшего порядка сочетаются качества, которых нет у рядовых тиранидов: устрашающий псионический потенциал Разума улья, скорость, интеллект и сила. Бегство при встрече с этим чудовищем – единственный разумный вариант, если хотите выжить.'
-      - 这些由诺恩女王孕育而生的野蛮生物形态，仅被灌输了完成使命所需的知识——他们的使命便是杀死你。这些顶级掠食者将虫巢意志那骇人的灵能潜力，与泰伦虫族普通个体所不具备的速度、智力和力量融为一体。若想在遭遇这等可怖造物后幸存，逃离是唯一明智的选择。
+      - 这些由诺恩女王孕育而生的野蛮生物，仅被灌输了完成使命所需的知识——他们的使命便是杀死你。这些顶级掠食者将虫巢意志那骇人的灵能潜力，与泰伦虫族普通个体所不具备的速度、智力和力量融为一体。若想在遭遇这等可怖造物后幸存，逃跑是唯一明智的选择。
       - 'Norn Kraliçesi''nden doğan bu vahşi biyoforlar, yalnızca görevlerini tamamlamak için ihtiyaç duydukları bilgiyle donatılmışlardır: seni öldürmek. Bu alfa yırtıcılar, Kovan Zihni''nin dehşet verici psiyonik potansiyelini, Tiranid’lerin sıradan askerlerinde görülmeyen bir hız, zekâ ve güçle birleştirir. Bu canavarla karşılaşmandan sağ çıkmak istiyorsan kaçmak tek mantıklı seçenektir.'
       - Ці жорстокі біоформи народжуються від норнської Королеви й наділені лише знаннями, необхідними для виконання їхньої місії — убити вас. Ці хижаки з верхівки харчового ланцюга поєднують страхітливий псіонічний потенціал колективного розуму зі швидкістю, розумом і силою, яких не знайти серед рядових тиранідів. Якщо хочете пережити зустріч із цією потворою, єдиний розумний варіант — тікати.
       Flags: 00000000000000000000000000
@@ -12684,7 +12684,7 @@ MonoBehaviour:
       - Monstrualne bryły chitynowego pancerza przetaczają się przez pole bitwy, a wystrzeliwane w ich stronę pociski zaczynają rykoszetować. Nawet najpotężniejsza broń niewiele znaczy przeciwko najgroźniejszym bestiom Floty-Roju, gdy przedzierają się przez pole walki, z przerażającą łatwością miażdżąc twoich sojuszników.
       - Massas colossais de quitina avançam pelo campo de batalha, ricocheteando disparos. Nem mesmo as armas mais pesadas conseguem conter as criaturas mais letais da Frota da Colmeia, que devastam o campo de batalha, esmagando seus aliados com uma facilidade assustadora.
       - Горы из хитиновой брони штурмуют поле боя, а ваше оружие внезапно рикошетит. Даже тяжелые пушки мало помогают против самых смертоносных существ флота-улья, которые прорезают поле боя и с легкостью крушат ваших союзников.
-      - 当如山峦般高耸的壳质装甲巨兽冲入战场，你的武器攻击竟被骤然弹开。即便是最重型的武器也难伤其分毫——这些虫巢舰队中最致命的生物在战场上肆虐，毫不费力地碾碎你的盟友，着实令人胆寒。
+      - 当如山峦般高耸的壳质装甲巨兽冲入战场，你的武器攻击竟被硬生生的弹开，连最重型的武器也难伤其分毫。这些虫巢舰队中最致命的生物在战场上横冲直撞，而你只能眼睁睁看着它们不费吹灰之力便碾碎你的盟友。
       - Kabuksu zırhların devasa kütleleri savaş alanına hücum eder ve bir anda silahların hedefinden seker. En ağır silahlarının bile, savaş alanını kasıp kavururken müttefiklerini dehşet verici bir kolaylıkla ezip geçen Kovan Filosu'nun ölümcül yaratıklarına karşı pek bir etkisi yoktur.
       - Сила-силенна хітинових панцирів суне на поле бою — і раптом ваша зброя починає рикошетити. Навіть найважча зброя майже безсила проти найсмертоносніших створінь ройового флоту, коли вони несуться полем бою й із страхітливою легкістю нищать ваших союзників.
       Flags: 00000000000000000000000000
@@ -12720,7 +12720,7 @@ MonoBehaviour:
       - Tyrani Roju realizują wolę Umysłu Roju na polu bitwy jako potężni dowódcy rojów Tyranidów. Każda część ich ciała została doskonale ukształtowana do okaleczania, zabijania i pożerania – oraz do kierowania niższymi formami życia w takim samym celu.
       - Os Tiranos da Colmeia executam a vontade da Mente da Colmeia no campo de batalha, atuando como os gigantescos comandantes do enxame tiranídeo. Cada parte de seu corpo é perfeitamente esculpida para mutilar, matar e consumir, além de orientar as formas de vida inferiores a fazerem o mesmo.
       - Тираны улья— огромные командиры роя тиранидов, исполняющие волю Разума улья на поле боя. Каждая часть их тела идеально приспособлена для того, чтобы калечить, убивать, поглощать, а также направлять низшие биоформы делать то же самое.
-      - 作为泰伦虫群的巨型指挥官，虫巢暴君在战场上执行虫巢意志的旨意。它们躯体的每一部分都为致残、杀戮与吞噬而完美塑造——并引导低级生物形态完成同样的暴行。
+      - 虫巢暴君是泰伦虫族的统领，在战场上代行虫巢意志。它们身体的每一部分都被完美塑造，只为残害、杀戮与吞噬而生。同时，它们也驱使低级生物去完成同样的使命。
       - Tiranid sürüsünün devasa komutanları olan Kovan Tiranları, savaş alanında Kovan Zihni'nin iradesini uygular. Bedenlerinin her parçası; parçalamak, katletmek, yutmak ve kendilerinden zayıf biyoformlara da aynısını yapmaları için rehberlik etmek üzere kusursuzca tasarlanmıştır.
       - Велетенські командири тиранідського рою, ройові тирани, втілюють волю колективного розуму на полі бою. Кожна частина їхнього тіла сформована досконало, щоб калічити, убивати й пожирати (і навчати менші біоформи робити те саме).
       Flags: 00000000000000000000000000
@@ -12972,7 +12972,7 @@ MonoBehaviour:
       - Te doskonałe maszyny do zabijania wykorzystujące szeroki arsenał biobroni są najbardziej wszechstronne spośród bioform Umysłu Roju. Mogą walczyć zarówno na dystans, jak i w zwarciu, dzięki czemu są kluczowym ogniwem w łańcuchu dowodzenia Tyranów Roju.
       - 'As mais adaptáveis de todas as formas de vida da Mente da Colmeia, essas máquinas mortíferas altamente eficientes utilizam uma ampla variedade de bioarmas. Podem atuar tanto em combate de longo alcance quanto em combate corpo a corpo, formando elos vitais por meio dos quais os Tiranos da Colmeia podem emitir suas ordens. '
       - 'Наиболее адаптивные из всех биоформ Разума улья, эти искусные машины-убийцы имеют широкий арсенал биологического оружия. Они умело сражаются как на дальних дистанциях, так и в ближнем бою, и формируют живые связи, через которые Тираны улья могут передавать приказы. '
-      - '这些娴熟的杀戮机器娴熟是虫巢意志所有生物形态中适应性最强的存在，他们运用多种生物武器，既能担任远程射手也可成为近战尖兵，构成虫巢暴君传达指令的关键神经节点。 '
+      - '作为虫巢意志最具适应性的生物形态，这些精锐的杀戮机器配备了各式各样的生物武器。它们既可作为远程战力，亦可充当近战单位，并成为虫巢暴君传达指令链条上的重要一环。 '
       - 'Kovan Zihni''nin tüm biyoformları arasında en uyumlusu olan bu usta ölüm makineleri, çok çeşitli biyo-silahlar kullanır. Kovan Tiranları''nın emirlerini iletebildiği hayati bağlar oluşturarak hem uzun menzilde hem de yakın mesafe dövüşlerinde boy gösterebilirler. '
       - 'Серед усіх біоформ колективного розуму ці вправні машини для вбивства вирізняються найбільшою пристосовністю й використовують найрізноманітнішу біозброю. Вони можуть завдавати шкоди з відстані або ж вступати в ближній бій, утворюючи важливі ланки, через які ройові тирани віддають свої накази. '
       Flags: 00000000000000000000000000
@@ -13008,7 +13008,7 @@ MonoBehaviour:
       - Te doskonałe maszyny do zabijania wykorzystujące szeroki arsenał biobroni są najbardziej wszechstronne spośród bioform Umysłu Roju. Mogą walczyć zarówno na dystans, jak i w zwarciu, dzięki czemu są kluczowym ogniwem w łańcuchu dowodzenia Tyranów Roju.
       - 'As mais adaptáveis de todas as formas de vida da Mente da Colmeia, essas máquinas mortíferas altamente eficientes utilizam uma ampla variedade de bioarmas. Podem atuar tanto em combate de longo alcance quanto em combate corpo a corpo, formando elos vitais por meio dos quais os Tiranos da Colmeia podem emitir suas ordens. '
       - 'Наиболее адаптивные из всех биоформ Разума улья, эти искусные машины-убийцы имеют широкий арсенал биологического оружия. Они умело сражаются как на дальних дистанциях, так и в ближнем бою и формируют живые связи, через которые Тираны улья могут передавать приказы. '
-      - '这些娴熟的杀戮机器娴熟是虫巢意志所有生物形态中适应性最强的存在，他们运用多种生物武器，既能担任远程射手也可成为近战尖兵，构成虫巢暴君传达指令的关键神经节点。 '
+      - '作为虫巢意志最具适应性的生物形态，这些精锐的杀戮机器配备了各式各样的生物武器。它们既可作为远程战力，亦可充当近战单位，并成为虫巢暴君传达指令链条上的重要一环。 '
       - 'Kovan Zihni''nin tüm biyoformları arasında en uyumlusu olan bu usta ölüm makineleri, çok çeşitli biyo-silahlar kullanır. Kovan Tiranları''nın emirlerini iletebildiği hayati bağlar oluşturarak hem uzun menzilde hem de yakın mesafe dövüşlerinde boy gösterebilirler. '
       - 'Серед усіх біоформ колективного розуму ці вправні машини для вбивства вирізняються найбільшою пристосовністю й використовують найрізноманітнішу біозброю. Вони можуть завдавати шкоди з відстані або ж вступати в ближній бій, утворюючи важливі ланки, через які ройові тирани віддають свої накази. '
       Flags: 00000000000000000000000000
@@ -13589,6 +13589,24 @@ MonoBehaviour:
       - Труґґ, Король Троґотів
       Flags: 00000000000000000000000000
       Languages_Touch: []
+    - Term: enemiesLang/{WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW}bName
+      TermType: 0
+      Languages:
+      - Trugg the Troggoth King
+      - Trugg le Roi des Troggoths
+      - Trugg, il Re dei Troggoth
+      - Troggothkönig Trugg
+      - Trugg el Rey Troggoth
+      - トロゴスの王トラグ
+      - 트로고스 왕 트러그
+      - Trugg, Król Troggotów
+      - Trugg, o Rei dos Troggoths
+      - Трагг, Король трогготов
+      - 巨魔之王特鲁格
+      - Troggoth Kralı Trugg
+      - Труґґ, Король Троґотів
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
     - Term: enemiesLang/{WS_AOS_GLO_DANKHOLD_TROGGOTH}bDesc
       TermType: 0
       Languages:
@@ -13710,7 +13728,7 @@ MonoBehaviour:
       - Te groty, doprowadzone do obłędu wywarem z Grzybów Szaleńców i całkowicie pozbawione instynktu samozachowawczego, są rozpędzane oraz pędzą ku wrogowi niczym kula burząca. Dosłownie. Jak na swoje rozmiary, potrafią uderzyć z zaskakującą siłą, lecz nieuchronnie szybko padają ofiarą wyczerpania lub zaplątują się we własną broń. Strzeż się tych fanatycznych szaleńców, gdy wirują z niszczycielską siłą przez pole bitwy.
       - 'Enlouquecidos pela beberagem de Cogumelos Malucos e desprovidos de qualquer instinto de sobrevivência, esses grotzinhos insanos são girados e lançados contra o inimigo como uma verdadeira bola de demolição. Literalmente. Apesar do tamanho diminuto, os grots acertam golpes devastadores, mas acabam sucumbindo, seja pela exaustão, seja por acabarem enroscados em suas próprias armas. Cuidado com esses pequenos fanáticos enquanto destroçam o campo de batalha em sua fúria caótica. '
       - 'Потерявшие разум от варева из грибов Безумная Голова и напрочь лишенные чувства самосохранения, эти ошалелые гроты мгновенно заводятся и бросаются на врага, словно живые стенобитные шары. Буквально. Маленькие гроты могут нанести сильный удар, но они неизбежно быстро гибнут или от усталости, или от того, что запутываются в собственном оружии. Остерегайтесь этих фанатичных коротышек, которые кружат на поле боя. '
-      - '这些屁精被疯帽蘑菇酒灌得神志不清，全然不顾自身安危。他们像被拧紧发条，像字面意思上的破坏球一样被径直推向敌阵。尽管体型如此矮小，屁精们却能够拳拳到肉，但往往很快会因为力竭或是被自己的武器缠住而败下阵来。当这些狂热的小家伙在战场上翻滚冲锋时，可千万要小心提防。 '
+      - '这些屁精被疯帽蘑菇酒灌得神志不清，压根不把命当回事。它们像被拧紧的发条，又像一颗破坏球被径直甩向敌阵，宛如攻城锤。别看它们个子矮小，揍人还挺疼，可下场基本一样：要么把自己累死，要么被自己的武器缠住摔个狗啃泥。遇到这群在战场上疯狂打转的小疯子，最好躲远点。 '
       - 'Çılgınşapka Mantarı içkisiyle çıldıran ve hayatta kalma içgüdüsünden yoksun bu kaçık güdükler, kelimenin tam anlamıyla bir gülle gibi sarılıp düşmana doğru fırlatılır. Güdükler, kadar küçük olmalarına rağmen çok sert vururlar. Sonunda ya tükenip kalırlar ya da kendi silahlarına dolanıp etkisiz hâle gelirler. Savaş alanında dönerek ilerleyen bu fanatik ufaklıklara dikkat et. '
       - 'Вариво з шаленокаптурських грибів зводить цих гротів з розуму, а інстинкту самозбереження в них майже немає, тож їх розкручують і штовхають на ворога, мов таранну кулю. Буквально. Як на таких малих гротів, б’ють вони добряче, але неминуче швидко падають від знесилення або перечіпляються об власну зброю. Стережіться цих фанатичних малюків, що невпинно кружляють полем бою. '
       Flags: 00000000000000000000000000
@@ -14034,7 +14052,7 @@ MonoBehaviour:
       - "„Nieumarły Król”, „Najwyższy Władca Nieumarłych” oraz „Wielki Zdrajca” to tylko niektóre z przydomków, pod którymi znany jest Nagash. Jest on wcieleniem ciemności, twórcą plugawej sztuki nekromancji i władcą królestwa Shyish. W bitwie dzierży artefakty o niewyobrażalnej mocy – Alakanash, kostur, który służy mu do koncentrowania nekromantycznych mocy, oraz przeklęte ostrze Zefet-nebtar. A przede wszystkim, dzięki Dziewięciu Księgom Nagasha, włada on potężną i przerażającą magią Królestwa Śmierci.\nStawić mu czoła to jak zmierzyć się z samą śmiercią. I choć może zwycięstwo nie jest niemożliwe, ostatecznie śmierć dopadnie nas wszystkich."
       - "O Rei Imortal, Senhor Supremo dos Mortos-Vivos e o Grande Traidor são apenas alguns dos títulos pelos quais Nagash é conhecido. Ele é a encarnação das trevas, o criador da arte nefasta da Necromancia e governante do reino de Shyish. Em batalha, ele empunha artefatos de grande poder: Alakanash, o cajado através do qual canaliza seu poder necromântico. Zefet-nebtar, sua lâmina amaldiçoada. E, acima de tudo, por meio dos Nove Livros de Nagash, ele comanda a impressionante e terrível magia do Reino da Morte.\nEnfrentá-lo é enfrentar a própria morte. E embora a vitória possa ser alcançada, a morte chega para todos nós um dia."
       - "Бессмертный Король, Верховный Повелитель Нежити и Великий Предатель – это лишь некоторые из имен, под которыми известен Нагаш. Он – воплощение тьмы, создатель мерзкого искусства некромантии и правитель царства Шаиш. В бою он использует артефакты огромной силы: посох Алаканаш, с помощью которого он направляет свою силу некроманта, и Зефет-небтар, проклятый клинок. Но, что важнее всего, благодаря Девяти книгам Нагаша он владеет устрашающей магией Владения Смерти.\nВстреча с ним лицом к лицу означает встречу с самой смертью. И даже если вы победите, рано или поздно смерть придет за всеми нами."
-      - "不死之王、不死至尊、大背叛者——这些仅是纳加什诸多称号中的几个。他是黑暗的化身，死灵邪术的缔造者，煞伊许领域的主宰者。战场上，他执掌着强大的神器：用以引导死灵之力的阿卡纳什之杖，以及受诅咒的刀刃泽菲特-内布塔。而最重要的是，通过《纳加什九卷书》，他号令着死亡界域那令人敬畏战栗的魔法。\n直面他，即是直面死亡本身。纵使胜利或可争取，死亡终将降临于我们每个人。"
+      - "纳迦什有众多名号，“不死之王”、“亡灵至高领主”与“大背叛者”不过是其中几个。他是黑暗的化身，是死灵术的缔造者，也是煞伊许领域的主宰者。在战场上，他挥舞着蕴含无上力量的神器：引导死灵术的法杖——阿卡纳什之杖，以及受诅咒的利刃——泽非·内塔。而最重要的，是他借《纳迦什九卷》掌控着死亡界域那令人敬畏而可怖的魔法。\n面对他，就等于面对死亡本身。就算能赢，死亡最后还是会找上我们每个人。"
       - "Ölümsüz Kral, Ölmemişlerin Yüce Lordu ve Büyük Hain; bunlar, Nagash'ın bilinen unvanlardan sadece bazılarıdır. Kendisi karanlığın vücut bulmuş hâli, nekromansi denilen iğrenç sanatın yaratıcısı ve Shyish diyarının hükümdarıdır. Savaşta büyük güce sahip artefaktlar kuşanır; Nekromantik gücünü içinden akıttığı asası Alakanash ve lanetli bıçağı Zefet-nebtar gibi. Hepsinden önemlisi, Nagash'ın Dokuz Kitabı üzerinden, Ölüm Diyarı'nın heybetli ve korkunç büyüsünü komuta eder.\nOnunla yüzleşmek, ölümün kendisiyle yüzleşmektir. Zafer kazanılsa bile ölüm, eninde sonunda hepimiz için gelir."
       - "Невмирущий Король, Верховний Повелитель Немерті й Великий Зрадник — це лише кілька титулів Наґаша. Він утілює саму темряву, створив нечестиве мистецтво некромантії й править царством Шаїш. У бою він орудує могутніми артефактами: Алаканашем, посохом, через який спрямовує свою некромантичну силу; Зефет-небтаром, своїм проклятим клинком; а наймогутніший серед них — Дев’ять Книг Наґаша, за допомогою яких він використовує величну й жахливу магію Царства Смерті.\nСтати проти нього — означає стати проти самої смерті. І навіть якщо його можливо перегмоти, смерть зрештою прийде по всіх нас."
       Flags: 00000000000000000000000000
@@ -14592,7 +14610,7 @@ MonoBehaviour:
       - Za każdy kolejny zdobyty poziom zyskuje 30 punktów życia. Ekran awansu nie będzie już wyświetlany do końca tej rozgrywki.
       - A cada nível subsequente, você ganha 30 feridas. A tela para subir de nível não será mais exibida nesta sessão.
       - Восстанавливайте по 30 ран за каждое последующее повышение уровня. Экран повышения уровня больше не будет отображаться для этого прохождения.
-      - 此后每次升级将增加30点承伤。本轮游戏中将不再显示升级界面。
+      - 此后每次升级将增加30点耐伤。本轮游戏中将不再显示升级界面。
       - Sonraki her seviye atlayışında +30 yara kazanılır. Bu turda seviye atlama ekranı artık gösterilmez.
       - За кожен наступний рівень отримує 30 ран. Екран підвищення рівня більше не з’являтиметься на цей забіг.
       Flags: 00000000000000000000000000
@@ -15042,7 +15060,7 @@ MonoBehaviour:
       - Przywraca 30 punktów życia.
       - Cura 30 feridas.
       - Восстанавливает 30 ран.
-      - 恢复30点承伤。
+      - 恢复30点耐伤。
       - 30 yarayı iyileştirir.
       - Загоює 30 ран.
       Flags: 00000000000000000000000000
@@ -15096,7 +15114,7 @@ MonoBehaviour:
       - Przywraca 60 punktów życia.
       - Cura 60 feridas.
       - Восстанавливает 60 ран.
-      - 恢复60点承伤。
+      - 恢复60点耐伤。
       - 60 yarayı iyileştirir.
       - Загоює 60 ран.
       Flags: 00000000000000000000000000
@@ -15114,7 +15132,7 @@ MonoBehaviour:
       - Torba Medicae
       - Bolsa Médica
       - Сумка медикэ
-      - 医疗袋
+      - 医疗包
       - Medicae Çantası
       - Сумка з медкомлектом
       Flags: 00000000000000000000000000
@@ -15870,7 +15888,7 @@ MonoBehaviour:
       - Przywraca 30 punktów życia.
       - Cura 30 feridas.
       - Восстанавливает 30 ран.
-      - 恢复30点承伤。
+      - 恢复30点耐伤。
       - 30 yarayı iyileştirir.
       - Загоює 30 ран.
       Flags: 00000000000000000000000000
@@ -15924,7 +15942,7 @@ MonoBehaviour:
       - Przywraca 30 punktów życia.
       - Cura 30 feridas.
       - Восстанавливает 30 ран.
-      - 恢复30点承伤。
+      - 恢复30点耐伤。
       - 30 yarayı iyileştirir.
       - Загоює 30 ран.
       Flags: 00000000000000000000000000
@@ -15978,7 +15996,7 @@ MonoBehaviour:
       - Za każdy kolejny zdobyty poziom zyskuje 30 punktów życia. Ekran awansu nie będzie już wyświetlany do końca tej rozgrywki.
       - A cada nível subsequente, você ganha 30 feridas. A tela de subida de nível não será mais exibida nesta sessão.
       - Восстанавливайте по 30 ран за каждое последующее повышение уровня. Экран повышения уровня больше не будет отображаться для этого прохождения.
-      - 此后每次升级将增加30点承伤。本轮游戏中将不再显示升级界面。
+      - 此后每次升级将增加30点耐伤。本轮游戏中将不再显示升级界面。
       - Sonraki her seviye atlayışında +30 yara kazanılır. Bu turda seviye atlama ekranı artık gösterilmez.
       - За кожен наступний рівень отримує 30 ран. Екран підвищення рівня більше не з’являтиметься на цей забіг.
       Flags: 00000000000000000000000000
@@ -16014,7 +16032,7 @@ MonoBehaviour:
       - Przywraca 60 punktów życia.
       - Cura 60 feridas.
       - Восстанавливает 60 ран.
-      - 恢复60点承伤。
+      - 恢复60点耐伤。
       - 60 yarayı iyileştirir.
       - Загоює 60 ран.
       Flags: 00000000000000000000000000
@@ -16112,7 +16130,7 @@ MonoBehaviour:
     - Term: itemLang/{WS_AOS_CHRONOMANTIC_COG}description
       TermType: 0
       Languages:
-      - Induces a Hastened state, temporarily heightens {[SKILL]} , making enemies slower.
+      - Induces a Hastened state, temporarily heightens {[SKILL]}, making enemies slower.
       - Provoque un état de Précipitation, augmentant temporairement la {[SKILL]} et ralentissant les ennemis.
       - Induce uno stato Accelerato, aumenta temporaneamente {[SKILL]} e rende i nemici più lenti.
       - Versetzt dich in den Zustand „Beschleunigt“, erhöht vorübergehend {[SKILL]} und verlangsamt Gegner.
@@ -16464,7 +16482,7 @@ MonoBehaviour:
       - Złowrogi Wir Magii
       - Vórtice Maléfico
       - Зловещий Мальстрим
-      - 恶毒漩涡
+      - 歹毒漩涡
       - Maelstrom Anahtarı
       - Лиховісний Мальстрем
       Flags: 00000000000000000000000000
@@ -16680,7 +16698,7 @@ MonoBehaviour:
       - Dusząca Grobowa Fala
       - Maré Sufocante
       - Удушающая Могильная Волна
-      - 窒息坟潮
+      - 窒息墓潮
       - Boğucu Mezar Gelgiti
       - Задушлива хвиля смерті
       Flags: 00000000000000000000000000
@@ -17166,7 +17184,7 @@ MonoBehaviour:
       - Przywraca 1 punkt życia.
       - Cura 1 ferida.
       - Восстанавливает 1 рану.
-      - 恢复1点承伤。
+      - 恢复1点耐伤。
       - 1 yarayı iyileştirir.
       - Загоює 1 рану.
       Flags: 00000000000000000000000000
@@ -17912,7 +17930,7 @@ MonoBehaviour:
     - Term: itemLang/{WS_40K_RELIC_FERROSANCTIC_ORRERY}description
       TermType: 0
       Languages:
-      - Summons  the merchant Balphamus Vaulk on all other Warhammer 40,000 stages.
+      - Summons the merchant Balphamus Vaulk on all other Warhammer 40,000 stages.
       - Invoque le marchand Balphamus Vaulk dans toutes les autres scènes de Warhammer 40 000.
       - Evoca il mercante Balphamus Vaulk in tutti gli altri livelli di Warhammer 40.000.
       - Beschwört astropathische Relaisstationen für den Händler Balphamus Vaulk in allen anderen Levels von Warhammer 40.000.
@@ -18110,7 +18128,7 @@ MonoBehaviour:
     - Term: itemLang/{WS_40K_RELIC_RELAY_GALLOWDARK_1}name
       TermType: 0
       Languages:
-      - Astropathic Relay - Gallowdark -  Daedalosus
+      - Astropathic Relay - Gallowdark - Daedalosus
       - Relais astropathique - Gallowdark - Daedalosus
       - Astropathic Relay - Patibolo Nero - Daedalosus
       - Astropathische Relaisstation – Galgenschatten – Daedalosus
@@ -18354,7 +18372,7 @@ MonoBehaviour:
       - Umożliwia dostęp do menu sekretów Warhammer 40 000.​
       - Concede acesso ao menu de segredos do Warhammer 40.000.​
       - Дает доступ к меню секретов в Warhammer 40,000.​
-      - 解锁《战锤40000》秘密关卡菜单的访问权限。​
+      - 解锁《战锤40000》隐藏关卡菜单的访问权限。​
       - Warhammer 40,000 Sırlar menüsüne erişim sağlar.​
       - Відкриває доступ до меню таємниць Warhammer 40 000.​
       Flags: 00000000000000000000000000
@@ -18678,7 +18696,7 @@ MonoBehaviour:
       - Umożliwia dostęp do menu sekretów Warhammer Age of Sigmar.​
       - Concede acesso ao menu de segredos de Warhammer Era de Sigmar.​
       - Дает доступ к меню секретов в Warhammer Age of Sigmar.​
-      - 解锁《战锤西格玛时代》秘密关卡菜单的访问权限。​
+      - 解锁《战锤西格玛时代》隐藏关卡菜单的访问权限。​
       - Warhammer Age of Sigmar Sırlar menüsüne erişim sağlar.​
       - Відкриває доступ до меню таємниць Warhammer Age of Sigmar.​
       Flags: 00000000000000000000000000
@@ -19812,7 +19830,7 @@ MonoBehaviour:
       - 'Rany:'
       - 'Feridas:'
       - 'Ранения:'
-      - 承伤：
+      - 耐伤：
       - 'Yaralar:'
       - 'Рани:'
       Flags: 00000000000000000000000000
@@ -20846,7 +20864,7 @@ MonoBehaviour:
     - Term: lang/limitBreak_area
       TermType: 0
       Languages:
-      - '{[RANGE]}  +%0%'
+      - '{[RANGE]} +%0%'
       - '{[RANGE]} +%0 %'
       - '{[RANGE]} +%0%'
       - '{[RANGE]} +%0 %'
@@ -21278,7 +21296,7 @@ MonoBehaviour:
     - Term: lang/musicMod_hyper
       TermType: 0
       Languages:
-      - '''Eavy Metal'
+      - Eavy Metal
       - '#N/A'
       - '#N/A'
       - '#N/A'
@@ -21638,7 +21656,7 @@ MonoBehaviour:
     - Term: lang/open_dlc_page_switch
       TermType: 0
       Languages:
-      - 'New content available in the Nintendo eShop '
+      - New content available in the Nintendo eShop
       - 'Nouveau contenu disponible dans le Nintendo eShop '
       - 'Nuovo contenuto disponibile nel Nintendo eShop '
       - 'Neue Inhalte im Nintendo eShop verfügbar '
@@ -21846,7 +21864,7 @@ MonoBehaviour:
       - Wartości obrażeń
       - Valores de dano
       - Количество повреждений
-      - 伤害数字
+      - 伤害数字显示
       - Hasar Sayıları
       - Показники шкоди
       Flags: 00000000000000000000000000
@@ -22206,7 +22224,7 @@ MonoBehaviour:
       - Muzyka
       - Música
       - Музыка
-      - 音乐
+      - 音乐音量
       - Müzik
       - Музика
       Flags: 00000000000000000000000000
@@ -22368,7 +22386,7 @@ MonoBehaviour:
       - Dźwięk
       - Sons
       - Звуки
-      - 音效
+      - 音效音量
       - Sesler
       - Звуки
       Flags: 00000000000000000000000000
@@ -22422,7 +22440,7 @@ MonoBehaviour:
       - Ulubione
       - Favoritos
       - Избранное
-      - 收藏
+      - 常用
       - Favoriler
       - Вибране
       Flags: 00000000000000000000000000
@@ -22494,7 +22512,7 @@ MonoBehaviour:
       - Niestandardowy kursor sprzętowy
       - Cursor Personalizado de Hardware
       - Пользовательский аппаратный курсор
-      - 自定义硬件光标
+      - 自定义硬件指针
       - Özel Donanım İmleci
       - Користувацький апаратний курсор
       Flags: 00000000000000000000000000
@@ -23222,7 +23240,7 @@ MonoBehaviour:
     - Term: lang/preload_warning_text
       TermType: 0
       Languages:
-      - "This game contains imagery that may trigger Trypophobia in some players. \n\nThis game also contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing."
+      - "This game contains imagery that may trigger Trypophobia in some players.\n\nThis game also contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing."
       - "Ce jeu contient des images susceptibles de déclencher une trypophobie chez certains joueurs et joueuses.\n\nCe jeu contient également des lumières vives clignotantes. Veuillez arrêter immédiatement de jouer et consulter un médecin si vous ressentez des vertiges, des troubles de la vision, des spasmes au niveau des yeux ou du visage, des secousses ou des tremblements des bras ou des jambes, une désorientation, une confusion ou une perte momentanée de connaissance.\n\nSi vous ou l’un de vos proches avez des antécédents de crises d’épilepsie, consultez un médecin avant de jouer."
       - "Questo gioco contiene immagini che potrebbero urtare chi soffre di tripofobia.\n\nQuesto gioco contiene inoltre delle luci lampeggianti. Smetti immediatamente di giocare e consulta un medico se avverti capogiri, alterazioni della vista, spasmi all'occhio o al volto, scatti o tremori di braccia o gambe, disorientamento, confusione o brevi perdite di coscienza.\n\nConsulta un dottore prima di giocare se in passato tu o un membro della tua famiglia avete sofferto di attacchi epilettici."
       - "Dieses Spiel enthält Bilder, die bei manchen Spielern Trypophobie auslösen können.\n\nAußerdem enthält dieses Spiel helle, blinkende Lichteffekte. Bitte beende das Spiel sofort und suche einen Arzt auf, wenn Benommenheit, Sehstörungen, Zuckungen der Augen oder des Gesichts, Zuckungen oder Zittern der Arme oder Beine, Orientierungslosigkeit, Verwirrtheit oder kurze Bewusstseinsaussetzer auftreten.\n\nWenn du oder einer deiner Angehörigen schon einmal Krampfanfälle oder Epilepsie hatte, konsultiere bitte vor dem Spielen einen Arzt."
@@ -23996,19 +24014,19 @@ MonoBehaviour:
     - Term: lang/stageConfirm_hyper
       TermType: 0
       Languages:
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
       - 「イーヴィ・メタル」
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
       Flags: 00000000000000000000000000
       Languages_Touch: []
     - Term: lang/stageConfirm_inverse
@@ -24240,7 +24258,7 @@ MonoBehaviour:
       - Rany wroga
       - Feridas do Inimigo
       - Ранения врагов
-      - 敌方承伤
+      - 敌方耐伤
       - Düşman Yaraları
       - Ворожі рани
       Flags: 00000000000000000000000000
@@ -25590,7 +25608,7 @@ MonoBehaviour:
       - Różne informacje
       - Informações adicionais
       - Разное
-      - 其他信息
+      - 详细信息
       - Çeşitli Bilgiler
       - Додаткова інформація
       Flags: 00000000000000000000000000
@@ -26094,7 +26112,7 @@ MonoBehaviour:
       - '#N/A'
       - '#N/A'
       - '#N/A'
-      - '#N/A'
+      - Auroch Digital Ltd
       - '#N/A'
       - '#N/A'
       Flags: 00000000000000000000000000
@@ -26112,7 +26130,7 @@ MonoBehaviour:
       - '#N/A'
       - '#N/A'
       - '#N/A'
-      - '#N/A'
+      - Bastion
       - '#N/A'
       - '#N/A'
       Flags: 00000000000000000000000000
@@ -26274,7 +26292,7 @@ MonoBehaviour:
       - Kierownictwo ds. dźwięku i muzyki
       - Liderança em áudio e música da empresa
       - Управление компании по аудио и музыке
-      - 公司音频与音乐领导团队
+      - 公司音频与音乐负责人
       - Şirket Ses ve Müzik Lideri
       - Керівництво компанії в аудіогалузі
       Flags: 00000000000000000000000000
@@ -26310,7 +26328,7 @@ MonoBehaviour:
       - '#N/A'
       - '#N/A'
       - '#N/A'
-      - '#N/A'
+      - 'COUSIN Media Group '
       - '#N/A'
       - '#N/A'
       Flags: 00000000000000000000000000
@@ -26382,7 +26400,7 @@ MonoBehaviour:
       - Wsparcie projektowe
       - Suporte ao design
       - Поддержка геймдизайна
-      - 设计支持
+      - 设计助理
       - Tasarım Desteği
       - Підтримка дизайнерів
       Flags: 00000000000000000000000000
@@ -26472,7 +26490,7 @@ MonoBehaviour:
       - '#N/A'
       - '#N/A'
       - '#N/A'
-      - '#N/A'
+      - Games Workshop
       - '#N/A'
       - '#N/A'
       Flags: 00000000000000000000000000
@@ -26490,7 +26508,7 @@ MonoBehaviour:
       - '#N/A'
       - '#N/A'
       - '#N/A'
-      - '#N/A'
+      - 'Ground Shatter '
       - '#N/A'
       - '#N/A'
       Flags: 00000000000000000000000000
@@ -27524,7 +27542,7 @@ MonoBehaviour:
     - Term: lang/ws_credit_coherence
       TermType: 0
       Languages:
-      - "Supported by the coherence team \nwith special Thanks to Miguel Ferradáns Valdés "
+      - "Supported by the coherence team\nwith special Thanks to Miguel Ferradáns Valdés "
       - "Avec l’aide de l’équipe de Coherence\net un grand merci à Miguel Ferradáns Valdés "
       - "Supportati dal team coherence\ncon un ringraziamento speciale a Miguel Ferradáns Valdés "
       - "Unterstützt vom Coherence-Team\nmit besonderem Dank an Miguel Ferradáns Valdés. "
@@ -28046,7 +28064,7 @@ MonoBehaviour:
     - Term: lang/ws_credit_software_texturepacker_importer
       TermType: 0
       Languages:
-      - 'TexturePacker Importer '
+      - TexturePacker Importer
       - '#N/A'
       - '#N/A'
       - '#N/A'
@@ -28118,7 +28136,7 @@ MonoBehaviour:
     - Term: lang/ws_credit_software_shoebox
       TermType: 0
       Languages:
-      - 'ShoeBox Tools for Unity '
+      - ShoeBox Tools for Unity
       - '#N/A'
       - '#N/A'
       - '#N/A'
@@ -28136,7 +28154,7 @@ MonoBehaviour:
     - Term: lang/ws_credit_software_relationsinspector
       TermType: 0
       Languages:
-      - 'RelationsInspector '
+      - RelationsInspector
       - '#N/A'
       - '#N/A'
       - '#N/A'
@@ -28226,7 +28244,7 @@ MonoBehaviour:
     - Term: lang/ws_credit_software_unitask
       TermType: 0
       Languages:
-      - 'UniTask '
+      - UniTask
       - '#N/A'
       - '#N/A'
       - '#N/A'
@@ -28460,7 +28478,7 @@ MonoBehaviour:
     - Term: lang/ws_credit_software_playfab
       TermType: 0
       Languages:
-      - 'PlayFab '
+      - PlayFab
       - '#N/A'
       - '#N/A'
       - '#N/A'
@@ -28568,7 +28586,7 @@ MonoBehaviour:
     - Term: lang/ws_waaagh_erewego
       TermType: 0
       Languages:
-      - '''ERE WE GO!'
+      - ERE WE GO!
       - ON Y VA !
       - NOI ZI VA!
       - LOS GEHT'S!
@@ -28704,7 +28722,7 @@ MonoBehaviour:
       - MISJA ZAKOŃCZONA
       - MISSÃO COMPLETA
       - МИССИЯ ЗАВЕРШЕНА
-      - 任务完成
+      - 关卡完成
       - GÖREV TAMAMLANDI
       - ЗАВДАННЯ ЗАВЕРШЕНО
       Flags: 00000000000000000000000000
@@ -29226,7 +29244,7 @@ MonoBehaviour:
       - Sekrety
       - Segredos
       - Секреты
-      - 秘密关卡
+      - 隐藏关卡
       - Sırlar
       - Таємниці
       Flags: 00000000000000000000000000
@@ -29244,7 +29262,7 @@ MonoBehaviour:
       - Wybór misji
       - Selecionar Missão
       - Выбор миссии
-      - 任务选择
+      - 关卡选择
       - Görev Seçimi
       - Вибір завдання
       Flags: 00000000000000000000000000
@@ -29442,7 +29460,7 @@ MonoBehaviour:
       - Nie pozostały żadne sekrety.
       - Não há mais Segredos pendentes.
       - Не осталось нераскрытых секретов.
-      - 所有秘密关卡均已通关。
+      - 所有隐藏关卡均已通关。
       - Keşfedilecek Sır kalmadı.
       - Визначних таємниць не залишилося.
       Flags: 00000000000000000000000000
@@ -29640,7 +29658,7 @@ MonoBehaviour:
       - Zastosuj ustawienia graficzne
       - Aplicar configurações gráficas
       - Применить настройки графики
-      - 应用图形设置
+      - 保存画面设置
       - Grafik Ayarlarını Uygula
       - Застосувати налаштування
       Flags: 00000000000000000000000000
@@ -30000,7 +30018,7 @@ MonoBehaviour:
       - Zaakceptuj
       - Aceitar
       - Принять
-      - 同意
+      - 确定
       - Kabul et
       - Прийняти
       Flags: 00000000000000000000000000
@@ -30522,7 +30540,7 @@ MonoBehaviour:
       - Statystyki misji
       - Estatísticas da Missão
       - Характеристики миссии
-      - 任务统计
+      - 关卡数据
       - Görev İstatistikleri
       - Статистика завдання
       Flags: 00000000000000000000000000
@@ -30954,7 +30972,7 @@ MonoBehaviour:
       - Czas gry
       - Tempo de jogo
       - Время в игре
-      - 游戏时长
+      - 累计游玩时间
       - Oynama Süresi
       - Зіграно
       Flags: 00000000000000000000000000
@@ -31062,7 +31080,7 @@ MonoBehaviour:
       - Czas misji upływa dwa razy szybciej, a Wprawa postaci wzrasta.
       - O cronômetro da missão corre duas vezes mais rápido e a experiência do personagem aumenta.
       - Таймер миссии работает с удвоенной скоростью, а ветеранство персонажа увеличивается.
-      - 任务计时器以二倍速运行，且角色熟练度获取提升。
+      - 关卡计时器以二倍速运行，且角色熟练度获取提升。
       - Görev sayacı iki kat hızda çalışır ve Karakterin Kıdemi artar.
       - Час спливає вдвічі швидше, а воєнний досвід персонажа підвищено.
       Flags: 00000000000000000000000000
@@ -31214,19 +31232,19 @@ MonoBehaviour:
     - Term: lang/ws_stage_modes_hyper
       TermType: 0
       Languages:
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
       - 「イーヴィ・メタル」
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
-      - '''Eavy Metal'
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
+      - Eavy Metal
       Flags: 00000000000000000000000000
       Languages_Touch: []
     - Term: lang/ws_stage_modes_limitless
@@ -31314,7 +31332,7 @@ MonoBehaviour:
       - Muzyka
       - Música
       - Музыка
-      - 音乐
+      - 音乐音量
       - Müzik
       - Музика
       Flags: 00000000000000000000000000
@@ -31368,7 +31386,7 @@ MonoBehaviour:
       - Statystyki misji
       - Estatísticas da missão
       - Характеристики миссии
-      - 任务统计
+      - 关卡数据
       - 'Görev İstatistikleri:'
       - Характеристики завдання
       Flags: 00000000000000000000000000
@@ -31422,7 +31440,7 @@ MonoBehaviour:
       - Sekret
       - Secreto
       - Секрет
-      - 秘密关卡
+      - 隐藏关卡
       - Sır
       - Таємниця
       Flags: 00000000000000000000000000
@@ -32592,7 +32610,7 @@ MonoBehaviour:
       - Jedno odrodzenie na poziom z 50% punktów życia (maks. +{[MAXVALUE]}).
       - Revive uma vez por ranque com 50% das feridas (máximo +{[MAXVALUE]}).
       - Возрождает один раз за ранг, восстанавливая 50% ран (максимум +{[MAXVALUE]}).
-      - 每级以50%承伤复活一次（最多+{[MAXVALUE]}）。
+      - 每级以50%耐伤复活一次（最多+{[MAXVALUE]}）。
       - Rütbe başına %50 yarayla bir kez yeniden canlanır (en fazla +{[MAXVALUE]}).
       - Відроджує один раз за ранг з 50% ран (макс. {[MAXVALUE]} рази).
       Flags: 00000000000000000000000000
@@ -32718,7 +32736,7 @@ MonoBehaviour:
       - Obrona
       - Salvar
       - Спасбросок
-      - 减伤
+      - 护甲
       - Kaydet
       - Ряткидок
       Flags: 00000000000000000000000000
@@ -32736,7 +32754,7 @@ MonoBehaviour:
       - Zapieczętuj 2 przedmioty i bronie, aby nie pojawiały się w misjach i opcjach dostępnych po zdobyciu nowego poziomu. (Użyj w menu Skrzynki z narzędziami)
       - Bloqueie 2 Itens e Armas para que não apareçam nas Missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)
       - Запечатайте 2 предмета и вида оружия, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)
-      - 封印2件物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）
+      - 封印2件物品和武器，使其不出现在关卡及升级选项中。（在配件箱菜单中操作）
       - Görevlerde ve seviye atlama seçimlerinde görünmemesi için 2 Öge ve Silahı mühürle. (Bit Box menüsünde kullan)
       - Запечатує 2 предмета і дві зброї, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)
       Flags: 00000000000000000000000000
@@ -32772,7 +32790,7 @@ MonoBehaviour:
       - Zapieczętuj 3 przedmioty i bronie, aby nie pojawiały się w misjach i opcjach dostępnych po zdobyciu nowego poziomu. (Użyj w menu Skrzynki z narzędziami)
       - Bloqueie 3 Itens e Armas para que não apareçam nas Missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)
       - Запечатайте 3 предмета и вида оружия, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)
-      - 封印3件物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）
+      - 封印3件物品和武器，使其不出现在关卡及升级选项中。（在配件箱菜单中操作）
       - Görevlerde ve seviye atlama seçimlerinde görünmemesi için 3 Öge ve Silahı mühürle. (Bit Box menüsünde kullan)
       - Запечатує 3 предмета і три зброї, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)
       Flags: 00000000000000000000000000
@@ -32808,7 +32826,7 @@ MonoBehaviour:
       - Zapieczętuj 4 przedmioty i bronie, aby nie pojawiały się w misjach i opcjach dostępnych po zdobyciu nowego poziomu. (Użyj w menu Skrzynki z narzędziami)
       - Bloqueie 4 Itens e Armas para que não apareçam nas Missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)
       - Запечатайте 4 предмета и вида оружия, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)
-      - 封印4件物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）
+      - 封印4件物品和武器，使其不出现在关卡及升级选项中。（在配件箱菜单中操作）
       - Görevlerde ve seviye atlama seçimlerinde görünmemesi için 4 Öge ve Silahı mühürle. (Bit Box menüsünde kullan)
       - Запечатує 4 предмета і чотири зброї, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)
       Flags: 00000000000000000000000000
@@ -32934,7 +32952,7 @@ MonoBehaviour:
       - Podtrzymanie
       - Sustentar
       - Длительность
-      - 持续攻击
+      - 持续作战能力
       - Dayanıklılık
       - Стійкість
       Flags: 00000000000000000000000000
@@ -32988,7 +33006,7 @@ MonoBehaviour:
       - Przywraca {[COMMA_VALUE]} pkt. życia na poziom (maks. {[COMMA_MAXVALUE]}) na sekundę.
       - Recupera {[COMMA_VALUE]} ferida por ranque (máximo de {[COMMA_MAXVALUE]}) por segundo.
       - Восстанавливает {[COMMA_VALUE]} раны за каждый ранг (максимум {[COMMA_MAXVALUE]}) в секунду.
-      - 每升一级，每秒恢复{[VALUE]}承伤（最多{[MAXVALUE]}）。
+      - 每升一级，每秒恢复{[VALUE]}耐伤（最多{[MAXVALUE]}）。
       - Saniyede rütbe başına {[COMMA_VALUE]} yarayı iyileştirir (maks. {[COMMA_MAXVALUE]}).
       - Загоює {[COMMA_VALUE]} рани за секунду за ранг (макс. {[COMMA_MAXVALUE]}).
       Flags: 00000000000000000000000000
@@ -33006,7 +33024,7 @@ MonoBehaviour:
       - Wytrzymałość
       - Dureza
       - Стойкость
-      - 坚韧
+      - 韧性
       - Sağlamlık
       - Витривалість
       Flags: 00000000000000000000000000
@@ -33078,7 +33096,7 @@ MonoBehaviour:
       - Rany
       - Feridas
       - Ранения
-      - 承伤
+      - 耐伤
       - Yaralar
       - Рани
       Flags: 00000000000000000000000000
@@ -33168,7 +33186,7 @@ MonoBehaviour:
       - Zapieczętuj przedmioty i bronie, aby nie pojawiały się w misjach i opcjach awansu. (Użyj w menu Skrzynki z narzędziami)
       - Bloqueie itens e armas para que não apareçam nas missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)
       - Запечатайте предметы и оружие, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)
-      - 封印物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）
+      - 封印物品和武器，使其不出现在关卡及升级选项中。（在配件箱菜单中操作）
       - Görevlerde ve seviye atlama seçimlerinde görünmemesi için Öge ve Silahları mühürle. (Bit Box menüsünde kullan)
       - Запечатує предмети і зброю, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)
       Flags: 00000000000000000000000000
@@ -33924,7 +33942,7 @@ MonoBehaviour:
       - Windy ułatwiają poruszanie się.
       - Os elevadores facilitam a locomoção.
       - Лифты помогают передвигаться.
-      - 电梯有助于定位方向。
+      - 利用电梯，通行更方便。
       - Asansörler yön bulmaya yardımcı olur.
       - Підйомники допомагають пересуватися.
       Flags: 00000000000000000000000000
@@ -34518,7 +34536,7 @@ MonoBehaviour:
       - Sekret
       - Secreto
       - Секрет
-      - 秘密关卡
+      - 隐藏关卡
       - Sır
       - Таємниця
       Flags: 00000000000000000000000000
@@ -34572,7 +34590,7 @@ MonoBehaviour:
       - Ulepszony Olej Nuln. Strefy obrażeń podążają za tobą i spowalniają wrogów.
       - Óleo de Nuln Evoluído. As zonas de dano seguem você e retardam os inimigos.
       - Усовершенствованное нульнское масло. Зоны поражения следуют за вами и замедляют врагов.
-      - 进阶版努恩油。伤害区域将跟随你移动，并使敌人减速。
+      - 进化版努恩油。伤害区域将跟随你移动，并使敌人减速。
       - Evrimleşmiş Nuln Oil. Hasar alanları ederek takip ederek düşmanları yavaşlatır.
       - Покращена нульнська олива. Зони ураження тягнуться за вами і сповільнюють ворогів.
       Flags: 00000000000000000000000000
@@ -34670,7 +34688,7 @@ MonoBehaviour:
     - Term: weaponLang/{WS_40K_ARDENT_BLADE}tips
       TermType: 0
       Languages:
-      - This sword is wielded by none other than the Living Saint, Celestine, in the name of Emperer. Its petals scatter, just as they did when the Saint emerged from the tomb of Saint Katherine.
+      - This sword is wielded by none other than the Living Saint, Celestine, in the name of Emperor. Its petals scatter, just as they did when the Saint emerged from the tomb of Saint Katherine.
       - Cette épée n'est maniée par nulle autre que la Sainte Vivante Célestine au nom de l'Empereur. Ses pétales se dispersent comme lorsque la Sainte sortit du tombeau de Sainte Katherine.
       - Questo mondo è stato forgiato nientedimeno che dalla Santa Vivente, Celestine, in nome dell'Imperatore. I suoi petali si sparpagliano, proprio come fecero quando la Santa emerse dalla tomba di Santa Caterina.
       - Dieses Schwert wird von niemand anderem als der lebenden Heiligen Celestine im Namen des Imperators geführt. Die Blütenblätter der Klinge fallen zu Boden, wie schon damals, als sie dem Grab der Heiligen Katherine entstieg.
@@ -34770,7 +34788,7 @@ MonoBehaviour:
       - Ulepszony Burzowy Bolter. Strzela coraz szybciej, aż w końcu broń się przegrzewa.
       - Bolter de Assalto evoluída. Os tiros são disparados cada vez mais rápido até a arma superaquecer.
       - Усовершенствованный штормовой болтер. Стреляет всё быстрее и быстрее, пока не перегреется.
-      - 进阶版风暴爆矢枪。射速会逐渐提升，直至武器过热。
+      - 进化版风暴爆矢枪。射速会逐渐提升，直至武器过热。
       - Geliştirilmiş Fırtına Tüfeği. Silah aşırı ısınana kadar atış hızı giderek artar.
       - Удосконалений штурмовий гвинтовик. Стріляє усе швидше й швидше, доки не перегріється.
       Flags: 00000000000000000000000000
@@ -34814,19 +34832,19 @@ MonoBehaviour:
     - Term: weaponLang/{WS_40K_BALE_EYE}description
       TermType: 0
       Languages:
-      - Gift of Power Klaw. An 'evil eye' implant firing a short ranged laser, Battle-Shocks Orks. Bane of Ghazghkull Thraka
-      - Don de pince énergétik’. Il s'agit d'un implant « mauvais zœil » qui tire un laser à courte portée et ébranle les Orks. Fléau de Ghazghkull Thraka
+      - Gift of Power Klaw. An 'evil eye' implant firing a short ranged laser, Battle-Shocks Orks. Bane of Ghazghkull Thraka.
+      - Don de pince énergétik’. Il s'agit d'un implant « mauvais zœil » qui tire un laser à courte portée et ébranle les Orks. Fléau de Ghazghkull Thraka.
       - Dono della Kela potenziata. Un impianto con un "occhio malvagio" che spara un laser a corto raggio e causa shock agli Orki in battaglia. La rovina di Ghazghkull Thraka.
       - Eine Gabe der Energiekralle. Ein „Böser Blick“-Implantat, das einen Laser auf kurze Reichweite abfeuert und Orks „erschüttert“. Fluch des Ghazghkull Thraka.
       - Don de garra d'energía. Un implante de «mal de ojo» que dispara un láser de corto alcance y conmociona a los Orkos. Némesis de Ghazghkull Thraka.
-      - パワークロオの賜物。射程の短いレーザーを発射するインプラントの邪眼。オルクを戦闘ショックに陥れる。ガズグッカル・ザラカの天敵
+      - パワークロオの賜物。射程の短いレーザーを発射するインプラントの邪眼。オルクを戦闘ショックに陥れる。ガズグッカル・ザラカの天敵。
       - 파워 클로의 선물입니다. 단거리 레이저를 발사하는 '이블 아이' 임플란트로, 오크에게 전투충격을 유발합니다. 가즈쿨 스라카의 천적입니다.
       - Dar Potężnego Pazura. Implant „złego oka” wystrzeliwujący laser krótkiego zasięgu, który wywołuje Panikę Bitewną u orków. Zmora Ghazghkulla Thraki.
       - Dádiva de Garra de Força. Um implante do tipo “olho maligno” que dispara um laser de curto alcance, causando Choques de Batalha aos Orks. Pesadelo de Ghazghkull Thraka.
       - Дар силовой клишни. Имплантат «дурного глаза», который стреляет лазером на близком расстоянии и поражает орков в бою. Проклятие Газгкулла Трака.
       - 能量爪的馈赠。一种“邪眼”植入体，短程激光发射器，能在战斗中震慑欧克蛮人。专克碎骨者·斯拉卡。
       - Güç Pençesi Lütfu. Kısa menzilli lazer ateşleyen bir “şeytani göz” implantı. Orkları Şok Bozgununa uğratır. Ghazghkull Thraka’nın Belalısı.
-      - Дар силової клешні. Імплант «Лихе око» стріляє лазером малої дальності й контузить орків. Страшний сон Ґазгкулла Траки
+      - Дар силової клешні. Імплант «Лихе око» стріляє лазером малої дальності й контузить орків. Страшний сон Ґазгкулла Траки.
       Flags: 00000000000000000000000000
       Languages_Touch: []
     - Term: weaponLang/{WS_40K_BALE_EYE}name
@@ -34904,7 +34922,7 @@ MonoBehaviour:
     - Term: weaponLang/{WS_40K_BENEDICTION_OF_FURY}tips
       TermType: 0
       Languages:
-      - This ancient, relic crozius arcanum has absorbed the righteous fury of every Chaplain to ever wield it. Now it unleashes those centuries of fury in thunderous fervour.
+      - The ancient relic, the crozius arcanum, has absorbed the righteous fury of every Chaplain to ever wield it. Now it unleashes those centuries of fury in thunderous fervour.
       - Cette ancienne relique, le crozius arcanum, a absorbé la vertueuse fureur de tous les Chapelains qui l'ont portée au fil des siècles. Elle la déchaîne désormais dans un fracas tonitruant.
       - Il Crozius Arcanum è un'antica reliquia che ha assorbito la sacrosanta furia di tutti i Cappellani che l'abbiano mai brandito. Adesso scatena l'ira accumulata nei secoli con un fervore tonante.
       - In dem antiken Relikt Crozius Arcanum ruht die rechtschaffene Wut all jener Ordenspriester, die es je geführt haben. Nun entfesselt es die Wut all dieser Jahrhunderte in donnernder Inbrunst.
@@ -34932,7 +34950,7 @@ MonoBehaviour:
       - Ulepszony Crozius Arcanum. Atakuje z przodu i z tyłu, wywołując potężne fale uderzeniowe.
       - Crozius Arcanum evoluído. Ataca pela frente e por trás, causando ondas de choque estrondosas.
       - Усовершенствованный крозиус арканум. Наносит удары спереди и сзади, вызывая мощные ударные волны.
-      - 进阶版克罗修斯法杖。向敌人前后方发起猛击，每一击都迸发雷鸣般的冲击波。
+      - 进化版克罗修斯法杖。向敌人前后方发起猛击，每一击都迸发雷鸣般的冲击波。
       - Evrimleşmiş Crozius Arcanum. Önünde ve arkasında vurarak gürleyen şok dalgaları oluşturur.
       - Удосконалений крозіус арканум. Влучає спереду й позаду, створюючи громові ударні хвилі.
       Flags: 00000000000000000000000000
@@ -35207,42 +35225,6 @@ MonoBehaviour:
       - Бойова рушниця
       Flags: 00000000000000000000000000
       Languages_Touch: []
-    - Term: weaponLang/{WS_40K_CONDEMNOR_BOLTGUN}description
-      TermType: 0
-      Languages:
-      - Drops flaming projectiles while moving, unleashing a deadly barrage while stopped.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_CONDEMNOR_BOLTGUN}name
-      TermType: 0
-      Languages:
-      - Condemnor Boltgun
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
     - Term: weaponLang/{WS_40K_CROZIUS_ARCANUM}tips
       TermType: 0
       Languages:
@@ -35490,7 +35472,7 @@ MonoBehaviour:
       - Ulepszony miecz łańcuchowy. Brutalny poziomy atak tnący powoduje Krwawienie.
       - Espada de Corrente Evoluída. Ataque brutal de corte horizontal que causa Sangramento.
       - Усовершенствованный цепной меч. Мощная рубящая атака по горизонтали, которая вызывает кровотечение.
-      - 进阶版开膛链锯剑。发动狂暴横斩，对敌人施加流血效果。
+      - 进化版链锯剑。发动狂暴横斩，对敌人施加流血效果。
       - Evrimleşmiş Zincirkılıç. Kanamaya neden olan vahşi bir yatay saldırı savurur.
       - Удосконалений ланцюговий меч. Сильний горизонтальний розсічний удар, що спричиняє кровотечу.
       Flags: 00000000000000000000000000
@@ -35544,7 +35526,7 @@ MonoBehaviour:
       - Ulepszona strzelba bojowa. Pociski typu Kat automatycznie wyszukują cel.
       - Espingarda de Combate aprimorada. As munições Executoras rastreiam o alvo.
       - Усовершенствованный боевой дробовик. Патроны «Палач» сами находят свою цель.
-      - 进阶版战斗霰弹枪。处决弹会追踪目标。
+      - 进化版战斗霰弹枪。处决弹会追踪目标。
       - Evrimleşmiş Savaş Pompalısı. İnfazcı mermileri hedefini bulur.
       - Удосконалена бойова рушниця. Набої «Ката» самі знаходять свою ціль.
       Flags: 00000000000000000000000000
@@ -35796,7 +35778,7 @@ MonoBehaviour:
       - Ulepszone Porażenie. Wystrzeliwuje wiązkę energii nasyconej mocą Osnowy, która zadaje obrażenia wszystkim wrogom na swojej drodze. Wszyscy wrogowie mogą eksplodować w zależności od zepsucia.
       - Golpe Evoluído. Dispara um feixe de energia imbuída de mutação que causa dano a todos os inimigos em seu caminho. Os inimigos têm uma chance de explodir, dependendo do nível de corrupção.
       - Усовершенствованная кара. Выпускает поток варп-энергии, который поражает всех врагов на своем пути. Враги взрываются с вероятностью, которая зависит от уровня скверны.
-      - 进阶版惩击。发射一道凝聚了亚空间能量的光束，对路径上的所有敌人造成伤害。敌人在此冲击下有概率爆炸，概率取决于其腐化程度。
+      - 进化版惩击。发射一道凝聚了亚空间能量的光束，对路径上的所有敌人造成伤害。敌人在此冲击下有概率爆炸，概率取决于其腐化程度。
       - Geliştirilmiş Smite. Warp enerjisiyle dolu bir ışın ateşler ve yolundaki tüm düşmanlara hasar verir. Düşmanların yozlaşma seviyelerine göre patlama ihtimali vardır.
       - Удосконалена Кара. Вистрілює просоченим енергією викривлення променем, що завдає шкоди усім ворогам на шляху. Уражені вороги можуть вибухати (це залежить від рівня скверни).
       Flags: 00000000000000000000000000
@@ -35850,7 +35832,7 @@ MonoBehaviour:
       - Ulepszona Pięść Mocy. Dwie pięści, które miażdżą wrogów i wystrzeliwują pociski. Zmora Emisariusza Norn.
       - Punho de Força Evoluído. Dois punhos que esmagam inimigos e lançam projéteis. Pesadelo do Emissário de Norn.
       - Усовершенствованный силовой кулак. Два кулака, которые сокрушают врагов и разбрасывают снаряды. Проклятие норн-эмиссара.
-      - 进阶版能量拳。双拳可发动重创打击并倾泻弹雨。专克诺恩使者。
+      - 进化版能量拳。双拳可发动重创打击并倾泻弹雨。专克诺恩使者。
       - Evrimleşmiş Güç Yumruğu. Düşmanları ezen ve mermi saçan iki yumruk. Norn Emireli’nin Belalısı.
       - Удосконалений Силовий кулак. Два кулаки трощать ворогів і розкидують снаряди. Страшний сон норнського емісара.
       Flags: 00000000000000000000000000
@@ -35871,42 +35853,6 @@ MonoBehaviour:
       - 奥特拉玛臂铠
       - Ultramar Zırhlı Eldivenleri
       - Кулаки Ультрамара
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_GUARDIAN_SKULL}description
-      TermType: 0
-      Languages:
-      - Releases electrical explosions when bouncing and shoots projectiles as it flies around.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_GUARDIAN_SKULL}name
-      TermType: 0
-      Languages:
-      - Guardian Skull
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
       Flags: 00000000000000000000000000
       Languages_Touch: []
     - Term: weaponLang/{WS_40K_HEAVY_BOLTER}tips
@@ -35940,7 +35886,7 @@ MonoBehaviour:
       - Ulepszony Bolter. Prowadzi nieustanny ogień osłaniający.
       - Boltgun Evoluída. Lança uma rajada constante de fogo de supressão.
       - Усовершенствованный болтер. Создает непрерывный шквал огня на подавление.
-      - 进阶版爆矢枪。无限火力压制。
+      - 进化版爆矢枪。无限火力压制。
       - Evrimleşmiş Patlayıcı Tüfek. Ardı arkası kesilmeyen bastırıcı ateş yağdırır.
       - Удосконалений гвинтовик. З нього можна вести шквлальний вогонь на подавлення.
       Flags: 00000000000000000000000000
@@ -35994,7 +35940,7 @@ MonoBehaviour:
       - Ulepszony Miotacz Ognia. Wystrzeliwuje dwa strumienie płonącego promethium, rozprzestrzeniając ogień na pobliskich wrogów.
       - Lança-chamas Evoluído. Dispara dois jatos de prometio em chamas, espalhando fogo pelos inimigos próximos.
       - Усовершенствованный огнемёт. Выпускает двойные струи горящего прометия, поливая огнем ближайших врагов.
-      - 进阶版火焰喷射器。喷射两道灼热的钷素流，点燃附近的敌人。
+      - 进化版火焰喷射器。喷射两道灼热的钷素流，点燃附近的敌人。
       - Evrimleşmiş Alev Püskürtücü. Yakındaki düşmanlara ateş yayan çift promethium alevi püskürtür.
       - Удосконалений вогнемет. Стріляє подвійним струменем палаючого прометію, підпалюючи ворогів поблизу.
       Flags: 00000000000000000000000000
@@ -36084,7 +36030,7 @@ MonoBehaviour:
       - Ulepszona Tarcza Wiary. Płonąca aura, która spala pobliskich wrogów i leczy użytkownika.
       - Escudo da Fé Evoluído. Uma aura flamejante que queima os inimigos próximos e cura quem o empunha.
       - Усовершенствованный щит веры. Пылающая аура, которая обжигает ближайших врагов и исцеляет носителя.
-      - 进阶版信仰之盾。炽热光环会对附近敌人造成灼烧伤害，并为自身回复生命。
+      - 进化版信仰之盾。炽热光环会对附近敌人造成灼烧伤害，并为自身回复生命。
       - Evrimleşmiş İnanç Kalkanı. Yakındaki düşmanları kavuran ve taşıyıcısını iyileştiren alevli bir aura.
       - Удосконалений щит віри. Полум’яна аура обпалює ворогів поблизу й зцілює носія.
       Flags: 00000000000000000000000000
@@ -36110,7 +36056,7 @@ MonoBehaviour:
     - Term: weaponLang/{WS_40K_LASGUN}tips
       TermType: 0
       Languages:
-      - The lasgun is favoured by the Astra Militarum troops as a realiable weapon against the enemies of the Emperor, though not as powerful as many of the kinetic weapons of the Imperium.
+      - The lasgun is favoured by the Astra Militarum troops as a reliable weapon against the enemies of the Emperor, though not as powerful as many of the kinetic weapons of the Imperium.
       - Le fusil laser est l'arme privilégiée des troupes de l'Astra Militarum. C'est une arme fiable pour combattre les ennemis de l'Empereur, même si sa puissance de feu n'égale pas celle des armes cinétiques de l'Imperium.
       - Il fucile laser è l'arma prediletta delle truppe dell'Astra Militarum, una compagna affidabile contro i nemici dell'Imperatore, sebbene non sia potente quanto molte delle armi cinetiche dell'Impero.
       - Bei den Truppen des Astra Militarum gilt das Lasergewehr als zuverlässige Waffe gegen die Feinde des Imperators, trotz dass sie nicht so mächtig wie viele der kinetischen Waffen des Imperiums ist.
@@ -36156,7 +36102,7 @@ MonoBehaviour:
       - 'Wystrzeliwuje wiązką laserową w kierunku najbliższego wroga. Obrażenia maleją wraz z odległością. '
       - 'Dispara um raio de laser contra o inimigo mais próximo. O dano diminui com a distância. '
       - 'Выпускает лазерный заряд в ближайшего врага. С расстоянием урон уменьшается. '
-      - '向距离最近的敌人发射一道激光束，造成的伤害值随距离的增加而减少。 '
+      - '朝最近的敌人射出一道激光束，距离越远，伤害越低。 '
       - 'En yakın düşmana bir lazer patlaması ateşler. Hasarı mesafeyle azalır. '
       - 'Вистрілює лазерним гвинтом у найближчого ворога. Шкода зменшується з відстанню. '
       Flags: 00000000000000000000000000
@@ -36182,7 +36128,7 @@ MonoBehaviour:
     - Term: weaponLang/{WS_40K_DEATHSTRIKE_MISSILE}tips
       TermType: 0
       Languages:
-      - A weapon of Mass Destruction utilised by the Astra Militarum, a rarity on the battlefield in current times they are only used in the most apocalyptic situations.
+      - A weapon of Mass Destruction utilised by the Astra Militarum; a rarity on the battlefield in current times, they are only used in the most apocalyptic situations.
       - Arme de destruction massive utilisée par l'Astra Militarum. Elle est rarement employée sur le champ de bataille, car elle est réservée aux situations les plus désespérées.
       - Un'arma di Distruzione di Massa utilizzata dall'Astra Militarum, una rarità sul campo di battaglia. Al giorno d'oggi, viene utilizzata solo nelle situazioni più disperate.
       - Eine Massenvernichtungswaffe, verwendet vom Astra Militarum. Heutzutage ist sie nur selten auf dem Schlachtfeld anzutreffen und wird nur in den verheerendsten Situationen eingesetzt.
@@ -36228,7 +36174,7 @@ MonoBehaviour:
       - Ulepszona Rakieta Burzowego Orła. Anihiluje wrogów, zbiera dodatkowe PD.
       - Foguete Storm Eagle Evoluído. Aniquila os inimigos e acumula EXP bônus.
       - Усовершенствованная ракета «Грозовой орёл». Уничтожает врагов и накапливает дополнительный опыт.
-      - 进阶版风暴鹰火箭弹。消灭敌人将获得额外的经验奖励。
+      - 进化版风暴鹰火箭弹。消灭敌人将获得额外的经验奖励。
       - Evrimleşmiş Fırtına Kartalı Roketi. Düşmanları yok eder, bonus XP biriktirir.
       - Покращена ракета «Штормовий орел». Анігілює ворогів і накопичує бонусний досвід.
       Flags: 00000000000000000000000000
@@ -36336,7 +36282,7 @@ MonoBehaviour:
       - Ulepszony Karabin Laserowy. Niezwykle potężny promień o krótkim zasięgu. Zadaje dodatkowe obrażenia bossom i wrogom znajdującym się w niewielkiej odległości.
       - Lasgun Evoluída. Feixe de curto alcance extremamente poderoso. Causa dano adicional a chefões e inimigos próximos.
       - Усовершенствованное лазружьё. Чрезвычайно мощный лазер ближнего действия. Наносит дополнительный урон боссам и ближайшим врагам.
-      - 进阶版激光枪。短程高能光束，对首领及近身敌人造成额外伤害。
+      - 进化版激光枪。短程高能光束，对首领及近身敌人造成额外伤害。
       - Evrimleşmiş Lazer Tüfeği. Son derece güçlü, kısa menzilli bir ışın. Patronlara ve yakındaki düşmanlara bonus hasarı verir.
       - Удосконалений лазестріл. Надзвичайно потужний промінь малої дальності дії. Завдає додаткової шкоди босам і ворогам, що знаходяться неподалік.
       Flags: 00000000000000000000000000
@@ -36357,78 +36303,6 @@ MonoBehaviour:
       - 热熔枪
       - Eritici Silah
       - Плавостріл
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_NARTHECIUM}description
-      TermType: 0
-      Languages:
-      - Restores {[WOUNDS]} based on {[SKILL]} and {[TOUGHNESS]}
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_NARTHECIUM}name
-      TermType: 0
-      Languages:
-      - Narthecium
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_NEURO_GAUNTLET}description
-      TermType: 0
-      Languages:
-      - Sharp talons slash horizontally in front of the player
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_NEURO_GAUNTLET}name
-      TermType: 0
-      Languages:
-      - Neuro Gauntlet
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
       Flags: 00000000000000000000000000
       Languages_Touch: []
     - Term: weaponLang/{WS_NULN_OIL}tips
@@ -36516,7 +36390,7 @@ MonoBehaviour:
       - Ulepszona Bateria Wiru. Niszczy wrogów, pozostawiając po sobie jedynie spalone ruiny.
       - Bateria de Redemoinho Evoluída. Aniquila os inimigos, deixando para trás nada além de ruínas carbonizadas.
       - Усовершенствованная батарея «Вихрь». Уничтожает врагов, не оставляя ничего, кроме выжженных руин.
-      - 进阶版旋风火箭炮阵。对敌人造成毁灭性打击，只留下焦土废墟。
+      - 进化版旋风火箭炮阵。对敌人造成毁灭性打击，只留下焦土废墟。
       - Evrimleşmiş Kasırga Bataryası. Ardında kavrulmuş harabelerden başka hiçbir şey bırakmadan düşmanları yok eder.
       - Покращення вихрової батареї. Стирає ворогів в попіл, лишаючи по собі тільки випалену землю.
       Flags: 00000000000000000000000000
@@ -36822,7 +36696,7 @@ MonoBehaviour:
       - Dar Archeotechnologii. Wybierz dowolną odblokowaną ulepszoną broń.
       - Dádiva da Arqueotecnologia. Escolha qualquer arma evoluída desbloqueada.
       - Дар Археотеха. Выберите любое разблокированное усовершенствованное оружие.
-      - 远古科技的馈赠。可任选一件已解锁的进阶版武器。
+      - 远古科技的馈赠。可任选一件已解锁的进化版武器。
       - Antik Teknoloji Lütfu. Kilidi açılmış herhangi bir evrimleşmiş silahı seç.
       - Дар Археотеху. Виберіть будь-яку розблоковану удосконалену зброю.
       Flags: 00000000000000000000000000
@@ -36876,7 +36750,7 @@ MonoBehaviour:
       - Ulepszone Mechaniczne Ugryzienie. Wywołuje elektryczną eksplozję w wybranym obszarze, ogłusza wrogów.
       - Mordida Mecânica Evoluída. Provoca uma explosão elétrica na área alvo, atordoando os inimigos.
       - Усовершенствованная механическая челюсть. Дополнительно вызывает электрический взрыв в зоне поражения, оглушает врагов.
-      - 进阶版机械啃咬。在目标区域引发一场电击爆炸，使敌人陷入眩晕状态。
+      - 进化版机械啃咬。在目标区域引发一场电击爆炸，使敌人陷入眩晕状态。
       - Evrimleşmiş Mekanik Isırık. Hedef bölgede elektrikli bir patlama oluşturur, düşmanları sersemletir.
       - Удосконалена механічна щелепа. Провокує електричний вибух у зоні ураження й приголомшує ворогів.
       Flags: 00000000000000000000000000
@@ -37041,96 +36915,6 @@ MonoBehaviour:
       - 信仰之盾
       - İnanç Kalkanı
       - Щит віри
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_SERVOSKULL}customDescValue
-      TermType: 0
-      Languages:
-      - Skulls accelerate by x after each bounce.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_SERVOSKULL}customDescValue2
-      TermType: 0
-      Languages:
-      - Bounces create a tiny shock blast
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_SERVOSKULL}customDescValue3
-      TermType: 0
-      Languages:
-      - Upon expiry an explosion deals 100% shock damage in a small area.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_SERVOSKULL}description
-      TermType: 0
-      Languages:
-      - Skulls that bounce off terrain and pass through enemies, dealing shock damage.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_SERVOSKULL}name
-      TermType: 0
-      Languages:
-      - Servo-Skull
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
       Flags: 00000000000000000000000000
       Languages_Touch: []
     - Term: weaponLang/{WS_40K_SIDE_SPONSONS}tips
@@ -37434,7 +37218,7 @@ MonoBehaviour:
       - Ulepszona Włócznia Wiernych. Ciosy w górę spalają heretyków.
       - Lança dos Fiéis evoluída. Os golpes descendentes queimam os hereges.
       - Усовершенствованное копьё верующих. Удары снизу вверх сжигают еретиков.
-      - 进阶版信徒之矛。上挑挥击，焚尽异端。
+      - 进化版信徒之矛。上挑挥击，焚尽异端。
       - Evrimleşmiş İnançlıların Mızrağı. Yukarı savrulan darbeler sapkınları yakar.
       - Удосконалений спис Вірних. Удари згори донизу, що спалюють єретиків.
       Flags: 00000000000000000000000000
@@ -37529,82 +37313,10 @@ MonoBehaviour:
       - Ракета «Штормовий орел»
       Flags: 00000000000000000000000000
       Languages_Touch: []
-    - Term: weaponLang/{WS_40K_VIVISPECTRUM}description
-      TermType: 0
-      Languages:
-      - TBC - Desc
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_VIVISPECTRUM}name
-      TermType: 0
-      Languages:
-      - Vivispectrum
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_VORTEX_GRENADE}description
-      TermType: 0
-      Languages:
-      - '“Gift” evolution of the Condemnor. Grenades create vortexes pulling enemies into its AoE. '
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_40K_VORTEX_GRENADE}name
-      TermType: 0
-      Languages:
-      - Vortex Grenade
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
     - Term: weaponLang/{WS_40K_WEAPON_OF_THE_MATRIARCH}tips
       TermType: 0
       Languages:
-      - Saint Celestine’s blade, once borne by one of the matriarch’s of the Adepta Sororitas. It is wreathed in flowers, as it was when Celestine arose from the tomb of Saint Katherine, and can unleash the Sister’s pious fury in a jet of flames.
+      - Saint Celestine’s blade, once borne by one of the matriarchs of the Adepta Sororitas. It is wreathed in flowers, as it was when Celestine arose from the tomb of Saint Katherine, and can unleash the Sister’s pious fury in a jet of flames.
       - Cette arme est la lame de Sainte Célestine, jadis maniée par l'une des matriarches de l'Adepta Sororitas. Elle est ornée de fleurs, comme lorsque Célestine sortit de la tombe de Sainte Katherine, et déchaîne la pieuse colère de la sœur dans une gerbe de flammes.
       - La lama di Santa Celestine, un tempo impugnata da una delle matriarche dell'Adepta Sororitas. È adornata di fiori, proprio come quando Celestine sorse dalla tomba di Santa Caterina, ed è in grado di scatenare la pia furia della Sorella in una vampata di fiamme.
       - Die Klinge der Heiligen Celestine, einst von einer der Matriarchinnen des Adepta Sororitas getragen. Sie ist von Blumen umrankt, wie damals, als Celestine aus dem Grab der Heiligen Katherine stieg und kann den heiligen Zorn der Schwester in einem in einem Flammenstrahl entfesseln.
@@ -37632,7 +37344,7 @@ MonoBehaviour:
       - Ulepszone Żarliwe Ostrze. Wykonuje płonące uderzenie w poziomie. Zmora Wielkiego Nieczystego.
       - Lâmina Ardente Evoluída. Desencadeia um golpe horizontal em chamas. Pesadelo do Grande Imundo.
       - Усовершенствованный пылкий клинок. Наносит обжигающий удар по горизонтали. Проклятие Великого Нечистого.
-      - 进阶版热诚之刃。打出一记炽热横扫攻击。专克大不净者。
+      - 进化版热诚之刃。打出一记炽热横扫攻击。专克大不净者。
       - Evrimleşmiş Alevli Bıçak. Yatay bir alev saldırısı savurur. Ulu Kirli’nin Belalısı.
       - Удосконалений палкий клинок. Вивільняє полум’яний удар по горизонталі. Страшний сон нечистотника.
       Flags: 00000000000000000000000000
@@ -37776,7 +37488,7 @@ MonoBehaviour:
       - Ulepszony Pistolet Skałkowy. Pociski odbijają się w nieskończoność, zadając dodatkowe obrażenia użytkownikom magii. Zmora Vizzika Skoura.
       - Pistola de pederneira aprimorada. Ricocheteia infinitamente e causa dano adicional a usuários de magia. Pesadelo de Vizzik Skour.
       - Усовершенствованный кремневый пистолет. Бесконечно рикошетит, наносит дополнительный урон врагам, использующим магию. Проклятие Виззика Скура.
-      - 进阶版燧发手枪。持续发射子弹，对魔法使用者可造成额外伤害。专克维兹克·斯考尔。
+      - 进化版燧发手枪。持续发射子弹，对魔法使用者可造成额外伤害。专克维兹克·斯考尔。
       - Evrimleşmiş Çakmaklı Tabanca. Sonsuza dek seken mermiler, büyü kullanıcılarına fazladan hasar verir. Vizzik Skour’un Belalısı.
       - Удосконалений кременевий пістоль. Нескінченно рикошетить і завдає додаткової шкоди чаклунам. Страшний сон Віззіка Скура.
       Flags: 00000000000000000000000000
@@ -37830,7 +37542,7 @@ MonoBehaviour:
       - Ulepszona Migocząca Morska Mgła. Wywołuje iluzje, które wciągają wrogów w aurę zadającą obrażenia. Może wywołać obrażenia odwetowe.
       - Névoa Marinha Nebulosa Evoluída. Invoca ilusões que atraem os inimigos para uma aura causadora de dano. Pode causar dano de retaliação.
       - Усовершенствованное Туманное Марево. Вызывает иллюзии, которые затягивают врагов в разрушительную ауру. Может нанести ответный урон.
-      - 进阶版溟濛海雾。召唤幻象将敌人拖拽进一股灵气之中，对其造成伤害并有几率触发反击伤害。
+      - 进化版溟濛海雾。召唤幻象将敌人拖拽进一股灵气之中，对其造成伤害并有几率触发反击伤害。
       - Evrimleşmiş Sisli Deniz Pusu. Düşmanları hasar veren bir auranın içine çeken illüzyonlar çağırır. Misilleme hasarını tetikleyebilir.
       - Удосконалений Маревний морський серпанок. Прикликає ілюзії, що затягують ворогів в зону дії аури, яка завдає їм шкоди. Може завдавати шкоди у відповідь.
       Flags: 00000000000000000000000000
@@ -37866,7 +37578,7 @@ MonoBehaviour:
       - Dar Egzotycznej Broni. Wybierz dowolną ulepszoną broń.
       - Dádiva de Armas Exóticas. Escolha qualquer arma evoluída.
       - Дар Экзотического оружия. Выберите любое усовершенствованное оружие.
-      - 异种武器的馈赠。可任选一件进阶版武器。
+      - 异种武器的馈赠。可任选一件进化版武器。
       - Egzotik Silahlar Lütfu. Herhangi bir evrimleşmiş silahı seç.
       - Дар екзотичної зброї. Виберіть будь-яку удосконалену зброю.
       Flags: 00000000000000000000000000
@@ -37887,42 +37599,6 @@ MonoBehaviour:
       - 权柄圣物
       - Güç Artefaktları
       - Артефакти сили
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_BATTLE_HORN}description
-      TermType: 0
-      Languages:
-      - Fires growing pulses of sound in the faced direction.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_BATTLE_HORN}name
-      TermType: 0
-      Languages:
-      - Battle Horn
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
       Flags: 00000000000000000000000000
       Languages_Touch: []
     - Term: weaponLang/{WS_AOS_BLADED_VORTEX}tips
@@ -37956,7 +37632,7 @@ MonoBehaviour:
       - Ulepszone Zatrute Noże do Rzucania. Wystrzeliwuje kilka wirujących ostrzy, które powodują zatrucie i krwawienie.
       - Facas de Arremesso Envenenadas Aprimoradas. Lançam várias lâminas giratórias que causam os efeitos “Envenenamento” e “Sangramento”.
       - Усовершенствованные отравленные метательные ножи. Используются для атаки множеством вращающихся клинков, вызывающих отравление и кровотечение.
-      - 进阶版淬毒飞刃。投掷多把旋转飞刃，对敌人施加中毒与流血效果。
+      - 进化版淬毒飞刃。投掷多把旋转飞刃，对敌人施加中毒与流血效果。
       - Evrimleşmiş Zehirli Fırlatma Bıçakları. Zehirlenme ve Kanamaya neden olan çok sayıda dönen bıçak fırlatır.
       - Удосконалені отруєні метальні ножі. Кидає кілька обертових клинків, що спричиняють отруєння й кровотечу.
       Flags: 00000000000000000000000000
@@ -37977,96 +37653,6 @@ MonoBehaviour:
       - 毒刃旋飞
       - Bıçaklı Girdap
       - Клинковий вихор
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_BLOOD_ARROWS}descriptions
-      TermType: 0
-      Languages:
-      - “Gift” evolution from Heartseeker Bow. A hail of arrows rains down from the skies, causing enemies to suffer the Bleeding status effect.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_BLOOD_ARROWS}name
-      TermType: 0
-      Languages:
-      - Blood Arrows
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_BLOOD_RITUAL}customDescValue
-      TermType: 0
-      Languages:
-      - Arcing magma projectiles.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_BLOOD_RITUAL}description
-      TermType: 0
-      Languages:
-      - Casting blood into the brazier sacrifices everything on screen.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_BLOOD_RITUAL}name
-      TermType: 0
-      Languages:
-      - Blood Ritual
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
       Flags: 00000000000000000000000000
       Languages_Touch: []
     - Term: weaponLang/{WS_AOS_BOLTSTORM_PISTOL}tips
@@ -38262,7 +37848,7 @@ MonoBehaviour:
       - Ulepszone Wielkie Ostrze. Wykonuje dodatkowe cięcia i wielokrotnie wyprowadza potężne zamachy.
       - Grande Lâmina evoluída. Ataca com golpes adicionais e realiza vários ataques amplos de varredura.
       - Усовершенствованный великий клинок. Наносит дополнительные рубящие удары и проводит множество мощных размашистых атак.
-      - 进阶版巨剑。攻击时会附加劈砍伤害，并发动多次广域横扫攻击。
+      - 进化版巨剑。攻击时会附加劈砍伤害，并发动多次广域横扫攻击。
       - Evrimleşmiş Büyük Kılıç. Ek saldırılarla vurur ve çok sayıda geniş süpürme saldırısı gerçekleştirir.
       - Удосконалений великий клинок. Завдає додаткових рубальних ударів і виконує кілька великих розмашистих атак.
       Flags: 00000000000000000000000000
@@ -38388,7 +37974,7 @@ MonoBehaviour:
       - Ulepszona Para Pistoletów. Pociski mogą się rozpryskiwać i sprawiać, że wrogowie stają się podatni na obrażenia.
       - Par de pistolas aprimoradas. Os projéteis podem se fragmentar e deixar os inimigos vulneráveis.
       - Усовершенствованные сдвоенные пистолеты. Пули могут разлетаться на части и приводить к уязвимости врагов.
-      - 进阶版双枪齐发。弹壳在命中时会碎裂，使敌人陷入脆弱状态。
+      - 进化版双枪齐发。弹壳在命中时会碎裂，使敌人陷入脆弱状态。
       - Evrimleşmiş Tabanca Çifti. Mermiler parçalanabilir ve düşmanları Savunmasız hâle getirebilir.
       - Удосконалена пара пістолів. Кулі можуть розпадатися на уламки й робити ворогів уразливими.
       Flags: 00000000000000000000000000
@@ -38442,7 +38028,7 @@ MonoBehaviour:
       - Ulepszony Dwuogoniasty Kot. „Mali strażnicy” zapewniają pozytywny efekt ze zbierania przedmiotów.
       - Gato de Duas Caudas evoluído. Os "Pequenos Observadores" concedem um efeito positivo ao coletar itens.
       - Усовершенствованный Двухвостый Кот. «Маленькие наблюдатели» дают положительный эффект при сборе предметов.
-      - 进阶版双尾猫。“小守望者”在拾取物品时可提供增益效果。
+      - 进化版双尾猫。“小守望者”在拾取物品时可提供增益效果。
       - Evrimleşmiş Çift Kuyruklu Kedi. “Küçük Gözcüler”, toplanabilirleri getirirken olumlu etkiler sağlar.
       - Удосконалений Двохвостий кіт. «Маленькі наглядачі» дають позитивний ефект від підбирання предметів.
       Flags: 00000000000000000000000000
@@ -38825,42 +38411,6 @@ MonoBehaviour:
       - Привид Реї
       Flags: 00000000000000000000000000
       Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_GLAIVE_OF_KHAINE}description
-      TermType: 0
-      Languages:
-      - TBC - Desc (not designed)
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_GLAIVE_OF_KHAINE}name
-      TermType: 0
-      Languages:
-      - Glaive of Khaine
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
     - Term: weaponLang/{WS_AOS_GNASHING_JAWS}description
       TermType: 0
       Languages:
@@ -38967,42 +38517,6 @@ MonoBehaviour:
       - 巨剑
       - Büyük Kılıç
       - Великий клинок
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_HEARTSEEKER_BOW}description
-      TermType: 0
-      Languages:
-      - Shoots lethal arrows in the faced direction. Has a special heavy attack. Critical Damage could drop Blood Drops.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_HEARTSEEKER_BOW}name
-      TermType: 0
-      Languages:
-      - Heartseeker Bow
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
       Flags: 00000000000000000000000000
       Languages_Touch: []
     - Term: weaponLang/{WS_AOS_KYNDLEDROTH}description
@@ -39144,7 +38658,7 @@ MonoBehaviour:
       - Ulepszony Żarokostur. Pociski wybuchają na ziemi, powodując efekt Podpalenia.
       - Cajado de Chamas Evoluído. Os projéteis explodem ao atingir o solo, causando o efeito de Queimadura.
       - Усовершенствованный посох-жаровня. Снаряды взрываются на земле и поджигают цели.
-      - 进阶版火炬之杖。投射物在击中地面时会爆炸，使敌人陷入燃烧状态。
+      - 进化版火炬之杖。投射物在击中地面时会爆炸，使敌人陷入燃烧状态。
       - Geliştirilmiş Kor Asa. Mermiler yere çarparak patlar ve Yanma uygular.
       - Удосконалений посох-жаровня. Снаряди вибухають під час контакту з землею та спричиняють загоряння.
       Flags: 00000000000000000000000000
@@ -39201,42 +38715,6 @@ MonoBehaviour:
       - 大师级卡拉格·黑锤符文
       - Kragg Blackhammer’ın Usta Rünü
       - Майстер-руна Краґґа Чорномолота
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_MURDER_OF_CROWS}description
-      TermType: 0
-      Languages:
-      - TBC - Desc (not designed)
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_MURDER_OF_CROWS}name
-      TermType: 0
-      Languages:
-      - Murder of Crows
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
       Flags: 00000000000000000000000000
       Languages_Touch: []
     - Term: weaponLang/{WS_AOS_MYSTICAL_WARD}tips
@@ -39386,7 +38864,7 @@ MonoBehaviour:
     - Term: weaponLang/{WS_AOS_NULL_PENDANT}customDescValue2
       TermType: 0
       Languages:
-      - Generic Enemy Healing  is slowed by 50%
+      - Generic Enemy Healing is slowed by 50%
       - La guérison générique des ennemis est ralentie de 50 %
       - La Guarigione dei nemici generici viene rallentata del 50%.
       - Die Heilung gewöhnlicher Gegner wird um 50 % verlangsamt.
@@ -39651,150 +39129,6 @@ MonoBehaviour:
       - 束缚钩爪
       - Halat ve Kıskaç
       - Мотузка й гак
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_RUNIC_POWER}description
-      TermType: 0
-      Languages:
-      - Whirling vertical Runic War Irons and chains.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_RUNIC_POWER}name
-      TermType: 0
-      Languages:
-      - TBC - Runic Power
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_RUNIC_WARIRON}description
-      TermType: 0
-      Languages:
-      - Whirling vertical War Irons and runes.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_RUNIC_WARIRON}name
-      TermType: 0
-      Languages:
-      - Runic War-Iron
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_SACRIFICIAL_WEAPON}customDescValue0
-      TermType: 0
-      Languages:
-      - +%0% chance to inflict Bleeding onto enemies.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_SACRIFICIAL_WEAPON}customDescValue1
-      TermType: 0
-      Languages:
-      - '`+%0% chance to Disarm enemies.'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_SACRIFICIAL_WEAPON}description
-      TermType: 0
-      Languages:
-      - Attacks nearby enemies with a chance to inflict Bleeding. {[SKILL]} affects damage.
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      Flags: 00000000000000000000000000
-      Languages_Touch: []
-    - Term: weaponLang/{WS_AOS_SACRIFICIAL_WEAPON}name
-      TermType: 0
-      Languages:
-      - Sacrificial Weapon
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
-      - '#N/A'
       Flags: 00000000000000000000000000
       Languages_Touch: []
     - Term: weaponLang/{WS_AOS_STORMCHARGED_HAMMER}tips
@@ -40152,7 +39486,7 @@ MonoBehaviour:
       - Ulepszony Pistolet Boltstorm. Wystrzeliwuje potężne błyskawice w kierunku wrogów Sigmara.
       - Pistola Boltstorm Evoluída. Dispara poderosos raios estrondosos contra os inimigos de Sigmar.
       - Усовершенствованный штормболт-пистолет. Стреляет мощными разрядами грозовых молний во врагов Сигмара.
-      - 进阶版爆矢风暴手枪。发射狂暴的雷霆闪电击溃西格玛之敌。
+      - 进化版爆矢风暴手枪。发射狂暴的雷霆闪电击溃西格玛之敌。
       - Evrimleşmiş Deşici Tabanca. Sigmar’ın düşmanlarına gürleyen yıldırımlardan oluşan güçlü mermiler ateşler.
       - Удосконалений пістолет «Гвинтова буря». Стріляє потужними гвинтами, зарядженими громовою блискавкою, у ворогів Сігмара.
       Flags: 00000000000000000000000000
@@ -40332,7 +39666,7 @@ MonoBehaviour:
       - Ulepszona Mistyczna Bariera. Gdy wszystkie bariery zostaną wyczerpane, wywołuje promienistą eksplozję, która może wywołać efekt podpalenia wrogów.
       - Barreira Mística Evoluída. Quando todas as barreiras se esgotam, libera uma explosão radiante capaz de causar o efeito “Queimadura”.
       - Усовершенствованный мистический оберег. Когда все обереги израсходованы, происходит ослепительный взрыв, который вызывает горение.
-      - 进阶版神秘屏障。当所有屏障消失之际，引发一记璀璨爆炸，并使燃烧效果蔓延。
+      - 进化版神秘屏障。当所有屏障消失之际，引发一记璀璨爆炸，并使燃烧效果蔓延。
       - Evrimleşmiş Mistik Muhafaza. Tüm muhafazalar tükendiğinde, Yanma etkisi yayabilen ışıldayan bir patlama uygular.
       - Удосконалений містичний оберіг. Коли всі обереги вичерпано, вивільняє сяйний вибух, який може поширювати загоряння.
       Flags: 00000000000000000000000000
@@ -40386,7 +39720,7 @@ MonoBehaviour:
       - Ulepszona Ciężka Fuzja. Celny strzał snajperski, Ogor używa swojej tarczy.
       - Fuzil-canhão evoluído. Tiro certeiro de longa distância. Ogors usam seu escudo.
       - Усовершенствованная фузил-пушка. Прицельный снайперский выстрел под прикрытием щита огора.
-      - 进阶版爆矢手枪。面对精准狙击，即使是食人魔也只能举盾防御。
+      - 进化版爆矢手枪。面对精准狙击，即使是食人魔也只能举盾防御。
       - Evrimleşmiş Füzyon Topu. Hedefli keskin nişancı atışı, Ogor kalkanını kullanır.
       - Удосконалена фузил-гармата. Снайпер стріляє, огор прикриває щитом.
       Flags: 00000000000000000000000000
@@ -40440,7 +39774,7 @@ MonoBehaviour:
       - Ulepszone Topory Burzowe. Topory wirujące poziomo naładowane błyskawicami.
       - Machados da Tempestade Evoluídos. Machados horizontais giratórios imbuídos de raios.
       - Усовершенствованные топоры бури. Вращающиеся топоры, летящие по горизонтали и пронизанные молниями.
-      - 进阶版风暴战斧。裹挟着闪电的战斧发动旋斩攻击，横扫战场。
+      - 进化版风暴战斧。裹挟着闪电的战斧发动旋斩攻击，横扫战场。
       - Evrimleşmiş Fırtına Baltaları. Yıldırımla güçlendirilmiş dönen yatay baltalar.
       - Удосконалені сокири бурі. Пронизані блискавкою сокири, що обертаються.
       Flags: 00000000000000000000000000
@@ -40494,7 +39828,7 @@ MonoBehaviour:
       - Ulepszony Wielki Topór Burzy Ognia. Szybki topór, który podpala wrogów. Zmora Trugga.
       - Machado Grandioso da Tempestade de Fogo Evoluído. Um machado de golpe rápido que queima os inimigos. Pesadelo de Trugg.
       - Усовершенствованный двуручный топор Огненного Шторма. Топор с быстрым замахом, сжигающий врагов. Проклятие Трагга.
-      - 进阶版烈焰风暴巨斧。高速挥舞的战斧，可使敌人进入灼烧状态。专克特鲁格。
+      - 进化版烈焰风暴巨斧。高速挥舞的战斧，可使敌人进入灼烧状态。专克特鲁格。
       - Evrimleşmiş Ateşfırtınası Büyük Baltası. Düşmanları yakarak hızlıca savrulan bir balta. Trugg’un Belalısı.
       - Удосконалена велика сокира Вогнебурі. Сокира, що з розмаху підпалює ворогів. Страшний сон Труґґа.
       Flags: 00000000000000000000000000
@@ -40548,7 +39882,7 @@ MonoBehaviour:
       - Złowrogi Wir Magii
       - Vórtice Maléfico
       - Зловещий Мальстрём
-      - 恶毒漩涡
+      - 歹毒漩涡
       - Maelstrom Anahtarı
       - Лиховісний Мальстрем
       Flags: 00000000000000000000000000
@@ -40602,7 +39936,7 @@ MonoBehaviour:
       - Dusząca Grobowa Fala
       - Maré Sufocante
       - Удушающая Могильная Волна
-      - 窒息坟潮
+      - 窒息墓潮
       - Boğucu Mezar Gelgiti
       - Задушлива хвиля смерті
       Flags: 00000000000000000000000000
@@ -40854,7 +40188,7 @@ MonoBehaviour:
       - Ulepszona Kość k6. Pierwszy rzut kostką może podzielić się na dodatkowe kostki i eksplodować wielokrotnie.
       - Dados D6 evoluídos. O lançamento inicial pode se dividir em dados adicionais e explodir várias vezes.
       - Усовершенствованный кубик D6. При броске кубик может разделиться на дополнительные кубики и взорваться несколько раз.
-      - 进阶版 D6 骰子。初始掷骰的结果将分裂生成多枚额外骰子，且触发多次爆炸。
+      - 进化版 D6 骰子。初始掷骰的结果将分裂生成多枚额外骰子，且触发多次爆炸。
       - Evrimleşmiş D6 Zarı. İlk zar atışı ek zarlara ayrılabilir ve birden fazla kez patlayabilir.
       - Удосконалений кубик К-6. Кубик може розділитися на додаткові кубики й вибухнути кілька разів.
       Flags: 00000000000000000000000000
@@ -41088,7 +40422,7 @@ MonoBehaviour:
       - Kość Rozrzutu
       - Dado Disperso
       - Кубик отклонения
-      - 散射骰子
+      - 偏移骰
       - Sapma Zarı
       - Шестигранник
       Flags: 00000000000000000000000000
@@ -41268,7 +40602,7 @@ MonoBehaviour:
       - Jedno odrodzenie z 50% punktów życia.
       - Reposicione uma vez com 50% das feridas.
       - Передислоцирует один раз, восстанавливая 50% ран.
-      - 以50%承伤重新部署一次。
+      - 以50%耐伤重新部署一次。
       - '%50 yarayla bir kez yeniden konuşlandırılır.'
       - Передислоковує один раз з 50% ран.
       Flags: 00000000000000000000000000
@@ -41520,7 +40854,7 @@ MonoBehaviour:
       - Postać odzyskuje 0,2 pkt. życia na sekundę.
       - O personagem recupera 0,2 ferida por segundo.
       - Персонаж восстанавливает 0,2 раны в секунду.
-      - 角色每秒恢复0.2承伤。
+      - 角色每秒恢复0.2耐伤。
       - Karakter saniyede 0,2 yarayı iyileştirir.
       - Персонаж загоює 0,2 рани за секунду.
       Flags: 00000000000000000000000000
@@ -41618,7 +40952,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_ability
       TermType: 0
       Languages:
-      - "Increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} and {[AURA]} by %0%.\n"
+      - Increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} and {[AURA]} by %0%.
       - Augmente {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} et {[AURA]} de %0 %.
       - Aumenta {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} e {[AURA]} del %0%.
       - Erhöht {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} und {[AURA]} um %0 %.
@@ -41654,7 +40988,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_projectile
       TermType: 0
       Languages:
-      - "Fires %0 more projectile. \n"
+      - Fires %0 more projectile.
       - Tire %0 projectile en plus.
       - Spara proiettili extra (+%0).
       - Feuert %0 zusätzliches Projektil ab.
@@ -41672,7 +41006,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_projectiles
       TermType: 0
       Languages:
-      - "Fires %0 more projectiles. \n"
+      - Fires %0 more projectiles.
       - Tire %0 projectiles en plus.
       - Spara proiettili extra (+%0).
       - Feuert %0 zusätzliche Projektile ab.
@@ -41690,7 +41024,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_range
       TermType: 0
       Languages:
-      - "Pickup range increases by %0%. \n"
+      - Pickup range increases by %0%.
       - La portée des objets à ramasser augmente de %0 %.
       - La distanza di raccolta aumenta del %0%.
       - Die Sammelreichweite erhöht sich um %0 %.
@@ -41708,7 +41042,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_charm
       TermType: 0
       Languages:
-      - "Enemy spawn quantity increases by %0.\n"
+      - Enemy spawn quantity increases by %0.
       - La quantité d’ennemis générés augmente de %0.
       - La quantità di nemici generati aumenta di %0.
       - Die Anzahl der gespawnten Gegner erhöht sich um %0.
@@ -41726,7 +41060,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_luck
       TermType: 0
       Languages:
-      - "{[CHANCE]} increases by %0%. \n"
+      - '{[CHANCE]} increases by %0%.'
       - '{[CHANCE]} augmente de %0 %.'
       - '{[CHANCE]} +%0%.'
       - '{[CHANCE]} erhöht sich um %0 %.'
@@ -41744,7 +41078,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_curse
       TermType: 0
       Languages:
-      - "{[CORRUPTION]} increases by %0%. \n"
+      - '{[CORRUPTION]} increases by %0%.'
       - '{[CORRUPTION]} augmente de %0 %.'
       - '{[CORRUPTION]} +%0%.'
       - '{[CORRUPTION]} erhöht sich um %0 %.'
@@ -41762,7 +41096,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_damageAll
       TermType: 0
       Languages:
-      - "Base Damage up by %0%. \n"
+      - Base Damage up by %0%.
       - Les dégâts de base augmentent de %0%.
       - Danno di base +%0%.
       - Grundschaden um %0% erhöht.
@@ -41780,7 +41114,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_damage
       TermType: 0
       Languages:
-      - "Base Damage up by %0. \n"
+      - Base Damage up by %0.
       - Les dégâts de base augmentent de %0.
       - Danno di base +%0.
       - Grundschaden um %0 erhöht.
@@ -41798,7 +41132,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_movement
       TermType: 0
       Languages:
-      - "Character moves %0% faster.\n"
+      - Character moves %0% faster.
       - Le personnage se déplace %0 % plus vite.
       - La velocità di movimento del personaggio aumenta del %0%.
       - Der Charakter bewegt sich %0 % schneller.
@@ -41816,7 +41150,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_enemy
       TermType: 0
       Languages:
-      - "Passes through %0 more enemy. \n"
+      - Passes through %0 more enemy.
       - Traverse %0 ennemi en plus.
       - Attraversa %0 nemico in più.
       - Durchdringt %0 weiteren Gegner.
@@ -41834,7 +41168,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_enemies
       TermType: 0
       Languages:
-      - "Passes through %0 more enemies. \n"
+      - Passes through %0 more enemies.
       - Traverse %0 ennemis en plus.
       - Attraversa %0 nemici in più.
       - Durchdringt %0 weitere Gegner.
@@ -41852,7 +41186,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_area
       TermType: 0
       Languages:
-      - "Size of attack increases by %0%. \n"
+      - Size of attack increases by %0%.
       - L’ampleur de l’attaque augmente de %0 %.
       - La portata dell'attacco aumenta del %0%.
       - Die Angriffsgröße erhöht sich um %0 %.
@@ -41870,7 +41204,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_revivals
       TermType: 0
       Languages:
-      - "Adds %0 {[REDEPLOYMENT]}. \n"
+      - Adds %0 {[REDEPLOYMENT]}.
       - Ajoute %0 {[REDEPLOYMENT]}.
       - Aggiunge %0 {[REDEPLOYMENT]}.
       - Fügt %0 {[REDEPLOYMENT]} hinzu.
@@ -41888,7 +41222,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_cooldownIncreased
       TermType: 0
       Languages:
-      - "{[RELOAD]} time increases by %0 seconds. \n"
+      - '{[RELOAD]} time increases by %0 seconds.'
       - Le temps de {[RELOAD]} augmente de %0 secondes.
       - I tempi di {[RELOAD]} aumentano di %0 secondi.
       - Die {[RELOAD]}-Zeit erhöht sich um %0 Sekunden.
@@ -41906,7 +41240,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_cooldown
       TermType: 0
       Languages:
-      - "{[RELOAD]} time reduces by %0 seconds. \n"
+      - '{[RELOAD]} time reduces by %0 seconds.'
       - Le temps de {[RELOAD]} est réduit de %0 secondes.
       - I tempi di {[RELOAD]} si riducono di %0 secondi.
       - Die {[RELOAD]}-Zeit verringert sich um %0 Sekunden.
@@ -41924,7 +41258,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_cooldownPerc
       TermType: 0
       Languages:
-      - "{[RELOAD]} time reduces by %0%. \n"
+      - '{[RELOAD]} time reduces by %0%.'
       - Le temps de {[RELOAD]} est réduit de %0 %.
       - I tempi di {[RELOAD]} aumentano del %0%.
       - Die {[RELOAD]}-Zeit verringert sich um %0 %.
@@ -41942,7 +41276,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_reduceDamage
       TermType: 0
       Languages:
-      - "Reduces incoming damage by %0. \n"
+      - Reduces incoming damage by %0.
       - Réduit les dégâts à venir de %0.
       - Riduce i danni subiti di %0.
       - Verringert erlittenen Schaden um %0.
@@ -41960,7 +41294,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_speed
       TermType: 0
       Languages:
-      - "Projectile speed increases by %0%. \n"
+      - Projectile speed increases by %0%.
       - La vitesse des projectiles augmente de %0 %.
       - La velocità dei proiettili aumenta del %0%.
       - Die Projektilgeschwindigkeit erhöht sich um %0 %.
@@ -41978,7 +41312,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_effect
       TermType: 0
       Languages:
-      - "Attack and effect time lasts %0 seconds longer. \n"
+      - Attack and effect time lasts %0 seconds longer.
       - La durée des effets et des attaques est prolongée de %0 secondes.
       - Gli attacchi e gli effetti durano %0 secondi in più.
       - Die Angriffs- und Effektdauer erhöht sich um %0 Sekunden.
@@ -41996,7 +41330,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_value
       TermType: 0
       Languages:
-      - "Coin value increases by %0%. \n"
+      - Coin value increases by %0%.
       - La valeur des pièces augmente de %0 %.
       - Il valore delle monete aumenta del %0%.
       - Der Münzwert erhöht sich um %0 %.
@@ -42014,7 +41348,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_recovery
       TermType: 0
       Languages:
-      - "Health recovery increases by %0 Wounds per second.\n"
+      - Health recovery increases by %0 Wounds per second.
       - Le rétablissement de la santé augmente de %0 blessures par seconde.
       - Il ripristino della salute aumenta di %0 punti ferita al secondo.
       - Die Gesundheitsregeneration erhöht sich um %0 Lebenspunkte pro Sekunde.
@@ -42024,7 +41358,7 @@ MonoBehaviour:
       - Odzyskiwanie zdrowia wzrasta o %0 pkt. życia na sekundę.
       - A recuperação de vida aumenta em %0 feridas por segundo.
       - Восстановление здоровья увеличивается на %0 ед. ран в секунду.
-      - 生命值恢复速度每秒增加%0点承伤。
+      - 生命值恢复速度每秒增加%0点耐伤。
       - Can yenilenmesi saniyede %0 yara artar.
       - Відновлення здоров’я збільшено до %0 ран на секунду.
       Flags: 00000000000000000000000000
@@ -42032,7 +41366,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_xp
       TermType: 0
       Languages:
-      - "Character gains %0% more experience.\n"
+      - Character gains %0% more experience.
       - Le personnage obtient %0 % d’expérience en plus.
       - Il personaggio guadagna il %0% di esperienza in più.
       - Der Charakter erhält %0 % mehr Erfahrung.
@@ -42050,7 +41384,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_health
       TermType: 0
       Languages:
-      - "Max Health increases by %0%.\n"
+      - Max Health increases by %0%.
       - Le niveau de santé max. augmente de %0 %.
       - La Salute Max aumenta del %0%.
       - Die max. Gesundheit erhöht sich um %0 %.
@@ -42068,7 +41402,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_invulnerable
       TermType: 0
       Languages:
-      - "Increases {[INVULNERABILITY]} time after getting damaged by %0 milliseconds.\n"
+      - Increases {[INVULNERABILITY]} time after getting damaged by %0 milliseconds.
       - Augmente la durée d’{[INVULNERABILITY]} de %0 secondes après avoir subi des dégâts.
       - I tempi di {[INVULNERABILITY]} aumentano di %0 secondi dopo aver subito dei danni.
       - Erhöht die {[INVULNERABILITY]}-Zeit nach erlittenem Schaden um %0 Sekunden.
@@ -42086,7 +41420,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_fever
       TermType: 0
       Languages:
-      - "Increases the duration of Collectathon by x seconds.\n"
+      - Increases the duration of Collectathon by x seconds.
       - Augmente la durée du Collectathon de x secondes.
       - Aumenta la durata del Collectathon di x secondi.
       - Erhöht die Dauer des Collectathons um x Sekunden.
@@ -42104,7 +41438,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_retaliatory
       TermType: 0
       Languages:
-      - "Increases retaliatory damage by %0%.\n"
+      - Increases retaliatory damage by %0%.
       - Augmente les dégâts en retour de %0 %.
       - Aumenta i danni da contrattacco del %0%.
       - Erhöht Vergeltungsschaden um %0 %.
@@ -42122,7 +41456,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_knockback
       TermType: 0
       Languages:
-      - "{[KNOCKBACK]}effect increases.\n"
+      - '{[KNOCKBACK]}effect increases.'
       - L’effet de {[KNOCKBACK]} augmente.
       - Aumenta l'effetto {[KNOCKBACK]}.
       - Erhöht den {[KNOCKBACK]}-Effekt.
@@ -42140,7 +41474,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_bleed
       TermType: 0
       Languages:
-      - "+%0% chance to inflict Bleeding onto enemy.\n"
+      - +%0% chance to inflict Bleeding onto enemy.
       - +%0 % de chances d’infliger l’effet Saignement à l’ennemi.
       - +%0% di probabilità di infliggere Sanguinamento ai nemici.
       - +%0 % Chance, Gegnern Blutend zuzufügen.
@@ -42158,7 +41492,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_burn
       TermType: 0
       Languages:
-      - "+%0% chance to Burn enemy for y seconds.\n"
+      - +%0% chance to Burn enemy for y seconds.
       - +%0 % de chances de brûler l’ennemi pendant y secondes.
       - +%0% di probabilità di Ustionare i nemici per y secondi.
       - +%0 % Chance, Gegner für y Sekunden in Brand zu setzen.
@@ -42176,7 +41510,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_poison
       TermType: 0
       Languages:
-      - "+%0% chance to Poison enemies.\n"
+      - +%0% chance to Poison enemies.
       - +%0 % de chances d’empoisonner les ennemis.
       - +%0% di probabilità di Avvelenare i nemici.
       - +%0 % Chance, Gegner zu vergiften.
@@ -42194,7 +41528,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_disarmed
       TermType: 0
       Languages:
-      - "+%0% chance to Disarm enemy.\n"
+      - +%0% chance to Disarm enemy.
       - +%0 % de chances de désarmer l’ennemi.
       - +%0% di probabilità di Disarmare i nemici.
       - +%0 % Chance, Gegner zu entwaffnen.
@@ -42212,7 +41546,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_healing
       TermType: 0
       Languages:
-      - "Healing increases by %0.\n"
+      - Healing increases by %0.
       - La Guérison augmente de %0.
       - La Guarigione aumenta di %0.
       - Heilung erhöht sich um %0.
@@ -42230,7 +41564,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_instant_kill
       TermType: 0
       Languages:
-      - "+%0% chance to Instant Kill enemy.\n"
+      - +%0% chance to Instant Kill enemy.
       - +%0 % de chances d’infliger Mort instantanée à l’ennemi.
       - +%0% di probabilità di Uccidere istantaneamente i nemici.
       - +%0 % Chance auf sofortigen Tod bei Gegnern.
@@ -42248,7 +41582,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_slow
       TermType: 0
       Languages:
-      - "+%0% chance to Slow enemy.\n"
+      - +%0% chance to Slow enemy.
       - +%0 % de chances de ralentir l’ennemi.
       - +%0% di probabilità di Rallentare i nemici.
       - +%0 % Chance, Gegner zu verlangsamen.
@@ -42266,7 +41600,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_stunned
       TermType: 0
       Languages:
-      - "+%0% chance to Stun enemy.\n"
+      - +%0% chance to Stun enemy.
       - +%0 % de chances d’étourdir l’ennemi.
       - +%0% di probabilità di Stordire i nemici.
       - +%0 % Chance, Gegner zu betäuben.
@@ -42284,7 +41618,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_desc_pentagram
       TermType: 0
       Languages:
-      - "%0 chance to not erase items.\n"
+      - '%0 chance to not erase items.'
       - '%0 chance de ne pas effacer d’objets.'
       - '%0 di probabilità di non eliminare gli oggetti.'
       - '%0 Chance, Gegenstände nicht zu löschen.'
@@ -42302,7 +41636,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_effectPerc_single
       TermType: 0
       Languages:
-      - "Attack and effect time lasts %0% longer.\n"
+      - Attack and effect time lasts %0% longer.
       - La durée des effets et des attaques est prolongée de %0 %.
       - Gli attacchi e gli effetti durano il %0% in più.
       - Die Angriffs- und Effektdauer hält %0 % länger an.
@@ -42320,7 +41654,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_effectPerc
       TermType: 0
       Languages:
-      - "Attack and effect time lasts %0% longer.\n"
+      - Attack and effect time lasts %0% longer.
       - La durée des effets et des attaques est prolongée de %0 %.
       - Gli attacchi e gli effetti durano il %0% in più.
       - Die Angriffs- und Effektdauer hält %0 % länger an.
@@ -42338,7 +41672,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_invulTimeBonus
       TermType: 0
       Languages:
-      - "Increases {[INVULNERABILITY]} time after getting damaged by %0 milliseconds.\n"
+      - Increases {[INVULNERABILITY]} time after getting damaged by %0 milliseconds.
       - Augmente la durée d'{[INVULNERABILITY]} de %0 millisecondes après avoir subi des dégâts.
       - Aumenta di %0 millisecondi la durata dell'{[INVULNERABILITY]} dopo aver subito un danno.
       - Erhöht die {[INVULNERABILITY]}-Zeit nach erlittenem Schaden um %0 Millisekunden.
@@ -42356,7 +41690,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_override_torronasbox1
       TermType: 0
       Languages:
-      - "Cursed item, but increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, and {[RANGE]} by %0%.\n"
+      - Cursed item, but increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, and {[RANGE]} by %0%.
       - Objet maudit, mais augmente {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} et {[RANGE]} de %0 %.
       - Oggetto maledetto, ma aumenta {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} e {[RANGE]} del %0%.
       - Verfluchter Gegenstand, erhöht aber {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} und {[RANGE]} um %0 %.
@@ -42374,7 +41708,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_override_torronasbox2
       TermType: 0
       Languages:
-      - "Increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, and {[RANGE]} by %0%.\n"
+      - Increases {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]}, and {[RANGE]} by %0%.
       - Augmente {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} et {[RANGE]} de %0 %.
       - Aumenta {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} e {[RANGE]} del %0%.
       - Erhöht {[STRENGTH]}, {[SKILL]}, {[SUSTAIN]} und {[RANGE]} um %0 %.
@@ -42392,7 +41726,7 @@ MonoBehaviour:
     - Term: lang/weaponLevelUp_xpDecreased
       TermType: 0
       Languages:
-      - "Character gains %0% less experience.\n"
+      - Character gains %0% less experience.
       - Le personnage obtient %0 % d’expérience en moins.
       - Il personaggio guadagna il %0% di esperienza in meno.
       - Charakter erhält %0 % weniger Erfahrung.
@@ -43482,7 +42816,7 @@ MonoBehaviour:
       - Rany
       - Feridas
       - Ранения
-      - 承伤
+      - 耐伤
       - Yaralar
       - Рани
       Flags: 00000000000000000000000000
@@ -43500,7 +42834,7 @@ MonoBehaviour:
       - Wytrzymałość
       - Resistência
       - Стойкость
-      - 坚韧
+      - 韧性
       - Sağlamlık
       - Витривалість
       Flags: 00000000000000000000000000
@@ -43518,7 +42852,7 @@ MonoBehaviour:
       - Czas trwania
       - Sustentação
       - Длительность
-      - 持续
+      - 持续作战能力
       - Dayanıklılık
       - Стійкість
       Flags: 00000000000000000000000000
@@ -44274,7 +43608,7 @@ MonoBehaviour:
       - Torby Medicae
       - Bolsas Médicas
       - Сумки медикэ
-      - 医疗袋
+      - 医疗包
       - Medicae Çantaları
       - Сумки з медкомлектами
       Flags: 00000000000000000000000000
@@ -44760,7 +44094,7 @@ MonoBehaviour:
       - Nieskończone Zaklęcie Złowrogi Wir Magii
       - Feitiço Infinito do Vórtice Maléfico
       - Бесконечное заклинание «Зловещий Мальстрим»
-      - 无尽法术之恶毒漩涡
+      - 无尽法术之歹毒漩涡
       - Maelstrom Anahtarı Sonsuz Büyüsü
       - Нескінченне закляття «Лиховісний Мальстрем»
       Flags: 00000000000000000000000000
@@ -44814,7 +44148,7 @@ MonoBehaviour:
       - Nieskończone Zaklęcie Dusząca Grobowa Fala
       - Feitiço Infinito da Maré Sufocante
       - Бесконечное заклинание «Удушающая Могильная Волна»
-      - 无尽法术之窒息坟潮
+      - 无尽法术之窒息墓潮
       - Boğucu Mezar Gelgiti Sonsuz Büyüsü
       - Нескінченне закляття «Задушлива хвиля смерті»
       Flags: 00000000000000000000000000
@@ -45174,7 +44508,7 @@ MonoBehaviour:
       - Użyj Duszącej Grobowej Fali 10 razy.
       - Use a Maré Sufocante 10 vezes.
       - Используйте Удушающую Могильную Волну 10 раз.
-      - 使用窒息坟潮10次。
+      - 使用窒息墓潮10次。
       - Boğucu Mezar Gelgiti’ni 10 kez kullan.
       - Скористайтеся «Задушливою хвилею смерті» 10 разів.
       Flags: 00000000000000000000000000
@@ -45560,17 +44894,17 @@ MonoBehaviour:
     - Term: lang/genericPopup_unlocksHyper
       TermType: 0
       Languages:
-      - '''Eavy Metal mode'
+      - Eavy Metal mode
       - Mode 'Eavy Metal
       - Modalità 'Eavy Metal
       - ’Eavy-Metal-Modus
       - Modo 'Eavy Metal
       - 「イーヴィ・メタル」モード
-      - '''Eavy Metal 모드'
+      - Eavy Metal 모드
       - Tryb 'Eavy Metal
       - Modo 'Eavy Metal
       - Режим 'Eavy Metal
-      - '''Eavy Metal模式'
+      - Eavy Metal模式
       - Ağır Metal modu
       - Режим 'Eavy Metal
       Flags: 00000000000000000000000000
@@ -45588,7 +44922,7 @@ MonoBehaviour:
       - Ulepsz Porażenie.
       - Evolua o Castigo.
       - Усовершенствуйте кару.
-      - 进阶惩击。
+      - 进化惩击。
       - Smite’ı geliştir.
       - Удоскональте Кару.
       Flags: 00000000000000000000000000
@@ -45606,7 +44940,7 @@ MonoBehaviour:
       - Ulepsz Burzowy Bolter.
       - Evolua a Bolter de Assalto
       - Усовершенствуйте штормовой болтер.
-      - 进阶风暴爆矢枪。
+      - 进化风暴爆矢枪。
       - Fırtına Tüfeği’ni geliştir.
       - Удоскональте штурмовий гвинтовик.
       Flags: 00000000000000000000000000
@@ -45822,7 +45156,7 @@ MonoBehaviour:
       - Ulepsz Żarokostur.
       - Evolua o Cajado de Chamas.
       - Усовершенствуйте посох-жаровню.
-      - 进阶火炬之杖。
+      - 进化火炬之杖。
       - Kor Asa’yı geliştir.
       - Удоскональте посох-жаровню.
       Flags: 00000000000000000000000000
@@ -46056,7 +45390,7 @@ MonoBehaviour:
       - '{[REDEPLOYMENT]} +1 co 15 poziomów (maks. 2). {[VETERANCY]} +5% za każdego towarzysza.'
       - Ganha +1 {[REDEPLOYMENT]} a cada 15 níveis (máximo de 2). Ganha +5% de {[VETERANCY]} para cada Seguidor.
       - Получает +1 к параметру {[REDEPLOYMENT]} каждые 15 уровней (максимум 2). Получает +5% к параметру {[VETERANCY]} за каждого последователя.
-      - 每15级获得+1次{[REDEPLOYMENT]}（最多2次）。每拥有一名随从，获得+5%{[VETERANCY]}。
+      - 每15级获得+1次{[REDEPLOYMENT]}（最多2次）。每拥有一名随行人员，获得+5%{[VETERANCY]}。
       - Her 15 seviyede +1 {[REDEPLOYMENT]} kazanır (maks. 2). Her takipçi için +%5 {[VETERANCY]} kazanır.
       - +1 {[REDEPLOYMENT]} кожні 15 рівнів (макс. 2). {[VETERANCY]} +5% за кожного послідовника.
       Flags: 00000000000000000000000000
@@ -46074,7 +45408,7 @@ MonoBehaviour:
       - Czas odnowienia broni skrócony o 20%.
       - Reduz o tempo de recarga das armas em 20%.
       - Время перезарядки оружия сокращается на 20%.
-      - 武器冷却时间缩短20%。
+      - 武器重新装填时间缩短20%。
       - Silah bekleme süresi %20 azalır.
       - Тривалість перезаряджання зброї зменшено на 20%.
       Flags: 00000000000000000000000000
@@ -46146,7 +45480,7 @@ MonoBehaviour:
       - 'Zadaje obrażenia odwetowe po otrzymaniu obrażeń. Przy krytycznie niskim poziomie punktów życia tymczasowo zyskuje efekt Szału. '
       - 'Retalia ao receber dano. Ganha temporariamente o efeito de estado Frenesi quando seu nível de feridas estiver criticamente baixo. '
       - 'Наносит ответный удар при получении урона. Временно получает статусный эффект «Неистовство» при критически низком уровне ран. '
-      - '受到伤害时进行反击。在承伤值极低时，暂时进入狂乱状态效果。 '
+      - '受到伤害时进行反击。在耐伤值极低时，暂时进入狂乱状态效果。 '
       - 'Hasar alındığında misilleme yapar. Kritik derecede düşük yaralarda geçici Gözü Dönmüş durum etkisi kazanır. '
       - 'Контратакує, коли зазнає шкоди. Коли показник ран падає критично низько, тимчасово отримує несамовитість. '
       Flags: 00000000000000000000000000
@@ -46200,7 +45534,7 @@ MonoBehaviour:
       - '{[RANGE]} +5% i {[TOUGHNESS]} +0,1 za każdego towarzysza. Znajduje więcej Amunicji Piekielnego Ognia.'
       - Ganha +5% de {[RANGE]} e +0,1 de {[TOUGHNESS]} por cada Seguidor. Encontra mais munição Hellfire.
       - Получает +5% к параметру {[RANGE]} и +0,1 к параметру {[TOUGHNESS]} за каждого последователя. Находит больше болтов «Адский огонь».
-      - 每拥有一名随从，可+5%{[RANGE]}并+0.1{[TOUGHNESS]}。同时能获取更多地狱火弹药。
+      - 每拥有一名随行人员，可+5%{[RANGE]}并+0.1{[TOUGHNESS]}。同时能获取更多地狱火弹药。
       - Her Takipçi için +%5 {[RANGE]} ve +0,1 {[TOUGHNESS]} kazanır. Daha fazla Cehennem Ateşi Mühimmatı bulur.
       - '{[RANGE]} +5% і {[TOUGHNESS]} +0,1 за кожного послідовника. Знаходить більше пеклополум’яних набоїв.'
       Flags: 00000000000000000000000000
@@ -46236,7 +45570,7 @@ MonoBehaviour:
       - Zawsze pojawiają się 4 opcje po zdobyciu nowego poziomu. Wrogowie mogą upuszczać monety zamiast klejnotów.
       - Sempre há 4 opções para subir de nível. Os inimigos podem derrubar moedas em vez de gemas.
       - Всегда получает 4 варианта для повышения уровня. Из врагов могут выпадать монеты вместо драгоценных камней.
-      - 始终拥有4个升级选项。敌人可能会掉落硬币而非宝石。
+      - 升级时必定获得4个选项。敌人可能会掉落硬币而非宝石。
       - Her zaman 4 seviye atlama seçeneği alır. Düşmanlar mücevher yerine para düşürebilir.
       - Вибірка підвищення рівня завжди з 4 варіантів. З ворогів можуть випадати монети замість самоцвітів.
       Flags: 00000000000000000000000000
@@ -46254,7 +45588,7 @@ MonoBehaviour:
       - 'Zużycie odrodzenia zwiększa {[STRENGTH]}, {[TOUGHNESS]} i {[CORRUPTION]}. '
       - 'Consumir Recolocação aumenta a {[STRENGTH]}, {[TOUGHNESS]} e {[CORRUPTION]}. '
       - 'Использование передислокации увеличивает параметры {[STRENGTH]}, {[TOUGHNESS]} и {[CORRUPTION]}. '
-      - '消耗重新部署次数，可提升{[STRENGTH]}、{[TOUGHNESS]}和{[CORRUPTION]}。 '
+      - '消耗重新部署次数，以提升{[STRENGTH]}、{[TOUGHNESS]}和{[CORRUPTION]}。 '
       - 'Yeniden Konuşlandırma tüketmek, {[STRENGTH]}, {[TOUGHNESS]} ve {[CORRUPTION]} değerini artırır. '
       - 'Витрата передислокації збільшує такі показники: {[STRENGTH]}, {[TOUGHNESS]} і {[CORRUPTION]}. '
       Flags: 00000000000000000000000000
@@ -46272,7 +45606,7 @@ MonoBehaviour:
       - Wszystkie statystyki zwiększają się za każdego towarzysza Adepta Sororitas.
       - Aumenta todos os atributos para cada seguidor da Adepta Sororitas.
       - Все характеристики повышаются за каждого последователя из Адепта Сороритас.
-      - 每拥有一名修女会随从，所有属性都会获得提升。
+      - 每拥有一名修女会随行人员，所有属性都会获得提升。
       - Her bir Adepta Sororitas takipçisi için tüm istatistikler artar.
       - За кожного послідовника з сестринства Адепта Сорорітас зростають усі показники.
       Flags: 00000000000000000000000000
@@ -46308,7 +45642,7 @@ MonoBehaviour:
       - Wywołuje Szok Bojowy u pobliskich wrogów, gdy poziom punktów życia spadnie do krytycznie niskiego poziomu. Znajduje więcej materiałów wybuchowych.
       - Aplica o efeito de estado “Choque de Batalha” aos inimigos próximos quando o nível de feridas estiver criticamente baixo. Encontra mais explosivos.
       - При критически низком уровне ран накладывает на врагов поблизости статусный эффект «Боевой шок». Находит больше взрывчатки.
-      - 在承伤值极低时，对周围敌人施加战斗休克状态效果。同时可找到更多爆炸物。
+      - 在耐伤值极低时，对周围敌人施加战斗休克状态效果。同时可找到更多爆炸物。
       - Kritik derecede düşük yaralarda yakın düşmanlara Savaş Şokuna Girmiş durum etkisi uygular. Daha fazla patlayıcı bulur.
       - Накладає стан бойового шоку на ворогів з критично низьким показником ран. Знаходить більше вибухівки.
       Flags: 00000000000000000000000000
@@ -46362,7 +45696,7 @@ MonoBehaviour:
       - '{[SKILL]} +10% za każdego towarzysza.'
       - Ganha +10% de {[SKILL]} para cada seguidor.
       - Получает +10% к параметру {[SKILL]} за каждого последователя.
-      - 每拥有一名随从，+10%{[SKILL]}。
+      - 每拥有一名随行人员，+10%{[SKILL]}。
       - Her takipçi için +%10 {[SKILL]} kazanır.
       - '{[SKILL]} зростає на 10% за кожного послідовника.'
       Flags: 00000000000000000000000000
@@ -46388,7 +45722,7 @@ MonoBehaviour:
     - Term: characterLang/{WS_40K_FURAN}description
       TermType: 0
       Languages:
-      - "Gains +1% {[SKILL]} per level if above 50% Wounds. \nGains +1% {[STRENGTH]} per level if below 50% Wounds."
+      - "Gains +1% {[SKILL]} per level if above 50% Wounds.\nGains +1% {[STRENGTH]} per level if below 50% Wounds."
       - "Obtient +1 % de {[SKILL]} par niveau si le nombre de blessures est supérieur à 50 %.\nObtient +1 % de {[STRENGTH]} par niveau si le nombre de blessures est inférieur à 50 %."
       - "Ottiene +1% {[SKILL]} per ogni livello se le Ferite sono superiori al 50%.\nOttiene +1% {[STRENGTH]} per ogni livello se le Ferite sono inferiori al 50%."
       - "Erhält pro Stufe +1 % {[SKILL]}, solange über 50 % Lebenspunkte verbleiben.\nErhält pro Stufe +1 % {[STRENGTH]}, solange unter 50 % Lebenspunkte verbleiben."
@@ -46398,7 +45732,7 @@ MonoBehaviour:
       - "{[SKILL]} +1% na poziom, gdy ma więcej niż 50% punktów życia.\n{[STRENGTH]} +1% na poziom, gdy ma mniej niż 50% punktów życia."
       - "Ganha +1% de {[SKILL]} por nível se estiver acima de 50% de feridas.\nGanha +1% {[STRENGTH]} por nível se estiver abaixo de 50%."
       - "Получает +1% к параметру {[SKILL]} с каждым новым уровнем, если ран больше 50%.\nПолучает +1% к параметру {[STRENGTH]} с каждым новым уровнем, если ран меньше 50%."
-      - "当承伤高于50%时，每升一级，+1%{[SKILL]}。\n当承伤低于50%时，每升一级，+1%{[STRENGTH]}。"
+      - "当耐伤高于50%时，每升一级，+1%{[SKILL]}。\n当耐伤低于50%时，每升一级，+1%{[STRENGTH]}。"
       - "%50 Yaraların üzerindeyken her seviyede +%1 {[SKILL]} kazanır.\n%50 Yaraların altındayken her seviyede +%1 {[STRENGTH]} kazanır."
       - "{[SKILL]} зростає на 1% з кожним рівнем, якщо показник ран вищий 50%.\n{[STRENGTH]} зростає на 1% з кожним рівнем, якщо показник ран нижчий 50%."
       Flags: 00000000000000000000000000
@@ -46470,7 +45804,7 @@ MonoBehaviour:
       - '+1 {[REDEPLOYMENT]} po osiągnięciu określonych progów liczby zabójstw. Po odrodzeniu otrzymuje efekt statusu Berserk. '
       - 'Ganha +1 {[REDEPLOYMENT]} após abater determinados números de inimigos. Recoloca com o efeito de estado de Fúria. '
       - 'Получает +1 к параметру {[REDEPLOYMENT]} при достижении определенного количества убийств. При передислокации получает статусный эффект «Берсерк». '
-      - '在达到特定击杀阈值时+1{[REDEPLOYMENT]}。重新部署时会获得狂暴状态效果。 '
+      - '每当击杀一定数量的敌人后，可获得一次{[REDEPLOYMENT]}。重新部署时会获得狂暴状态效果。 '
       - 'Belirli öldürme eşiklerinde +1 {[REDEPLOYMENT]} kazanır. Berserk Durum Etkisi ile yeniden konuşlanır. '
       - '{[REDEPLOYMENT]} +1 за певну кількість вбитих ворогів. Передислоковується на поле бою в стані берсерка. '
       Flags: 00000000000000000000000000
@@ -46506,7 +45840,7 @@ MonoBehaviour:
       - '{[AURA]} +5% co 5 poziomów (maks. +30%). Zyskuje tymczasowy efekt Ochrona za każdym razem, gdy dołącza nowy towarzysz.'
       - Ganha +5% de {[AURA]} a cada 5 níveis (máximo de +30%). Ganha temporariamente o efeito de estado Protegido quando um seguidor se juntar.
       - Получает +5% к параметру {[AURA]} каждые 5 уровней (максимум +30%). Получает временный статусный эффект «Безопасность» каждый раз, когда появляется новый последователь.
-      - 每升5级，+5%{[AURA]}（最多+30%）。每当有新随从加入时，会暂时获得庇护状态效果。
+      - 每升5级，+5%{[AURA]}（最多+30%）。每当有新的随行人员加入时，会暂时获得庇护状态效果。
       - Her 5 seviyede +%5 {[AURA]} kazanır (maks. +%30). Yeni bir takipçi katıldığında geçici Muhafazalı durum etkisi kazanır.
       - '{[AURA]} +5% кожні 5 рівнів (макс. +30%). Тимчасово отримує оберіг, коли долучається новий послідовник.'
       Flags: 00000000000000000000000000
@@ -46520,11 +45854,11 @@ MonoBehaviour:
       - "Erhält alle 10 Stufen +5 % {[RELOAD]} (max. +15 %).\nHat +2 {[ATTACKS]}, wenn genau ein Gefolgsmann vorhanden ist."
       - "Obtiene +5 % de {[RELOAD]} cada 10 niveles (máx. +15 %).\nTiene +2 {[ATTACKS]} con exactamente un seguidor."
       - "10レベルごとに{[RELOAD]}が+5%増加する（最大+15%）。\n従者が1人のとき、{[ATTACKS]}が+2増加する。"
-      - "10레벨마다 {[RELOAD]}이(가) 5% 증가합니다(최대 15%). \n추종자가 정확히 한 명일 때 {[ATTACKS]}이(가) 2 증가합니다."
+      - "10레벨마다 {[RELOAD]}이(가) 5% 증가합니다(최대 15%).\n추종자가 정확히 한 명일 때 {[ATTACKS]}이(가) 2 증가합니다."
       - "{[RELOAD]} +5% co 10 poziomów (maks. +15%).\nMa {[ATTACKS]} +2, gdy ma dokładnie jednego towarzysza."
       - "Ganha +5% de {[RELOAD]} a cada 10 níveis (máximo de +15%).\nTem +2 {[ATTACKS]} quando tem exatamente um seguidor."
       - "Получает +5% к параметру {[RELOAD]} каждые 10 уровней (максимум +15%).\nПолучает +2 {[ATTACKS]}, когда имеет только одного последователя."
-      - "每升10级，+5%{[RELOAD]}（最多+15%）。\n仅拥有一名随从时，+2{[ATTACKS]}。"
+      - "每升10级，+5%{[RELOAD]}（最多+15%）。\n仅拥有一名随行人员时，+2{[ATTACKS]}。"
       - "Her 10 seviyede, +%5 {[RELOAD]} kazanır (maks. +%15).\n, tam olarak bir takipçiye sahipken +2 {[ATTACKS]} kazanır."
       - "{[RELOAD]} +5% кожні 10 рівнів (макс. +15%).\n{[ATTACKS]} +2, якщо є лише один послідовник."
       Flags: 00000000000000000000000000
@@ -46614,7 +45948,7 @@ MonoBehaviour:
       - Premia do {[CHANCE]} i {[MOVE]}, gdy w zasięgu wzroku jest wielu wrogów.
       - Ganha um bônus de {[CHANCE]} e {[MOVE]} quando muitos inimigos estão no campo de visão.
       - Получает бонус к параметрам {[CHANCE]} и {[MOVE]}, когда поблизости много врагов.
-      - 当视野内存在大量敌人时，{[CHANCE]}和{[MOVE]}可获得加成。
+      - 当视野内存在大量敌人时，{[CHANCE]}和{[MOVE]}属性会获得加成。
       - Çok sayıda düşman görüş alanındayken {[CHANCE]} ve {[MOVE]} için bonus kazanır.
       - Отримує бонус до показників {[CHANCE]} і {[MOVE]}, коли в полі зору багато ворогів.
       Flags: 00000000000000000000000000
@@ -46694,7 +46028,7 @@ MonoBehaviour:
     - Term: characterLang/{WS_AOS_ROSTUS}description
       TermType: 0
       Languages:
-      - Gains +10 {[WOUNDS]} for every 1000enemies defeated.
+      - Gains +10 {[WOUNDS]} for every 1000 enemies defeated.
       - Obtient +10 {[WOUNDS]} tous les 1 000 ennemis battus.
       - Ottiene +10% {[WOUNDS]} per 1.000 nemici sconfitti.
       - Erhält +10 {[WOUNDS]} für je 1.000 besiegte Gegner.
@@ -46740,7 +46074,7 @@ MonoBehaviour:
       - 'Premia przy krytycznie niskim poziomie punktów życia: {[STRENGTH]} i {[RELOAD]}.'
       - Ganha um bônus de {[STRENGTH]} e {[RELOAD]} quando estiver com feridas em estado crítico.
       - Получает бонус к параметрам {[STRENGTH]} и {[RELOAD]} при критически низком уровне ран.
-      - 当承伤极低时，{[STRENGTH]}和{[RELOAD]}可获得加成。
+      - 当耐伤极低时，{[STRENGTH]}和{[RELOAD]}可获得加成。
       - Kritik derecede düşük yaralarda {[STRENGTH]} ve {[RELOAD]} için bonus kazanır.
       - Отримує бонус до показників {[STRENGTH]} і {[RELOAD]} за критично низького показника ран.
       Flags: 00000000000000000000000000
@@ -46992,7 +46326,7 @@ MonoBehaviour:
       - Domyślne
       - Padrão
       - Обычный
-      - 默认
+      - 基础伤害
       - Varsayılan
       - Стандартно
       Flags: 00000000000000000000000000
@@ -47591,6 +46925,78 @@ MonoBehaviour:
       - В атаку!
       Flags: 00000000000000000000000000
       Languages_Touch: []
+    - Term: dialogue/{WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW}description
+      TermType: 0
+      Languages:
+      - The light! It hurts… I. Will. Make. It. STOP!!!
+      - La lumière ! Elle brûle... Je. Vais. En. FINIR !!!
+      - La luce! Fa male... Devo. assolutamente. SPEGNERLA!!!
+      - Das Licht! Es tut weh … Ich. Werde. Es. Auslöschen!!!
+      - ¡La luz! Duele… ¡¡¡Yo. Haré. Que. Pare!!!
+      - 光だ！痛い…私は…止める…必ず止める！！！
+      - 빛이! 아프다… 내. 가. 반드시. 멈. 춘. 다!!!
+      - Światło! Boli… Ja. To. POWSTRZYMAM!!!
+      - A luz! Está doendo... Eu. Vou Fazer. Isso. PARAR!!!
+      - Свет! Он жжется… Я. Заставлю. Его. ПОГАСНУТЬ!!!
+      - 这光！要刺眼……我……要……让它……熄灭！
+      - Işık! Canımı yakıyor… Ben. Bunu. DURDURACAĞIM!!!
+      - Світло! Пече... Я. Це. ЗУПИНЮ!
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: dialogue/{WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW}button
+      TermType: 0
+      Languages:
+      - For Sigmar!
+      - Pour Sigmar !
+      - Per Sigmar!
+      - Für Sigmar!
+      - ¡Por Sigmar!
+      - シグマーの御名において！
+      - 시그마를 위하여!
+      - W imię Sigmara!
+      - Por Sigmar!
+      - За Сигмара!
+      - 为了西格玛！
+      - Sigmar için!
+      - За Сігмара!
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: dialogue/{WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW}descriptionInvulnerable
+      TermType: 0
+      Languages:
+      - Haha your club don't hurt Trugg… Trugg will crush you!
+      - Ha ha ha. Bâton pas faire mal à Trugg... Trugg t'écraser !
+      - Ah ah, tua mazza non fa male a Trugg... Trugg ti schiaccia!
+      - Haha! Deine Keule kann Trugg nichts anhaben … Trugg wird dich zermalmen!
+      - Ja, ja, tu garrote no hace daño a Trugg… ¡Trugg te aplastará!
+      - ハハ！そんな棍棒じゃトラグは痛くもない…トラグがお前を叩き潰してやる！
+      - 하하! 네 몽둥이 따윈 트러그한테 안 아프다… 트러그가 널 짓뭉개 주마!
+      - Ha, ha! Twoja pałka nie boli Trugga… Trugg Cię zmiażdży!
+      - Haha, sua clava não faz nem cócegas no Trugg... Trugg vai te esmagar!
+      - Ха-ха, твоя дубина не делает Траггу больно… Трагг тебя раздавит!
+      - 哈哈，你的棒子伤不了特鲁格……而特鲁格会把你碾碎！
+      - Haha, senin sopan Trugg’ın canını yakmaz… Trugg seni ezecek!
+      - Ха-ха, твоя палиця не робить боляче Труґґу... Труґґ тебе розчавить!
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: dialogue/{WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW}buttonInvulnerable
+      TermType: 0
+      Languages:
+      - Attack!
+      - À l'attaque !
+      - All'attacco!
+      - Angriff!
+      - ¡Ataca!
+      - 攻撃！
+      - 공격!
+      - Do ataku!
+      - Atacar!
+      - В атаку!
+      - 攻击！
+      - Saldır!
+      - В атаку!
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
     - Term: lang/powerup_bonusRanksDescription
       TermType: 0
       Languages:
@@ -47640,7 +47046,7 @@ MonoBehaviour:
       - Ulepsz Burzowy Młot Bojowy.
       - Evolua o Martelo de Guerra Fulminante.
       - Усовершенствуйте штормовой боевой молот.
-      - 进阶风暴蓄能战锤。
+      - 进化风暴蓄能战锤。
       - Fırtına Yüklü Savaş Çekici’ni geliştir.
       - Удоскональте грозовий бойовий молот.
       Flags: 00000000000000000000000000
@@ -47658,7 +47064,7 @@ MonoBehaviour:
       - Ulepsz Burzowy Młot Bojowy.
       - Evolua o Martelo de Guerra Fulminante.
       - Усовершенствуйте штормовой боевой молот.
-      - 进阶风暴蓄能战锤。
+      - 进化风暴蓄能战锤。
       - Fırtına Yüklü Savaş Çekici’yi geliştir.
       - Удоскональте грозовий бойовий молот.
       Flags: 00000000000000000000000000
@@ -48000,7 +47406,7 @@ MonoBehaviour:
       - Wylecz łącznie 1000 punktów życia w trybie ’Eavy Metal.
       - Recupere um total de 1000 Feridas no modo 'Eavy Metal.
       - Восстановите в общей сложности 1000 ран в режиме 'Eavy Metal.
-      - 在'Eavy Metal模式中累计恢复1000点承伤。
+      - 在'Eavy Metal模式中累计恢复1000点耐伤。
       - Ağır Metal modunda toplam 1000 Yarayı iyileştir.
       - Загойте загалом 1000 ран в режимі 'Eavy Metal.
       Flags: 00000000000000000000000000
@@ -48018,7 +47424,7 @@ MonoBehaviour:
       - Wylecz łącznie 1000 punktów życia w trybie ’Eavy Metal.
       - Recupere um total de 1000 Feridas no modo 'Eavy Metal.
       - Восстановите в общей сложности 1000 ран в режиме 'Eavy Metal.
-      - 在'Eavy Metal模式中累计恢复1000点承伤。
+      - 在'Eavy Metal模式中累计恢复1000点耐伤。
       - Ağır Metal modunda toplam 1000 Yarayı iyileştir.
       - Загойте загалом 1000 ран в режимі 'Eavy Metal.
       Flags: 00000000000000000000000000

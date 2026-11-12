@@ -2078,7 +2078,7 @@
         "_value": "帝国船坞"
       },
       "tips": {
-        "_value": "电梯有助于定位方向。"
+        "_value": "利用电梯，通行更方便。"
       }
     },
     "WS_40K_ORK_STRONGHOLD": {
@@ -2204,7 +2204,7 @@
       "_value": "挑战"
     },
     "WS_Secret_stageType": {
-      "_value": "秘密关卡"
+      "_value": "隐藏关卡"
     },
     "WS_Bonus_stageType": {
       "_value": "奖励"

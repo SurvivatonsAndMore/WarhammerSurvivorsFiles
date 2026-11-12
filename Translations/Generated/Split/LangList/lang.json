@@ -589,7 +589,7 @@
       "Rany:",
       "Feridas:",
       "Ранения:",
-      "承伤：",
+      "耐伤：",
       "Yaralar:",
       "Рани:"
     ]
@@ -1565,7 +1565,7 @@
   },
   "limitBreak_area": {
     "_value": [
-      "{[RANGE]}  +%0%",
+      "{[RANGE]} +%0%",
       "{[RANGE]} +%0 %",
       "{[RANGE]} +%0%",
       "{[RANGE]} +%0 %",
@@ -1973,7 +1973,7 @@
   },
   "musicMod_hyper": {
     "_value": [
-      "'Eavy Metal",
+      "Eavy Metal",
       "#N/A",
       "#N/A",
       "#N/A",
@@ -2510,7 +2510,7 @@
       "Wartości obrażeń",
       "Valores de dano",
       "Количество повреждений",
-      "伤害数字",
+      "伤害数字显示",
       "Hasar Sayıları",
       "Показники шкоди"
     ]
@@ -2850,7 +2850,7 @@
       "Muzyka",
       "Música",
       "Музыка",
-      "音乐",
+      "音乐音量",
       "Müzik",
       "Музика"
     ]
@@ -3003,7 +3003,7 @@
       "Dźwięk",
       "Sons",
       "Звуки",
-      "音效",
+      "音效音量",
       "Sesler",
       "Звуки"
     ]
@@ -3054,7 +3054,7 @@
       "Ulubione",
       "Favoritos",
       "Избранное",
-      "收藏",
+      "常用",
       "Favoriler",
       "Вибране"
     ]
@@ -3122,7 +3122,7 @@
       "Niestandardowy kursor sprzętowy",
       "Cursor Personalizado de Hardware",
       "Пользовательский аппаратный курсор",
-      "自定义硬件光标",
+      "自定义硬件指针",
       "Özel Donanım İmleci",
       "Користувацький апаратний курсор"
     ]
@@ -3809,7 +3809,7 @@
   },
   "preload_warning_text": {
     "_value": [
-      "This game contains imagery that may trigger Trypophobia in some players. \n\nThis game also contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing.",
+      "This game contains imagery that may trigger Trypophobia in some players.\n\nThis game also contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing.",
       "Ce jeu contient des images susceptibles de déclencher une trypophobie chez certains joueurs et joueuses.\n\nCe jeu contient également des lumières vives clignotantes. Veuillez arrêter immédiatement de jouer et consulter un médecin si vous ressentez des vertiges, des troubles de la vision, des spasmes au niveau des yeux ou du visage, des secousses ou des tremblements des bras ou des jambes, une désorientation, une confusion ou une perte momentanée de connaissance.\n\nSi vous ou l’un de vos proches avez des antécédents de crises d’épilepsie, consultez un médecin avant de jouer.",
       "Questo gioco contiene immagini che potrebbero urtare chi soffre di tripofobia.\n\nQuesto gioco contiene inoltre delle luci lampeggianti. Smetti immediatamente di giocare e consulta un medico se avverti capogiri, alterazioni della vista, spasmi all'occhio o al volto, scatti o tremori di braccia o gambe, disorientamento, confusione o brevi perdite di coscienza.\n\nConsulta un dottore prima di giocare se in passato tu o un membro della tua famiglia avete sofferto di attacchi epilettici.",
       "Dieses Spiel enthält Bilder, die bei manchen Spielern Trypophobie auslösen können.\n\nAußerdem enthält dieses Spiel helle, blinkende Lichteffekte. Bitte beende das Spiel sofort und suche einen Arzt auf, wenn Benommenheit, Sehstörungen, Zuckungen der Augen oder des Gesichts, Zuckungen oder Zittern der Arme oder Beine, Orientierungslosigkeit, Verwirrtheit oder kurze Bewusstseinsaussetzer auftreten.\n\nWenn du oder einer deiner Angehörigen schon einmal Krampfanfälle oder Epilepsie hatte, konsultiere bitte vor dem Spielen einen Arzt.",
@@ -4251,19 +4251,19 @@
   },
   "stageConfirm_hyper": {
     "_value": [
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
       "「イーヴィ・メタル」",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal"
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal"
     ]
   },
   "stageConfirm_inverse": {
@@ -4482,7 +4482,7 @@
       "Rany wroga",
       "Feridas do Inimigo",
       "Ранения врагов",
-      "敌方承伤",
+      "敌方耐伤",
       "Düşman Yaraları",
       "Ворожі рани"
     ]
@@ -5757,7 +5757,7 @@
       "Różne informacje",
       "Informações adicionais",
       "Разное",
-      "其他信息",
+      "详细信息",
       "Çeşitli Bilgiler",
       "Додаткова інформація"
     ]
@@ -6233,7 +6233,7 @@
       "#N/A",
       "#N/A",
       "#N/A",
-      "#N/A",
+      "Auroch Digital Ltd",
       "#N/A",
       "#N/A"
     ]
@@ -6250,7 +6250,7 @@
       "#N/A",
       "#N/A",
       "#N/A",
-      "#N/A",
+      "Bastion",
       "#N/A",
       "#N/A"
     ]
@@ -6403,7 +6403,7 @@
       "Kierownictwo ds. dźwięku i muzyki",
       "Liderança em áudio e música da empresa",
       "Управление компании по аудио и музыке",
-      "公司音频与音乐领导团队",
+      "公司音频与音乐负责人",
       "Şirket Ses ve Müzik Lideri",
       "Керівництво компанії в аудіогалузі"
     ]
@@ -6437,7 +6437,7 @@
       "#N/A",
       "#N/A",
       "#N/A",
-      "#N/A",
+      "COUSIN Media Group",
       "#N/A",
       "#N/A"
     ]
@@ -6505,7 +6505,7 @@
       "Wsparcie projektowe",
       "Suporte ao design",
       "Поддержка геймдизайна",
-      "设计支持",
+      "设计助理",
       "Tasarım Desteği",
       "Підтримка дизайнерів"
     ]
@@ -6590,7 +6590,7 @@
       "#N/A",
       "#N/A",
       "#N/A",
-      "#N/A",
+      "Games Workshop",
       "#N/A",
       "#N/A"
     ]
@@ -6607,7 +6607,7 @@
       "#N/A",
       "#N/A",
       "#N/A",
-      "#N/A",
+      "Ground Shatter",
       "#N/A",
       "#N/A"
     ]
@@ -7583,7 +7583,7 @@
   },
   "ws_credit_coherence": {
     "_value": [
-      "Supported by the coherence team \nwith special Thanks to Miguel Ferradáns Valdés",
+      "Supported by the coherence team\nwith special Thanks to Miguel Ferradáns Valdés",
       "Avec l’aide de l’équipe de Coherence\net un grand merci à Miguel Ferradáns Valdés",
       "Supportati dal team coherence\ncon un ringraziamento speciale a Miguel Ferradáns Valdés",
       "Unterstützt vom Coherence-Team\nmit besonderem Dank an Miguel Ferradáns Valdés.",
@@ -8569,7 +8569,7 @@
   },
   "ws_waaagh_erewego": {
     "_value": [
-      "'ERE WE GO!",
+      "ERE WE GO!",
       "ON Y VA !",
       "NOI ZI VA!",
       "LOS GEHT'S!",
@@ -8698,7 +8698,7 @@
       "MISJA ZAKOŃCZONA",
       "MISSÃO COMPLETA",
       "МИССИЯ ЗАВЕРШЕНА",
-      "任务完成",
+      "关卡完成",
       "GÖREV TAMAMLANDI",
       "ЗАВДАННЯ ЗАВЕРШЕНО"
     ]
@@ -9191,7 +9191,7 @@
       "Sekrety",
       "Segredos",
       "Секреты",
-      "秘密关卡",
+      "隐藏关卡",
       "Sırlar",
       "Таємниці"
     ]
@@ -9208,7 +9208,7 @@
       "Wybór misji",
       "Selecionar Missão",
       "Выбор миссии",
-      "任务选择",
+      "关卡选择",
       "Görev Seçimi",
       "Вибір завдання"
     ]
@@ -9395,7 +9395,7 @@
       "Nie pozostały żadne sekrety.",
       "Não há mais Segredos pendentes.",
       "Не осталось нераскрытых секретов.",
-      "所有秘密关卡均已通关。",
+      "所有隐藏关卡均已通关。",
       "Keşfedilecek Sır kalmadı.",
       "Визначних таємниць не залишилося."
     ]
@@ -9582,7 +9582,7 @@
       "Zastosuj ustawienia graficzne",
       "Aplicar configurações gráficas",
       "Применить настройки графики",
-      "应用图形设置",
+      "保存画面设置",
       "Grafik Ayarlarını Uygula",
       "Застосувати налаштування"
     ]
@@ -9922,7 +9922,7 @@
       "Zaakceptuj",
       "Aceitar",
       "Принять",
-      "同意",
+      "确定",
       "Kabul et",
       "Прийняти"
     ]
@@ -10415,7 +10415,7 @@
       "Statystyki misji",
       "Estatísticas da Missão",
       "Характеристики миссии",
-      "任务统计",
+      "关卡数据",
       "Görev İstatistikleri",
       "Статистика завдання"
     ]
@@ -10823,7 +10823,7 @@
       "Czas gry",
       "Tempo de jogo",
       "Время в игре",
-      "游戏时长",
+      "累计游玩时间",
       "Oynama Süresi",
       "Зіграно"
     ]
@@ -10925,7 +10925,7 @@
       "Czas misji upływa dwa razy szybciej, a Wprawa postaci wzrasta.",
       "O cronômetro da missão corre duas vezes mais rápido e a experiência do personagem aumenta.",
       "Таймер миссии работает с удвоенной скоростью, а ветеранство персонажа увеличивается.",
-      "任务计时器以二倍速运行，且角色熟练度获取提升。",
+      "关卡计时器以二倍速运行，且角色熟练度获取提升。",
       "Görev sayacı iki kat hızda çalışır ve Karakterin Kıdemi artar.",
       "Час спливає вдвічі швидше, а воєнний досвід персонажа підвищено."
     ]
@@ -11068,19 +11068,19 @@
   },
   "ws_stage_modes_hyper": {
     "_value": [
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
       "「イーヴィ・メタル」",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal",
-      "'Eavy Metal"
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal",
+      "Eavy Metal"
     ]
   },
   "ws_stage_modes_limitless": {
@@ -11163,7 +11163,7 @@
       "Muzyka",
       "Música",
       "Музыка",
-      "音乐",
+      "音乐音量",
       "Müzik",
       "Музика"
     ]
@@ -11214,7 +11214,7 @@
       "Statystyki misji",
       "Estatísticas da missão",
       "Характеристики миссии",
-      "任务统计",
+      "关卡数据",
       "Görev İstatistikleri:",
       "Характеристики завдання"
     ]
@@ -11265,7 +11265,7 @@
       "Sekret",
       "Secreto",
       "Секрет",
-      "秘密关卡",
+      "隐藏关卡",
       "Sır",
       "Таємниця"
     ]
@@ -11996,7 +11996,7 @@
       "Odzyskiwanie zdrowia wzrasta o %0 pkt. życia na sekundę.",
       "A recuperação de vida aumenta em %0 feridas por segundo.",
       "Восстановление здоровья увеличивается на %0 ед. ран в секунду.",
-      "生命值恢复速度每秒增加%0点承伤。",
+      "生命值恢复速度每秒增加%0点耐伤。",
       "Can yenilenmesi saniyede %0 yara artar.",
       "Відновлення здоров’я збільшено до %0 ран на секунду."
     ]
@@ -13085,7 +13085,7 @@
         "Rany",
         "Feridas",
         "Ранения",
-        "承伤",
+        "耐伤",
         "Yaralar",
         "Рани"
       ]
@@ -13102,7 +13102,7 @@
         "Wytrzymałość",
         "Resistência",
         "Стойкость",
-        "坚韧",
+        "韧性",
         "Sağlamlık",
         "Витривалість"
       ]
@@ -13119,7 +13119,7 @@
         "Czas trwania",
         "Sustentação",
         "Длительность",
-        "持续",
+        "持续作战能力",
         "Dayanıklılık",
         "Стійкість"
       ]
@@ -13484,17 +13484,17 @@
   },
   "genericPopup_unlocksHyper": {
     "_value": [
-      "'Eavy Metal mode",
+      "Eavy Metal mode",
       "Mode 'Eavy Metal",
       "Modalità 'Eavy Metal",
       "’Eavy-Metal-Modus",
       "Modo 'Eavy Metal",
       "「イーヴィ・メタル」モード",
-      "'Eavy Metal 모드",
+      "Eavy Metal 모드",
       "Tryb 'Eavy Metal",
       "Modo 'Eavy Metal",
       "Режим 'Eavy Metal",
-      "'Eavy Metal模式",
+      "Eavy Metal模式",
       "Ağır Metal modu",
       "Режим 'Eavy Metal"
     ]

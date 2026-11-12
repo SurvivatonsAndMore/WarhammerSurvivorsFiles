@@ -522,7 +522,7 @@
   "zh-CN": {
     "DEFAULT": {
       "name": {
-        "_value": "默认"
+        "_value": "基础伤害"
       }
     },
     "FIRE": {

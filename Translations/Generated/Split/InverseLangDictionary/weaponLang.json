@@ -29,7 +29,7 @@
     },
     "WS_40K_ARDENT_BLADE": {
       "tips": {
-        "_value": "This sword is wielded by none other than the Living Saint, Celestine, in the name of Emperer. Its petals scatter, just as they did when the Saint emerged from the tomb of Saint Katherine."
+        "_value": "This sword is wielded by none other than the Living Saint, Celestine, in the name of Emperor. Its petals scatter, just as they did when the Saint emerged from the tomb of Saint Katherine."
       },
       "customValue1": {
         "_value": "Hitbox delay reduced."
@@ -57,7 +57,7 @@
         "_value": "Feeding into the Orkish myths surrounding him, Yarrick had a bionic eye implanted so he could “kill with a glance”. The Bale Eye produces a concentrated laser beam in combat that is so powerful it can melt an enemy from ten paces."
       },
       "description": {
-        "_value": "Gift of Power Klaw. An 'evil eye' implant firing a short ranged laser, Battle-Shocks Orks. Bane of Ghazghkull Thraka"
+        "_value": "Gift of Power Klaw. An 'evil eye' implant firing a short ranged laser, Battle-Shocks Orks. Bane of Ghazghkull Thraka."
       },
       "name": {
         "_value": "Bale Eye"
@@ -76,7 +76,7 @@
     },
     "WS_40K_BENEDICTION_OF_FURY": {
       "tips": {
-        "_value": "This ancient, relic crozius arcanum has absorbed the righteous fury of every Chaplain to ever wield it. Now it unleashes those centuries of fury in thunderous fervour."
+        "_value": "The ancient relic, the crozius arcanum, has absorbed the righteous fury of every Chaplain to ever wield it. Now it unleashes those centuries of fury in thunderous fervour."
       },
       "description": {
         "_value": "Evolved Crozius Arcanum. Strikes in front and behind, causing thunderous shockwaves."
@@ -135,14 +135,6 @@
       },
       "name": {
         "_value": "Combat Shotgun"
-      }
-    },
-    "WS_40K_CONDEMNOR_BOLTGUN": {
-      "description": {
-        "_value": "Drops flaming projectiles while moving, unleashing a deadly barrage while stopped."
-      },
-      "name": {
-        "_value": "Condemnor Boltgun"
       }
     },
     "WS_40K_CROZIUS_ARCANUM": {
@@ -272,14 +264,6 @@
         "_value": "Gauntlets Of Ultramar"
       }
     },
-    "WS_40K_GUARDIAN_SKULL": {
-      "description": {
-        "_value": "Releases electrical explosions when bouncing and shoots projectiles as it flies around."
-      },
-      "name": {
-        "_value": "Guardian Skull"
-      }
-    },
     "WS_40K_HEAVY_BOLTER": {
       "tips": {
         "_value": "Also known as a Back Breaker, the heavy bolter is a huge variant of the standard Boltgun. As an oversized weapon it fires fist-sized armour piercing rounds into enemy lines with an astounding rate of fire."
@@ -323,7 +307,7 @@
     },
     "WS_40K_LASGUN": {
       "tips": {
-        "_value": "The lasgun is favoured by the Astra Militarum troops as a realiable weapon against the enemies of the Emperor, though not as powerful as many of the kinetic weapons of the Imperium."
+        "_value": "The lasgun is favoured by the Astra Militarum troops as a reliable weapon against the enemies of the Emperor, though not as powerful as many of the kinetic weapons of the Imperium."
       },
       "customDescValue": {
         "_value": "Gain an additional trooper with another lasgun."
@@ -337,7 +321,7 @@
     },
     "WS_40K_DEATHSTRIKE_MISSILE": {
       "tips": {
-        "_value": "A weapon of Mass Destruction utilised by the Astra Militarum, a rarity on the battlefield in current times they are only used in the most apocalyptic situations."
+        "_value": "A weapon of Mass Destruction utilised by the Astra Militarum; a rarity on the battlefield in current times, they are only used in the most apocalyptic situations."
       },
       "customValue1": {
         "_value": "%0% chance to not erase items."
@@ -369,22 +353,6 @@
       },
       "name": {
         "_value": "Meltagun"
-      }
-    },
-    "WS_40K_NARTHECIUM": {
-      "description": {
-        "_value": "Restores {[WOUNDS]} based on {[SKILL]} and {[TOUGHNESS]}"
-      },
-      "name": {
-        "_value": "Narthecium"
-      }
-    },
-    "WS_40K_NEURO_GAUNTLET": {
-      "description": {
-        "_value": "Sharp talons slash horizontally in front of the player"
-      },
-      "name": {
-        "_value": "Neuro Gauntlet"
       }
     },
     "WS_NULN_OIL": {
@@ -511,23 +479,6 @@
         "_value": "Shield of Faith"
       }
     },
-    "WS_40K_SERVOSKULL": {
-      "customDescValue": {
-        "_value": "Skulls accelerate by x after each bounce."
-      },
-      "customDescValue2": {
-        "_value": "Bounces create a tiny shock blast"
-      },
-      "customDescValue3": {
-        "_value": "Upon expiry an explosion deals 100% shock damage in a small area."
-      },
-      "description": {
-        "_value": "Skulls that bounce off terrain and pass through enemies, dealing shock damage."
-      },
-      "name": {
-        "_value": "Servo-Skull"
-      }
-    },
     "WS_40K_SIDE_SPONSONS": {
       "tips": {
         "_value": "Two mounted heavy bolters fire independently, covering the battlefield in a hail of fist-sized bolts whilst the operators remain safely ensconced in the tank’s heavy metal shell."
@@ -610,25 +561,9 @@
         "_value": "Storm Eagle Rocket"
       }
     },
-    "WS_40K_VIVISPECTRUM": {
-      "description": {
-        "_value": "TBC - Desc"
-      },
-      "name": {
-        "_value": "Vivispectrum"
-      }
-    },
-    "WS_40K_VORTEX_GRENADE": {
-      "description": {
-        "_value": "“Gift” evolution of the Condemnor. Grenades create vortexes pulling enemies into its AoE."
-      },
-      "name": {
-        "_value": "Vortex Grenade"
-      }
-    },
     "WS_40K_WEAPON_OF_THE_MATRIARCH": {
       "tips": {
-        "_value": "Saint Celestine’s blade, once borne by one of the matriarch’s of the Adepta Sororitas. It is wreathed in flowers, as it was when Celestine arose from the tomb of Saint Katherine, and can unleash the Sister’s pious fury in a jet of flames."
+        "_value": "Saint Celestine’s blade, once borne by one of the matriarchs of the Adepta Sororitas. It is wreathed in flowers, as it was when Celestine arose from the tomb of Saint Katherine, and can unleash the Sister’s pious fury in a jet of flames."
       },
       "description": {
         "_value": "Evolved Ardent Blade. Unleashes a burning horizontal strike. Bane of the Great Unclean One."
@@ -686,14 +621,6 @@
         "_value": "Artefacts of Power"
       }
     },
-    "WS_AOS_BATTLE_HORN": {
-      "description": {
-        "_value": "Fires growing pulses of sound in the faced direction."
-      },
-      "name": {
-        "_value": "Battle Horn"
-      }
-    },
     "WS_AOS_BLADED_VORTEX": {
       "tips": {
         "_value": "Conjured from the blood rites of the Daughters of Khaine, the curved falchions carve through lines upon lines of enemies."
@@ -703,25 +630,6 @@
       },
       "name": {
         "_value": "Bladed Vortex"
-      }
-    },
-    "WS_AOS_BLOOD_ARROWS": {
-      "descriptions": {
-        "_value": "“Gift” evolution from Heartseeker Bow. A hail of arrows rains down from the skies, causing enemies to suffer the Bleeding status effect."
-      },
-      "name": {
-        "_value": "Blood Arrows"
-      }
-    },
-    "WS_AOS_BLOOD_RITUAL": {
-      "customDescValue": {
-        "_value": "Arcing magma projectiles."
-      },
-      "description": {
-        "_value": "Casting blood into the brazier sacrifices everything on screen."
-      },
-      "name": {
-        "_value": "Blood Ritual"
       }
     },
     "WS_AOS_BOLTSTORM_PISTOL": {
@@ -878,14 +786,6 @@
         "_value": "Ghost of Rhea"
       }
     },
-    "WS_AOS_GLAIVE_OF_KHAINE": {
-      "description": {
-        "_value": "TBC - Desc (not designed)"
-      },
-      "name": {
-        "_value": "Glaive of Khaine"
-      }
-    },
     "WS_AOS_GNASHING_JAWS": {
       "description": {
         "_value": "Temporarily conjures burning jaws that chomp enemies."
@@ -906,14 +806,6 @@
       },
       "name": {
         "_value": "Grandblade"
-      }
-    },
-    "WS_AOS_HEARTSEEKER_BOW": {
-      "description": {
-        "_value": "Shoots lethal arrows in the faced direction. Has a special heavy attack. Critical Damage could drop Blood Drops."
-      },
-      "name": {
-        "_value": "Heartseeker Bow"
       }
     },
     "WS_AOS_KYNDLEDROTH": {
@@ -959,14 +851,6 @@
         "_value": "Kragg Blackhammer's Master Rune"
       }
     },
-    "WS_AOS_MURDER_OF_CROWS": {
-      "description": {
-        "_value": "TBC - Desc (not designed)"
-      },
-      "name": {
-        "_value": "Murder of Crows"
-      }
-    },
     "WS_AOS_MYSTICAL_WARD": {
       "tips": {
         "_value": "The saviours of Cinderfall suffer no threat to their kin to live, nor harm any member of their retinue. They rally beneath the shield of the Keeper Aqshian when the moment is dire."
@@ -997,7 +881,7 @@
     },
     "WS_AOS_NULL_PENDANT": {
       "customDescValue2": {
-        "_value": "Generic Enemy Healing  is slowed by 50%"
+        "_value": "Generic Enemy Healing is slowed by 50%"
       },
       "customDescValue3": {
         "_value": "Enemies tagged as Wizard and/or Priest do 10% less damage"
@@ -1046,36 +930,6 @@
       },
       "name": {
         "_value": "Rope & Grapnel"
-      }
-    },
-    "WS_AOS_RUNIC_POWER": {
-      "description": {
-        "_value": "Whirling vertical Runic War Irons and chains."
-      },
-      "name": {
-        "_value": "TBC - Runic Power"
-      }
-    },
-    "WS_AOS_RUNIC_WARIRON": {
-      "description": {
-        "_value": "Whirling vertical War Irons and runes."
-      },
-      "name": {
-        "_value": "Runic War-Iron"
-      }
-    },
-    "WS_AOS_SACRIFICIAL_WEAPON": {
-      "customDescValue0": {
-        "_value": "+%0% chance to inflict Bleeding onto enemies."
-      },
-      "customDescValue1": {
-        "_value": "`+%0% chance to Disarm enemies."
-      },
-      "description": {
-        "_value": "Attacks nearby enemies with a chance to inflict Bleeding. {[SKILL]} affects damage."
-      },
-      "name": {
-        "_value": "Sacrificial Weapon"
       }
     },
     "WS_AOS_STORMCHARGED_HAMMER": {
@@ -1541,7 +1395,7 @@
         "_value": "Inspiré par les mythes orques à son sujet, Yarrick s'est fait implanter un œil bionique pour « jeter le mauvais zœil » sur ses ennemis. Le mauvais œil tire un rayon laser de combat concentré si puissant qu'il peut faire fondre un ennemi à dix pas."
       },
       "description": {
-        "_value": "Don de pince énergétik’. Il s'agit d'un implant « mauvais zœil » qui tire un laser à courte portée et ébranle les Orks. Fléau de Ghazghkull Thraka"
+        "_value": "Don de pince énergétik’. Il s'agit d'un implant « mauvais zœil » qui tire un laser à courte portée et ébranle les Orks. Fléau de Ghazghkull Thraka."
       },
       "name": {
         "_value": "Mauvais œil"
@@ -1619,14 +1473,6 @@
       },
       "name": {
         "_value": "Fusil de combat"
-      }
-    },
-    "WS_40K_CONDEMNOR_BOLTGUN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_40K_CROZIUS_ARCANUM": {
@@ -1756,14 +1602,6 @@
         "_value": "Gantelets d’Ultramar"
       }
     },
-    "WS_40K_GUARDIAN_SKULL": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_HEAVY_BOLTER": {
       "tips": {
         "_value": "Aussi appelé \"brise-dos\", ce bolter lourd est une version XXL du bolter standard. Cette arme disproportionnée tire à haute cadence des balles de la taille d'un poing capables de transpercer les armures."
@@ -1853,22 +1691,6 @@
       },
       "name": {
         "_value": "Fuseur"
-      }
-    },
-    "WS_40K_NARTHECIUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_NEURO_GAUNTLET": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_NULN_OIL": {
@@ -1995,23 +1817,6 @@
         "_value": "Bouclier de la Foi"
       }
     },
-    "WS_40K_SERVOSKULL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "customDescValue2": {
-        "_value": "#N/A"
-      },
-      "customDescValue3": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_SIDE_SPONSONS": {
       "tips": {
         "_value": "Deux bolters lourds tirant indépendamment permettent de couvrir le champ de bataille d'une pluie de bolts, pendant que l'opérateur reste en sécurité à l'intérieur du cockpit en métal renforcé du char."
@@ -2094,22 +1899,6 @@
         "_value": "Roquette Storm Eagle"
       }
     },
-    "WS_40K_VIVISPECTRUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_VORTEX_GRENADE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_WEAPON_OF_THE_MATRIARCH": {
       "tips": {
         "_value": "Cette arme est la lame de Sainte Célestine, jadis maniée par l'une des matriarches de l'Adepta Sororitas. Elle est ornée de fleurs, comme lorsque Célestine sortit de la tombe de Sainte Katherine, et déchaîne la pieuse colère de la sœur dans une gerbe de flammes."
@@ -2170,14 +1959,6 @@
         "_value": "Artéfacts puissants"
       }
     },
-    "WS_AOS_BATTLE_HORN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_BLADED_VORTEX": {
       "tips": {
         "_value": "Invoqués par les rituels de sang des Filles de Khaine, ces fauchons courbés abattent des lignes entières d'ennemis."
@@ -2187,25 +1968,6 @@
       },
       "name": {
         "_value": "Vortex à lames"
-      }
-    },
-    "WS_AOS_BLOOD_ARROWS": {
-      "descriptions": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_BLOOD_RITUAL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_BOLTSTORM_PISTOL": {
@@ -2362,14 +2124,6 @@
         "_value": "Fantôme de Rhéa"
       }
     },
-    "WS_AOS_GLAIVE_OF_KHAINE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_GNASHING_JAWS": {
       "description": {
         "_value": "Invoque temporairement des mâchoires enflammées qui dévorent les ennemis."
@@ -2390,14 +2144,6 @@
       },
       "name": {
         "_value": "Grande Lame"
-      }
-    },
-    "WS_AOS_HEARTSEEKER_BOW": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_KYNDLEDROTH": {
@@ -2441,14 +2187,6 @@
       },
       "name": {
         "_value": "Rune Majeure de Kragg Blackhammer"
-      }
-    },
-    "WS_AOS_MURDER_OF_CROWS": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_MYSTICAL_WARD": {
@@ -2530,36 +2268,6 @@
       },
       "name": {
         "_value": "Corde et grappin"
-      }
-    },
-    "WS_AOS_RUNIC_POWER": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_RUNIC_WARIRON": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_SACRIFICIAL_WEAPON": {
-      "customDescValue0": {
-        "_value": "#N/A"
-      },
-      "customDescValue1": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_STORMCHARGED_HAMMER": {
@@ -3105,14 +2813,6 @@
         "_value": "Fucile a pompa da battaglia"
       }
     },
-    "WS_40K_CONDEMNOR_BOLTGUN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_CROZIUS_ARCANUM": {
       "tips": {
         "_value": "Una mazza ferrata sacra che denota il ruolo del Cappellano che la brandisce. La battaglia è la forma di adorazione più preziosa per l'Imperatore."
@@ -3240,14 +2940,6 @@
         "_value": "Guanti di Ultramar"
       }
     },
-    "WS_40K_GUARDIAN_SKULL": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_HEAVY_BOLTER": {
       "tips": {
         "_value": "Noto anche come lo \"Spezzaschiena\", il requiem pesante è variante più massiccia del fucile requiem standard. Un'arma di dimensioni esagerate che bombarda le linee nemiche con proiettili grossi come pugni in grado di sfondare qualsiasi armatura."
@@ -3337,22 +3029,6 @@
       },
       "name": {
         "_value": "Fucile termico"
-      }
-    },
-    "WS_40K_NARTHECIUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_NEURO_GAUNTLET": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_NULN_OIL": {
@@ -3479,23 +3155,6 @@
         "_value": "Scudo della fede"
       }
     },
-    "WS_40K_SERVOSKULL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "customDescValue2": {
-        "_value": "#N/A"
-      },
-      "customDescValue3": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_SIDE_SPONSONS": {
       "tips": {
         "_value": "Due requiem pesanti montati che sparano in modo indipendente, coprendo il campo di battaglia con una pioggia di dardi grossi come pugni, mentre l'operatore resta al sicuro all'interno del pesante guscio metallico del carro armato."
@@ -3578,22 +3237,6 @@
         "_value": "Razzo Storm Eagle"
       }
     },
-    "WS_40K_VIVISPECTRUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_VORTEX_GRENADE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_WEAPON_OF_THE_MATRIARCH": {
       "tips": {
         "_value": "La lama di Santa Celestine, un tempo impugnata da una delle matriarche dell'Adepta Sororitas. È adornata di fiori, proprio come quando Celestine sorse dalla tomba di Santa Caterina, ed è in grado di scatenare la pia furia della Sorella in una vampata di fiamme."
@@ -3654,14 +3297,6 @@
         "_value": "Manufatti del potere"
       }
     },
-    "WS_AOS_BATTLE_HORN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_BLADED_VORTEX": {
       "tips": {
         "_value": "Evocati dai riti di sangue delle Figlie di Khaine, i falcioni ricurvi fendono schiere su schiere di nemici."
@@ -3671,25 +3306,6 @@
       },
       "name": {
         "_value": "Vortice affilato"
-      }
-    },
-    "WS_AOS_BLOOD_ARROWS": {
-      "descriptions": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_BLOOD_RITUAL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_BOLTSTORM_PISTOL": {
@@ -3846,14 +3462,6 @@
         "_value": "Fantasma di Rhea"
       }
     },
-    "WS_AOS_GLAIVE_OF_KHAINE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_GNASHING_JAWS": {
       "description": {
         "_value": "Evoca temporaneamente delle fauci ardenti che divorano i nemici."
@@ -3874,14 +3482,6 @@
       },
       "name": {
         "_value": "Lama superba"
-      }
-    },
-    "WS_AOS_HEARTSEEKER_BOW": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_KYNDLEDROTH": {
@@ -3925,14 +3525,6 @@
       },
       "name": {
         "_value": "Runa Maestra di Kragg Blackhammer"
-      }
-    },
-    "WS_AOS_MURDER_OF_CROWS": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_MYSTICAL_WARD": {
@@ -4014,36 +3606,6 @@
       },
       "name": {
         "_value": "Corda e rampino"
-      }
-    },
-    "WS_AOS_RUNIC_POWER": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_RUNIC_WARIRON": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_SACRIFICIAL_WEAPON": {
-      "customDescValue0": {
-        "_value": "#N/A"
-      },
-      "customDescValue1": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_STORMCHARGED_HAMMER": {
@@ -4589,14 +4151,6 @@
         "_value": "Sturmschrotflinte"
       }
     },
-    "WS_40K_CONDEMNOR_BOLTGUN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_CROZIUS_ARCANUM": {
       "tips": {
         "_value": "Eine heilige Streitaxt, die das Amt des Ordenspriesters symbolisiert, der sie führt. Der Kampf ist die wertvollste Huldigung, die man dem Imperator darbringen kann."
@@ -4724,14 +4278,6 @@
         "_value": "Fäuste von Ultramar"
       }
     },
-    "WS_40K_GUARDIAN_SKULL": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_HEAVY_BOLTER": {
       "tips": {
         "_value": "Der Schwere Bolter, auch bekannt als Rückenbrecher, ist eine gewaltige Variante des Standard-Bolters. Diese übergroße Waffe feuert faustgroße panzerbrechende Geschosse in die feindlichen Linien – und das mit einer beeindruckenden Feuerrate."
@@ -4821,22 +4367,6 @@
       },
       "name": {
         "_value": "Melter"
-      }
-    },
-    "WS_40K_NARTHECIUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_NEURO_GAUNTLET": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_NULN_OIL": {
@@ -4963,23 +4493,6 @@
         "_value": "Glaubensschild"
       }
     },
-    "WS_40K_SERVOSKULL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "customDescValue2": {
-        "_value": "#N/A"
-      },
-      "customDescValue3": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_SIDE_SPONSONS": {
       "tips": {
         "_value": "Zwei montierte Schwere Bolter feuern unabhängig voneinander und bombardieren das Schlachtfeld mit einem Hagel aus faustgroßen Bolzen, während die Bediener sicher im Inneren der schweren Metallhülle des Panzers geschützt bleiben."
@@ -5062,22 +4575,6 @@
         "_value": "Sturmadler-Rakete"
       }
     },
-    "WS_40K_VIVISPECTRUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_VORTEX_GRENADE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_WEAPON_OF_THE_MATRIARCH": {
       "tips": {
         "_value": "Die Klinge der Heiligen Celestine, einst von einer der Matriarchinnen des Adepta Sororitas getragen. Sie ist von Blumen umrankt, wie damals, als Celestine aus dem Grab der Heiligen Katherine stieg und kann den heiligen Zorn der Schwester in einem in einem Flammenstrahl entfesseln."
@@ -5138,14 +4635,6 @@
         "_value": "Artefakte der Macht"
       }
     },
-    "WS_AOS_BATTLE_HORN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_BLADED_VORTEX": {
       "tips": {
         "_value": "Beschworen aus den Blutritualen der Töchter des Khaine, bahnen sich die geschwungenen Falchions durch ganze Reihen von Feinden."
@@ -5155,25 +4644,6 @@
       },
       "name": {
         "_value": "Klingenwirbel"
-      }
-    },
-    "WS_AOS_BLOOD_ARROWS": {
-      "descriptions": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_BLOOD_RITUAL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_BOLTSTORM_PISTOL": {
@@ -5330,14 +4800,6 @@
         "_value": "Geist von Rhea"
       }
     },
-    "WS_AOS_GLAIVE_OF_KHAINE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_GNASHING_JAWS": {
       "description": {
         "_value": "Beschwört vorübergehend brennende Kiefer, die Gegner zerfleischen."
@@ -5358,14 +4820,6 @@
       },
       "name": {
         "_value": "Großschwert"
-      }
-    },
-    "WS_AOS_HEARTSEEKER_BOW": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_KYNDLEDROTH": {
@@ -5409,14 +4863,6 @@
       },
       "name": {
         "_value": "Kragg Blackhammers Meisterrune"
-      }
-    },
-    "WS_AOS_MURDER_OF_CROWS": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_MYSTICAL_WARD": {
@@ -5498,36 +4944,6 @@
       },
       "name": {
         "_value": "Seil und Enterhaken"
-      }
-    },
-    "WS_AOS_RUNIC_POWER": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_RUNIC_WARIRON": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_SACRIFICIAL_WEAPON": {
-      "customDescValue0": {
-        "_value": "#N/A"
-      },
-      "customDescValue1": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_STORMCHARGED_HAMMER": {
@@ -6073,14 +5489,6 @@
         "_value": "Escopeta de combate"
       }
     },
-    "WS_40K_CONDEMNOR_BOLTGUN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_CROZIUS_ARCANUM": {
       "tips": {
         "_value": "Una maza sagrada que denota el cargo del capellán que la empuña. La batalla es la forma de culto más valiosa al Emperador."
@@ -6208,14 +5616,6 @@
         "_value": "Guanteletes de Ultramar"
       }
     },
-    "WS_40K_GUARDIAN_SKULL": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_HEAVY_BOLTER": {
       "tips": {
         "_value": "También conocido como rompeespaldas, el bólter pesado es una enorme variante del bólter estándar. Esta arma de grandes dimensiones dispara contra las líneas enemigas proyectiles perforantes del tamaño de un puño a una cadencia de fuego asombrosa."
@@ -6305,22 +5705,6 @@
       },
       "name": {
         "_value": "Rifle de fusión"
-      }
-    },
-    "WS_40K_NARTHECIUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_NEURO_GAUNTLET": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_NULN_OIL": {
@@ -6447,23 +5831,6 @@
         "_value": "Escudo de fe"
       }
     },
-    "WS_40K_SERVOSKULL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "customDescValue2": {
-        "_value": "#N/A"
-      },
-      "customDescValue3": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_SIDE_SPONSONS": {
       "tips": {
         "_value": "Dos bólteres pesados montados disparan de forma independiente, cubriendo el campo de batalla con una lluvia de proyectiles del tamaño de un puño mientras sus operadores permanecen a salvo dentro del grueso casco metálico del tanque."
@@ -6546,22 +5913,6 @@
         "_value": "Cohete Storm Eagle"
       }
     },
-    "WS_40K_VIVISPECTRUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_VORTEX_GRENADE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_WEAPON_OF_THE_MATRIARCH": {
       "tips": {
         "_value": "La hoja de Santa Celestine, antaño portada por una de las matriarcas de las Adepta Sororitas. Está envuelta en flores, como cuando Celestine surgió de la tumba de Santa Katherine, y puede desatar la furia piadosa de la Hermana en un chorro de llamas."
@@ -6622,14 +5973,6 @@
         "_value": "Artefactos de poder"
       }
     },
-    "WS_AOS_BATTLE_HORN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_BLADED_VORTEX": {
       "tips": {
         "_value": "Conjurados mediante los ritos de sangre de las Hijas de Khaine, estos bracamartes curvos atraviesan filas y filas de enemigos."
@@ -6639,25 +5982,6 @@
       },
       "name": {
         "_value": "Vórtice de espadas"
-      }
-    },
-    "WS_AOS_BLOOD_ARROWS": {
-      "descriptions": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_BLOOD_RITUAL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_BOLTSTORM_PISTOL": {
@@ -6814,14 +6138,6 @@
         "_value": "Fantasma de Rhea"
       }
     },
-    "WS_AOS_GLAIVE_OF_KHAINE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_GNASHING_JAWS": {
       "description": {
         "_value": "Conjura temporalmente unas fauces ardientes que devoran enemigos."
@@ -6842,14 +6158,6 @@
       },
       "name": {
         "_value": "Granhoja"
-      }
-    },
-    "WS_AOS_HEARTSEEKER_BOW": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_KYNDLEDROTH": {
@@ -6893,14 +6201,6 @@
       },
       "name": {
         "_value": "Runa maestra de Kragg Martillo Negro"
-      }
-    },
-    "WS_AOS_MURDER_OF_CROWS": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_MYSTICAL_WARD": {
@@ -6982,36 +6282,6 @@
       },
       "name": {
         "_value": "Cuerda y garfio"
-      }
-    },
-    "WS_AOS_RUNIC_POWER": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_RUNIC_WARIRON": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_SACRIFICIAL_WEAPON": {
-      "customDescValue0": {
-        "_value": "#N/A"
-      },
-      "customDescValue1": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_STORMCHARGED_HAMMER": {
@@ -7477,7 +6747,7 @@
         "_value": "ヤリックは、自分を取り巻くオークの伝説に応えるかのように、「一瞥で殺せる」ようバイオニックアイを埋め込んだ。ベールアイは戦闘時に収束レーザーを放ち、その威力は10歩先の敵すら溶かすほどだ。"
       },
       "description": {
-        "_value": "パワークロオの賜物。射程の短いレーザーを発射するインプラントの邪眼。オルクを戦闘ショックに陥れる。ガズグッカル・ザラカの天敵"
+        "_value": "パワークロオの賜物。射程の短いレーザーを発射するインプラントの邪眼。オルクを戦闘ショックに陥れる。ガズグッカル・ザラカの天敵。"
       },
       "name": {
         "_value": "ベールアイ"
@@ -7555,14 +6825,6 @@
       },
       "name": {
         "_value": "コンバットショットガン"
-      }
-    },
-    "WS_40K_CONDEMNOR_BOLTGUN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_40K_CROZIUS_ARCANUM": {
@@ -7692,14 +6954,6 @@
         "_value": "ウルトラマールの篭手"
       }
     },
-    "WS_40K_GUARDIAN_SKULL": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_HEAVY_BOLTER": {
       "tips": {
         "_value": "バックブレイカーの異名を持つヘヴィボルターは、標準的なボルトガンを大型化した武器。巨大な兵器として、拳ほどの大きさの徹甲弾を驚異的な連射速度で敵陣へ撃ち込む。"
@@ -7789,22 +7043,6 @@
       },
       "name": {
         "_value": "メルタガン"
-      }
-    },
-    "WS_40K_NARTHECIUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_NEURO_GAUNTLET": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_NULN_OIL": {
@@ -7931,23 +7169,6 @@
         "_value": "信仰の盾"
       }
     },
-    "WS_40K_SERVOSKULL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "customDescValue2": {
-        "_value": "#N/A"
-      },
-      "customDescValue3": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_SIDE_SPONSONS": {
       "tips": {
         "_value": "二門の車載ヘヴィボルターが独立して射撃を行い、拳ほどの大きさのボルト弾の嵐で戦場を制圧する。一方、射手は戦車の重厚な金属装甲に守られたまま安全に戦い続けられる。"
@@ -8030,22 +7251,6 @@
         "_value": "ストームイーグル・ロケット"
       }
     },
-    "WS_40K_VIVISPECTRUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_VORTEX_GRENADE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_WEAPON_OF_THE_MATRIARCH": {
       "tips": {
         "_value": "聖セレスティンのブレード。かつて修道聖女会（アデプタ・ソロリタス）の師母の一人が携えた。セレスティンが聖カトリーヌの墓より蘇った際と同じように花々をまとい、シスターの敬虔なる怒りを炎の奔流として解き放つ。"
@@ -8106,14 +7311,6 @@
         "_value": "力のアーティファクト"
       }
     },
-    "WS_AOS_BATTLE_HORN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_BLADED_VORTEX": {
       "tips": {
         "_value": "ドーター・オヴ・カインの血の儀式によって生み出された湾曲したファルシオンは、敵の隊列を次々と切り裂く。"
@@ -8123,25 +7320,6 @@
       },
       "name": {
         "_value": "刃の渦"
-      }
-    },
-    "WS_AOS_BLOOD_ARROWS": {
-      "descriptions": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_BLOOD_RITUAL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_BOLTSTORM_PISTOL": {
@@ -8298,14 +7476,6 @@
         "_value": "レアの亡霊"
       }
     },
-    "WS_AOS_GLAIVE_OF_KHAINE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_GNASHING_JAWS": {
       "description": {
         "_value": "噛みつく顎を一時的に召喚し、敵を噛み砕く。"
@@ -8326,14 +7496,6 @@
       },
       "name": {
         "_value": "至高の大剣"
-      }
-    },
-    "WS_AOS_HEARTSEEKER_BOW": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_KYNDLEDROTH": {
@@ -8377,14 +7539,6 @@
       },
       "name": {
         "_value": "クラッグ・ブラックハンマーの大ルーン"
-      }
-    },
-    "WS_AOS_MURDER_OF_CROWS": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_MYSTICAL_WARD": {
@@ -8466,36 +7620,6 @@
       },
       "name": {
         "_value": "捕縛鎖刃"
-      }
-    },
-    "WS_AOS_RUNIC_POWER": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_RUNIC_WARIRON": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_SACRIFICIAL_WEAPON": {
-      "customDescValue0": {
-        "_value": "#N/A"
-      },
-      "customDescValue1": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_STORMCHARGED_HAMMER": {
@@ -9041,14 +8165,6 @@
         "_value": "컴뱃 샷건"
       }
     },
-    "WS_40K_CONDEMNOR_BOLTGUN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_CROZIUS_ARCANUM": {
       "tips": {
         "_value": "해당 무기를 휘두르는 채플린의 직위를 상징하는 성스러운 철퇴입니다. 황제께 바치는 가장 값진 경배는 바로 전투입니다."
@@ -9176,14 +8292,6 @@
         "_value": "울트라마의 건틀릿"
       }
     },
-    "WS_40K_GUARDIAN_SKULL": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_HEAVY_BOLTER": {
       "tips": {
         "_value": "백 브레이커'라는 별명으로도 불리는 헤비 볼터는 표준 볼트건을 대형화한 무기입니다. 주먹만 한 철갑탄을 엄청난 연사 속도로 적진에 퍼붓습니다."
@@ -9273,22 +8381,6 @@
       },
       "name": {
         "_value": "멜타건"
-      }
-    },
-    "WS_40K_NARTHECIUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_NEURO_GAUNTLET": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_NULN_OIL": {
@@ -9415,23 +8507,6 @@
         "_value": "신앙의 방패"
       }
     },
-    "WS_40K_SERVOSKULL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "customDescValue2": {
-        "_value": "#N/A"
-      },
-      "customDescValue3": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_SIDE_SPONSONS": {
       "tips": {
         "_value": "장착된 헤비 볼터 두 문이 각각 독립적으로 사격해 주먹만 한 볼트를 전장에 빗발치듯 퍼붓습니다. 그동안 운용자는 전차의 두꺼운 금속 장갑 안에서 안전하게 보호받습니다."
@@ -9514,22 +8589,6 @@
         "_value": "스톰 이글 로켓"
       }
     },
-    "WS_40K_VIVISPECTRUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_VORTEX_GRENADE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_WEAPON_OF_THE_MATRIARCH": {
       "tips": {
         "_value": "성 셀레스틴의 검으로, 한때 아뎁타 소로리타스의 대모 중 한 명이 사용했습니다. 셀레스틴이 성 캐서린의 무덤에서 일어섰을 때처럼 꽃으로 둘러싸여 있으며, 화염을 내뿜어 그녀의 경건한 분노를 쏟아냅니다."
@@ -9590,14 +8649,6 @@
         "_value": "힘의 유물"
       }
     },
-    "WS_AOS_BATTLE_HORN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_BLADED_VORTEX": {
       "tips": {
         "_value": "도터즈 오브 케인이 치르는 피의 의식으로 소환된 곡선형 펄션이 겹겹이 늘어선 적의 대열을 베어 가릅니다."
@@ -9607,25 +8658,6 @@
       },
       "name": {
         "_value": "블레이드 볼텍스"
-      }
-    },
-    "WS_AOS_BLOOD_ARROWS": {
-      "descriptions": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_BLOOD_RITUAL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_BOLTSTORM_PISTOL": {
@@ -9782,14 +8814,6 @@
         "_value": "레아의 유령"
       }
     },
-    "WS_AOS_GLAIVE_OF_KHAINE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_GNASHING_JAWS": {
       "description": {
         "_value": "불타는 아귀를 잠시 소환해 적을 물어뜯습니다."
@@ -9810,14 +8834,6 @@
       },
       "name": {
         "_value": "그랜드블레이드"
-      }
-    },
-    "WS_AOS_HEARTSEEKER_BOW": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_KYNDLEDROTH": {
@@ -9861,14 +8877,6 @@
       },
       "name": {
         "_value": "크라그 블랙해머의 마스터 룬"
-      }
-    },
-    "WS_AOS_MURDER_OF_CROWS": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_MYSTICAL_WARD": {
@@ -9950,36 +8958,6 @@
       },
       "name": {
         "_value": "밧줄과 갈고리"
-      }
-    },
-    "WS_AOS_RUNIC_POWER": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_RUNIC_WARIRON": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_SACRIFICIAL_WEAPON": {
-      "customDescValue0": {
-        "_value": "#N/A"
-      },
-      "customDescValue1": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_STORMCHARGED_HAMMER": {
@@ -10525,14 +9503,6 @@
         "_value": "Strzelba Bojowa"
       }
     },
-    "WS_40K_CONDEMNOR_BOLTGUN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_CROZIUS_ARCANUM": {
       "tips": {
         "_value": "Święta buława będąca oznaką urzędu władającego nią kapelana. Walka jest najcenniejszą formą oddawania czci Imperatorowi."
@@ -10660,14 +9630,6 @@
         "_value": "Rękawice Ultramara"
       }
     },
-    "WS_40K_GUARDIAN_SKULL": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_HEAVY_BOLTER": {
       "tips": {
         "_value": "Ten ciężki bolter, znany również jako Łamacz Karków, jest ogromnym wariantem standardowego boltera. Jako broń pokaźnych rozmiarów zasypuje szeregi wroga przeciwpancernymi pociskami wielkości pięści z oszałamiającą szybkostrzelnością."
@@ -10757,22 +9719,6 @@
       },
       "name": {
         "_value": "Roztapiacz"
-      }
-    },
-    "WS_40K_NARTHECIUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_NEURO_GAUNTLET": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_NULN_OIL": {
@@ -10899,23 +9845,6 @@
         "_value": "Tarcza Wiary"
       }
     },
-    "WS_40K_SERVOSKULL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "customDescValue2": {
-        "_value": "#N/A"
-      },
-      "customDescValue3": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_SIDE_SPONSONS": {
       "tips": {
         "_value": "Dwa ciężkie boltery prowadzą ogień niezależnie, zasypując pole bitwy gradem boltów wielkości pięści, podczas gdy załoga pozostaje bezpieczna za grubym metalowym pancerzem czołgu."
@@ -10998,22 +9927,6 @@
         "_value": "Rakieta Burzowego Orła"
       }
     },
-    "WS_40K_VIVISPECTRUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_VORTEX_GRENADE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_WEAPON_OF_THE_MATRIARCH": {
       "tips": {
         "_value": "Ostrze Świętej Celestyny, niegdyś dzierżone przez jedną z matriarchiń Adepta Sororitas. Oplata je wieniec kwiatów, tak jak wtedy, gdy Celestyna powstała z grobowca Świętej Katarzyny. Ostrze potrafi wyzwolić żarliwy gniew Siostry w postaci strumienia płomieni."
@@ -11074,14 +9987,6 @@
         "_value": "Artefakty Mocy"
       }
     },
-    "WS_AOS_BATTLE_HORN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_BLADED_VORTEX": {
       "tips": {
         "_value": "Zakrzywione miecze przywołane w krwawych rytuałach Córek Khaine’a, które wyrzynają całe szeregi wrogów."
@@ -11091,25 +9996,6 @@
       },
       "name": {
         "_value": "Wir Ostrzy"
-      }
-    },
-    "WS_AOS_BLOOD_ARROWS": {
-      "descriptions": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_BLOOD_RITUAL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_BOLTSTORM_PISTOL": {
@@ -11266,14 +10152,6 @@
         "_value": "Duch Rhei"
       }
     },
-    "WS_AOS_GLAIVE_OF_KHAINE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_GNASHING_JAWS": {
       "description": {
         "_value": "Tymczasowo wyczarowuje płonące szczęki, które rozszarpują wrogów."
@@ -11294,14 +10172,6 @@
       },
       "name": {
         "_value": "Wielkie Ostrze"
-      }
-    },
-    "WS_AOS_HEARTSEEKER_BOW": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_KYNDLEDROTH": {
@@ -11345,14 +10215,6 @@
       },
       "name": {
         "_value": "Runa Mistrza Kragga Czarnego Młota"
-      }
-    },
-    "WS_AOS_MURDER_OF_CROWS": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_MYSTICAL_WARD": {
@@ -11434,36 +10296,6 @@
       },
       "name": {
         "_value": "Lina i Hak"
-      }
-    },
-    "WS_AOS_RUNIC_POWER": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_RUNIC_WARIRON": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_SACRIFICIAL_WEAPON": {
-      "customDescValue0": {
-        "_value": "#N/A"
-      },
-      "customDescValue1": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_STORMCHARGED_HAMMER": {
@@ -12009,14 +10841,6 @@
         "_value": "Espingarda de Combate"
       }
     },
-    "WS_40K_CONDEMNOR_BOLTGUN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_CROZIUS_ARCANUM": {
       "tips": {
         "_value": "Uma maça sagrada, que simboliza o cargo do capelão que a empunha. A batalha é a forma mais valiosa de adoração ao Imperador."
@@ -12144,14 +10968,6 @@
         "_value": "Manoplas de Ultramar"
       }
     },
-    "WS_40K_GUARDIAN_SKULL": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_HEAVY_BOLTER": {
       "tips": {
         "_value": "Também conhecida como “Quebra-colunas”, a bolter pesada é uma variante gigantesca da Boltgun padrão. Por ser uma arma de grandes dimensões, ela dispara projéteis perfurantes do tamanho de um punho contra as linhas inimigas com uma cadência de tiro impressionante."
@@ -12241,22 +11057,6 @@
       },
       "name": {
         "_value": "Metalgun"
-      }
-    },
-    "WS_40K_NARTHECIUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_NEURO_GAUNTLET": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_NULN_OIL": {
@@ -12383,23 +11183,6 @@
         "_value": "Escudo da Fé"
       }
     },
-    "WS_40K_SERVOSKULL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "customDescValue2": {
-        "_value": "#N/A"
-      },
-      "customDescValue3": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_SIDE_SPONSONS": {
       "tips": {
         "_value": "Dois canhões pesados montados disparam de forma independente, cobrindo o campo de batalha com uma chuva de projéteis do tamanho de um punho, enquanto os operadores permanecem em segurança dentro do metal blindado pesado do tanque."
@@ -12482,22 +11265,6 @@
         "_value": "Foguete Storm Eagle"
       }
     },
-    "WS_40K_VIVISPECTRUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_VORTEX_GRENADE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_WEAPON_OF_THE_MATRIARCH": {
       "tips": {
         "_value": "A espada de Santa Celestina, outrora empunhada por uma das matriarcas da Adepta Sororitas. Ela está enfeitada com flores, assim como estava quando Celestina ressuscitou do túmulo de Santa Catarina, e é capaz de desencadear a fúria piedosa da Irmã em um jato de chamas."
@@ -12558,14 +11325,6 @@
         "_value": "Artefatos da Força"
       }
     },
-    "WS_AOS_BATTLE_HORN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_BLADED_VORTEX": {
       "tips": {
         "_value": "Conjurados a partir dos rituais de sangue das Filhas de Khaine, os falchions curvos abrem caminho através de fileiras e mais fileiras de inimigos."
@@ -12575,25 +11334,6 @@
       },
       "name": {
         "_value": "Vórtice Laminado"
-      }
-    },
-    "WS_AOS_BLOOD_ARROWS": {
-      "descriptions": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_BLOOD_RITUAL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_BOLTSTORM_PISTOL": {
@@ -12750,14 +11490,6 @@
         "_value": "Fantasma de Rhea"
       }
     },
-    "WS_AOS_GLAIVE_OF_KHAINE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_GNASHING_JAWS": {
       "description": {
         "_value": "Conjura temporariamente mandíbulas em chamas que devoram os inimigos."
@@ -12778,14 +11510,6 @@
       },
       "name": {
         "_value": "Grande Lâmina"
-      }
-    },
-    "WS_AOS_HEARTSEEKER_BOW": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_KYNDLEDROTH": {
@@ -12829,14 +11553,6 @@
       },
       "name": {
         "_value": "Runa Mestre de Kragg Blackhammer"
-      }
-    },
-    "WS_AOS_MURDER_OF_CROWS": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_MYSTICAL_WARD": {
@@ -12918,36 +11634,6 @@
       },
       "name": {
         "_value": "Corda e Gancho"
-      }
-    },
-    "WS_AOS_RUNIC_POWER": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_RUNIC_WARIRON": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_SACRIFICIAL_WEAPON": {
-      "customDescValue0": {
-        "_value": "#N/A"
-      },
-      "customDescValue1": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_STORMCHARGED_HAMMER": {
@@ -13493,14 +12179,6 @@
         "_value": "Боевой дробовик"
       }
     },
-    "WS_40K_CONDEMNOR_BOLTGUN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_CROZIUS_ARCANUM": {
       "tips": {
         "_value": "Священная булава, символизирующая статус владеющего ею капеллана. Битва является формой поклонения Императору, которая ценится больше остальных."
@@ -13628,14 +12306,6 @@
         "_value": "Перчатки Ультрамара"
       }
     },
-    "WS_40K_GUARDIAN_SKULL": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_HEAVY_BOLTER": {
       "tips": {
         "_value": "Тяжелый болтер, также известный как «Костолом», — это огромная модификация стандартного болтера. Будучи крупногабаритным оружием, он с поразительной скорострельностью обрушивает на вражеские ряды бронебойные снаряды размером с кулак."
@@ -13725,22 +12395,6 @@
       },
       "name": {
         "_value": "Мельта-ружьё"
-      }
-    },
-    "WS_40K_NARTHECIUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_NEURO_GAUNTLET": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_NULN_OIL": {
@@ -13867,23 +12521,6 @@
         "_value": "Щит веры"
       }
     },
-    "WS_40K_SERVOSKULL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "customDescValue2": {
-        "_value": "#N/A"
-      },
-      "customDescValue3": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_SIDE_SPONSONS": {
       "tips": {
         "_value": "Два бортовых тяжёлых болтера ведут независимый огонь, осыпая поле боя градом снарядов размером с кулак, пока стрелки надежно укрыты за тяжелой броней танка."
@@ -13966,22 +12603,6 @@
         "_value": "Ракета «Грозовой орёл»"
       }
     },
-    "WS_40K_VIVISPECTRUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_VORTEX_GRENADE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_WEAPON_OF_THE_MATRIARCH": {
       "tips": {
         "_value": "Клинок святой Целестины, который когда-то носила одна из матриархов Адепта Сороритас. Он увит цветами, как и в тот день, когда Целестина восстала из гробницы святой Катарины, и способен обрушить на врагов праведный гнев Сестер потоком пламени."
@@ -14042,14 +12663,6 @@
         "_value": "Артефакты силы"
       }
     },
-    "WS_AOS_BATTLE_HORN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_BLADED_VORTEX": {
       "tips": {
         "_value": "Изогнутые фальшионы, призванные с помощью кровавых ритуалов Дочерей Кхаина, прорубаются сквозь нескончаемые ряды врагов."
@@ -14059,25 +12672,6 @@
       },
       "name": {
         "_value": "Вихрь лезвий"
-      }
-    },
-    "WS_AOS_BLOOD_ARROWS": {
-      "descriptions": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_BLOOD_RITUAL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_BOLTSTORM_PISTOL": {
@@ -14234,14 +12828,6 @@
         "_value": "Призрак Реи"
       }
     },
-    "WS_AOS_GLAIVE_OF_KHAINE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_GNASHING_JAWS": {
       "description": {
         "_value": "На определенное время призывает пылающие челюсти, которые пожирают врагов."
@@ -14262,14 +12848,6 @@
       },
       "name": {
         "_value": "Великий клинок"
-      }
-    },
-    "WS_AOS_HEARTSEEKER_BOW": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_KYNDLEDROTH": {
@@ -14313,14 +12891,6 @@
       },
       "name": {
         "_value": "Великная руна Крагга Черного Молота"
-      }
-    },
-    "WS_AOS_MURDER_OF_CROWS": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_MYSTICAL_WARD": {
@@ -14402,36 +12972,6 @@
       },
       "name": {
         "_value": "Веревка с крюком"
-      }
-    },
-    "WS_AOS_RUNIC_POWER": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_RUNIC_WARIRON": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_SACRIFICIAL_WEAPON": {
-      "customDescValue0": {
-        "_value": "#N/A"
-      },
-      "customDescValue1": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_STORMCHARGED_HAMMER": {
@@ -14845,7 +13385,7 @@
         "_value": "这款纹理漆会在底座上呈现细密纹理，从而完美还原出塔兰星球等世界上干旱龟裂的地表景观。塔兰曾是一个生机勃勃的农业世界，直到病毒炸弹降临，让这颗星球再也无法长出任何植被。"
       },
       "description": {
-        "_value": "进阶版努恩油。伤害区域将跟随你移动，并使敌人减速。"
+        "_value": "进化版努恩油。伤害区域将跟随你移动，并使敌人减速。"
       },
       "name": {
         "_value": "腐蚀焦土"
@@ -14886,7 +13426,7 @@
         "_value": "突击炮虽射程有限，但六管自动装填弹道炮的凶猛火力足以弥补这一不足。"
       },
       "description": {
-        "_value": "进阶版风暴爆矢枪。射速会逐渐提升，直至武器过热。"
+        "_value": "进化版风暴爆矢枪。射速会逐渐提升，直至武器过热。"
       },
       "name": {
         "_value": "突击炮"
@@ -14919,7 +13459,7 @@
         "_value": "这件古老的神器克罗修斯法杖，汲取了历代持杖牧师积蓄的正义怒火。如今，它以雷霆万钧之势，将这积蓄了数百年的狂怒烈焰尽数宣泄而出。"
       },
       "description": {
-        "_value": "进阶版克罗修斯法杖。向敌人前后方发起猛击，每一击都迸发雷鸣般的冲击波。"
+        "_value": "进化版克罗修斯法杖。向敌人前后方发起猛击，每一击都迸发雷鸣般的冲击波。"
       },
       "name": {
         "_value": "怒火赐福"
@@ -14977,14 +13517,6 @@
         "_value": "战斗霰弹枪"
       }
     },
-    "WS_40K_CONDEMNOR_BOLTGUN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_CROZIUS_ARCANUM": {
       "tips": {
         "_value": "一柄神圣的权杖，象征着持杖牧师的身份。对帝皇而言，战斗是对其最崇高的侍奉。"
@@ -15032,7 +13564,7 @@
         "_value": "这种型号的标准链锯剑需要双手持握，它能轻易撕裂血肉与盔甲，甚至能用来破开敌阵中的坚固壁垒。"
       },
       "description": {
-        "_value": "进阶版开膛链锯剑。发动狂暴横斩，对敌人施加流血效果。"
+        "_value": "进化版链锯剑。发动狂暴横斩，对敌人施加流血效果。"
       },
       "name": {
         "_value": "开膛链锯剑"
@@ -15043,7 +13575,7 @@
         "_value": "这款战斗霰弹枪发射的是自导式导弹弹药，这种弹药依靠微型推进器调整弹道，可以绕过掩体追踪目标。虽名为“霰弹枪”，但它在远距离上反倒更加精准。"
       },
       "description": {
-        "_value": "进阶版战斗霰弹枪。处决弹会追踪目标。"
+        "_value": "进化版战斗霰弹枪。处决弹会追踪目标。"
       },
       "name": {
         "_value": "处刑者霰弹枪"
@@ -15095,7 +13627,7 @@
         "_value": "这是死亡领主墨菲斯顿的众多能力之一。其使用者那蕴含亚空间力量的狂怒，足以将其触及的一切彻底粉碎。"
       },
       "description": {
-        "_value": "进阶版惩击。发射一道凝聚了亚空间能量的光束，对路径上的所有敌人造成伤害。敌人在此冲击下有概率爆炸，概率取决于其腐化程度。"
+        "_value": "进化版惩击。发射一道凝聚了亚空间能量的光束，对路径上的所有敌人造成伤害。敌人在此冲击下有概率爆炸，概率取决于其腐化程度。"
       },
       "name": {
         "_value": "远古之怒"
@@ -15106,18 +13638,10 @@
         "_value": "这是一双古老的大师级动力拳套，曾由原体罗保特·基利曼本人亲自使用。对于极限战士而言，这对动力拳套无比神圣，只有战团长马库拉格领主马涅乌思·卡尔加才有资格携其上阵。"
       },
       "description": {
-        "_value": "进阶版能量拳。双拳可发动重创打击并倾泻弹雨。专克诺恩使者。"
+        "_value": "进化版能量拳。双拳可发动重创打击并倾泻弹雨。专克诺恩使者。"
       },
       "name": {
         "_value": "奥特拉玛臂铠"
-      }
-    },
-    "WS_40K_GUARDIAN_SKULL": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_40K_HEAVY_BOLTER": {
@@ -15125,7 +13649,7 @@
         "_value": "重型爆矢枪，又称“碎脊者”，是标准爆矢枪的巨型化版本。这种超大号武器能以惊人的射速，将拳头大小的穿甲弹倾泻在敌军阵线上。"
       },
       "description": {
-        "_value": "进阶版爆矢枪。无限火力压制。"
+        "_value": "进化版爆矢枪。无限火力压制。"
       },
       "name": {
         "_value": "重型爆矢枪"
@@ -15136,7 +13660,7 @@
         "_value": "火焰喷射器的放大版本，能够喷出更密集、更炽热的火焰。如果说普通的火焰喷射器能熔化几乎任何表面，那么重型火焰喷射器燃烧的钷素燃料则具备比其更强的反装甲能力。"
       },
       "description": {
-        "_value": "进阶版火焰喷射器。喷射两道灼热的钷素流，点燃附近的敌人。"
+        "_value": "进化版火焰喷射器。喷射两道灼热的钷素流，点燃附近的敌人。"
       },
       "name": {
         "_value": "重型火焰喷射器"
@@ -15155,7 +13679,7 @@
         "_value": "帝皇的怒火在你体内奔涌，以正义的烈焰焚烧你的敌人。"
       },
       "description": {
-        "_value": "进阶版信仰之盾。炽热光环会对附近敌人造成灼烧伤害，并为自身回复生命。"
+        "_value": "进化版信仰之盾。炽热光环会对附近敌人造成灼烧伤害，并为自身回复生命。"
       },
       "name": {
         "_value": "帝皇之怒"
@@ -15169,7 +13693,7 @@
         "_value": "额外获得一名装备激光枪的士兵。"
       },
       "description": {
-        "_value": "向距离最近的敌人发射一道激光束，造成的伤害值随距离的增加而减少。"
+        "_value": "朝最近的敌人射出一道激光束，距离越远，伤害越低。"
       },
       "name": {
         "_value": "激光枪"
@@ -15183,7 +13707,7 @@
         "_value": "#N/A"
       },
       "description": {
-        "_value": "进阶版风暴鹰火箭弹。消灭敌人将获得额外的经验奖励。"
+        "_value": "进化版风暴鹰火箭弹。消灭敌人将获得额外的经验奖励。"
       },
       "name": {
         "_value": "死亡巨炮战车导弹"
@@ -15205,26 +13729,10 @@
         "_value": "一种短程反装甲武器，能发射出蕴含极致高温的光束。其产生的高热具有毁灭性的破坏力，几乎能熔化任何表面。"
       },
       "description": {
-        "_value": "进阶版激光枪。短程高能光束，对首领及近身敌人造成额外伤害。"
+        "_value": "进化版激光枪。短程高能光束，对首领及近身敌人造成额外伤害。"
       },
       "name": {
         "_value": "热熔枪"
-      }
-    },
-    "WS_40K_NARTHECIUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_NEURO_GAUNTLET": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_NULN_OIL": {
@@ -15243,7 +13751,7 @@
         "_value": "“或许会有人质疑你是否有权屠戮百亿生灵。但真正明白的人都知道：你根本无权饶他们一命。”"
       },
       "description": {
-        "_value": "进阶版旋风火箭炮阵。对敌人造成毁灭性打击，只留下焦土废墟。"
+        "_value": "进化版旋风火箭炮阵。对敌人造成毁灭性打击，只留下焦土废墟。"
       },
       "name": {
         "_value": "轨道轰炸"
@@ -15306,7 +13814,7 @@
         "_value": "一位陨落修士的遗物，挥舞他的武器继续他未竟的那场正义之战，便是对他最好的纪念。"
       },
       "description": {
-        "_value": "远古科技的馈赠。可任选一件已解锁的进阶版武器。"
+        "_value": "远古科技的馈赠。可任选一件已解锁的进化版武器。"
       },
       "name": {
         "_value": "圣骨匣"
@@ -15317,7 +13825,7 @@
         "_value": "法务部的猎犬确实忠诚无比，正如人们对机械犬所期待的那样。它们忠诚到会义无反顾地径直冲入敌阵，一旦操控者引爆它们体内的炸药，便会化作一团壮烈的烈焰牺牲自我。"
       },
       "description": {
-        "_value": "进阶版机械啃咬。在目标区域引发一场电击爆炸，使敌人陷入眩晕状态。"
+        "_value": "进化版机械啃咬。在目标区域引发一场电击爆炸，使敌人陷入眩晕状态。"
       },
       "name": {
         "_value": "遥控引爆"
@@ -15349,23 +13857,6 @@
       },
       "name": {
         "_value": "信仰之盾"
-      }
-    },
-    "WS_40K_SERVOSKULL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "customDescValue2": {
-        "_value": "#N/A"
-      },
-      "customDescValue3": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_40K_SIDE_SPONSONS": {
@@ -15430,7 +13921,7 @@
         "_value": "神圣玫瑰修会的修女长圣阿拉贝拉使用的圣物剑。如今在战场上由修女阿芙琳·阿波耶执掌，在她手中，这把武器燃起的狂热火焰将净化整个战场。"
       },
       "description": {
-        "_value": "进阶版信徒之矛。上挑挥击，焚尽异端。"
+        "_value": "进化版信徒之矛。上挑挥击，焚尽异端。"
       },
       "name": {
         "_value": "白玫瑰之棘"
@@ -15450,28 +13941,12 @@
         "_value": "风暴鹰火箭弹"
       }
     },
-    "WS_40K_VIVISPECTRUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_VORTEX_GRENADE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_WEAPON_OF_THE_MATRIARCH": {
       "tips": {
         "_value": "圣塞莱斯汀之剑，曾由修女会的一位修女长执掌。剑身环绕着花朵，一如圣塞莱斯汀当年从圣凯瑟琳墓中重获新生时那样。它能以喷涌的火焰释放出修女虔诚的怒火。"
       },
       "description": {
-        "_value": "进阶版热诚之刃。打出一记炽热横扫攻击。专克大不净者。"
+        "_value": "进化版热诚之刃。打出一记炽热横扫攻击。专克大不净者。"
       },
       "name": {
         "_value": "修女长的武器"
@@ -15501,7 +13976,7 @@
         "_value": "这些木桩来自火焰界域——阿奎夏。它们会在接触的瞬间燃起烈焰，彻底终结落烬拯救者们所面临的异端威胁。"
       },
       "description": {
-        "_value": "进阶版燧发手枪。持续发射子弹，对魔法使用者可造成额外伤害。专克维兹克·斯考尔。"
+        "_value": "进化版燧发手枪。持续发射子弹，对魔法使用者可造成额外伤害。专克维兹克·斯考尔。"
       },
       "name": {
         "_value": "阿奎夏火击炮塔"
@@ -15512,7 +13987,7 @@
         "_value": "深渊之子洛莱掌控着海洋，并能从以太海中召唤虚影迷惑敌人，最终将其拖入水底坟墓。"
       },
       "description": {
-        "_value": "进阶版溟濛海雾。召唤幻象将敌人拖拽进一股灵气之中，对其造成伤害并有几率触发反击伤害。"
+        "_value": "进化版溟濛海雾。召唤幻象将敌人拖拽进一股灵气之中，对其造成伤害并有几率触发反击伤害。"
       },
       "name": {
         "_value": "水之幻觉"
@@ -15520,18 +13995,10 @@
     },
     "WS_AOS_ARTEFACTS_OF_POWER": {
       "description": {
-        "_value": "异种武器的馈赠。可任选一件进阶版武器。"
+        "_value": "异种武器的馈赠。可任选一件进化版武器。"
       },
       "name": {
         "_value": "权柄圣物"
-      }
-    },
-    "WS_AOS_BATTLE_HORN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_BLADED_VORTEX": {
@@ -15539,29 +14006,10 @@
         "_value": "由凯恩之女的血祭仪式召唤而来的弧刃弯刀，能如收割野草般切开层层叠叠的敌阵。"
       },
       "description": {
-        "_value": "进阶版淬毒飞刃。投掷多把旋转飞刃，对敌人施加中毒与流血效果。"
+        "_value": "进化版淬毒飞刃。投掷多把旋转飞刃，对敌人施加中毒与流血效果。"
       },
       "name": {
         "_value": "毒刃旋飞"
-      }
-    },
-    "WS_AOS_BLOOD_ARROWS": {
-      "descriptions": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_BLOOD_RITUAL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_BOLTSTORM_PISTOL": {
@@ -15602,7 +14050,7 @@
         "_value": "受到天域界石赐福的巨剑。挥舞这些巨剑的征服者经过严酷冥想，才能真正与手中利刃合而为一。"
       },
       "description": {
-        "_value": "进阶版巨剑。攻击时会附加劈砍伤害，并发动多次广域横扫攻击。"
+        "_value": "进化版巨剑。攻击时会附加劈砍伤害，并发动多次广域横扫攻击。"
       },
       "name": {
         "_value": "天界巨剑"
@@ -15627,7 +14075,7 @@
         "_value": "从自由行会士兵转变为猎巫人的阿曼德·卡里斯，挥舞着两把由矮灵锻造的精工决斗手枪，枪膛里填满了经过祝圣的银质子弹。"
       },
       "description": {
-        "_value": "进阶版双枪齐发。弹壳在命中时会碎裂，使敌人陷入脆弱状态。"
+        "_value": "进化版双枪齐发。弹壳在命中时会碎裂，使敌人陷入脆弱状态。"
       },
       "name": {
         "_value": "决斗手枪"
@@ -15638,7 +14086,7 @@
         "_value": "维伦蒂亚夫人的魔法手套。她正是利用这副手套，通过那些不引人注目的“小守望者”来编织并维持她在双尾之城中的阴谋网络。"
       },
       "description": {
-        "_value": "进阶版双尾猫。“小守望者”在拾取物品时可提供增益效果。"
+        "_value": "进化版双尾猫。“小守望者”在拾取物品时可提供增益效果。"
       },
       "name": {
         "_value": "魔法手套"
@@ -15718,14 +14166,6 @@
         "_value": "瑞亚的幽灵"
       }
     },
-    "WS_AOS_GLAIVE_OF_KHAINE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_GNASHING_JAWS": {
       "description": {
         "_value": "在短时间内召唤出燃烧的巨颚，啃咬敌人。"
@@ -15746,14 +14186,6 @@
       },
       "name": {
         "_value": "巨剑"
-      }
-    },
-    "WS_AOS_HEARTSEEKER_BOW": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_KYNDLEDROTH": {
@@ -15785,7 +14217,7 @@
         "_value": "赤金符文大师们会将心中的诸多情绪——他们对敌人的愤怒与憎恨——灌注于法杖之中，释放出灼热的能量。"
       },
       "description": {
-        "_value": "进阶版火炬之杖。投射物在击中地面时会爆炸，使敌人陷入燃烧状态。"
+        "_value": "进化版火炬之杖。投射物在击中地面时会爆炸，使敌人陷入燃烧状态。"
       },
       "name": {
         "_value": "符文大师"
@@ -15797,14 +14229,6 @@
       },
       "name": {
         "_value": "大师级卡拉格·黑锤符文"
-      }
-    },
-    "WS_AOS_MURDER_OF_CROWS": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_MYSTICAL_WARD": {
@@ -15888,36 +14312,6 @@
         "_value": "束缚钩爪"
       }
     },
-    "WS_AOS_RUNIC_POWER": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_RUNIC_WARIRON": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_SACRIFICIAL_WEAPON": {
-      "customDescValue0": {
-        "_value": "#N/A"
-      },
-      "customDescValue1": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_STORMCHARGED_HAMMER": {
       "tips": {
         "_value": "炫目的能量在这柄巨大的战锤周围凝聚，能向敌人轰去雷霆万钧之重击。"
@@ -15987,7 +14381,7 @@
         "_value": "目光如鹰的莎卡娜·金刃的标志性武器。莎卡娜·金刃是西格玛的战士，黑爪的成员。鲜有人能长久躲过她手中之弩射出的闪电箭矢。"
       },
       "description": {
-        "_value": "进阶版爆矢风暴手枪。发射狂暴的雷霆闪电击溃西格玛之敌。"
+        "_value": "进化版爆矢风暴手枪。发射狂暴的雷霆闪电击溃西格玛之敌。"
       },
       "name": {
         "_value": "飓风弩"
@@ -16023,7 +14417,7 @@
         "_value": "雷铸神兵的城堡领主们使用的魔法提灯。其散发的璀璨光辉能为盟友带来强大的增益。"
       },
       "description": {
-        "_value": "进阶版神秘屏障。当所有屏障消失之际，引发一记璀璨爆炸，并使燃烧效果蔓延。"
+        "_value": "进化版神秘屏障。当所有屏障消失之际，引发一记璀璨爆炸，并使燃烧效果蔓延。"
       },
       "name": {
         "_value": "护佑神灯"
@@ -16034,7 +14428,7 @@
         "_value": "这些神射手经过特殊训练，能够在食人魔的背上作战，在身下食人魔的掩护之下，凭借精准射击逐个狙杀敌人。"
       },
       "description": {
-        "_value": "进阶版爆矢手枪。面对精准狙击，即使是食人魔也只能举盾防御。"
+        "_value": "进化版爆矢手枪。面对精准狙击，即使是食人魔也只能举盾防御。"
       },
       "name": {
         "_value": "长管燧发枪"
@@ -16045,7 +14439,7 @@
         "_value": "在西格玛之力的加持下，西风骑士、黑爪部队的领袖尼芙，凭借其迅捷的身手、狡黠的战术与纯粹的凶悍，能够以一当十，战胜数倍于己的敌军。"
       },
       "description": {
-        "_value": "进阶版风暴战斧。裹挟着闪电的战斧发动旋斩攻击，横扫战场。"
+        "_value": "进化版风暴战斧。裹挟着闪电的战斧发动旋斩攻击，横扫战场。"
       },
       "name": {
         "_value": "旋风战斧"
@@ -16056,7 +14450,7 @@
         "_value": "赞格罗姆萨兹战斧由格里姆尼尔祖传战斧的碎片锻造而成，为传奇英雄高崔克·格尼森所持。其无上神威足令众生畏惧。"
       },
       "description": {
-        "_value": "进阶版烈焰风暴巨斧。高速挥舞的战斧，可使敌人进入灼烧状态。专克特鲁格。"
+        "_value": "进化版烈焰风暴巨斧。高速挥舞的战斧，可使敌人进入灼烧状态。专克特鲁格。"
       },
       "name": {
         "_value": "赞格罗姆萨兹战斧"
@@ -16069,7 +14463,7 @@
     },
     "WS_AOS_MALEVOLENT_MAELSTROM": {
       "name": {
-        "_value": "恶毒漩涡"
+        "_value": "歹毒漩涡"
       }
     },
     "WS_AOS_EVERBLAZE_COMET": {
@@ -16084,7 +14478,7 @@
     },
     "WS_AOS_SUFFOCATING_GRAVETIDE": {
       "name": {
-        "_value": "窒息坟潮"
+        "_value": "窒息墓潮"
       }
     },
     "WS_40K_MELTA_BOMB": {
@@ -16142,7 +14536,7 @@
         "_value": "祈求你所信奉的任何神明的保佑吧，当你掷出这老派骰子时，可千万别让武器卡了壳。"
       },
       "description": {
-        "_value": "进阶版 D6 骰子。初始掷骰的结果将分裂生成多枚额外骰子，且触发多次爆炸。"
+        "_value": "进化版 D6 骰子。初始掷骰的结果将分裂生成多枚额外骰子，且触发多次爆炸。"
       },
       "name": {
         "_value": "持续火力骰子"
@@ -16195,7 +14589,7 @@
         "_value": "角色获得10%几率加成。"
       },
       "name": {
-        "_value": "散射骰子"
+        "_value": "偏移骰"
       }
     },
     "WS_CORRUPTION": {
@@ -16239,7 +14633,7 @@
     },
     "WS_REDEPLOYMENT": {
       "description": {
-        "_value": "以50%承伤重新部署一次。"
+        "_value": "以50%耐伤重新部署一次。"
       },
       "name": {
         "_value": "模型收纳盒"
@@ -16295,7 +14689,7 @@
     },
     "WS_TOUGHNESS": {
       "description": {
-        "_value": "角色每秒恢复0.2承伤。"
+        "_value": "角色每秒恢复0.2耐伤。"
       },
       "name": {
         "_value": "布格曼的酒杯"
@@ -16461,14 +14855,6 @@
         "_value": "Savaş Pompalısı"
       }
     },
-    "WS_40K_CONDEMNOR_BOLTGUN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_CROZIUS_ARCANUM": {
       "tips": {
         "_value": "Onu kuşanan Kapelan’ın makamını simgeleyen kutsal bir topuz. Savaş, İmparator'a ibadetin en değerli biçimidir."
@@ -16596,14 +14982,6 @@
         "_value": "Ultramar Zırhlı Eldivenleri"
       }
     },
-    "WS_40K_GUARDIAN_SKULL": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_HEAVY_BOLTER": {
       "tips": {
         "_value": "“Bel Kıran” olarak da bilinen ağır patlayıcı tüfek, standart Patlayıcı Tüfeğin devasa bir versiyonudur. Büyük boyutlu bir silah olarak, şaşırtıcı bir atış hızıyla yumruk büyüklüğündeki zırh delici mermileri düşman saflarına yağdırır."
@@ -16693,22 +15071,6 @@
       },
       "name": {
         "_value": "Eritici Silah"
-      }
-    },
-    "WS_40K_NARTHECIUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_NEURO_GAUNTLET": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_NULN_OIL": {
@@ -16835,23 +15197,6 @@
         "_value": "İnanç Kalkanı"
       }
     },
-    "WS_40K_SERVOSKULL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "customDescValue2": {
-        "_value": "#N/A"
-      },
-      "customDescValue3": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_SIDE_SPONSONS": {
       "tips": {
         "_value": "Monte edilmiş iki ağır patlayıcı tüfek bağımsız olarak ateş eder. Operatörler tankın ağır metal gövdesinin içinde güvenle korunurken savaş alanını yumruk büyüklüğündeki patlayıcı tüfek mermileriyle yaylım ateşine tutar."
@@ -16934,22 +15279,6 @@
         "_value": "Fırtına Kartalı Roketi"
       }
     },
-    "WS_40K_VIVISPECTRUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_VORTEX_GRENADE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_WEAPON_OF_THE_MATRIARCH": {
       "tips": {
         "_value": "Bir zamanlar Adepta Sororitas'ın Ana Kraliçelerinden birine ait olan Azize Celestine'in kılıcıdır. Celestine'in Azize Katherine'in mezarından çıktığı zaman olduğu gibi çiçeklerle sarılıdır ve Rahibe'nin dindar öfkesini alevden bir püskürmeyle serbest bırakabilir."
@@ -17010,14 +15339,6 @@
         "_value": "Güç Artefaktları"
       }
     },
-    "WS_AOS_BATTLE_HORN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_BLADED_VORTEX": {
       "tips": {
         "_value": "Khaine'ın Kızları'nın kan ayinlerinden çağrılan bu kıvrımlı falchionlar, düşman saflarını ardı ardına yarıp geçer."
@@ -17027,25 +15348,6 @@
       },
       "name": {
         "_value": "Bıçaklı Girdap"
-      }
-    },
-    "WS_AOS_BLOOD_ARROWS": {
-      "descriptions": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_BLOOD_RITUAL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_BOLTSTORM_PISTOL": {
@@ -17202,14 +15504,6 @@
         "_value": "Rhea’nın Hayaleti"
       }
     },
-    "WS_AOS_GLAIVE_OF_KHAINE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_GNASHING_JAWS": {
       "description": {
         "_value": "Geçici olarak yanan çeneler çağırır ve düşmanları ısırarak parçalar."
@@ -17230,14 +15524,6 @@
       },
       "name": {
         "_value": "Büyük Kılıç"
-      }
-    },
-    "WS_AOS_HEARTSEEKER_BOW": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_KYNDLEDROTH": {
@@ -17281,14 +15567,6 @@
       },
       "name": {
         "_value": "Kragg Blackhammer’ın Usta Rünü"
-      }
-    },
-    "WS_AOS_MURDER_OF_CROWS": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_MYSTICAL_WARD": {
@@ -17370,36 +15648,6 @@
       },
       "name": {
         "_value": "Halat ve Kıskaç"
-      }
-    },
-    "WS_AOS_RUNIC_POWER": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_RUNIC_WARIRON": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_SACRIFICIAL_WEAPON": {
-      "customDescValue0": {
-        "_value": "#N/A"
-      },
-      "customDescValue1": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_STORMCHARGED_HAMMER": {
@@ -17865,7 +16113,7 @@
         "_value": "Якщо вірити орчим байкам, Яррік мав імплант — біонічне око, тож буквально міг «убити поглядом». Лихе око стріляє потужним лазерним променем, який може спопелити ворога на відстані десяти кроків."
       },
       "description": {
-        "_value": "Дар силової клешні. Імплант «Лихе око» стріляє лазером малої дальності й контузить орків. Страшний сон Ґазгкулла Траки"
+        "_value": "Дар силової клешні. Імплант «Лихе око» стріляє лазером малої дальності й контузить орків. Страшний сон Ґазгкулла Траки."
       },
       "name": {
         "_value": "Лихе око"
@@ -17943,14 +16191,6 @@
       },
       "name": {
         "_value": "Бойова рушниця"
-      }
-    },
-    "WS_40K_CONDEMNOR_BOLTGUN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_40K_CROZIUS_ARCANUM": {
@@ -18080,14 +16320,6 @@
         "_value": "Кулаки Ультрамара"
       }
     },
-    "WS_40K_GUARDIAN_SKULL": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_HEAVY_BOLTER": {
       "tips": {
         "_value": "Важкий гвинтовик — громіздка версія звичайного гвинтовика, яку ще часто називають «Спиноламом». Ця зброя незвичних габаритів косить ворогів кулями розміру кулака."
@@ -18177,22 +16409,6 @@
       },
       "name": {
         "_value": "Плавостріл"
-      }
-    },
-    "WS_40K_NARTHECIUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_NEURO_GAUNTLET": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_NULN_OIL": {
@@ -18319,23 +16535,6 @@
         "_value": "Щит віри"
       }
     },
-    "WS_40K_SERVOSKULL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "customDescValue2": {
-        "_value": "#N/A"
-      },
-      "customDescValue3": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_SIDE_SPONSONS": {
       "tips": {
         "_value": "Два незалежних один від одного важких гвинтовика, що засіюють поле бою гвинатами розміру кулака, тоді як стрілець перебуває в безпеці в броньованому корпусі машини."
@@ -18418,22 +16617,6 @@
         "_value": "Ракета «Штормовий орел»"
       }
     },
-    "WS_40K_VIVISPECTRUM": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_40K_VORTEX_GRENADE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_40K_WEAPON_OF_THE_MATRIARCH": {
       "tips": {
         "_value": "Клинок святої Селестини, що колись належав одній з матріархів Адепта Сорорітас. Він оповитий квітами, як сама Селестина, що постала з гробниці святої Катерини, і може вивільняти праведний гнів сестри струменем полум’я."
@@ -18494,14 +16677,6 @@
         "_value": "Артефакти сили"
       }
     },
-    "WS_AOS_BATTLE_HORN": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_BLADED_VORTEX": {
       "tips": {
         "_value": "Прикликані з допомогою кривавих ритуалів Доньок Хайна викривлені фальшіони розсікають ряди ворогів."
@@ -18511,25 +16686,6 @@
       },
       "name": {
         "_value": "Клинковий вихор"
-      }
-    },
-    "WS_AOS_BLOOD_ARROWS": {
-      "descriptions": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_BLOOD_RITUAL": {
-      "customDescValue": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_BOLTSTORM_PISTOL": {
@@ -18686,14 +16842,6 @@
         "_value": "Привид Реї"
       }
     },
-    "WS_AOS_GLAIVE_OF_KHAINE": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
     "WS_AOS_GNASHING_JAWS": {
       "description": {
         "_value": "Викликає на деякий час палаючі щелепи, що кусають ворогів."
@@ -18714,14 +16862,6 @@
       },
       "name": {
         "_value": "Великий клинок"
-      }
-    },
-    "WS_AOS_HEARTSEEKER_BOW": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_KYNDLEDROTH": {
@@ -18765,14 +16905,6 @@
       },
       "name": {
         "_value": "Майстер-руна Краґґа Чорномолота"
-      }
-    },
-    "WS_AOS_MURDER_OF_CROWS": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_MYSTICAL_WARD": {
@@ -18854,36 +16986,6 @@
       },
       "name": {
         "_value": "Мотузка й гак"
-      }
-    },
-    "WS_AOS_RUNIC_POWER": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_RUNIC_WARIRON": {
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
-      }
-    },
-    "WS_AOS_SACRIFICIAL_WEAPON": {
-      "customDescValue0": {
-        "_value": "#N/A"
-      },
-      "customDescValue1": {
-        "_value": "#N/A"
-      },
-      "description": {
-        "_value": "#N/A"
-      },
-      "name": {
-        "_value": "#N/A"
       }
     },
     "WS_AOS_STORMCHARGED_HAMMER": {

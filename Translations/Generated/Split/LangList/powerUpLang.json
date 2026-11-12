@@ -372,7 +372,7 @@
         "Jedno odrodzenie na poziom z 50% punktów życia (maks. +{[MAXVALUE]}).",
         "Revive uma vez por ranque com 50% das feridas (máximo +{[MAXVALUE]}).",
         "Возрождает один раз за ранг, восстанавливая 50% ран (максимум +{[MAXVALUE]}).",
-        "每级以50%承伤复活一次（最多+{[MAXVALUE]}）。",
+        "每级以50%耐伤复活一次（最多+{[MAXVALUE]}）。",
         "Rütbe başına %50 yarayla bir kez yeniden canlanır (en fazla +{[MAXVALUE]}).",
         "Відроджує один раз за ранг з 50% ран (макс. {[MAXVALUE]} рази)."
       ]
@@ -497,7 +497,7 @@
         "Obrona",
         "Salvar",
         "Спасбросок",
-        "减伤",
+        "护甲",
         "Kaydet",
         "Ряткидок"
       ]
@@ -516,7 +516,7 @@
         "Zapieczętuj 2 przedmioty i bronie, aby nie pojawiały się w misjach i opcjach dostępnych po zdobyciu nowego poziomu. (Użyj w menu Skrzynki z narzędziami)",
         "Bloqueie 2 Itens e Armas para que não apareçam nas Missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)",
         "Запечатайте 2 предмета и вида оружия, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)",
-        "封印2件物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）",
+        "封印2件物品和武器，使其不出现在关卡及升级选项中。（在配件箱菜单中操作）",
         "Görevlerde ve seviye atlama seçimlerinde görünmemesi için 2 Öge ve Silahı mühürle. (Bit Box menüsünde kullan)",
         "Запечатує 2 предмета і дві зброї, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)"
       ]
@@ -552,7 +552,7 @@
         "Zapieczętuj 3 przedmioty i bronie, aby nie pojawiały się w misjach i opcjach dostępnych po zdobyciu nowego poziomu. (Użyj w menu Skrzynki z narzędziami)",
         "Bloqueie 3 Itens e Armas para que não apareçam nas Missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)",
         "Запечатайте 3 предмета и вида оружия, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)",
-        "封印3件物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）",
+        "封印3件物品和武器，使其不出现在关卡及升级选项中。（在配件箱菜单中操作）",
         "Görevlerde ve seviye atlama seçimlerinde görünmemesi için 3 Öge ve Silahı mühürle. (Bit Box menüsünde kullan)",
         "Запечатує 3 предмета і три зброї, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)"
       ]
@@ -588,7 +588,7 @@
         "Zapieczętuj 4 przedmioty i bronie, aby nie pojawiały się w misjach i opcjach dostępnych po zdobyciu nowego poziomu. (Użyj w menu Skrzynki z narzędziami)",
         "Bloqueie 4 Itens e Armas para que não apareçam nas Missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)",
         "Запечатайте 4 предмета и вида оружия, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)",
-        "封印4件物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）",
+        "封印4件物品和武器，使其不出现在关卡及升级选项中。（在配件箱菜单中操作）",
         "Görevlerde ve seviye atlama seçimlerinde görünmemesi için 4 Öge ve Silahı mühürle. (Bit Box menüsünde kullan)",
         "Запечатує 4 предмета і чотири зброї, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)"
       ]
@@ -713,7 +713,7 @@
         "Podtrzymanie",
         "Sustentar",
         "Длительность",
-        "持续攻击",
+        "持续作战能力",
         "Dayanıklılık",
         "Стійкість"
       ]
@@ -768,7 +768,7 @@
         "Przywraca {[COMMA_VALUE]} pkt. życia na poziom (maks. {[COMMA_MAXVALUE]}) na sekundę.",
         "Recupera {[COMMA_VALUE]} ferida por ranque (máximo de {[COMMA_MAXVALUE]}) por segundo.",
         "Восстанавливает {[COMMA_VALUE]} раны за каждый ранг (максимум {[COMMA_MAXVALUE]}) в секунду.",
-        "每升一级，每秒恢复{[VALUE]}承伤（最多{[MAXVALUE]}）。",
+        "每升一级，每秒恢复{[VALUE]}耐伤（最多{[MAXVALUE]}）。",
         "Saniyede rütbe başına {[COMMA_VALUE]} yarayı iyileştirir (maks. {[COMMA_MAXVALUE]}).",
         "Загоює {[COMMA_VALUE]} рани за секунду за ранг (макс. {[COMMA_MAXVALUE]})."
       ]
@@ -785,7 +785,7 @@
         "Wytrzymałość",
         "Dureza",
         "Стойкость",
-        "坚韧",
+        "韧性",
         "Sağlamlık",
         "Витривалість"
       ]
@@ -857,7 +857,7 @@
         "Rany",
         "Feridas",
         "Ранения",
-        "承伤",
+        "耐伤",
         "Yaralar",
         "Рани"
       ]
@@ -948,7 +948,7 @@
         "Zapieczętuj przedmioty i bronie, aby nie pojawiały się w misjach i opcjach awansu. (Użyj w menu Skrzynki z narzędziami)",
         "Bloqueie itens e armas para que não apareçam nas missões e opções para subir de nível. (Use no menu Caixa de Ferramentas)",
         "Запечатайте предметы и оружие, чтобы они не появлялись в миссиях и в вариантах для повышения уровня. (В меню «Коробка с деталями».)",
-        "封印物品和武器，使其不出现在任务及升级选项中。（在配件箱菜单中操作）",
+        "封印物品和武器，使其不出现在关卡及升级选项中。（在配件箱菜单中操作）",
         "Görevlerde ve seviye atlama seçimlerinde görünmemesi için Öge ve Silahları mühürle. (Bit Box menüsünde kullan)",
         "Запечатує предмети і зброю, щоб ви не натрапляли на них під час завдань, і вони не з’являлися серед вибірок підвищення рівня. (Скористайтеся меню «Скриня з речима»)"
       ]

@@ -418,5 +418,75 @@
         "В атаку!"
       ]
     }
+  },
+  "WS_AOS_GLO_TRUGG_THE_TROGGOTH_KING_GW": {
+    "description": {
+      "_value": [
+        "The light! It hurts… I. Will. Make. It. STOP!!!",
+        "La lumière ! Elle brûle... Je. Vais. En. FINIR !!!",
+        "La luce! Fa male... Devo. assolutamente. SPEGNERLA!!!",
+        "Das Licht! Es tut weh … Ich. Werde. Es. Auslöschen!!!",
+        "¡La luz! Duele… ¡¡¡Yo. Haré. Que. Pare!!!",
+        "光だ！痛い…私は…止める…必ず止める！！！",
+        "빛이! 아프다… 내. 가. 반드시. 멈. 춘. 다!!!",
+        "Światło! Boli… Ja. To. POWSTRZYMAM!!!",
+        "A luz! Está doendo... Eu. Vou Fazer. Isso. PARAR!!!",
+        "Свет! Он жжется… Я. Заставлю. Его. ПОГАСНУТЬ!!!",
+        "这光！要刺眼……我……要……让它……熄灭！",
+        "Işık! Canımı yakıyor… Ben. Bunu. DURDURACAĞIM!!!",
+        "Світло! Пече... Я. Це. ЗУПИНЮ!"
+      ]
+    },
+    "button": {
+      "_value": [
+        "For Sigmar!",
+        "Pour Sigmar !",
+        "Per Sigmar!",
+        "Für Sigmar!",
+        "¡Por Sigmar!",
+        "シグマーの御名において！",
+        "시그마를 위하여!",
+        "W imię Sigmara!",
+        "Por Sigmar!",
+        "За Сигмара!",
+        "为了西格玛！",
+        "Sigmar için!",
+        "За Сігмара!"
+      ]
+    },
+    "descriptionInvulnerable": {
+      "_value": [
+        "Haha your club don't hurt Trugg… Trugg will crush you!",
+        "Ha ha ha. Bâton pas faire mal à Trugg... Trugg t'écraser !",
+        "Ah ah, tua mazza non fa male a Trugg... Trugg ti schiaccia!",
+        "Haha! Deine Keule kann Trugg nichts anhaben … Trugg wird dich zermalmen!",
+        "Ja, ja, tu garrote no hace daño a Trugg… ¡Trugg te aplastará!",
+        "ハハ！そんな棍棒じゃトラグは痛くもない…トラグがお前を叩き潰してやる！",
+        "하하! 네 몽둥이 따윈 트러그한테 안 아프다… 트러그가 널 짓뭉개 주마!",
+        "Ha, ha! Twoja pałka nie boli Trugga… Trugg Cię zmiażdży!",
+        "Haha, sua clava não faz nem cócegas no Trugg... Trugg vai te esmagar!",
+        "Ха-ха, твоя дубина не делает Траггу больно… Трагг тебя раздавит!",
+        "哈哈，你的棒子伤不了特鲁格……而特鲁格会把你碾碎！",
+        "Haha, senin sopan Trugg’ın canını yakmaz… Trugg seni ezecek!",
+        "Ха-ха, твоя палиця не робить боляче Труґґу... Труґґ тебе розчавить!"
+      ]
+    },
+    "buttonInvulnerable": {
+      "_value": [
+        "Attack!",
+        "À l'attaque !",
+        "All'attacco!",
+        "Angriff!",
+        "¡Ataca!",
+        "攻撃！",
+        "공격!",
+        "Do ataku!",
+        "Atacar!",
+        "В атаку!",
+        "攻击！",
+        "Saldır!",
+        "В атаку!"
+      ]
+    }
   }
 }

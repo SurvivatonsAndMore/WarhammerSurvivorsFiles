@@ -207,7 +207,7 @@
         "_value": "Sergeant"
       },
       "description": {
-        "_value": "Gains +1% {[SKILL]} per level if above 50% Wounds. \nGains +1% {[STRENGTH]} per level if below 50% Wounds."
+        "_value": "Gains +1% {[SKILL]} per level if above 50% Wounds.\nGains +1% {[STRENGTH]} per level if below 50% Wounds."
       }
     },
     "WS_40K_GABRIEL": {
@@ -630,7 +630,7 @@
         "_value": "Mjr. Docheval"
       },
       "descriptionOld": {
-        "_value": "Starts with +100 {[WOUNDS]}, -20% {[MOVE]} speed, +10% {[STRENGTH]} , +10% {[SKILL]}, +1 {[SAVE]}. Gains extra {[STRENGTH]} per {[SAVE]} increase."
+        "_value": "Starts with +100 {[WOUNDS]}, -20% {[MOVE]} speed, +10% {[STRENGTH]}, +10% {[SKILL]}, +1 {[SAVE]}. Gains extra {[STRENGTH]} per {[SAVE]} increase."
       },
       "prefix": {
         "_value": "Major"
@@ -816,7 +816,7 @@
         "_value": "Oxenhammer"
       },
       "description": {
-        "_value": "Gains +10 {[WOUNDS]} for every 1000enemies defeated."
+        "_value": "Gains +10 {[WOUNDS]} for every 1000 enemies defeated."
       }
     },
     "WS_AOS_GOLDENBLADE": {
@@ -6452,7 +6452,7 @@
         "_value": "칼리스"
       },
       "description": {
-        "_value": "10레벨마다 {[RELOAD]}이(가) 5% 증가합니다(최대 15%). \n추종자가 정확히 한 명일 때 {[ATTACKS]}이(가) 2 증가합니다."
+        "_value": "10레벨마다 {[RELOAD]}이(가) 5% 증가합니다(최대 15%).\n추종자가 정확히 한 명일 때 {[ATTACKS]}이(가) 2 증가합니다."
       }
     },
     "WS_AOS_CELESTANT_PRIME": {
@@ -9854,7 +9854,7 @@
         "_value": "#N/A"
       },
       "description": {
-        "_value": "每拥有一名随从，+10%{[SKILL]}。"
+        "_value": "每拥有一名随行人员，+10%{[SKILL]}。"
       }
     },
     "WS_40K_CELESTINE": {
@@ -9882,7 +9882,7 @@
         "_value": "科技考古学家"
       },
       "description": {
-        "_value": "始终拥有4个升级选项。敌人可能会掉落硬币而非宝石。"
+        "_value": "升级时必定获得4个选项。敌人可能会掉落硬币而非宝石。"
       }
     },
     "WS_40K_DANTE": {
@@ -9943,7 +9943,7 @@
         "_value": "牧师"
       },
       "description": {
-        "_value": "每拥有一名随从，可+5%{[RANGE]}并+0.1{[TOUGHNESS]}。同时能获取更多地狱火弹药。"
+        "_value": "每拥有一名随行人员，可+5%{[RANGE]}并+0.1{[TOUGHNESS]}。同时能获取更多地狱火弹药。"
       }
     },
     "WS_40K_FURAN": {
@@ -9957,7 +9957,7 @@
         "_value": "军士"
       },
       "description": {
-        "_value": "当承伤高于50%时，每升一级，+1%{[SKILL]}。\n当承伤低于50%时，每升一级，+1%{[STRENGTH]}。"
+        "_value": "当耐伤高于50%时，每升一级，+1%{[SKILL]}。\n当耐伤低于50%时，每升一级，+1%{[STRENGTH]}。"
       }
     },
     "WS_40K_GABRIEL": {
@@ -10064,7 +10064,7 @@
         "_value": "獒犬"
       },
       "description": {
-        "_value": "受到伤害时进行反击。在承伤值极低时，暂时进入狂乱状态效果。"
+        "_value": "受到伤害时进行反击。在耐伤值极低时，暂时进入狂乱状态效果。"
       }
     },
     "WS_40K_KOZLOWSKI": {
@@ -10081,7 +10081,7 @@
         "_value": "科兹洛夫斯基"
       },
       "description": {
-        "_value": "每15级获得+1次{[REDEPLOYMENT]}（最多2次）。每拥有一名随从，获得+5%{[VETERANCY]}。"
+        "_value": "每15级获得+1次{[REDEPLOYMENT]}（最多2次）。每拥有一名随行人员，获得+5%{[VETERANCY]}。"
       }
     },
     "WS_40K_LUCA": {
@@ -10101,7 +10101,7 @@
         "_value": "阿马修斯"
       },
       "description": {
-        "_value": "武器冷却时间缩短20%。"
+        "_value": "武器重新装填时间缩短20%。"
       }
     },
     "WS_40K_MALUM": {
@@ -10132,7 +10132,7 @@
         "_value": "#N/A"
       },
       "description": {
-        "_value": "在承伤值极低时，对周围敌人施加战斗休克状态效果。同时可找到更多爆炸物。"
+        "_value": "在耐伤值极低时，对周围敌人施加战斗休克状态效果。同时可找到更多爆炸物。"
       }
     },
     "WS_40K_MEPHISTON": {
@@ -10166,7 +10166,7 @@
         "_value": "瓦尔"
       },
       "description": {
-        "_value": "每拥有一名修女会随从，所有属性都会获得提升。"
+        "_value": "每拥有一名修女会随行人员，所有属性都会获得提升。"
       }
     },
     "WS_40K_PASK": {
@@ -10242,7 +10242,7 @@
         "_value": "亚瑞克"
       },
       "description": {
-        "_value": "消耗重新部署次数，可提升{[STRENGTH]}、{[TOUGHNESS]}和{[CORRUPTION]}。"
+        "_value": "消耗重新部署次数，以提升{[STRENGTH]}、{[TOUGHNESS]}和{[CORRUPTION]}。"
       }
     },
     "WS_40K_BIOLOGIS": {
@@ -10352,7 +10352,7 @@
         "_value": "卡里斯"
       },
       "description": {
-        "_value": "每升10级，+5%{[RELOAD]}（最多+15%）。\n仅拥有一名随从时，+2{[ATTACKS]}。"
+        "_value": "每升10级，+5%{[RELOAD]}（最多+15%）。\n仅拥有一名随行人员时，+2{[ATTACKS]}。"
       }
     },
     "WS_AOS_CELESTANT_PRIME": {
@@ -10420,7 +10420,7 @@
         "_value": "古尼森"
       },
       "description": {
-        "_value": "在达到特定击杀阈值时+1{[REDEPLOYMENT]}。重新部署时会获得狂暴状态效果。"
+        "_value": "每当击杀一定数量的敌人后，可获得一次{[REDEPLOYMENT]}。重新部署时会获得狂暴状态效果。"
       }
     },
     "WS_AOS_HENDRICK": {
@@ -10437,7 +10437,7 @@
         "_value": "银狼"
       },
       "description": {
-        "_value": "每升5级，+5%{[AURA]}（最多+30%）。每当有新随从加入时，会暂时获得庇护状态效果。"
+        "_value": "每升5级，+5%{[AURA]}（最多+30%）。每当有新的随行人员加入时，会暂时获得庇护状态效果。"
       }
     },
     "WS_AOS_KRETHUSA_THE_CRONESEER": {
@@ -10501,7 +10501,7 @@
         "_value": "雷文尼婭"
       },
       "description": {
-        "_value": "当视野内存在大量敌人时，{[CHANCE]}和{[MOVE]}可获得加成。"
+        "_value": "当视野内存在大量敌人时，{[CHANCE]}和{[MOVE]}属性会获得加成。"
       }
     },
     "WS_AOS_MALENETH_WITCHBLADE": {
@@ -10600,7 +10600,7 @@
         "_value": "湛蓝之怒"
       },
       "description": {
-        "_value": "当承伤极低时，{[STRENGTH]}和{[RELOAD]}可获得加成。"
+        "_value": "当耐伤极低时，{[STRENGTH]}和{[RELOAD]}可获得加成。"
       }
     },
     "WS_AOS_STEEL_ROOK": {
@@ -10655,13 +10655,13 @@
     },
     "WS_AOS_MISTRESS_VERENTIA": {
       "charName": {
-        "_value": "维伦蒂亚"
+        "_value": "夫人"
       },
       "descriptionOld": {
         "_value": "开局即获得-20%{[MOVE]}、+20%{[SKILL]}以及+20%{[SUSTAIN]}。每升一级{[SKILL]}相应提升。"
       },
       "prefix": {
-        "_value": "夫人"
+        "_value": "维伦蒂亚"
       },
       "description": {
         "_value": "每当她将初始武器提升一级，+5{[MOVE]}、{[WOUNDS]}和{[SKILL]}。"

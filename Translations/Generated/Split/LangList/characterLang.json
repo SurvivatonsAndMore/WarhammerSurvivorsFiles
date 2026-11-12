@@ -534,7 +534,7 @@
         "{[SKILL]} +10% za każdego towarzysza.",
         "Ganha +10% de {[SKILL]} para cada seguidor.",
         "Получает +10% к параметру {[SKILL]} за каждого последователя.",
-        "每拥有一名随从，+10%{[SKILL]}。",
+        "每拥有一名随行人员，+10%{[SKILL]}。",
         "Her takipçi için +%10 {[SKILL]} kazanır.",
         "{[SKILL]} зростає на 10% за кожного послідовника."
       ]
@@ -674,7 +674,7 @@
         "Zawsze pojawiają się 4 opcje po zdobyciu nowego poziomu. Wrogowie mogą upuszczać monety zamiast klejnotów.",
         "Sempre há 4 opções para subir de nível. Os inimigos podem derrubar moedas em vez de gemas.",
         "Всегда получает 4 варианта для повышения уровня. Из врагов могут выпадать монеты вместо драгоценных камней.",
-        "始终拥有4个升级选项。敌人可能会掉落硬币而非宝石。",
+        "升级时必定获得4个选项。敌人可能会掉落硬币而非宝石。",
         "Her zaman 4 seviye atlama seçeneği alır. Düşmanlar mücevher yerine para düşürebilir.",
         "Вибірка підвищення рівня завжди з 4 варіантів. З ворогів можуть випадати монети замість самоцвітів."
       ]
@@ -973,7 +973,7 @@
         "{[RANGE]} +5% i {[TOUGHNESS]} +0,1 za każdego towarzysza. Znajduje więcej Amunicji Piekielnego Ognia.",
         "Ganha +5% de {[RANGE]} e +0,1 de {[TOUGHNESS]} por cada Seguidor. Encontra mais munição Hellfire.",
         "Получает +5% к параметру {[RANGE]} и +0,1 к параметру {[TOUGHNESS]} за каждого последователя. Находит больше болтов «Адский огонь».",
-        "每拥有一名随从，可+5%{[RANGE]}并+0.1{[TOUGHNESS]}。同时能获取更多地狱火弹药。",
+        "每拥有一名随行人员，可+5%{[RANGE]}并+0.1{[TOUGHNESS]}。同时能获取更多地狱火弹药。",
         "Her Takipçi için +%5 {[RANGE]} ve +0,1 {[TOUGHNESS]} kazanır. Daha fazla Cehennem Ateşi Mühimmatı bulur.",
         "{[RANGE]} +5% і {[TOUGHNESS]} +0,1 за кожного послідовника. Знаходить більше пеклополум’яних набоїв."
       ]
@@ -1033,7 +1033,7 @@
     },
     "description": {
       "_value": [
-        "Gains +1% {[SKILL]} per level if above 50% Wounds. \nGains +1% {[STRENGTH]} per level if below 50% Wounds.",
+        "Gains +1% {[SKILL]} per level if above 50% Wounds.\nGains +1% {[STRENGTH]} per level if below 50% Wounds.",
         "Obtient +1 % de {[SKILL]} par niveau si le nombre de blessures est supérieur à 50 %.\nObtient +1 % de {[STRENGTH]} par niveau si le nombre de blessures est inférieur à 50 %.",
         "Ottiene +1% {[SKILL]} per ogni livello se le Ferite sono superiori al 50%.\nOttiene +1% {[STRENGTH]} per ogni livello se le Ferite sono inferiori al 50%.",
         "Erhält pro Stufe +1 % {[SKILL]}, solange über 50 % Lebenspunkte verbleiben.\nErhält pro Stufe +1 % {[STRENGTH]}, solange unter 50 % Lebenspunkte verbleiben.",
@@ -1043,7 +1043,7 @@
         "{[SKILL]} +1% na poziom, gdy ma więcej niż 50% punktów życia.\n{[STRENGTH]} +1% na poziom, gdy ma mniej niż 50% punktów życia.",
         "Ganha +1% de {[SKILL]} por nível se estiver acima de 50% de feridas.\nGanha +1% {[STRENGTH]} por nível se estiver abaixo de 50%.",
         "Получает +1% к параметру {[SKILL]} с каждым новым уровнем, если ран больше 50%.\nПолучает +1% к параметру {[STRENGTH]} с каждым новым уровнем, если ран меньше 50%.",
-        "当承伤高于50%时，每升一级，+1%{[SKILL]}。\n当承伤低于50%时，每升一级，+1%{[STRENGTH]}。",
+        "当耐伤高于50%时，每升一级，+1%{[SKILL]}。\n当耐伤低于50%时，每升一级，+1%{[STRENGTH]}。",
         "%50 Yaraların üzerindeyken her seviyede +%1 {[SKILL]} kazanır.\n%50 Yaraların altındayken her seviyede +%1 {[STRENGTH]} kazanır.",
         "{[SKILL]} зростає на 1% з кожним рівнем, якщо показник ран вищий 50%.\n{[STRENGTH]} зростає на 1% з кожним рівнем, якщо показник ран нижчий 50%."
       ]
@@ -1584,7 +1584,7 @@
         "Zadaje obrażenia odwetowe po otrzymaniu obrażeń. Przy krytycznie niskim poziomie punktów życia tymczasowo zyskuje efekt Szału.",
         "Retalia ao receber dano. Ganha temporariamente o efeito de estado Frenesi quando seu nível de feridas estiver criticamente baixo.",
         "Наносит ответный удар при получении урона. Временно получает статусный эффект «Неистовство» при критически низком уровне ран.",
-        "受到伤害时进行反击。在承伤值极低时，暂时进入狂乱状态效果。",
+        "受到伤害时进行反击。在耐伤值极低时，暂时进入狂乱状态效果。",
         "Hasar alındığında misilleme yapar. Kritik derecede düşük yaralarda geçici Gözü Dönmüş durum etkisi kazanır.",
         "Контратакує, коли зазнає шкоди. Коли показник ран падає критично низько, тимчасово отримує несамовитість."
       ]
@@ -1671,7 +1671,7 @@
         "{[REDEPLOYMENT]} +1 co 15 poziomów (maks. 2). {[VETERANCY]} +5% za każdego towarzysza.",
         "Ganha +1 {[REDEPLOYMENT]} a cada 15 níveis (máximo de 2). Ganha +5% de {[VETERANCY]} para cada Seguidor.",
         "Получает +1 к параметру {[REDEPLOYMENT]} каждые 15 уровней (максимум 2). Получает +5% к параметру {[VETERANCY]} за каждого последователя.",
-        "每15级获得+1次{[REDEPLOYMENT]}（最多2次）。每拥有一名随从，获得+5%{[VETERANCY]}。",
+        "每15级获得+1次{[REDEPLOYMENT]}（最多2次）。每拥有一名随行人员，获得+5%{[VETERANCY]}。",
         "Her 15 seviyede +1 {[REDEPLOYMENT]} kazanır (maks. 2). Her takipçi için +%5 {[VETERANCY]} kazanır.",
         "+1 {[REDEPLOYMENT]} кожні 15 рівнів (макс. 2). {[VETERANCY]} +5% за кожного послідовника."
       ]
@@ -1775,7 +1775,7 @@
         "Czas odnowienia broni skrócony o 20%.",
         "Reduz o tempo de recarga das armas em 20%.",
         "Время перезарядки оружия сокращается на 20%.",
-        "武器冷却时间缩短20%。",
+        "武器重新装填时间缩短20%。",
         "Silah bekleme süresi %20 azalır.",
         "Тривалість перезаряджання зброї зменшено на 20%."
       ]
@@ -1932,7 +1932,7 @@
         "Wywołuje Szok Bojowy u pobliskich wrogów, gdy poziom punktów życia spadnie do krytycznie niskiego poziomu. Znajduje więcej materiałów wybuchowych.",
         "Aplica o efeito de estado “Choque de Batalha” aos inimigos próximos quando o nível de feridas estiver criticamente baixo. Encontra mais explosivos.",
         "При критически низком уровне ран накладывает на врагов поблизости статусный эффект «Боевой шок». Находит больше взрывчатки.",
-        "在承伤值极低时，对周围敌人施加战斗休克状态效果。同时可找到更多爆炸物。",
+        "在耐伤值极低时，对周围敌人施加战斗休克状态效果。同时可找到更多爆炸物。",
         "Kritik derecede düşük yaralarda yakın düşmanlara Savaş Şokuna Girmiş durum etkisi uygular. Daha fazla patlayıcı bulur.",
         "Накладає стан бойового шоку на ворогів з критично низьким показником ран. Знаходить більше вибухівки."
       ]
@@ -2106,7 +2106,7 @@
         "Wszystkie statystyki zwiększają się za każdego towarzysza Adepta Sororitas.",
         "Aumenta todos os atributos para cada seguidor da Adepta Sororitas.",
         "Все характеристики повышаются за каждого последователя из Адепта Сороритас.",
-        "每拥有一名修女会随从，所有属性都会获得提升。",
+        "每拥有一名修女会随行人员，所有属性都会获得提升。",
         "Her bir Adepta Sororitas takipçisi için tüm istatistikler artar.",
         "За кожного послідовника з сестринства Адепта Сорорітас зростають усі показники."
       ]
@@ -2490,7 +2490,7 @@
         "Zużycie odrodzenia zwiększa {[STRENGTH]}, {[TOUGHNESS]} i {[CORRUPTION]}.",
         "Consumir Recolocação aumenta a {[STRENGTH]}, {[TOUGHNESS]} e {[CORRUPTION]}.",
         "Использование передислокации увеличивает параметры {[STRENGTH]}, {[TOUGHNESS]} и {[CORRUPTION]}.",
-        "消耗重新部署次数，可提升{[STRENGTH]}、{[TOUGHNESS]}和{[CORRUPTION]}。",
+        "消耗重新部署次数，以提升{[STRENGTH]}、{[TOUGHNESS]}和{[CORRUPTION]}。",
         "Yeniden Konuşlandırma tüketmek, {[STRENGTH]}, {[TOUGHNESS]} ve {[CORRUPTION]} değerini artırır.",
         "Витрата передислокації збільшує такі показники: {[STRENGTH]}, {[TOUGHNESS]} і {[CORRUPTION]}."
       ]
@@ -3044,11 +3044,11 @@
         "Erhält alle 10 Stufen +5 % {[RELOAD]} (max. +15 %).\nHat +2 {[ATTACKS]}, wenn genau ein Gefolgsmann vorhanden ist.",
         "Obtiene +5 % de {[RELOAD]} cada 10 niveles (máx. +15 %).\nTiene +2 {[ATTACKS]} con exactamente un seguidor.",
         "10レベルごとに{[RELOAD]}が+5%増加する（最大+15%）。\n従者が1人のとき、{[ATTACKS]}が+2増加する。",
-        "10레벨마다 {[RELOAD]}이(가) 5% 증가합니다(최대 15%). \n추종자가 정확히 한 명일 때 {[ATTACKS]}이(가) 2 증가합니다.",
+        "10레벨마다 {[RELOAD]}이(가) 5% 증가합니다(최대 15%).\n추종자가 정확히 한 명일 때 {[ATTACKS]}이(가) 2 증가합니다.",
         "{[RELOAD]} +5% co 10 poziomów (maks. +15%).\nMa {[ATTACKS]} +2, gdy ma dokładnie jednego towarzysza.",
         "Ganha +5% de {[RELOAD]} a cada 10 níveis (máximo de +15%).\nTem +2 {[ATTACKS]} quando tem exatamente um seguidor.",
         "Получает +5% к параметру {[RELOAD]} каждые 10 уровней (максимум +15%).\nПолучает +2 {[ATTACKS]}, когда имеет только одного последователя.",
-        "每升10级，+5%{[RELOAD]}（最多+15%）。\n仅拥有一名随从时，+2{[ATTACKS]}。",
+        "每升10级，+5%{[RELOAD]}（最多+15%）。\n仅拥有一名随行人员时，+2{[ATTACKS]}。",
         "Her 10 seviyede, +%5 {[RELOAD]} kazanır (maks. +%15).\n, tam olarak bir takipçiye sahipken +2 {[ATTACKS]} kazanır.",
         "{[RELOAD]} +5% кожні 10 рівнів (макс. +15%).\n{[ATTACKS]} +2, якщо є лише один послідовник."
       ]
@@ -3178,7 +3178,7 @@
     },
     "descriptionOld": {
       "_value": [
-        "Starts with +100 {[WOUNDS]}, -20% {[MOVE]} speed, +10% {[STRENGTH]} , +10% {[SKILL]}, +1 {[SAVE]}. Gains extra {[STRENGTH]} per {[SAVE]} increase.",
+        "Starts with +100 {[WOUNDS]}, -20% {[MOVE]} speed, +10% {[STRENGTH]}, +10% {[SKILL]}, +1 {[SAVE]}. Gains extra {[STRENGTH]} per {[SAVE]} increase.",
         "Commence avec +100 {[WOUNDS]}, -20 % de vitesse de {[MOVE]}, +10 % de {[STRENGTH]}, +10 % de {[SKILL]}, +1 {[SAVE]}. Obtient plus de {[STRENGTH]} par augmentation de {[SAVE]}.",
         "Inizia con +100 {[WOUNDS]}, -20% velocità di {[MOVE]}, +10% {[STRENGTH]}, +10% {[SKILL]}, +1 {[SAVE]}. Ottiene {[STRENGTH]} extra ogni volta che aumenta il {[SAVE]}.",
         "Beginnt mit +100 {[WOUNDS]}, -20 % {[MOVE]} Geschwindigkeit, +10 % {[STRENGTH]} , +10 % {[SKILL]}, +1 {[SAVE]}. Erhält zusätzlich {[STRENGTH]}, wenn {[SAVE]} erhöht wird.",
@@ -3396,7 +3396,7 @@
         "+1 {[REDEPLOYMENT]} po osiągnięciu określonych progów liczby zabójstw. Po odrodzeniu otrzymuje efekt statusu Berserk.",
         "Ganha +1 {[REDEPLOYMENT]} após abater determinados números de inimigos. Recoloca com o efeito de estado de Fúria.",
         "Получает +1 к параметру {[REDEPLOYMENT]} при достижении определенного количества убийств. При передислокации получает статусный эффект «Берсерк».",
-        "在达到特定击杀阈值时+1{[REDEPLOYMENT]}。重新部署时会获得狂暴状态效果。",
+        "每当击杀一定数量的敌人后，可获得一次{[REDEPLOYMENT]}。重新部署时会获得狂暴状态效果。",
         "Belirli öldürme eşiklerinde +1 {[REDEPLOYMENT]} kazanır. Berserk Durum Etkisi ile yeniden konuşlanır.",
         "{[REDEPLOYMENT]} +1 за певну кількість вбитих ворогів. Передислоковується на поле бою в стані берсерка."
       ]
@@ -3483,7 +3483,7 @@
         "{[AURA]} +5% co 5 poziomów (maks. +30%). Zyskuje tymczasowy efekt Ochrona za każdym razem, gdy dołącza nowy towarzysz.",
         "Ganha +5% de {[AURA]} a cada 5 níveis (máximo de +30%). Ganha temporariamente o efeito de estado Protegido quando um seguidor se juntar.",
         "Получает +5% к параметру {[AURA]} каждые 5 уровней (максимум +30%). Получает временный статусный эффект «Безопасность» каждый раз, когда появляется новый последователь.",
-        "每升5级，+5%{[AURA]}（最多+30%）。每当有新随从加入时，会暂时获得庇护状态效果。",
+        "每升5级，+5%{[AURA]}（最多+30%）。每当有新的随行人员加入时，会暂时获得庇护状态效果。",
         "Her 5 seviyede +%5 {[AURA]} kazanır (maks. +%30). Yeni bir takipçi katıldığında geçici Muhafazalı durum etkisi kazanır.",
         "{[AURA]} +5% кожні 5 рівнів (макс. +30%). Тимчасово отримує оберіг, коли долучається новий послідовник."
       ]
@@ -3799,7 +3799,7 @@
         "Premia do {[CHANCE]} i {[MOVE]}, gdy w zasięgu wzroku jest wielu wrogów.",
         "Ganha um bônus de {[CHANCE]} e {[MOVE]} quando muitos inimigos estão no campo de visão.",
         "Получает бонус к параметрам {[CHANCE]} и {[MOVE]}, когда поблизости много врагов.",
-        "当视野内存在大量敌人时，{[CHANCE]}和{[MOVE]}可获得加成。",
+        "当视野内存在大量敌人时，{[CHANCE]}和{[MOVE]}属性会获得加成。",
         "Çok sayıda düşman görüş alanındayken {[CHANCE]} ve {[MOVE]} için bonus kazanır.",
         "Отримує бонус до показників {[CHANCE]} і {[MOVE]}, коли в полі зору багато ворогів."
       ]
@@ -4120,7 +4120,7 @@
     },
     "description": {
       "_value": [
-        "Gains +10 {[WOUNDS]} for every 1000enemies defeated.",
+        "Gains +10 {[WOUNDS]} for every 1000 enemies defeated.",
         "Obtient +10 {[WOUNDS]} tous les 1 000 ennemis battus.",
         "Ottiene +10% {[WOUNDS]} per 1.000 nemici sconfitti.",
         "Erhält +10 {[WOUNDS]} für je 1.000 besiegte Gegner.",
@@ -4304,7 +4304,7 @@
         "Premia przy krytycznie niskim poziomie punktów życia: {[STRENGTH]} i {[RELOAD]}.",
         "Ganha um bônus de {[STRENGTH]} e {[RELOAD]} quando estiver com feridas em estado crítico.",
         "Получает бонус к параметрам {[STRENGTH]} и {[RELOAD]} при критически низком уровне ран.",
-        "当承伤极低时，{[STRENGTH]}和{[RELOAD]}可获得加成。",
+        "当耐伤极低时，{[STRENGTH]}和{[RELOAD]}可获得加成。",
         "Kritik derecede düşük yaralarda {[STRENGTH]} ve {[RELOAD]} için bonus kazanır.",
         "Отримує бонус до показників {[STRENGTH]} і {[RELOAD]} за критично низького показника ран."
       ]
@@ -4569,7 +4569,7 @@
         "Verentia",
         "Verentia",
         "Верентия",
-        "维伦蒂亚",
+        "夫人",
         "Verentia",
         "Верентія"
       ]
@@ -4603,7 +4603,7 @@
         "Mistrzyni",
         "Senhora",
         "Госпожа",
-        "夫人",
+        "维伦蒂亚",
         "Hanım",
         "Володарка"
       ]
